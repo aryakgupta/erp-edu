@@ -1,7 +1,7 @@
 odoo.define('web.PivotView', function (require) {
 "use strict";
 /*---------------------------------------------------------
- * Odoo Pivot Table view
+ * ERP Pivot Table view
  *---------------------------------------------------------*/
 
 var core = require('web.core');

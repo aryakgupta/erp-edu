@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Sale - Secondary UoM',
@@ -14,7 +14,7 @@ Manage secondary units of sale
 Sell products in one unit of measure that is different from the one
 you manage the inventory.
     """,
-    'website': 'https://www.odoo.com',
+    'website': 'https://www.erp.com',
     'depends': ['sale'],
     'data': [
         'views/product_uos_view.xml',

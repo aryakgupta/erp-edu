@@ -1,10 +1,10 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 #	* hr_timesheet_sheet
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 9.0c\n"
+"Project-Id-Version: ERP Server 9.0c\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-13 10:41+0000\n"
 "PO-Revision-Date: 2016-01-13 10:41+0000\n"

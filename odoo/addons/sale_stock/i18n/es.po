@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * sale_stock
 # 
@@ -7,11 +7,11 @@
 # Antonio Trueba, 2015
 # Carlos Eduardo Rodriguez Rossi <crodriguez@samemotion.com>, 2016
 # cesar palomo <cesar@cegap.com>, 2016
-# Denis Ledoux <dle@odoo.com>, 2016
+# Denis Ledoux <dle@erp.com>, 2016
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-01 06:27+0000\n"
 "PO-Revision-Date: 2016-01-29 14:14+0000\n"

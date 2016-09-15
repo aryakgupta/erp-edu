@@ -192,7 +192,7 @@ Possible children elements of the list view are:
         * if there is no ``icon``, the button's text
         * if there is an ``icon``, ``alt`` text for the icon
     ``type``
-        type of button, indicates how it clicking it affects Odoo:
+        type of button, indicates how it clicking it affects ERP:
 
         ``workflow`` (default)
             sends a signal to a workflow. The button's ``name`` is the
@@ -235,10 +235,10 @@ Possible children elements of the list view are:
         Makes the button ``invisible`` if the record is *not* in one of the
         listed states
     ``context``
-        merged into the view's context when performing the button's Odoo call
+        merged into the view's context when performing the button's ERP call
     ``confirm``
         confirmation message to display (and for the user to accept) before
-        performing the button's Odoo call
+        performing the button's ERP call
 
     .. declared but unused: help
 
@@ -342,11 +342,11 @@ logic. They are used as elements or sets of elements in form views.
 Semantic components
 -------------------
 
-Semantic components tie into and allow interaction with the Odoo
+Semantic components tie into and allow interaction with the ERP
 system. Available semantic components are:
 
 ``button``
-  call into the Odoo system, similar to :ref:`list view buttons
+  call into the ERP system, similar to :ref:`list view buttons
   <reference/views/list/button>`
 ``field``
   renders (and allow edition of, possibly) a single field of the current
@@ -876,13 +876,13 @@ Possible children of the view element are:
 
       .. todo:: list widgets?
 
-    * buttons and links with a ``type`` attribute become perform Odoo-related
+    * buttons and links with a ``type`` attribute become perform ERP-related
       operations rather than their standard HTML function. Possible types are:
 
       ``action``, ``object``
-        standard behavior for :ref:`Odoo buttons
+        standard behavior for :ref:`ERP buttons
         <reference/views/list/button>`, most attributes relevant to standard
-        Odoo buttons can be used.
+        ERP buttons can be used.
       ``open``
         opens the card's record in the form view in read-only mode
       ``edit``
@@ -1062,7 +1062,7 @@ Possible children of the diagram view are:
     Defines the nodes of the graph. Its attributes are:
 
     ``object``
-      the node's Odoo model
+      the node's ERP model
     ``shape``
       conditional shape mapping similar to colors and fonts in :ref:`the list
       view <reference/views/list>`. The only valid shape is ``rectangle`` (the
@@ -1075,7 +1075,7 @@ Possible children of the diagram view are:
     Defines the directed edges of the graph. Its attributes are:
 
     ``object`` (required)
-      the edge's Odoo model
+      the edge's ERP model
     ``source`` (required)
       :class:`~openerp.fields.Many2one` field of the edge's model pointing to
       the edge's source node record
@@ -1151,7 +1151,7 @@ Possible children elements of the search view are:
         make the field only available to specific users
     ``widget``
         use specific search widget for the field (the only use case in
-        standard Odoo 8.0 is a ``selection`` widget for
+        standard ERP 8.0 is a ``selection`` widget for
         :class:`~openerp.fields.Many2one` fields)
     ``domain``
         if the field can provide an auto-completion
@@ -1169,7 +1169,7 @@ Possible children elements of the search view are:
     ``string`` (required)
         the label of the filter
     ``domain``
-        an Odoo :ref:`domain <reference/orm/domains>`, will be appended to the
+        an ERP :ref:`domain <reference/orm/domains>`, will be appended to the
         action's domain as part of the search domain
     ``context``
         a Python dictionary, merged into the action's domain to generate the

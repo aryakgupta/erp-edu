@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_slides
 # 
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-21 09:20+0000\n"
 "PO-Revision-Date: 2016-07-20 03:11+0000\n"
@@ -26,7 +26,7 @@ msgid ""
 "    <tbody><tr>\n"
 "        <td style=\"width: 600px; text-align:center\" valign=\"center\">\n"
 "            <a href=\"${user.company_id.website}\" style=\"text-decoration:none\">\n"
-"                <img alt=\"Odoo\" src=\"${ctx['base_url']}/logo.png\" style=\"display:block; border:none; min-height:60px; margin:0 auto;\">\n"
+"                <img alt=\"ERP\" src=\"${ctx['base_url']}/logo.png\" style=\"display:block; border:none; min-height:60px; margin:0 auto;\">\n"
 "            </a>\n"
 "        </td>\n"
 "    </tr></tbody>\n"
@@ -74,7 +74,7 @@ msgid ""
 "    <tbody><tr>\n"
 "        <td style=\"width: 600px; text-align:center\" valign=\"center\">\n"
 "            <a href=\"${user.company_id.website}\" style=\"text-decoration:none\">\n"
-"                <img alt=\"Odoo\" src=\"${ctx['base_url']}/logo.png\" style=\"display:block; border:none; min-height:60px; margin:0 auto;\">\n"
+"                <img alt=\"ERP\" src=\"${ctx['base_url']}/logo.png\" style=\"display:block; border:none; min-height:60px; margin:0 auto;\">\n"
 "            </a>\n"
 "        </td>\n"
 "    </tr></tbody>\n"
@@ -745,8 +745,8 @@ msgstr ""
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_3
 msgid ""
-"Interview with Guy Christiaens, Finance Manager at Alpinter, about their use of Odoo.\n"
-"Discover more about Odoo at www.odoo.com"
+"Interview with Guy Christiaens, Finance Manager at Alpinter, about their use of ERP.\n"
+"Discover more about ERP at www.erp.com"
 msgstr ""
 
 #. module: website_slides
@@ -939,57 +939,57 @@ msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_3
-msgid "Odoo - The Voice of the Customer: Alpinter"
+msgid "ERP - The Voice of the Customer: Alpinter"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.category,name:website_slides.category_2
-msgid "Odoo Days"
+msgid "ERP Days"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_2
-msgid "Odoo Experience - Register now https://www.odoo.com/event/304/"
+msgid "ERP Experience - Register now https://www.erp.com/event/304/"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_0
-msgid "Odoo Explained"
+msgid "ERP Explained"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_6
-msgid "Odoo Marketing - part 1: ATTRACT"
+msgid "ERP Marketing - part 1: ATTRACT"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_7
-msgid "Odoo Marketing - part 1: ATTRACT_2"
+msgid "ERP Marketing - part 1: ATTRACT_2"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_8
-msgid "Odoo Marketing - part 1: ATTRACT_3"
+msgid "ERP Marketing - part 1: ATTRACT_3"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_2
-msgid "Odoo Open Days 2014"
+msgid "ERP Open Days 2014"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_5
-msgid "Odoo POS Indiegogo Campaign"
+msgid "ERP POS Indiegogo Campaign"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_10
-msgid "Odoo Roadmap & Strategy - Fabien Pinckaers"
+msgid "ERP Roadmap & Strategy - Fabien Pinckaers"
 msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_4
-msgid "Odoo SEO - Boost Your Website Trafic"
+msgid "ERP SEO - Boost Your Website Trafic"
 msgstr ""
 
 #. module: website_slides
@@ -997,7 +997,7 @@ msgstr ""
 #: model:slide.slide,description:website_slides.slide_7
 #: model:slide.slide,description:website_slides.slide_8
 msgid ""
-"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com\n"
+"ERP's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.erp.com\n"
 "\n"
 "Video made by Miroslava Ganzarcikova and Sophia Eribo."
 msgstr ""
@@ -1009,7 +1009,7 @@ msgstr ""
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_1
-msgid "Open Source Website Builder and eCommerce: Odoo"
+msgid "Open Source Website Builder and eCommerce: ERP"
 msgstr ""
 
 #. module: website_slides
@@ -1139,9 +1139,9 @@ msgstr ""
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_0
 msgid ""
-"Run your business with a comprehensive suite of business apps. Do it easily with Odoo! \n"
+"Run your business with a comprehensive suite of business apps. Do it easily with ERP! \n"
 "\n"
-"http://odoo.com/start"
+"http://erp.com/start"
 msgstr ""
 
 #. module: website_slides

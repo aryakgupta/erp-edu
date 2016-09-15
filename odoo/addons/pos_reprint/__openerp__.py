@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -24,6 +24,6 @@ Allow cashier to reprint receipts
         'static/src/xml/reprint.xml',
     ],
     'installable': True,
-    'website': 'https://www.odoo.com/page/point-of-sale',
+    'website': 'https://www.erp.com/page/point-of-sale',
     'auto_install': False,
 }

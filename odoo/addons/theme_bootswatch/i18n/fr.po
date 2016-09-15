@@ -1,15 +1,15 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * theme_bootswatch
 # 
 # Translators:
 # François Dhommeaux <contact@sd360.fr>, 2015
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015
-# Melanie Bernard <mbe@odoo.com>, 2015
+# Melanie Bernard <mbe@erp.com>, 2015
 # Symons Xavier <xsy@openerp.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 14:56+0000\n"
 "PO-Revision-Date: 2015-11-13 16:22+0000\n"

@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Timesheet on Issues',
@@ -11,7 +11,7 @@ This module adds the Timesheet support for the Issues/Bugs Management in Project
 
 Worklogs can be maintained to signify number of hours spent by users to handle an issue.
                 """,
-    'website': 'https://www.odoo.com/page/project-management',
+    'website': 'https://www.erp.com/page/project-management',
     'depends': [
         'project_issue',
         'hr_timesheet_sheet',

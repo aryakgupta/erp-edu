@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * membership
 # 
@@ -6,7 +6,7 @@
 # Matjaž Mozetič <m.mozetic@matmoz.si>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2015-09-27 05:23+0000\n"
@@ -501,9 +501,9 @@ msgstr "Brez/Preklicano/Staro/Na čakanju"
 #. module: membership
 #: model:ir.actions.act_window,help:membership.action_membership_members
 msgid ""
-"Odoo helps you easily track all activities related to a member: \n"
+"ERP helps you easily track all activities related to a member: \n"
 "                 Current Membership Status, Discussions and History of Membership, etc."
-msgstr "Odoo omogoča sledenje vseh dejavnosti povezanih s članom: \n                 Trenutni status članstva, razprave in zgodovina članstva, ipd."
+msgstr "ERP omogoča sledenje vseh dejavnosti povezanih s članom: \n                 Trenutni status članstva, razprave in zgodovina članstva, ipd."
 
 #. module: membership
 #: selection:membership.membership_line,state:0

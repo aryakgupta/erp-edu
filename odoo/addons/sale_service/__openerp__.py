@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -27,7 +27,7 @@ is updated accordingly. For example, if this procurement corresponds to a sale
 order line, the sale order line will be considered delivered when the task is
 completed.
 """,
-    'website': 'https://www.odoo.com/page/crm',
+    'website': 'https://www.erp.com/page/crm',
     'depends': ['project', 'sale', 'project_timesheet', 'sale_timesheet'],
     'data': ['views/sale_service_view.xml'],
     'demo': ['demo/sale_service_demo.xml'],

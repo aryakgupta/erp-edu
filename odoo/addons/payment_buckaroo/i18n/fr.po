@@ -1,14 +1,14 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * payment_buckaroo
 # 
 # Translators:
-# Clo <clo@odoo.com>, 2015
+# Clo <clo@erp.com>, 2015
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015
 # Symons Xavier <xsy@openerp.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:11+0000\n"
 "PO-Revision-Date: 2015-11-18 17:39+0000\n"

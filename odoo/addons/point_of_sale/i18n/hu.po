@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * point_of_sale
 # 
@@ -8,7 +8,7 @@
 # Oregional <geza.nagy@oregional.hu>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-06-06 19:55+0000\n"
@@ -1842,8 +1842,8 @@ msgstr "ID"
 #. openerp-web
 #: code:addons/point_of_sale/static/src/js/popups.js:113
 #, python-format
-msgid "IMPORTANT: Bug Report From Odoo Point Of Sale"
-msgstr "FONTOS: Hiba jelentés az Odoo rendszer értékesítési pont kasszától"
+msgid "IMPORTANT: Bug Report From ERP Point Of Sale"
+msgstr "FONTOS: Hiba jelentés az ERP rendszer értékesítési pont kasszától"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config_proxy_ip
@@ -1858,9 +1858,9 @@ msgstr "Ha nincs bejelölve, csak meghívott felhasználók jelentkezhetnek be."
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_settings_alias_domain
 msgid ""
-"If you have setup a catch-all email domain redirected to the Odoo server, "
+"If you have setup a catch-all email domain redirected to the ERP server, "
 "enter the domain name here."
-msgstr "Ha beállított egy domaint, mely minden Odoo rendszer irányába beérkező emailt megkap, akkor ide írja be ezt a domaint."
+msgstr "Ha beállított egy domaint, mely minden ERP rendszer irányába beérkező emailt megkap, akkor ide írja be ezt a domaint."
 
 #. module: point_of_sale
 #: model:ir.actions.act_window,help:point_of_sale.product_pos_category_action
@@ -2333,8 +2333,8 @@ msgstr "Tranzakció száma"
 
 #. module: point_of_sale
 #: model:ir.ui.view,arch_db:point_of_sale.index
-msgid "Odoo POS"
-msgstr "Odoo értékesítési pont"
+msgid "ERP POS"
+msgstr "ERP értékesítési pont"
 
 #. module: point_of_sale
 #. openerp-web
@@ -3419,8 +3419,8 @@ msgstr "Beállítások"
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_settings_module_share
-msgid "Share or embbed any screen of Odoo."
-msgstr "Ossza meg vagy illessze bele bármely Odoo rendszer képernyő képét."
+msgid "Share or embbed any screen of ERP."
+msgstr "Ossza meg vagy illessze bele bármely ERP rendszer képernyő képét."
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config_settings_company_share_partner
@@ -3997,9 +3997,9 @@ msgstr "Ez a művelet véglegesen megsemmisíti az összes kifizetett megrendel�
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_sequence_id
 msgid ""
-"This sequence is automatically created by Odoo but you can change it to "
+"This sequence is automatically created by ERP but you can change it to "
 "customize the reference numbers of your orders."
-msgstr "Ez a sorrend automatikusan lett létrehozzva az Odoo által, de meg lehet változtatni a megrendelések hivatkozási számainak  testreszabásával."
+msgstr "Ez a sorrend automatikusan lett létrehozzva az ERP által, de meg lehet változtatni a megrendelések hivatkozási számainak  testreszabásával."
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_product_template_pos_categ_id

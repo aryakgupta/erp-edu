@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr
 # 
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-15 10:41+0000\n"
 "PO-Revision-Date: 2016-06-24 04:53+0000\n"
@@ -337,8 +337,8 @@ msgstr "Tentukan jadwal sumber daya"
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_consultant
-msgid "Deliver generic Odoo functional training sessions"
-msgstr "Memberikan Odoo generik yang fungsional pelatihan"
+msgid "Deliver generic ERP functional training sessions"
+msgstr "Memberikan ERP generik yang fungsional pelatihan"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee_department_id
@@ -944,10 +944,10 @@ msgstr "Jumlah pesan yang belum dibaca"
 #. module: hr
 #: model:ir.actions.act_window,help:hr.open_module_tree_department
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"ERP's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                leaves and holidays, recruitments, etc."
-msgstr "Odoo's Departemen struktur digunakan untuk mengelola semua dokumen yang berhubungan dengan karyawan oleh Departemen: biaya, timesheets, daun dan hari libur, perekrutan, dll."
+msgstr "ERP's Departemen struktur digunakan untuk mengelola semua dokumen yang berhubungan dengan karyawan oleh Departemen: biaya, timesheets, daun dan hari libur, perekrutan, dll."
 
 #. module: hr
 #: model:ir.actions.client,name:hr.action_client_hr_menu
@@ -1349,10 +1349,10 @@ msgstr "Akan melaporkan kepada kepala layanan profesional"
 #: model:ir.actions.act_window,help:hr.act_employee_from_department
 #: model:ir.actions.act_window,help:hr.open_view_employee_list_my
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the ERP employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
-msgstr "Dengan hanya sekilas pada layar karyawan Odoo, Anda dapat dengan mudah menemukan semua informasi yang Anda butuhkan untuk setiap orang;\n                data kontak, lowongan kerja, ketersediaan, dll."
+msgstr "Dengan hanya sekilas pada layar karyawan ERP, Anda dapat dengan mudah menemukan semua informasi yang Anda butuhkan untuk setiap orang;\n                data kontak, lowongan kerja, ketersediaan, dll."
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_ceo

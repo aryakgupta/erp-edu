@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * point_of_sale
 # 
@@ -6,7 +6,7 @@
 # Dejan Sraka <dejan.sraka@picolabs.si>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-08-05 07:40+0000\n"
@@ -1840,7 +1840,7 @@ msgstr "ID"
 #. openerp-web
 #: code:addons/point_of_sale/static/src/js/popups.js:113
 #, python-format
-msgid "IMPORTANT: Bug Report From Odoo Point Of Sale"
+msgid "IMPORTANT: Bug Report From ERP Point Of Sale"
 msgstr ""
 
 #. module: point_of_sale
@@ -1856,9 +1856,9 @@ msgstr "Če ni označeno, se lahko prijavijo samo povabljeni uporabniki."
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_settings_alias_domain
 msgid ""
-"If you have setup a catch-all email domain redirected to the Odoo server, "
+"If you have setup a catch-all email domain redirected to the ERP server, "
 "enter the domain name here."
-msgstr "Če ste nastavili catch-all e-poštno domeno preusmerjeno na Odoo strežnik, vnesite naziv domene."
+msgstr "Če ste nastavili catch-all e-poštno domeno preusmerjeno na ERP strežnik, vnesite naziv domene."
 
 #. module: point_of_sale
 #: model:ir.actions.act_window,help:point_of_sale.product_pos_category_action
@@ -2331,8 +2331,8 @@ msgstr "Številka transakcije"
 
 #. module: point_of_sale
 #: model:ir.ui.view,arch_db:point_of_sale.index
-msgid "Odoo POS"
-msgstr "Odoo POS"
+msgid "ERP POS"
+msgstr "ERP POS"
 
 #. module: point_of_sale
 #. openerp-web
@@ -3417,8 +3417,8 @@ msgstr "Nastavitve"
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_settings_module_share
-msgid "Share or embbed any screen of Odoo."
-msgstr "Souporaba ali vgradnja kateregakoli zaslona Odoo."
+msgid "Share or embbed any screen of ERP."
+msgstr "Souporaba ali vgradnja kateregakoli zaslona ERP."
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config_settings_company_share_partner
@@ -3995,7 +3995,7 @@ msgstr ""
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_sequence_id
 msgid ""
-"This sequence is automatically created by Odoo but you can change it to "
+"This sequence is automatically created by ERP but you can change it to "
 "customize the reference numbers of your orders."
 msgstr "Samodejno ustvarjeno zaporedje, ki pa ga lahko spreminjate za priredbo sklicev nalogov po meri."
 

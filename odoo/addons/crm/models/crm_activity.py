@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 from openerp import api, fields, models
 
 
 class CrmActivity(models.Model):
-    ''' CrmActivity is a model introduced in Odoo v9 that models activities
+    ''' CrmActivity is a model introduced in ERP v9 that models activities
     performed in CRM, like phonecalls, sending emails, making demonstrations,
     ... Users are able to configure their custom activities.
 
@@ -39,7 +39,7 @@ class CrmActivity(models.Model):
         This cannot be achieved using a default on res_model field because
         of the inherits. Indeed a new field would be created. However the
         field on the subtype would still exist. Being void, the subtype
-        will be present for every model in Odoo. That's quite an issue. '''
+        will be present for every model in ERP. That's quite an issue. '''
         if not values.get('res_model') and 'default_res_model' not in self._context:
             values['res_model'] = 'crm.lead'
         if 'internal' not in values and 'default_internal' not in self._context:

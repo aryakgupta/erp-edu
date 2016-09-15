@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * purchase
 # 
@@ -9,7 +9,7 @@
 # Mateo Tibaquirá Palacios <nestormateo@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-07-21 02:52+0000\n"
@@ -919,8 +919,8 @@ msgstr "Compras Mensuales"
 #: model:ir.actions.act_window,help:purchase.purchase_rfq
 msgid ""
 "Most propositions of purchase orders are created automatically\n"
-"                by Odoo based on inventory needs."
-msgstr "La mayor parte de la ordenes de compra son creadas automáticamente por Odoo, basado en las necesidades de inventario."
+"                by ERP based on inventory needs."
+msgstr "La mayor parte de la ordenes de compra son creadas automáticamente por ERP, basado en las necesidades de inventario."
 
 #. module: purchase
 #: model:ir.ui.view,arch_db:purchase.view_purchase_order_filter
@@ -1695,9 +1695,9 @@ msgstr "Usar 'Fijo', 'Real' o 'Promedio' como método de costeo"
 msgid ""
 "Use this menu to control the invoices to be received from your\n"
 "            vendor. When registering a new bill, set the purchase order\n"
-"            and Odoo will fill the bill automatically according to ordered\n"
+"            and ERP will fill the bill automatically according to ordered\n"
 "            or received quantities."
-msgstr "Use este menú para controlar las facturas a ser recibidas\ndesde su proveedor. Cuando registre una nueva factura, fije\nla orden de compra y Odoo llenará la factura automáticamente\nde acuerdo a las cantidades pedidas o recibidas."
+msgstr "Use este menú para controlar las facturas a ser recibidas\ndesde su proveedor. Cuando registre una nueva factura, fije\nla orden de compra y ERP llenará la factura automáticamente\nde acuerdo a las cantidades pedidas o recibidas."
 
 #. module: purchase
 #: model:ir.actions.act_window,help:purchase.purchase_form_action
@@ -1759,8 +1759,8 @@ msgid ""
 "Vendors bills can be pre-generated based on purchase\n"
 "                    orders or receipts. This allows you to control bills\n"
 "                    you receive from your vendor according to the draft\n"
-"                    document in Odoo."
-msgstr "La facturas del proveedor pueden ser pre-generadas basadas en las\nordenes de compra o las recepciones. Esto permite que usted controle\nlas facturas que usted recibe de su proveedor acorde al documento en\nborrador en Odoo."
+"                    document in ERP."
+msgstr "La facturas del proveedor pueden ser pre-generadas basadas en las\nordenes de compra o las recepciones. Esto permite que usted controle\nlas facturas que usted recibe de su proveedor acorde al documento en\nborrador en ERP."
 
 #. module: purchase
 #: model:ir.model.fields,help:purchase.field_mail_mail_website_published

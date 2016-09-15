@@ -3,14 +3,14 @@
 Workflows
 =========
 
-In Odoo, a workflow is a technical artefact to manage a set of "things to
+In ERP, a workflow is a technical artefact to manage a set of "things to
 do" associated to the records of a model. The workflow provides a higher-level
 way to organize tasks to perform with or on a record.
 
 More specifically, a workflow is a directed graph where the nodes are called
 "activities" and the arcs are called "transitions".
 
-- Activities define work that should be done within the Odoo server, such
+- Activities define work that should be done within the ERP server, such
   as changing the state of some records, or sending emails.
 - Transitions control how the workflow progresses from activity to activity.
 
@@ -19,7 +19,7 @@ triggers to transitions, so that the behavior of the workflow depends on user
 actions (such as clicking on a button), changes to records, or arbitrary
 Python code.
 
-All in all, Odoo's workflow system provides:
+All in all, ERP's workflow system provides:
 
 * a description of the evolution of a record (document) over time
 * automatic actions based on various and flexible conditions
@@ -39,7 +39,7 @@ For instance, a basic order could have the following flow:
 Orders start in the *Draft* state, can be *Confirmed* by a user, and then
 either shipped (*Closed*) or *Canceled*.
 
-A company using Odoo may want to add discount support to orders, where sales
+A company using ERP may want to add discount support to orders, where sales
 staff has discretionary discounting powers up to 15%, but manager validation
 is required for discounts beyond 15%. The workflow can be altered online to
 add the relevant steps without editing Python or XML files:
@@ -98,7 +98,7 @@ made up of two activies, named "a" and "b", and one transition, going from "a"
 to "b".
 
 The first activity has its attribute ``flow_start`` set to ``True`` so that
-Odoo knows where to start the workflow traversal after it is instanciated.
+ERP knows where to start the workflow traversal after it is instanciated.
 Because ``on_create`` is set to True on the workflow record, the workflow is
 instanciated for each newly created record. (Otherwise, the workflow should be
 instanciated by other means, such as from some module Python code.)
@@ -131,7 +131,7 @@ Flow start and flow stop
 The attribute ``flow_start`` is a boolean value specifying whether the activity
 is processed when the workflow is instanciated. Multiple activities can have
 their attribute ``flow_start`` set to ``True``. When instanciating a workflow
-for a record, Odoo simply processes all of them, and evaluate all their
+for a record, ERP simply processes all of them, and evaluate all their
 outgoing transitions afterwards.
 
 The attribute ``flow_stop`` is a boolean value specifying whether the activity
@@ -139,7 +139,7 @@ stops the workflow instance. A workflow instance is considered completed when
 all its activities with the attribute ``flow_stop`` set to ``True`` are
 completed.
 
-It is important for Odoo to know when a workflow instance is completed. A
+It is important for ERP to know when a workflow instance is completed. A
 workflow can have an activity that is actually another workflow (called a
 subflow); that activity is completed when the subflow is completed.
 
@@ -161,7 +161,7 @@ Sending a signal from a subflow
 
 When a workflow is embedded in an activity (as a subflow) of a workflow, the
 sublow can send a signal from its own activities to the parent workflow by
-giving a signal name in the attribute ``signal_send``. Odoo processes those
+giving a signal name in the attribute ``signal_send``. ERP processes those
 activities by sending the value of ``signal_send`` prefixed by "subflow."  to
 the parent workflow instance.
 
@@ -184,10 +184,10 @@ The evaluation environment is the same as the one explained in the section
 Split mode
 ''''''''''
 
-After an activity has been processed, Odoo evaluates its transition to reach
+After an activity has been processed, ERP evaluates its transition to reach
 the next activity in the flow.
 
-However if an activity has more than one transition, Odoo must decide which
+However if an activity has more than one transition, ERP must decide which
 activity or activities to follow.
 
 .. image:: workflow/split.*
@@ -196,14 +196,14 @@ activity or activities to follow.
 This choice is controlled by the ``split_mode`` attribute:
 
 ``XOR`` (default)
-    By default, Odoo will use the first transition (in ``sequence`` order)
+    By default, ERP will use the first transition (in ``sequence`` order)
     whose condition is satisfied. All other transitions are ignored.
 ``OR``
     In ``OR`` mode, all transitions with a satisfied condition are traversed
     simultanously. Transitions not yet valid will be ignored, even if they
     become valid later.
 ``AND``
-    In ``AND`` mode, Odoo will wait until *all* transitions are satisfied, and
+    In ``AND`` mode, ERP will wait until *all* transitions are satisfied, and
     will traverse all of them (much like the ``OR`` mode).
 
 Both ``OR`` and ``AND`` mode will lead to activities being active in the same
@@ -270,7 +270,7 @@ Conditions
 When an activity has been completed, its outgoing transitions are inspected to
 determine whether it is possible for the workflow instance to proceed through
 them and reach the next activities. When only a condition is defined (i.e., no
-signal or trigger is defined), the condition is evaluated by Odoo, and if
+signal or trigger is defined), the condition is evaluated by ERP, and if
 it evaluates to ``True``, the worklfow instance progresses through the
 transition.  If the condition is not met, it will be reevaluated every time
 the associated record is modified, or by an explicit method call to do it.
@@ -281,7 +281,7 @@ may be several lines long; in that case, the value of the last one determines
 whether the transition can be taken.
 
 In the condition evaluation environment, several symbols are conveniently
-defined (in addition to the Odoo ``safe_eval`` environment):
+defined (in addition to the ERP ``safe_eval`` environment):
 
 - all the model column names, and
 - all the browse record's attributes.

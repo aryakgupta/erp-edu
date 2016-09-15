@@ -1,8 +1,8 @@
-Odoo Invoicing
+ERP Invoicing
 --------------
 
-Send professional invoices & get paid online with the Odoo
-<a href="https://www.odoo.com/page/billing">billing software</a>.
+Send professional invoices & get paid online with the ERP
+<a href="https://www.erp.com/page/billing">billing software</a>.
 
 Create and send professional looking invoices & get paid online. It
 automatically integrates with other apps to bill automatically based on your

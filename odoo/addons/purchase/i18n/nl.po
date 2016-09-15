@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * purchase
 # 
@@ -8,7 +8,7 @@
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-08-06 10:39+0000\n"
@@ -918,8 +918,8 @@ msgstr "Maandelijkse inkopen"
 #: model:ir.actions.act_window,help:purchase.purchase_rfq
 msgid ""
 "Most propositions of purchase orders are created automatically\n"
-"                by Odoo based on inventory needs."
-msgstr "De meeste voorstellen van inkooporders worden automatisch aangemaakt\ndoor Odoo en zijn gebaseerd op voorraad benodigdheden."
+"                by ERP based on inventory needs."
+msgstr "De meeste voorstellen van inkooporders worden automatisch aangemaakt\ndoor ERP en zijn gebaseerd op voorraad benodigdheden."
 
 #. module: purchase
 #: model:ir.ui.view,arch_db:purchase.view_purchase_order_filter
@@ -1694,9 +1694,9 @@ msgstr "Gebruik een 'Vaste', 'Echte' of 'Gemiddelde' prijs kostmethode"
 msgid ""
 "Use this menu to control the invoices to be received from your\n"
 "            vendor. When registering a new bill, set the purchase order\n"
-"            and Odoo will fill the bill automatically according to ordered\n"
+"            and ERP will fill the bill automatically according to ordered\n"
 "            or received quantities."
-msgstr "Gebruik deze menu om de facturen te beheren die worden ontvangen van uw\nleverancier. Wanneer u een nieuwe factuur ontvangt, bevestig de inkooporder en Odoo zal de factuur automatisch vullen met de bestelde of geleverde hoeveelheden."
+msgstr "Gebruik deze menu om de facturen te beheren die worden ontvangen van uw\nleverancier. Wanneer u een nieuwe factuur ontvangt, bevestig de inkooporder en ERP zal de factuur automatisch vullen met de bestelde of geleverde hoeveelheden."
 
 #. module: purchase
 #: model:ir.actions.act_window,help:purchase.purchase_form_action
@@ -1758,8 +1758,8 @@ msgid ""
 "Vendors bills can be pre-generated based on purchase\n"
 "                    orders or receipts. This allows you to control bills\n"
 "                    you receive from your vendor according to the draft\n"
-"                    document in Odoo."
-msgstr "Leveranciersfacturen kunnen op voorhand gegenereerd worden gebaseerd op inkooporders\nof ontvangsten. Dit staat u toe de facturen te beheren\ndie u ontvangt van leveranciers aan de hand van het concept\ndocument in Odoo."
+"                    document in ERP."
+msgstr "Leveranciersfacturen kunnen op voorhand gegenereerd worden gebaseerd op inkooporders\nof ontvangsten. Dit staat u toe de facturen te beheren\ndie u ontvangt van leveranciers aan de hand van het concept\ndocument in ERP."
 
 #. module: purchase
 #: model:ir.model.fields,help:purchase.field_mail_mail_website_published

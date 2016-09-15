@@ -1,9 +1,9 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * account_asset
 # 
 # Translators:
-# Clo <clo@odoo.com>, 2015
+# Clo <clo@erp.com>, 2015
 # Cyrille de Lambert <cdelambert@teclib.com>, 2015
 # Daniel & Delphine <dd2013@leschoupinous.net>, 2015
 # jalal <j.zahid@gmail.com>, 2015
@@ -14,7 +14,7 @@
 # Vanosmael Didier <info@sc4b.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-15 09:26+0000\n"
 "PO-Revision-Date: 2016-05-27 15:49+0000\n"

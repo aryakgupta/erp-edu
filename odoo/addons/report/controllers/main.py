@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 from openerp.addons.web.http import Controller, route, request
 from openerp.addons.web.controllers.main import _serialize_exception, content_disposition
@@ -116,7 +116,7 @@ class ReportController(Controller):
             se = _serialize_exception(e)
             error = {
                 'code': 200,
-                'message': "Odoo Server Error",
+                'message': "ERP Server Error",
                 'data': se
             }
             return request.make_response(html_escape(json.dumps(error)))

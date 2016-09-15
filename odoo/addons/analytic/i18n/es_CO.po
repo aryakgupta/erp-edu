@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * analytic
 # 
@@ -7,7 +7,7 @@
 # Mateo Tibaquirá <nestormateo@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-29 10:25+0000\n"
 "PO-Revision-Date: 2016-02-11 03:03+0000\n"
@@ -271,10 +271,10 @@ msgstr "Si está marcado, los nuevos mensajes requerirán su atención."
 #: model:ir.actions.act_window,help:analytic.account_analytic_line_action
 #: model:ir.actions.act_window,help:analytic.account_analytic_line_action_entries
 msgid ""
-"In Odoo, sale orders and projects are implemented using\n"
+"In ERP, sale orders and projects are implemented using\n"
 "                analytic accounts. You can track costs and revenues to analyse\n"
 "                your margins easily."
-msgstr "En Odoo, las órdenes de venta y los proyectos se implementan\nusando cuentas analíticas. Usted puede realizar seguimiento de\nlos costos e ingresos para analizar sus márgenes fácilmente."
+msgstr "En ERP, las órdenes de venta y los proyectos se implementan\nusando cuentas analíticas. Usted puede realizar seguimiento de\nlos costos e ingresos para analizar sus márgenes fácilmente."
 
 #. module: analytic
 #: model:ir.model.fields,field_description:analytic.field_account_analytic_account_message_is_follower

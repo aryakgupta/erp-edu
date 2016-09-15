@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 import datetime
 from lxml import etree
@@ -233,7 +233,7 @@ class res_partner(osv.Model, format_address):
                        ('company', 'Company')],
             string='Company Type',
             help='Technical field, used only to display a boolean using a radio '
-                 'button. As for Odoo v9 RadioButton cannot be used on boolean '
+                 'button. As for ERP v9 RadioButton cannot be used on boolean '
                  'fields, this one serves as interface. Due to the old API '
                  'limitations with interface function field, we implement it '
                  'by hand instead of a true function field. When migrating to '

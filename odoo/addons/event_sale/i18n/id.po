@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * event_sale
 # 
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2015-12-02 23:35+0000\n"
@@ -331,7 +331,7 @@ msgstr "Jenis pilih acara sehingga ketika kita menggunakan produk ini di garis o
 #. module: event_sale
 #: model:ir.ui.view,arch_db:event_sale.view_event_registration_editor_form
 msgid "Skip"
-msgstr "<p>Jika Anda tidak memberikan kontribusi atau mengembangkan di Odoo, melewati halaman ini.</p>"
+msgstr "<p>Jika Anda tidak memberikan kontribusi atau mengembangkan di ERP, melewati halaman ini.</p>"
 
 #. module: event_sale
 #: model:ir.model.fields,field_description:event_sale.field_event_registration_sale_order_id

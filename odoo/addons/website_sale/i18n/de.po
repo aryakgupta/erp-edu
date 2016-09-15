@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_sale
 # 
@@ -9,7 +9,7 @@
 # Wolfgang Taferner, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-07-09 07:32+0000\n"
@@ -1081,7 +1081,7 @@ msgstr "ID"
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
 "If you have an eCommerce, one of your objectives is of course to grow your revenues by\n"
-"                    selling more and pricier products. Luckily for you, Odoo integrates three powerful\n"
+"                    selling more and pricier products. Luckily for you, ERP integrates three powerful\n"
 "                    customizations for that."
 msgstr ""
 
@@ -1260,15 +1260,15 @@ msgstr "OK"
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
-"Odoo offers an importation service to handle the whole process for you!"
-msgstr "Odoo bietet einen Import-Service an und wickelt den ganzen Prozeß für Sie ab!"
+"ERP offers an importation service to handle the whole process for you!"
+msgstr "ERP bietet einen Import-Service an und wickelt den ganzen Prozeß für Sie ab!"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
-"Odoo's web-services allows developers to create scripts that will load data "
+"ERP's web-services allows developers to create scripts that will load data "
 "automatically into the system."
-msgstr "Die Web-Services von Odoo erlauben Entwicklern die Erstellung von Scripts, die Daten automatisch ins System laden."
+msgstr "Die Web-Services von ERP erlauben Entwicklern die Erstellung von Scripts, die Daten automatisch ins System laden."
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
@@ -2124,8 +2124,8 @@ msgstr "Sie können ebenfalls verschiedene Preise für die erstellten Varianten 
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
-msgid "You can setup 3 types of <strong>payment methods in Odoo:</strong>"
-msgstr "Sie können 3 verschiedene Arten von <strong>Zahlungsmethoden in Odoo</strong> einrichten:"
+msgid "You can setup 3 types of <strong>payment methods in ERP:</strong>"
+msgstr "Sie können 3 verschiedene Arten von <strong>Zahlungsmethoden in ERP</strong> einrichten:"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner

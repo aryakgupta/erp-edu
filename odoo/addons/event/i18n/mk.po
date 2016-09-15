@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * event
 # 
@@ -6,7 +6,7 @@
 # Aleksandar Vangelovski <aleksandarv@hbee.eu>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-01 06:27+0000\n"
 "PO-Revision-Date: 2016-08-03 11:45+0000\n"
@@ -348,8 +348,8 @@ msgstr "Значка внатрешно лево"
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Banner Odoo Image"
-msgstr "Слика за Odoo банер"
+msgid "Banner ERP Image"
+msgstr "Слика за ERP банер"
 
 #. module: event
 #: selection:event.mail,interval_type:0
@@ -1339,23 +1339,23 @@ msgstr "Број на непрочитани пораки"
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Official Website"
-msgstr "Odoo официјална вебстрана"
+msgid "ERP Official Website"
+msgstr "ERP официјална вебстрана"
 
 #. module: event
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Web Client"
-msgstr "Odoo веб клиент"
+msgid "ERP Web Client"
+msgstr "ERP веб клиент"
 
 #. module: event
 #: model:ir.actions.act_window,help:event.action_event_view
 msgid ""
-"Odoo helps you schedule and efficiently organize your events:\n"
+"ERP helps you schedule and efficiently organize your events:\n"
 "    track subscriptions and participations, automate the confirmation emails,\n"
 "    sell tickets, etc."
-msgstr "Odoo ви помага во распоредување и ефикасно организирање на вашите настани:\nследи претплати и посетеност, автоматизирај ги потврдувачките меилови,\nпродавај влезници итн."
+msgstr "ERP ви помага во распоредување и ефикасно организирање на вашите настани:\nследи претплати и посетеност, автоматизирај ги потврдувачките меилови,\nпродавај влезници итн."
 
 #. module: event
 #: model:event.event,name:event.event_0
@@ -1930,7 +1930,7 @@ msgstr ""
 
 #. module: event
 #: model:event.event,description:event.event_0
-msgid "to learn Odoo Programming"
+msgid "to learn ERP Programming"
 msgstr ""
 
 #. module: event

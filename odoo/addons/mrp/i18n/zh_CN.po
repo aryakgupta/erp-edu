@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * mrp
 # 
@@ -13,7 +13,7 @@
 # liAnGjiA <liangjia@qq.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-06 07:28+0000\n"
 "PO-Revision-Date: 2016-07-22 05:35+0000\n"
@@ -650,10 +650,10 @@ msgstr "默认单位"
 #: model:ir.actions.act_window,help:mrp.mrp_property_group_action
 msgid ""
 "Define specific property groups that can be assigned to your\n"
-"                bill of materials and sales orders. Properties allows Odoo\n"
+"                bill of materials and sales orders. Properties allows ERP\n"
 "                to automatically select the right bill of materials according\n"
 "                to properties selected in the sales order by salesperson."
-msgstr "定义能够分配给你的物料单和销售订单特定属性组\n特定属性组能够让Odoo根据销售人员在销售订单中\n选择的属性选择对应属性的正确的物料表。"
+msgstr "定义能够分配给你的物料单和销售订单特定属性组\n特定属性组能够让ERP根据销售人员在销售订单中\n选择的属性选择对应属性的正确的物料表。"
 
 #. module: mrp
 #: model:ir.model.fields,help:mrp.field_mrp_workcenter_calendar_id
@@ -783,9 +783,9 @@ msgstr "关注者（业务伙伴）"
 msgid ""
 "For instance, in the property group \"Warranty\", you an have\n"
 "                two properties: 1 year warranty, 3 years warranty. Depending\n"
-"                on the propoerties selected in the sales order, Odoo will\n"
+"                on the propoerties selected in the sales order, ERP will\n"
 "                schedule a production using the matching bill of materials."
-msgstr "例如，在属性组 \"保修\"中，你有两个属性：１年保修，３年保修。根据在销售订单中选择的保修时间，Odoo会自动的安排相对应的物料表安排生产"
+msgstr "例如，在属性组 \"保修\"中，你有两个属性：１年保修，３年保修。根据在销售订单中选择的保修时间，ERP会自动的安排相对应的物料表安排生产"
 
 #. module: mrp
 #: model:ir.ui.view,arch_db:mrp.mrp_production_form_view
@@ -1313,9 +1313,9 @@ msgstr "未读的消息数量"
 #. module: mrp
 #: model:ir.actions.act_window,help:mrp.mrp_bom_form_action
 msgid ""
-"Odoo uses these BoMs to automatically propose manufacturing\n"
+"ERP uses these BoMs to automatically propose manufacturing\n"
 "                orders according to procurement needs."
-msgstr "根据补货规则Odoo用BOM自动的生产生产订单"
+msgstr "根据补货规则ERP用BOM自动的生产生产订单"
 
 #. module: mrp
 #: model:ir.ui.view,arch_db:mrp.view_stock_move_consume_wizard
@@ -1907,14 +1907,14 @@ msgstr "你选择的计量单位跟产品表单的计量单位在不同的类别
 #. module: mrp
 #: model:ir.actions.act_window,help:mrp.mrp_property_action
 msgid ""
-"The Properties in Odoo are used to select the right bill of\n"
+"The Properties in ERP are used to select the right bill of\n"
 "                materials for manufacturing a product when you have different\n"
 "                ways of building the same product.  You can assign several\n"
 "                properties to each bill of materials.  When a salesperson\n"
 "                creates a sales order, they can relate it to several properties\n"
-"                and Odoo will automatically select the BoM to use according\n"
+"                and ERP will automatically select the BoM to use according\n"
 "                the needs."
-msgstr "当有几种不同的方式来生产同一产品的时候，Odoo中属性是用来选择正确的BOM，\n你可以把不同的属性给到不同的BOM。当销售人员创建销售订单的时候，他们能选择不同的属性。\n然后Odoo根据相关的属性自动对应当相应的BOM"
+msgstr "当有几种不同的方式来生产同一产品的时候，ERP中属性是用来选择正确的BOM，\n你可以把不同的属性给到不同的BOM。当销售人员创建销售订单的时候，他们能选择不同的属性。\n然后ERP根据相关的属性自动对应当相应的BOM"
 
 #. module: mrp
 #: constraint:mrp.workcenter:0

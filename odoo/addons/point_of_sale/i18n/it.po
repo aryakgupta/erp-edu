@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * point_of_sale
 # 
@@ -10,7 +10,7 @@
 # Simone Bernini <simone@aperturelabs.it>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-07-29 10:21+0000\n"
@@ -1844,7 +1844,7 @@ msgstr "ID"
 #. openerp-web
 #: code:addons/point_of_sale/static/src/js/popups.js:113
 #, python-format
-msgid "IMPORTANT: Bug Report From Odoo Point Of Sale"
+msgid "IMPORTANT: Bug Report From ERP Point Of Sale"
 msgstr ""
 
 #. module: point_of_sale
@@ -1860,9 +1860,9 @@ msgstr "Se spuntato, solo gli utenti invitati possono autenticarsi"
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_settings_alias_domain
 msgid ""
-"If you have setup a catch-all email domain redirected to the Odoo server, "
+"If you have setup a catch-all email domain redirected to the ERP server, "
 "enter the domain name here."
-msgstr "Se un dominio catch-all è stato configurato per essere reindirizzato su Odoo, inserire il dominio qui."
+msgstr "Se un dominio catch-all è stato configurato per essere reindirizzato su ERP, inserire il dominio qui."
 
 #. module: point_of_sale
 #: model:ir.actions.act_window,help:point_of_sale.product_pos_category_action
@@ -2335,8 +2335,8 @@ msgstr "Numero di transazioni"
 
 #. module: point_of_sale
 #: model:ir.ui.view,arch_db:point_of_sale.index
-msgid "Odoo POS"
-msgstr "Odoo POS"
+msgid "ERP POS"
+msgstr "ERP POS"
 
 #. module: point_of_sale
 #. openerp-web
@@ -3421,8 +3421,8 @@ msgstr "Configurazione"
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_settings_module_share
-msgid "Share or embbed any screen of Odoo."
-msgstr "Condividi o fai embed qualunque schermata di Odoo."
+msgid "Share or embbed any screen of ERP."
+msgstr "Condividi o fai embed qualunque schermata di ERP."
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config_settings_company_share_partner
@@ -3999,9 +3999,9 @@ msgstr ""
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_sequence_id
 msgid ""
-"This sequence is automatically created by Odoo but you can change it to "
+"This sequence is automatically created by ERP but you can change it to "
 "customize the reference numbers of your orders."
-msgstr "La sequenza viene automaticamente creata da Odoo, ma è possibile modificarla per personalizzare i numeri di riferimento all'interno degli ordini."
+msgstr "La sequenza viene automaticamente creata da ERP, ma è possibile modificarla per personalizzare i numeri di riferimento all'interno degli ordini."
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_product_template_pos_categ_id

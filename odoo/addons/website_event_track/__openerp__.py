@@ -4,7 +4,7 @@
     'name': 'Advanced Events',
     'category': 'Marketing',
     'summary': 'Sponsors, Tracks, Agenda, Event News',
-    'website': 'https://www.odoo.com/page/events',
+    'website': 'https://www.erp.com/page/events',
     'version': '1.0',
     'description': """
 Online Advanced Events

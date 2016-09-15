@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * web_settings_dashboard
 # 
@@ -7,7 +7,7 @@
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-06-17 08:01+0000\n"
 "PO-Revision-Date: 2016-06-18 11:15+0000\n"
@@ -80,22 +80,22 @@ msgstr "Geef e-mailadressen in (één per regel)"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:92
 #, python-format
-msgid "Follow these implementation guides to get the most out of Odoo."
-msgstr "Volg deze implementatiehandleidingen om het meeste uit Odoo te halen."
+msgid "Follow these implementation guides to get the most out of ERP."
+msgstr "Volg deze implementatiehandleidingen om het meeste uit ERP te halen."
 
 #. module: web_settings_dashboard
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:149
 #, python-format
 msgid "Get more features with the Enterprise Edition!"
-msgstr "Krijg meer opties met de Odoo Enterprise editie!"
+msgstr "Krijg meer opties met de ERP Enterprise editie!"
 
 #. module: web_settings_dashboard
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:131
 #, python-format
-msgid "Help us spread the word: Share Odoo's awesomeness with your friends!"
-msgstr "Help ons het woord te verspreiden: Deel met uw vrienden hoe geweldig Odoo is!"
+msgid "Help us spread the word: Share ERP's awesomeness with your friends!"
+msgstr "Help ons het woord te verspreiden: Deel met uw vrienden hoe geweldig ERP is!"
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -150,8 +150,8 @@ msgstr "Geen app geïnstalleerd"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:148
 #, python-format
-msgid "Odoo Enterprise"
-msgstr "Odoo Enterprise"
+msgid "ERP Enterprise"
+msgstr "ERP Enterprise"
 
 #. module: web_settings_dashboard
 #. openerp-web

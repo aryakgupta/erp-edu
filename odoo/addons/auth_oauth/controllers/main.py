@@ -172,7 +172,7 @@ class OAuthController(http.Controller):
 
     @http.route('/auth_oauth/oea', type='http', auth='none')
     def oea(self, **kw):
-        """login user via Odoo Account provider"""
+        """login user via ERP Account provider"""
         dbname = kw.pop('db', None)
         if not dbname:
             dbname = db_monodb()

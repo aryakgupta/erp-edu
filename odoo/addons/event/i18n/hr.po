@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * event
 # 
@@ -8,7 +8,7 @@
 # Karolina Tonković <karolina.tonkovic@storm.hr>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-01 06:27+0000\n"
 "PO-Revision-Date: 2016-02-20 10:37+0000\n"
@@ -350,8 +350,8 @@ msgstr ""
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Banner Odoo Image"
-msgstr "Slika banner Odoo"
+msgid "Banner ERP Image"
+msgstr "Slika banner ERP"
 
 #. module: event
 #: selection:event.mail,interval_type:0
@@ -1341,23 +1341,23 @@ msgstr "Broj nepročitanih poruka"
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Official Website"
-msgstr "Odoo službena web stranica"
+msgid "ERP Official Website"
+msgstr "ERP službena web stranica"
 
 #. module: event
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Web Client"
-msgstr "Odoo web klijent"
+msgid "ERP Web Client"
+msgstr "ERP web klijent"
 
 #. module: event
 #: model:ir.actions.act_window,help:event.action_event_view
 msgid ""
-"Odoo helps you schedule and efficiently organize your events:\n"
+"ERP helps you schedule and efficiently organize your events:\n"
 "    track subscriptions and participations, automate the confirmation emails,\n"
 "    sell tickets, etc."
-msgstr "Odoo vam pomaže u rasporedu i učinkovitom organiziranju vaših događaja:\npratite pretplate i sudjelovanja, automatski potvrdite e-poštu,\nprodajete ulaznice, itd."
+msgstr "ERP vam pomaže u rasporedu i učinkovitom organiziranju vaših događaja:\npratite pretplate i sudjelovanja, automatski potvrdite e-poštu,\nprodajete ulaznice, itd."
 
 #. module: event
 #: model:event.event,name:event.event_0
@@ -1932,8 +1932,8 @@ msgstr "učiti <i>razvoj poslovnih aplikacija</i>"
 
 #. module: event
 #: model:event.event,description:event.event_0
-msgid "to learn Odoo Programming"
-msgstr "učiti Odoo programiranje"
+msgid "to learn ERP Programming"
+msgstr "učiti ERP programiranje"
 
 #. module: event
 #: model:event.event,description:event.event_1

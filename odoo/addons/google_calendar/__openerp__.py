@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -10,7 +10,7 @@
 The module adds the possibility to synchronize Google Calendar with OpenERP
 ===========================================================================
 """,
-    'website': 'https://www.odoo.com/page/crm',
+    'website': 'https://www.erp.com/page/crm',
     'depends': ['google_account', 'calendar'],
     'qweb': ['static/src/xml/*.xml'],
     'data': [

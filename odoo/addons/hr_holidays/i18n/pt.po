@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_holidays
 # 
@@ -6,7 +6,7 @@
 # Manuela Silva <h_manuela_rodsilva@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:10+0000\n"
 "PO-Revision-Date: 2016-01-20 10:30+0000\n"
@@ -560,7 +560,7 @@ msgid ""
 "If you select this check box, the system allows the employees to take more "
 "leaves than the available ones for this type and will not take them into "
 "account for the \"Remaining Legal Leaves\" defined on the employee form."
-msgstr "Se selecionar esta opção, o Odoo permite que os funcionários tenham mais dias de ausência do que os estabelecidos neste tipo e estes não contam como dias que 'estiveram ausentes' no formulário do funcionário."
+msgstr "Se selecionar esta opção, o ERP permite que os funcionários tenham mais dias de ausência do que os estabelecidos neste tipo e estes não contam como dias que 'estiveram ausentes' no formulário do funcionário."
 
 #. module: hr_holidays
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_holidays_message_is_follower
@@ -942,9 +942,9 @@ msgstr "Número de mensagens por ler"
 #. module: hr_holidays
 #: model:ir.model.fields,help:hr_holidays.field_hr_holidays_status_categ_id
 msgid ""
-"Once a leave is validated, Odoo will create a corresponding meeting of this "
+"Once a leave is validated, ERP will create a corresponding meeting of this "
 "type in the calendar."
-msgstr "Uma vez que uma ausência é validada, Odoo criará uma Ausência/Evento correspondente a este tipo no calendário."
+msgstr "Uma vez que uma ausência é validada, ERP criará uma Ausência/Evento correspondente a este tipo no calendário."
 
 #. module: hr_holidays
 #: model:ir.actions.act_window,help:hr_holidays.open_ask_holidays
@@ -1323,7 +1323,7 @@ msgstr "Ano"
 #. module: hr_holidays
 #: model:ir.actions.act_window,help:hr_holidays.hr_holidays_leaves_assign_legal
 msgid ""
-"You can assign remaining Legal Leaves for each employee, Odoo\n"
+"You can assign remaining Legal Leaves for each employee, ERP\n"
 "               will automatically create and validate allocation requests."
 msgstr ""
 

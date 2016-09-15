@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * portal
 # 
@@ -7,7 +7,7 @@
 # Karolina Tonković <karolina.tonkovic@storm.hr>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:41+0000\n"
 "PO-Revision-Date: 2015-10-24 16:44+0000\n"
@@ -51,8 +51,8 @@ msgid ""
 "                \t${object.wizard_id.welcome_message or ''}\n"
 "                </p>\n"
 "                <p>---<br />\n"
-"                    Odoo - Open Source Business Applications<br />\n"
-"                    http://www.odoo.com<br />\n"
+"                    ERP - Open Source Business Applications<br />\n"
+"                    http://www.erp.com<br />\n"
 "                </p>\n"
 "            \n"
 "            "
@@ -263,5 +263,5 @@ msgstr "Za slanje e-mailova morate imati upisanu e-mail adresu u korisničkim po
 
 #. module: portal
 #: model:mail.template,subject:portal.mail_template_data_portal_welcome
-msgid "Your Odoo account at ${user.company_id.name|safe}"
-msgstr "Vaš Odoo račun na ${user.company_id.name|safe}"
+msgid "Your ERP account at ${user.company_id.name|safe}"
+msgstr "Vaš ERP račun na ${user.company_id.name|safe}"

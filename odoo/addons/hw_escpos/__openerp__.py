@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -7,7 +7,7 @@
     'version': '1.0',
     'category': 'Point of Sale',
     'sequence': 6,
-    'website': 'https://www.odoo.com/page/point-of-sale',
+    'website': 'https://www.erp.com/page/point-of-sale',
     'summary': 'Hardware Driver for ESC/POS Printers and Cashdrawers',
     'description': """
 ESC/POS Hardware Driver

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * mail
 # 
@@ -9,7 +9,7 @@
 # Robert Kirschner <robertkirschner@yahoo.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-22 13:00+0000\n"
 "PO-Revision-Date: 2016-07-23 09:04+0000\n"
@@ -78,7 +78,7 @@ msgid ""
 "                </a>\n"
 "                % endif\n"
 "                <strong>using</strong>\n"
-"                <a href=\"https://www.odoo.com\" style=\"text-decoration:none; color: #a24689;\"><strong>Odoo</strong></a>\n"
+"                <a href=\"https://www.erp.com\" style=\"text-decoration:none; color: #a24689;\"><strong>ERP</strong></a>\n"
 "                % endif\n"
 "                </p>\n"
 "            </td>\n"
@@ -1456,9 +1456,9 @@ msgstr "Pokiaľ \"opt-out\" je zaškrtnuté, tento kontakt odmietol sledovanie e
 #. module: mail
 #: model:ir.model.fields,help:mail.field_base_config_settings_alias_domain
 msgid ""
-"If you have setup a catch-all email domain redirected to the Odoo server, "
+"If you have setup a catch-all email domain redirected to the ERP server, "
 "enter the domain name here."
-msgstr "Ak máte nastavenú catch-all emailovú doménu presmerovanú na server Odoo, tu zadajte názov domény."
+msgstr "Ak máte nastavenú catch-all emailovú doménu presmerovanú na server ERP, tu zadajte názov domény."
 
 #. module: mail
 #: code:addons/mail/models/mail_alias.py:141
@@ -2143,17 +2143,17 @@ msgstr "Počet neprečítaných správ"
 #. module: mail
 #: model:ir.actions.act_window,help:mail.action_contacts
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "            a customer; discussions, history of business opportunities,\n"
 "            documents, etc."
-msgstr "Odoo vám pomáha ľahko sledovať všetky aktivity súvisiace so\nzákazníkom; diskusie, história obchodných príležitostí,\ndokumenty atď."
+msgstr "ERP vám pomáha ľahko sledovať všetky aktivity súvisiace so\nzákazníkom; diskusie, história obchodných príležitostí,\ndokumenty atď."
 
 #. module: mail
 #. openerp-web
 #: code:addons/mail/static/src/xml/client_action.xml:11
 #, python-format
-msgid "Odoo needs your permission to"
-msgstr "Odoo potrebuje Vaše oprávnenie k"
+msgid "ERP needs your permission to"
+msgstr "ERP potrebuje Vaše oprávnenie k"
 
 #. module: mail
 #. openerp-web
@@ -2944,10 +2944,10 @@ msgstr "Tento typ dokumentu s touto šablónov môže byť použitý"
 #: model:ir.model.fields,help:mail.field_mail_channel_alias_model_id
 #: model:ir.model.fields,help:mail.field_res_users_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
-msgstr "Model (Odoo druh dokumentu), ktorému odpovedá toto alias. Každý prichádzajúci email ktorý neodpovie na existujúci záznam spôsobí vytvorenie nového záznamu tohto modelu (napr úlohy projektu)"
+msgstr "Model (ERP druh dokumentu), ktorému odpovedá toto alias. Každý prichádzajúci email ktorý neodpovie na existujúci záznam spôsobí vytvorenie nového záznamu tohto modelu (napr úlohy projektu)"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias_alias_name
@@ -2955,8 +2955,8 @@ msgstr "Model (Odoo druh dokumentu), ktorému odpovedá toto alias. Každý pric
 #: model:ir.model.fields,help:mail.field_res_users_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
-msgstr "Meno emailového alias, napr. \"práce\", ak chcete zachytiť emaily pre <prace@priklad.odoo.com>"
+"<jobs@example.erp.com>"
+msgstr "Meno emailového alias, napr. \"práce\", ak chcete zachytiť emaily pre <prace@priklad.erp.com>"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias_alias_user_id
@@ -3429,7 +3429,7 @@ msgstr "spomenuté označené ako prečítané."
 
 #. module: mail
 #: model:ir.ui.view,arch_db:mail.view_general_configuration_mail_alias_domain
-msgid "mycompany.odoo.com"
+msgid "mycompany.erp.com"
 msgstr "mojaspolocnost.sk"
 
 #. module: mail

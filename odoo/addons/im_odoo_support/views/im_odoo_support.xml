@@ -7,8 +7,8 @@
                <script type="text/javascript" src="/im_odoo_support/static/src/js/im_odoo_support.js"></script>
                 <script type="text/javascript">
                     odoo.define(function (require) {
-                        var OdooSupport = require('im_odoo_support.OdooSupport');
-                        new OdooSupport(
+                        var ERPSupport = require('im_odoo_support.ERPSupport');
+                        new ERPSupport(
                             "<t t-esc="request.session.login"/>",
                             "<t t-esc="request.registry['ir.config_parameter'].get_param(request.cr, request.uid, 'database.uuid')"/>"
                         );

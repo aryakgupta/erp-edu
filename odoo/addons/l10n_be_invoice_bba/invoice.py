@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 # Copyright (c) 2011 Noviat nv/sa (www.noviat.be). All rights reserved.
 
 import re, time, random
@@ -128,7 +128,7 @@ class account_invoice(osv.osv):
                         reference = '+++%s/%s/%s%s+++' % (bbacomm[:3], bbacomm[3:7], bbacomm[7:], mod)
                 else:
                     raise UserError(_("Unsupported Structured Communication Type Algorithm '%s' !" \
-                                        "\nPlease contact your Odoo support channel.") % algorithm)
+                                        "\nPlease contact your ERP support channel.") % algorithm)
         return {'value': {'reference': reference}}
 
     def create(self, cr, uid, vals, context=None):

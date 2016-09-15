@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * purchase
 # 
@@ -12,7 +12,7 @@
 # Wolfgang Taferner, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-06-22 09:11+0000\n"
@@ -922,8 +922,8 @@ msgstr "Monatseinkäufe"
 #: model:ir.actions.act_window,help:purchase.purchase_rfq
 msgid ""
 "Most propositions of purchase orders are created automatically\n"
-"                by Odoo based on inventory needs."
-msgstr "Die meisten Bestellvorschläge werden automatisch auf Basis der Bestände in Odoo errechnet."
+"                by ERP based on inventory needs."
+msgstr "Die meisten Bestellvorschläge werden automatisch auf Basis der Bestände in ERP errechnet."
 
 #. module: purchase
 #: model:ir.ui.view,arch_db:purchase.view_purchase_order_filter
@@ -1698,9 +1698,9 @@ msgstr "Benutzen Sie 'Fest-', 'Einkaufs-' oder 'Durchschnittspreis' zur Bestands
 msgid ""
 "Use this menu to control the invoices to be received from your\n"
 "            vendor. When registering a new bill, set the purchase order\n"
-"            and Odoo will fill the bill automatically according to ordered\n"
+"            and ERP will fill the bill automatically according to ordered\n"
 "            or received quantities."
-msgstr "Benutzen Sie dies Menü zur Prüfung der Rechnungen, die Sie von\nIhrem Lieferanten erhalten werden. Bei der Eingabe einer neuen\nRechnung hinterlegen Sie die Bestellung,  damit Odoo dann die \nRechnung automatisch hinsichtlich der Menge komplettieren kann."
+msgstr "Benutzen Sie dies Menü zur Prüfung der Rechnungen, die Sie von\nIhrem Lieferanten erhalten werden. Bei der Eingabe einer neuen\nRechnung hinterlegen Sie die Bestellung,  damit ERP dann die \nRechnung automatisch hinsichtlich der Menge komplettieren kann."
 
 #. module: purchase
 #: model:ir.actions.act_window,help:purchase.purchase_form_action
@@ -1762,8 +1762,8 @@ msgid ""
 "Vendors bills can be pre-generated based on purchase\n"
 "                    orders or receipts. This allows you to control bills\n"
 "                    you receive from your vendor according to the draft\n"
-"                    document in Odoo."
-msgstr "Lieferantenrechnungen können vorab, auf der Basis\nvon Bestellungen oder Lieferungen, erstellt werden. Dies ermöglicht Ihnen die Kontrolle über die Rechnungen, die Sie von Lieferanten, auf Basis der Rechnungsentwürfe in Odoo erhalten."
+"                    document in ERP."
+msgstr "Lieferantenrechnungen können vorab, auf der Basis\nvon Bestellungen oder Lieferungen, erstellt werden. Dies ermöglicht Ihnen die Kontrolle über die Rechnungen, die Sie von Lieferanten, auf Basis der Rechnungsentwürfe in ERP erhalten."
 
 #. module: purchase
 #: model:ir.model.fields,help:purchase.field_mail_mail_website_published

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * stock
 # 
@@ -6,7 +6,7 @@
 # Martin Trigaux, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-13 09:40+0000\n"
 "PO-Revision-Date: 2016-02-22 13:18+0000\n"
@@ -169,8 +169,8 @@ msgstr ", jika modul accounting atau purchase diinstall"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "- The Odoo Team"
-msgstr "-Tim Odoo"
+msgid "- The ERP Team"
+msgstr "-Tim ERP"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -436,8 +436,8 @@ msgstr "<strong>Tujuan</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "<strong>Enjoy your Inventory management with Odoo!</strong>"
-msgstr "<strong>Nikmati manajemen persediaan Anda dengan Odoo!</strong>"
+msgid "<strong>Enjoy your Inventory management with ERP!</strong>"
+msgstr "<strong>Nikmati manajemen persediaan Anda dengan ERP!</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -979,15 +979,15 @@ msgstr "Dengan nomor seri yang unik"
 #, python-format
 msgid ""
 "By changing this quantity here, you accept the new quantity as complete: "
-"Odoo will not automatically generate a back order."
-msgstr "Dengan mengubah jumlah ini di sini, Anda menerima jumlah yang baru selesai: Odoo tidak akan secara otomatis menghasilkan Orde kembali."
+"ERP will not automatically generate a back order."
+msgstr "Dengan mengubah jumlah ini di sini, Anda menerima jumlah yang baru selesai: ERP tidak akan secara otomatis menghasilkan Orde kembali."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"By default, Odoo measures products by 'units', which are generic and "
+"By default, ERP measures products by 'units', which are generic and "
 "represent just about anything"
-msgstr "Secara default, Odoo ukuran produk oleh 'unit', yang generik dan mewakili apa saja"
+msgstr "Secara default, ERP ukuran produk oleh 'unit', yang generik dan mewakili apa saja"
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_move_procure_method
@@ -1676,12 +1676,12 @@ msgstr "Menentukan rute dalam gudang Anda sesuai dengan kebutuhan bisnis, sepert
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
 "Define your locations to reflect your warehouse structure and\n"
-"                organization. Odoo is able to manage physical locations\n"
+"                organization. ERP is able to manage physical locations\n"
 "                (warehouses, shelves, bin, etc), partner locations (customers,\n"
 "                vendors) and virtual locations which are the counterpart of\n"
 "                the stock operations like the manufacturing orders\n"
 "                consumptions, inventories, etc."
-msgstr "Menentukan lokasi Anda untuk mencerminkan gudang struktur dan organisasi Anda. Odoo mampu mengelola lokasi fisik (gudang, rak, bin, dll), mitra lokasi (pelanggan, vendor) dan lokasi virtual yang mitra transaksi stok seperti pembuatan pesanan konsumsi, persediaan, dll."
+msgstr "Menentukan lokasi Anda untuk mencerminkan gudang struktur dan organisasi Anda. ERP mampu mengelola lokasi fisik (gudang, rak, bin, dll), mitra lokasi (pelanggan, vendor) dan lokasi virtual yang mitra transaksi stok seperti pembuatan pesanan konsumsi, persediaan, dll."
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_location_putaway_strategy_id
@@ -1991,12 +1991,12 @@ msgstr "Pelanggan Eropa"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
-"Every stock operation in Odoo moves the products from one\n"
+"Every stock operation in ERP moves the products from one\n"
 "                location to another one.  For instance, if you receive products\n"
-"                from a vendor, Odoo will move products from the Vendor\n"
+"                from a vendor, ERP will move products from the Vendor\n"
 "                location to the Stock location. Each report can be performed on\n"
 "                physical, partner or virtual locations."
-msgstr "Setiap operasi stok di Odoo bergerak produk dari satu lokasi ke satu sama lain.  Misalnya, jika Anda menerima produk dari vendor, maka Odoo akan bergerak produk dari Vendor lokasi ke lokasi stok. Setiap laporan dapat dilakukan pada fisik, pasangan atau lokasi virtual."
+msgstr "Setiap operasi stok di ERP bergerak produk dari satu lokasi ke satu sama lain.  Misalnya, jika Anda menerima produk dari vendor, maka ERP akan bergerak produk dari Vendor lokasi ke lokasi stok. Setiap laporan dapat dilakukan pada fisik, pasangan atau lokasi virtual."
 
 #. module: stock
 #: code:addons/stock/stock.py:4186
@@ -2082,9 +2082,9 @@ msgstr "Pengikut (mitra)"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the ERP Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
-msgstr "Untuk tim Odoo,<br/>Fabien Pinckaers, pendiri"
+msgstr "Untuk tim ERP,<br/>Fabien Pinckaers, pendiri"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.view_picking_form
@@ -2489,11 +2489,11 @@ msgstr "Jika Anda pengembang <strong>API kami dapat Anda gunakan</strong> untuk 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"If you configured automatic procurement, Odoo automatically generates\n"
+"If you configured automatic procurement, ERP automatically generates\n"
 "                        Procurements Orders. You usually don't need to worry about them, but\n"
 "                        sometimes the system can remain blocked without generating a\n"
 "                        corresponding document, usually due to a configuration problem."
-msgstr "Jika Anda mengkonfigurasi otomatis pengadaan, Odoo secara otomatis menghasilkan pengadaan pesanan. Anda biasanya tidak perlu khawatir tentang mereka, tetapi kadang-kadang sistem dapat tetap diblokir tanpa menghasilkan sebuah dokumen yang sesuai, biasanya karena masalah konfigurasi."
+msgstr "Jika Anda mengkonfigurasi otomatis pengadaan, ERP secara otomatis menghasilkan pengadaan pesanan. Anda biasanya tidak perlu khawatir tentang mereka, tetapi kadang-kadang sistem dapat tetap diblokir tanpa menghasilkan sebuah dokumen yang sesuai, biasanya karena masalah konfigurasi."
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_inventory_filter
@@ -2541,10 +2541,10 @@ msgstr "Impor menggunakan tombol kiri atas di"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"In Odoo, <strong>Reordering Rules</strong> are used to replenish your products.\n"
-"                        Odoo will automatically propose a procurement to buy new products if you are\n"
+"In ERP, <strong>Reordering Rules</strong> are used to replenish your products.\n"
+"                        ERP will automatically propose a procurement to buy new products if you are\n"
 "                        running out of stock."
-msgstr "Di Odoo, <strong>Penataan kembali aturan</strong> yang digunakan untuk mengisi produk Anda.\n                        Odoo secara otomatis akan mengusulkan pengadaan untuk membeli produk baru jika Anda kehabisan stok."
+msgstr "Di ERP, <strong>Penataan kembali aturan</strong> yang digunakan untuk mengisi produk Anda.\n                        ERP secara otomatis akan mengusulkan pengadaan untuk membeli produk baru jika Anda kehabisan stok."
 
 #. module: stock
 #: selection:stock.inventory,state:0
@@ -2886,8 +2886,8 @@ msgstr "Merupakan lokasi Scrap?"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "It is also possible to import your initial inventory from an Excel or CSV file.\n"
-"                        If you want to do that, contact your Odoo project manager."
-msgstr "Hal ini juga dimungkinkan untuk mengimpor persediaan awal dari file Excel atau CSV.\n                        Jika Anda ingin melakukan itu, hubungi manajer proyek Odoo Anda."
+"                        If you want to do that, contact your ERP project manager."
+msgstr "Hal ini juga dimungkinkan untuk mengimpor persediaan awal dari file Excel atau CSV.\n                        Jika Anda ingin melakukan itu, hubungi manajer proyek ERP Anda."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -3078,9 +3078,9 @@ msgstr "Biarkan bidang ini kosong jika lokasi ini dibagi antara perusahaan"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Like with the sales flow, Odoo inventory management is\n"
+"Like with the sales flow, ERP inventory management is\n"
 "                        fully integrated with the purchase app."
-msgstr "Seperti dengan aliran penjualan, manajemen persediaan Odoo sepenuhnya terintegrasi dengan app pembelian."
+msgstr "Seperti dengan aliran penjualan, manajemen persediaan ERP sepenuhnya terintegrasi dengan app pembelian."
 
 #. module: stock
 #: model:ir.model,name:stock.model_stock_move_operation_link
@@ -3431,10 +3431,10 @@ msgstr "Lebih<i class=\"fa fa-caret-down\"></i>"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_picking_tree
 msgid ""
-"Most operations are prepared automatically by Odoo according\n"
+"Most operations are prepared automatically by ERP according\n"
 "                to your preconfigured logistics rules, but you can also record\n"
 "                manual stock movements."
-msgstr "Kebanyakan operasi disiapkan secara otomatis oleh Odoo sesuai peraturan logistik telah dikonfigurasikan, tetapi Anda juga dapat merekam gerakan stok manual."
+msgstr "Kebanyakan operasi disiapkan secara otomatis oleh ERP sesuai peraturan logistik telah dikonfigurasikan, tetapi Anda juga dapat merekam gerakan stok manual."
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_move_operation_link_move_id
@@ -3705,37 +3705,37 @@ msgstr "OK"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo handles <strong>advanced push/pull routes configuration</strong>, for "
+"ERP handles <strong>advanced push/pull routes configuration</strong>, for "
 "example:"
-msgstr "Odoo menangani <strong>push/pull lanjutan rute konfigurasi</strong>, misalnya:"
+msgstr "ERP menangani <strong>push/pull lanjutan rute konfigurasi</strong>, misalnya:"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "Odoo has preconfigured <strong>one Warehouse</strong> for you."
-msgstr "Odoo telah dipra-konfigurasi <strong>satu gudang</strong> untuk Anda."
+msgid "ERP has preconfigured <strong>one Warehouse</strong> for you."
+msgstr "ERP telah dipra-konfigurasi <strong>satu gudang</strong> untuk Anda."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo inventory management is fully integrated with sales and\n"
+"ERP inventory management is fully integrated with sales and\n"
 "                        invoicing process. Everything is automated from the initial\n"
 "                        quotation to the delivery and the final invoice."
-msgstr "Manajemen persediaan Odoo terintegrasi dengan proses penjualan dan faktur. Segala sesuatu adalah otomatis dari awal kutipan pengiriman dan faktur terakhir."
+msgstr "Manajemen persediaan ERP terintegrasi dengan proses penjualan dan faktur. Segala sesuatu adalah otomatis dari awal kutipan pengiriman dan faktur terakhir."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo is able to run advanced traceability by using Product Lots and Serial\n"
+"ERP is able to run advanced traceability by using Product Lots and Serial\n"
 "                        Numbers, usually identified by bar codes stuck on the products."
-msgstr "Odoo mampu menjalankan penelusuran lanjutan menggunakan banyak produk dan nomor seri, biasanya diidentifikasikan dengan kode bar yang terjebak pada produk."
+msgstr "ERP mampu menjalankan penelusuran lanjutan menggunakan banyak produk dan nomor seri, biasanya diidentifikasikan dengan kode bar yang terjebak pada produk."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Of course, feel free to add your own. Please note that Odoo is able to "
+"Of course, feel free to add your own. Please note that ERP is able to "
 "convert units within the same category, for example, liters to gallons in "
 "the volume category"
-msgstr "Tentu saja, merasa bebas untuk menambahkan Anda sendiri. Harap dicatat bahwa Odoo mampu mengkonversi unit dalam kategori yang sama, misalnya, liter ke galon dalam kategori volume"
+msgstr "Tentu saja, merasa bebas untuk menambahkan Anda sendiri. Harap dicatat bahwa ERP mampu mengkonversi unit dalam kategori yang sama, misalnya, liter ke galon dalam kategori volume"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.product_form_view_procurement_button
@@ -5865,9 +5865,9 @@ msgstr "Bidang ini harus diselesaikan hanya jika segala sesuatu di dalam kemasan
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"This guide helps getting started with Odoo Inventory.\n"
+"This guide helps getting started with ERP Inventory.\n"
 "                        Once you are done, you will benefit from:"
-msgstr "Panduan ini membantu memulai dengan persediaan Odoo.\n                        Setelah Anda selesai, Anda akan mendapatkan keuntungan dari:"
+msgstr "Panduan ini membantu memulai dengan persediaan ERP.\n                        Setelah Anda selesai, Anda akan mendapatkan keuntungan dari:"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -6522,24 +6522,24 @@ msgstr "Peringatan: salah kuantitas!"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
-msgstr "Kami menangani proses impor seluruh untuk Anda: cukup kirim Odoo proyek manajer file CSV yang berisi semua data Anda."
+msgstr "Kami menangani proses impor seluruh untuk Anda: cukup kirim ERP proyek manajer file CSV yang berisi semua data Anda."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
-msgstr "Kami menangani proses impor seluruh untuk Anda: cukup kirim Odoo proyek manajer file CSV yang berisi semua produk Anda."
+msgstr "Kami menangani proses impor seluruh untuk Anda: cukup kirim ERP proyek manajer file CSV yang berisi semua produk Anda."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "We hope this guide helped you implement Odoo Inventory."
-msgstr "Semoga panduan ini membantu Anda menerapkan Odoo persediaan."
+msgid "We hope this guide helped you implement ERP Inventory."
+msgstr "Semoga panduan ini membantu Anda menerapkan ERP persediaan."
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_picking_website_message_ids
@@ -6596,17 +6596,17 @@ msgstr "Bila metode adalah tetap, lokasi ini akan digunakan untuk menyimpan prod
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_min_qty
 msgid ""
 "When the virtual stock goes below the Min Quantity specified for this field,"
-" Odoo generates a procurement to bring the forecasted quantity to the Max "
+" ERP generates a procurement to bring the forecasted quantity to the Max "
 "Quantity."
-msgstr "Ketika stok virtual berjalan di bawah kuantitas Min ditentukan untuk bidang ini, Odoo menghasilkan pengadaan untuk membawa jumlah ramalan dengan jumlah Max."
+msgstr "Ketika stok virtual berjalan di bawah kuantitas Min ditentukan untuk bidang ini, ERP menghasilkan pengadaan untuk membawa jumlah ramalan dengan jumlah Max."
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_max_qty
 msgid ""
-"When the virtual stock goes below the Min Quantity, Odoo generates a "
+"When the virtual stock goes below the Min Quantity, ERP generates a "
 "procurement to bring the forecasted quantity to the Quantity specified as "
 "Max Quantity."
-msgstr "Ketika stok virtual berjalan di bawah kuantitas Min, Odoo menghasilkan pengadaan untuk membawa jumlah ramalan dengan jumlah yang ditetapkan sebagai Max Quantity."
+msgstr "Ketika stok virtual berjalan di bawah kuantitas Min, ERP menghasilkan pengadaan untuk membawa jumlah ramalan dengan jumlah yang ditetapkan sebagai Max Quantity."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.view_change_product_quantity
@@ -6645,13 +6645,13 @@ msgstr "Anda dapat menentukan di sini rute utama yang dijalankan melalui gudang 
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_orderpoint_form
 msgid ""
-"You can define your minimum stock rules, so that Odoo will automatically "
+"You can define your minimum stock rules, so that ERP will automatically "
 "create draft manufacturing orders or request for quotations according to the"
 " stock level. Once the virtual stock of a product (= stock on hand minus all"
-" confirmed orders and reservations) is below the minimum quantity, Odoo will"
+" confirmed orders and reservations) is below the minimum quantity, ERP will"
 " generate a procurement request to increase the stock up to the maximum "
 "quantity."
-msgstr "Anda dapat menentukan aturan stok Anda minimal, sehingga Odoo akan secara otomatis membuat pesanan pembuatan draft atau meminta kutipan menurut tingkat stok. Setelah stok virtual Produk (= stok di tangan minus pesanan dikonfirmasi dan reservasi) di bawah kuantitas minimum, Odoo akan menghasilkan permintaan pengadaan untuk meningkatkan stok sampai jumlah maksimum."
+msgstr "Anda dapat menentukan aturan stok Anda minimal, sehingga ERP akan secara otomatis membuat pesanan pembuatan draft atau meminta kutipan menurut tingkat stok. Setelah stok virtual Produk (= stok di tangan minus pesanan dikonfirmasi dan reservasi) di bawah kuantitas minimum, ERP akan menghasilkan permintaan pengadaan untuk meningkatkan stok sampai jumlah maksimum."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.view_inventory_form
@@ -6798,8 +6798,8 @@ msgstr "Anda harus memilih unit ukuran produk dalam kategori yang sama daripada 
 #: model:ir.ui.view,arch_db:stock.view_immediate_transfer
 msgid ""
 "You haven't set processed quantities. If you click <i>apply</i>,\n"
-"                        Odoo will process all quantities to do."
-msgstr "Anda belum menentukan jumlah yang diproses. Jika Anda klik <i>menerapkan</i>, Odoo akan memproses semua jumlah untuk melakukan."
+"                        ERP will process all quantities to do."
+msgstr "Anda belum menentukan jumlah yang diproses. Jika Anda klik <i>menerapkan</i>, ERP akan memproses semua jumlah untuk melakukan."
 
 #. module: stock
 #: code:addons/stock/wizard/stock_return_picking.py:48
@@ -6917,21 +6917,21 @@ msgstr "misalnya PO0032"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or let "
-"Odoo do it automatically while validating"
-msgstr "baik dengan manual memperbarui kuantitas dilakukan pada lini produk, atau membiarkan Odoo melakukannya secara otomatis sementara memvalidasi"
+"ERP do it automatically while validating"
+msgstr "baik dengan manual memperbarui kuantitas dilakukan pada lini produk, atau membiarkan ERP melakukannya secara otomatis sementara memvalidasi"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or scan "
-"them with the Odoo Barcode app, or let Odoo do it automatically while "
+"them with the ERP Barcode app, or let ERP do it automatically while "
 "validating"
-msgstr "baik dengan manual memperbarui kuantitas dilakukan pada lini produk, atau scan mereka dengan aplikasi Odoo Barcode, atau membiarkan Odoo melakukannya secara otomatis sementara memvalidasi"
+msgstr "baik dengan manual memperbarui kuantitas dilakukan pada lini produk, atau scan mereka dengan aplikasi ERP Barcode, atau membiarkan ERP melakukannya secara otomatis sementara memvalidasi"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "feedback@mail.odoo.com"
-msgstr "feedback@mail.odoo.com"
+msgid "feedback@mail.erp.com"
+msgstr "feedback@mail.erp.com"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner

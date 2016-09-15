@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * account
 # 
@@ -34,7 +34,7 @@
 # Wolfgang Taferner, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-17 14:09+0000\n"
 "PO-Revision-Date: 2016-06-02 13:25+0000\n"
@@ -338,8 +338,8 @@ msgstr "<span class=\"panel-title\">\n<strong>Buchen Sie ihre Rechnungen</strong
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_journal_dashboard_kanban_view
-msgid "<span title=\"Balance in Odoo\">Balance in Odoo</span>"
-msgstr "<span title=\"Saldo in Odoo\">Saldo in Odoo</span>"
+msgid "<span title=\"Balance in ERP\">Balance in ERP</span>"
+msgstr "<span title=\"Saldo in ERP\">Saldo in ERP</span>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_journal_dashboard_kanban_view
@@ -403,8 +403,8 @@ msgstr "<span>Ansicht</span>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "<strong>-The Odoo Team</strong>"
-msgstr "<strong>- Das Odoo-Team</strong>"
+msgid "<strong>-The ERP Team</strong>"
+msgstr "<strong>- Das ERP-Team</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -491,9 +491,9 @@ msgstr "<strong>Erstellen Sie einen Einzahlungbeleg</strong> <br/> Dies ermögli
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"<strong>Create the bill in Odoo</strong><br/> with a proper due date, and "
+"<strong>Create the bill in ERP</strong><br/> with a proper due date, and "
 "create the vendor if it doesnt' exist yet."
-msgstr "<strong> Erstellen Sie die Rechnung in Odoo </strong> <br/> mit einem passenden Fälligkeitsdatum, und erstellen Sie den Lieferanten, wenn es ihn noch nicht gibt."
+msgstr "<strong> Erstellen Sie die Rechnung in ERP </strong> <br/> mit einem passenden Fälligkeitsdatum, und erstellen Sie den Lieferanten, wenn es ihn noch nicht gibt."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.report_invoice_document
@@ -616,8 +616,8 @@ msgstr "<strong>Bankauszug abgleichen</strong>"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "<strong>Reconcile with existing transaction</strong><br/>\n"
-"                                        In this case, Odoo should automatically match the bank statement with the previously recorded check transaction."
-msgstr "<strong>Gleichen Sie mit bestehendem Vorgang aus</strong><br/>\n                                        In diesem Fall wird Odoo versuchen, den Kontoauszug mit einer zuvor verzeichneten Scheckzahlung abzustimmen."
+"                                        In this case, ERP should automatically match the bank statement with the previously recorded check transaction."
+msgstr "<strong>Gleichen Sie mit bestehendem Vorgang aus</strong><br/>\n                                        In diesem Fall wird ERP versuchen, den Kontoauszug mit einer zuvor verzeichneten Scheckzahlung abzustimmen."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -702,14 +702,14 @@ msgstr "<strong>Filter Buchungen:</strong>"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "<strong>Test the following three scenarios in order to assist you in "
-"familiarizing yourself with Odoo:</strong>"
-msgstr "<strong>Testen Sie die folgenden drei Szenarios, damit Sie sich schon mal mit Odoo vertraut machen können:</strong>"
+"familiarizing yourself with ERP:</strong>"
+msgstr "<strong>Testen Sie die folgenden drei Szenarios, damit Sie sich schon mal mit ERP vertraut machen können:</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"<strong>There are three different levels of access rights in Odoo:</strong>"
-msgstr "<strong>Es gibt drei verschiedene Stufen der Zugriffsrechte in Odoo:</strong>"
+"<strong>There are three different levels of access rights in ERP:</strong>"
+msgstr "<strong>Es gibt drei verschiedene Stufen der Zugriffsrechte in ERP:</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.report_overdue_document
@@ -796,10 +796,10 @@ msgstr "Eine Liste von Zahlungsbedingungen Ihrer Kunden und Lieferanten."
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"A product in Odoo is something you sell or buy \n"
+"A product in ERP is something you sell or buy \n"
 "                        whether or not it is goods, consumables, or services.\n"
 "                        Choose how you want to create your products:"
-msgstr "Produkte in Odoo, die entweder Lagerartikel, Verbrauchswaren oder Dienstleistungen sind, können sowohl ein- als auch verkauft werden. Wählen Sie, wie Sie Ihre Produkte erstellen möchten:"
+msgstr "Produkte in ERP, die entweder Lagerartikel, Verbrauchswaren oder Dienstleistungen sind, können sowohl ein- als auch verkauft werden. Wählen Sie, wie Sie Ihre Produkte erstellen möchten:"
 
 #. module: account
 #: code:addons/account/models/account_move.py:685
@@ -1307,12 +1307,12 @@ msgstr "Saldo Partner nach Alter"
 #: model:ir.ui.view,arch_db:account.account_aged_balance_view
 msgid ""
 "Aged Partner Balance is a more detailed report of your receivables by "
-"intervals. When opening that report, Odoo asks for the name of the company, "
-"the Start Date and the size of the interval to be analyzed (in days). Odoo "
+"intervals. When opening that report, ERP asks for the name of the company, "
+"the Start Date and the size of the interval to be analyzed (in days). ERP "
 "then calculates a table of credit balance by start Date. So if you request "
-"an interval of 30 days Odoo generates an analysis of creditors for the past "
+"an interval of 30 days ERP generates an analysis of creditors for the past "
 "month, past two months, and so on."
-msgstr "Die Alterstruktur Auswertung für Kunden ist eine speziellere Auswertung Ihrer Debitoren aufgeteilt in zeitliche Intervalle. Wenn Sie diesen Bericht öffnen, fragt Odoo nach dem Unternehmen, der Periode und dem Zeitintervall für die Auswertung (in Tagen). Odoo berechnet dann eine Tabelle mit Kundensalden nach Perioden. Wenn Sie eine Intervalle von 30 Tagen eingeben, erzeugt Odoo eine Auswertung der Salden für den letzten Monat, vorletzten Monat usw."
+msgstr "Die Alterstruktur Auswertung für Kunden ist eine speziellere Auswertung Ihrer Debitoren aufgeteilt in zeitliche Intervalle. Wenn Sie diesen Bericht öffnen, fragt ERP nach dem Unternehmen, der Periode und dem Zeitintervall für die Auswertung (in Tagen). ERP berechnet dann eine Tabelle mit Kundensalden nach Perioden. Wenn Sie eine Intervalle von 30 Tagen eingeben, erzeugt ERP eine Auswertung der Salden für den letzten Monat, vorletzten Monat usw."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.report_agedpartnerbalance
@@ -3601,8 +3601,8 @@ msgstr "Kasse beenden"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "Enjoy your Odoo experience,"
-msgstr "Genießen Sie die Erfahrung mit Odoo,"
+msgid "Enjoy your ERP experience,"
+msgstr "Genießen Sie die Erfahrung mit ERP,"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_move_line_form
@@ -3937,9 +3937,9 @@ msgstr "Für Prozent geben Sie eine Zahl zwischen 0-100 ein."
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the ERP Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
-msgstr "Für das Odoo Team,<br/>\nFabien Pinckaers, Gründer"
+msgstr "Für das ERP Team,<br/>\nFabien Pinckaers, Gründer"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_account_currency_id
@@ -4040,16 +4040,16 @@ msgstr "Nehmen Sie die Bankauszüge Ihrer Bank und importieren Sie diese auf pla
 #. module: account
 #: model:ir.model.fields,help:account.field_account_config_settings_module_account_bank_statement_import_ofx
 msgid ""
-"Get your bank statements from your bank and import them in Odoo in the .OFX format.\n"
+"Get your bank statements from your bank and import them in ERP in the .OFX format.\n"
 "This installs the module account_bank_statement_import_ofx."
-msgstr "Nehmen Sie die Bankauszüge Ihrer Bank und importieren Sie diese in Odoo im .OFX Format.  Es wird das Modul \"account_bank_statement_import_ofx\" installiert."
+msgstr "Nehmen Sie die Bankauszüge Ihrer Bank und importieren Sie diese in ERP im .OFX Format.  Es wird das Modul \"account_bank_statement_import_ofx\" installiert."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_config_settings_module_account_bank_statement_import_qif
 msgid ""
-"Get your bank statements from your bank and import them in Odoo in the .QIF format.\n"
+"Get your bank statements from your bank and import them in ERP in the .QIF format.\n"
 "This installs the module account_bank_statement_import_qif."
-msgstr "Nehmen Sie die Bankauszüge Ihrer Bank und importieren Sie diese in Odoo im .OFX Format.  Es wird das Modul \"account_bank_statement_import_qif\" installiert."
+msgstr "Nehmen Sie die Bankauszüge Ihrer Bank und importieren Sie diese in ERP im .OFX Format.  Es wird das Modul \"account_bank_statement_import_qif\" installiert."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_config_settings_module_account_yodlee
@@ -4370,17 +4370,17 @@ msgstr "Wenn Sie Zahlungsbedingungen verwenden, wird das Fälligkeitsdatum autom
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"If you want to be able to send customer statements from Odoo, you must:"
-msgstr "Wenn Sie Kunden Kontoauszüge aus Odoo heraus zusenden möchten, müssen Sie:"
+"If you want to be able to send customer statements from ERP, you must:"
+msgstr "Wenn Sie Kunden Kontoauszüge aus ERP heraus zusenden möchten, müssen Sie:"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "If you want to be able to send your customers their statements \n"
-"                        from Odoo, you first need to record all outstanding transactions \n"
+"                        from ERP, you first need to record all outstanding transactions \n"
 "                        in the payable and receivable accounts. These would be invoices \n"
 "                        that have not been paid or payments that have not been reconciled."
-msgstr "Wenn Sie aus Odoo dem Kunden ihre Kontoauszüge zusenden \nmöchten, müssen Sie zunächst alle ausstehenden Vorgänge der \nVerbindlichkeiten und Forderungen einpflegen. Dies sind noch nicht \nbezahlte Rechnungen oder noch nicht ausgeglichene Gutschriften."
+msgstr "Wenn Sie aus ERP dem Kunden ihre Kontoauszüge zusenden \nmöchten, müssen Sie zunächst alle ausstehenden Vorgänge der \nVerbindlichkeiten und Forderungen einpflegen. Dies sind noch nicht \nbezahlte Rechnungen oder noch nicht ausgeglichene Gutschriften."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -4416,8 +4416,8 @@ msgstr "Import Ihrer Kontoauszüge mittels unterstütztem Dateiformat (QIF, OFX,
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "In Odoo,"
-msgstr "In Odoo,"
+msgid "In ERP,"
+msgstr "In ERP,"
 
 #. module: account
 #: code:addons/account/models/account_bank_statement.py:400
@@ -4798,9 +4798,9 @@ msgid ""
 "It's common practice to change your accounting software \n"
 "                            at the end of a fiscal year. This allows you to have less \n"
 "                            data to import and balances to set. If you plan to do so, \n"
-"                            we recommend you start using Odoo for invoicing and payments \n"
+"                            we recommend you start using ERP for invoicing and payments \n"
 "                            now, and then move all other accounting transactions at a later time."
-msgstr "Es ist gängige Praxis, die Software der Buchhaltung am Ende eines Geschäftsjahres zu wechseln. Hierdurch sind zum einen weniger Daten zu importieren und zum anderen kann die Anzahl der erforderlichen Eröffnungsbuchungen reduziert werden. Wenn Sie dies vorhaben, empfehlen wir Ihnen Odoo jetzt schon für Rechnungen und Zahlungen zu verwenden und erst zu einem späteren Zeitpunkt die Vortragsbuchungen zu übernehmen."
+msgstr "Es ist gängige Praxis, die Software der Buchhaltung am Ende eines Geschäftsjahres zu wechseln. Hierdurch sind zum einen weniger Daten zu importieren und zum anderen kann die Anzahl der erforderlichen Eröffnungsbuchungen reduziert werden. Wenn Sie dies vorhaben, empfehlen wir Ihnen ERP jetzt schon für Rechnungen und Zahlungen zu verwenden und erst zu einem späteren Zeitpunkt die Vortragsbuchungen zu übernehmen."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -5436,18 +5436,18 @@ msgstr "Mai"
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal_inbound_payment_method_ids
 msgid ""
-"Means of payment for collecting money. Odoo modules offer various payments "
+"Means of payment for collecting money. ERP modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
-msgstr "Zahlwege um Geld einzufordern. Odoo-Module bieten verschiedene Einrichtungen, um mit Zahlungen umzugehen, immer jedoch den 'manuelle' Zahlweg, um Zahlungen extern zur Software abzuwickeln."
+msgstr "Zahlwege um Geld einzufordern. ERP-Module bieten verschiedene Einrichtungen, um mit Zahlungen umzugehen, immer jedoch den 'manuelle' Zahlweg, um Zahlungen extern zur Software abzuwickeln."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal_outbound_payment_method_ids
 msgid ""
-"Means of payment for sending money. Odoo modules offer various payments "
+"Means of payment for sending money. ERP modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
-msgstr "Zahlwege um Geld zu überweisen. Odoo-Module bieten verschiedene Einrichtungen, um mit Zahlungen umzugehen, immer jedoch den 'manuelle' Zahlweg, um Zahlungen extern zur Software abzuwickeln."
+msgstr "Zahlwege um Geld zu überweisen. ERP-Module bieten verschiedene Einrichtungen, um mit Zahlungen umzugehen, immer jedoch den 'manuelle' Zahlweg, um Zahlungen extern zur Software abzuwickeln."
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_abstract_payment_communication
@@ -5797,62 +5797,62 @@ msgstr "Oktober"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "Odoo Accounting has many free extra-features:"
-msgstr "Odoo-Buchhaltung beinhaltet viele kostenfreie Leistungen:"
+msgid "ERP Accounting has many free extra-features:"
+msgstr "ERP-Buchhaltung beinhaltet viele kostenfreie Leistungen:"
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_bank_statement_line
 msgid ""
-"Odoo allows you to reconcile a statement line directly with\n"
+"ERP allows you to reconcile a statement line directly with\n"
 "                the related sale or puchase invoice(s)."
-msgstr "Odoo erlaubt Ihnen den Ausgleich von Auszugspositionen \ndirekt gegen zugehörige Verkaufs- oder Einkaufsbelege."
+msgstr "ERP erlaubt Ihnen den Ausgleich von Auszugspositionen \ndirekt gegen zugehörige Verkaufs- oder Einkaufsbelege."
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_bank_statement_tree
 msgid ""
-"Odoo allows you to reconcile a statement line directly with\n"
+"ERP allows you to reconcile a statement line directly with\n"
 "                the related sale or puchase invoices."
-msgstr "Odoo erlaubt Ihnen den Ausgleich von Auszugspositionen \ndirekt gegen zugehörige Verkaufs- oder Einkaufsbelege."
+msgstr "ERP erlaubt Ihnen den Ausgleich von Auszugspositionen \ndirekt gegen zugehörige Verkaufs- oder Einkaufsbelege."
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_move_journal_line
 msgid ""
-"Odoo automatically creates one journal entry per accounting\n"
+"ERP automatically creates one journal entry per accounting\n"
 "                document: invoice, refund, vendor payment, bank statements,\n"
 "                etc. So, you should record journal entries manually only/mainly\n"
 "                for miscellaneous operations."
-msgstr "Odoo legt automatisch einen Buchungssatz für Geschäftsvorfälle wie Rechnung, Gutschrift, Lieferantenzahlung, Kontoauszugsposition, etc., an. Sie müssen also lediglich für sonstige Buchungen auf Sachkonten einen Buchungssatz per Hand erstellen."
+msgstr "ERP legt automatisch einen Buchungssatz für Geschäftsvorfälle wie Rechnung, Gutschrift, Lieferantenzahlung, Kontoauszugsposition, etc., an. Sie müssen also lediglich für sonstige Buchungen auf Sachkonten einen Buchungssatz per Hand erstellen."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"Odoo can manage multiple companies, but we suggest to setup everything for "
+"ERP can manage multiple companies, but we suggest to setup everything for "
 "your first company before configuring the other ones."
-msgstr "Odoo kann mehrere Unternehmen verwalten, aber wir empfehlen zunächst einmal alles zu Ihrem ersten Unternehmen einzurichten, bevor Sie die anderen einstellen."
+msgstr "ERP kann mehrere Unternehmen verwalten, aber wir empfehlen zunächst einmal alles zu Ihrem ersten Unternehmen einzurichten, bevor Sie die anderen einstellen."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"Odoo has already preconfigured a few taxes according to your "
+"ERP has already preconfigured a few taxes according to your "
 "country.<br/>Simply review them and check if you need more."
-msgstr "Odoo hat bereits einige Ihrem Land entsprechende Steuern voreingestellt.<br/>Prüfen Sie diese einfach und schauen dann, ob Sie gegebenenfalls mehr benötigen."
+msgstr "ERP hat bereits einige Ihrem Land entsprechende Steuern voreingestellt.<br/>Prüfen Sie diese einfach und schauen dann, ob Sie gegebenenfalls mehr benötigen."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"Odoo should do most of the reconciliation work automatically, so you'll only"
+"ERP should do most of the reconciliation work automatically, so you'll only"
 " need to review a few of them when a <strong>'Reconcile Items'</strong> "
 "button appears on your Vendor Bills dash."
-msgstr "Odoo sollte bereits viele offene Rechnungen automatisch ausgleichen, so dass Sie nur dann selbst prüfen müssen, wenn der <strong>'Posten ausgleichen'</strong>-Button auf Ihrer Übersicht für Lieferantenrechungen erscheint."
+msgstr "ERP sollte bereits viele offene Rechnungen automatisch ausgleichen, so dass Sie nur dann selbst prüfen müssen, wenn der <strong>'Posten ausgleichen'</strong>-Button auf Ihrer Übersicht für Lieferantenrechungen erscheint."
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_invoice_tree1
 msgid ""
-"Odoo's electronic invoicing allows to ease and fasten the\n"
+"ERP's electronic invoicing allows to ease and fasten the\n"
 "                collection of customer payments. Your customer receives the\n"
 "                invoice by email and he can pay online and/or import it\n"
 "                in his own system."
-msgstr "Odoo's elektronische Abrechnung erlaubt einen einfachen und schnellen Rechnungsausgleich. Ihr Kunde erhält die Rechnung per Email und kann diese sofort online begleichen und/oder diese in sein eigenes System importieren."
+msgstr "ERP's elektronische Abrechnung erlaubt einen einfachen und schnellen Rechnungsausgleich. Ihr Kunde erhält die Rechnung per Email und kann diese sofort online begleichen und/oder diese in sein eigenes System importieren."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_invoice_confirm_view
@@ -6393,8 +6393,8 @@ msgstr "Paypal-Konto"
 msgid ""
 "Paypal account (email) for receiving online payments (credit card, etc.)\n"
 "             If you set a paypal account, the customer  will be able to pay your invoices or quotations\n"
-"             with a button \"Pay with  Paypal\" in automated emails or through the Odoo portal."
-msgstr "Paypal-Konto (Email) zum Erhalt von Onlinezahlungen (Kreditkarte, etc.)\nWenn Sie ein Paypal-Konto angeben, können Kunden Rechnungen oder \nAngebote mittels \"Zahlen mit Paypal\"-Button in automatisierten\nEmails oder im Odoo-Portal begleichen."
+"             with a button \"Pay with  Paypal\" in automated emails or through the ERP portal."
+msgstr "Paypal-Konto (Email) zum Erhalt von Onlinezahlungen (Kreditkarte, etc.)\nWenn Sie ein Paypal-Konto angeben, können Kunden Rechnungen oder \nAngebote mittels \"Zahlen mit Paypal\"-Button in automatisierten\nEmails oder im ERP-Portal begleichen."
 
 #. module: account
 #: model:ir.model.fields,help:account.field_res_company_paypal_account
@@ -7016,8 +7016,8 @@ msgstr "Erfasse Zahlungen für mehrere Rechnungen"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "Registering outstanding invoices and payments can be a huge undertaking, \n"
-"                        but you can start using Odoo without it by:"
-msgstr "Offene Rechnungen und Zahlungen zu pflegen, kann ein grosses Unterfangen sein.\nSie können mit Odoo jedoch auch ohne dies beginnen, indem Sie:"
+"                        but you can start using ERP without it by:"
+msgstr "Offene Rechnungen und Zahlungen zu pflegen, kann ein grosses Unterfangen sein.\nSie können mit ERP jedoch auch ohne dies beginnen, indem Sie:"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -8346,9 +8346,9 @@ msgstr "Dieses Feld wird zur Aufzeichnung eines unbekannten Namens genutzt, wenn
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"This guide will help you get started with Odoo Accounting.\n"
+"This guide will help you get started with ERP Accounting.\n"
 "                        Once you're done, you'll benefit from:"
-msgstr "Dieser Assistent hilft Ihnen beim Einstieg in die Odoo-Buchhaltung.\nNach Abschluß profitieren Sie wie folgt:"
+msgstr "Dieser Assistent hilft Ihnen beim Einstieg in die ERP-Buchhaltung.\nNach Abschluß profitieren Sie wie folgt:"
 
 #. module: account
 #: model:ir.actions.act_window,help:account.open_account_journal_dashboard_kanban
@@ -8496,10 +8496,10 @@ msgstr "Zu Bezahlen"
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"To manage the tax applied when invoicing a Company, Odoo uses the concept of"
+"To manage the tax applied when invoicing a Company, ERP uses the concept of"
 " Fiscal Position: they serve to automatically set the right tax and/or "
 "account according to the customer country and state."
-msgstr "Um die bei Abrechnungen anderer Unternehmen anzuwendenden Steuern zu verwalten, verwendet Odoo das Prinzip der Steuerzuordnungen: Diese Regeln steuern die Buchung von Steuerbeträgen und der zu verwendenden Buchungskonten."
+msgstr "Um die bei Abrechnungen anderer Unternehmen anzuwendenden Steuern zu verwalten, verwendet ERP das Prinzip der Steuerzuordnungen: Diese Regeln steuern die Buchung von Steuerbeträgen und der zu verwendenden Buchungskonten."
 
 #. module: account
 #: code:addons/account/models/account_move.py:776
@@ -9002,19 +9002,19 @@ msgstr "Warnung!"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
-msgstr "Wir übernehmen den gesamten Importvorgang \nfür Sie: Senden Sie Ihrem Odoo-Projektmanager\neine CSV-Datei mit all Ihren Daten."
+msgstr "Wir übernehmen den gesamten Importvorgang \nfür Sie: Senden Sie Ihrem ERP-Projektmanager\neine CSV-Datei mit all Ihren Daten."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
-msgstr "Wir übernehmen den gesamten Importvorgang \nfür Sie: Senden Sie Ihrem Odoo-Projektmanager\neine CSV-Datei mit all Ihren Produkten."
+msgstr "Wir übernehmen den gesamten Importvorgang \nfür Sie: Senden Sie Ihrem ERP-Projektmanager\neine CSV-Datei mit all Ihren Produkten."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -9525,13 +9525,13 @@ msgstr "z. B. Bankgebühren"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.view_account_config_settings
-msgid "e.g. sales@odoo.com"
-msgstr "z. B. sales@odoo.com"
+msgid "e.g. sales@erp.com"
+msgstr "z. B. sales@erp.com"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid "fast recording interface"
-msgstr "die performante Odoo Benutzeroberfläche zur Schnellerfassung."
+msgstr "die performante ERP Benutzeroberfläche zur Schnellerfassung."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner

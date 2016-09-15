@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 from openerp import SUPERUSER_ID
 from openerp.osv import fields, osv
@@ -35,7 +35,7 @@ class crm_team(osv.Model):
         'company_id': fields.many2one('res.company', 'Company'),
         'user_id': fields.many2one('res.users', 'Team Leader'),
         'member_ids': fields.one2many('res.users', 'sale_team_id', 'Team Members'),
-        'reply_to': fields.char('Reply-To', size=64, help="The email address put in the 'Reply-To' of all emails sent by Odoo about cases in this sales team"),
+        'reply_to': fields.char('Reply-To', size=64, help="The email address put in the 'Reply-To' of all emails sent by ERP about cases in this sales team"),
         'working_hours': fields.float('Working Hours', digits=(16, 2)),
         'color': fields.integer('Color Index'),
     }

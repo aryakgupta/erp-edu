@@ -1,10 +1,10 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 #	* project_issue
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 9.0\n"
+"Project-Id-Version: ERP Server 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-29 10:25+0000\n"
 "PO-Revision-Date: 2015-09-29 10:25+0000\n"
@@ -698,14 +698,14 @@ msgstr ""
 #. module: project_issue
 #: model:ir.actions.act_window,help:project_issue.act_project_project_2_project_issue_all
 #: model:ir.actions.act_window,help:project_issue.action_view_issues
-msgid "The Odoo issues tacker allows you to efficiently manage things\n"
+msgid "The ERP issues tacker allows you to efficiently manage things\n"
 "                    like internal requests, software development bugs, customer\n"
 "                    complaints, project troubles, material breakdowns, etc."
 msgstr ""
 
 #. module: project_issue
 #: model:ir.actions.act_window,help:project_issue.project_issue_categ_act0
-msgid "The Odoo issues tacker allows you to efficiently manage things\n"
+msgid "The ERP issues tacker allows you to efficiently manage things\n"
 "                like internal requests, software development bugs, customer\n"
 "                complaints, project troubles, material breakdowns, etc."
 msgstr ""

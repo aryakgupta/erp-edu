@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * product
 # 
@@ -7,7 +7,7 @@
 # Karolina Tonković <karolina.tonkovic@storm.hr>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-29 10:26+0000\n"
 "PO-Revision-Date: 2016-01-14 10:10+0000\n"
@@ -3361,8 +3361,8 @@ msgstr "npr. Lamps"
 
 #. module: product
 #: model:ir.ui.view,arch_db:product.product_variant_easy_edit_view
-msgid "e.g. Odoo Enterprise Susbcription"
-msgstr "npr. Odoo Enterprise Susbcription"
+msgid "e.g. ERP Enterprise Susbcription"
+msgstr "npr. ERP Enterprise Susbcription"
 
 #. module: product
 #: model:ir.ui.view,arch_db:product.product_pricelist_view

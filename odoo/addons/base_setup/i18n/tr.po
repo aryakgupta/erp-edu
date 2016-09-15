@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * base_setup
 # 
@@ -8,7 +8,7 @@
 # Seher Gülen <sehergulen@hotmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-29 10:25+0000\n"
 "PO-Revision-Date: 2016-02-29 15:58+0000\n"
@@ -237,8 +237,8 @@ msgstr "Portal erişimi"
 
 #. module: base_setup
 #: model:ir.model.fields,help:base_setup.field_base_config_settings_module_share
-msgid "Share or embbed any screen of Odoo."
-msgstr "Herhangi bir Odoo ekranını paylaş veya embed kodu oluştur."
+msgid "Share or embbed any screen of ERP."
+msgstr "Herhangi bir ERP ekranını paylaş veya embed kodu oluştur."
 
 #. module: base_setup
 #: model:ir.model.fields,field_description:base_setup.field_base_config_settings_company_share_partner

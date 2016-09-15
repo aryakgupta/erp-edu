@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 from openerp.osv import fields, osv
 
@@ -13,7 +13,7 @@ class base_config_settings(osv.osv_memory):
             help='Work in multi-company environments, with appropriate security access between companies.',
             implied_group='base.group_light_multi_company'),
         'module_share': fields.boolean('Allow documents sharing',
-            help="""Share or embbed any screen of Odoo."""),
+            help="""Share or embbed any screen of ERP."""),
         'module_portal': fields.boolean('Activate the customer portal',
             help="""Give your customers access to their documents."""),
         'module_auth_oauth': fields.boolean('Use external authentication providers, sign in with Google...'),

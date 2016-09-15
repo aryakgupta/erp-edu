@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
     'name': 'PosBox Software Upgrader',
     'version': '1.0',
     'category': 'Point of Sale',
-    'website': 'https://www.odoo.com/page/point-of-sale',
+    'website': 'https://www.erp.com/page/point-of-sale',
     'sequence': 6,
     'summary': 'Allows to remotely upgrade the PosBox software',
     'description': """

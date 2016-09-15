@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_hr_recruitment
 # 
@@ -6,7 +6,7 @@
 # Matjaž Mozetič <m.mozetic@matmoz.si>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:41+0000\n"
 "PO-Revision-Date: 2015-11-13 11:48+0000\n"
@@ -196,10 +196,10 @@ msgstr "Meta naziv spletne strani"
 msgid ""
 "With a small team of smart people, we released the most\n"
 "                                    disruptive enterprise management software in the world.\n"
-"                                    Odoo is fully open source, super easy, full featured\n"
+"                                    ERP is fully open source, super easy, full featured\n"
 "                                    (3000+ apps) and its online offer is 3 times cheaper than\n"
 "                                    traditional competitors like SAP and Ms Dynamics."
-msgstr "Z majhno ekipo bistrih ljudi smo izdali najbolj\n                                    prebojno programsko opremo za upravljanje podjetij na svetu.\n                                    Odoo je popolnoma odprta koda, zelo enostaven, poln funkcij\n                                    (3000+ aplikacij) in njegova spletna ponudba je 3 krat cenejša od\n                                    tradicionalne konkurence kot SAP in MS Dynamics."
+msgstr "Z majhno ekipo bistrih ljudi smo izdali najbolj\n                                    prebojno programsko opremo za upravljanje podjetij na svetu.\n                                    ERP je popolnoma odprta koda, zelo enostaven, poln funkcij\n                                    (3000+ aplikacij) in njegova spletna ponudba je 3 krat cenejša od\n                                    tradicionalne konkurence kot SAP in MS Dynamics."
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.apply

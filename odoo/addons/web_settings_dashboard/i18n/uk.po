@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * web_settings_dashboard
 # 
@@ -8,7 +8,7 @@
 # ТАрас <tratatuta@i.ua>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-06-17 08:01+0000\n"
 "PO-Revision-Date: 2016-06-17 08:57+0000\n"
@@ -81,8 +81,8 @@ msgstr "Введіть e-mail адреси (по одній в рядок)"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:92
 #, python-format
-msgid "Follow these implementation guides to get the most out of Odoo."
-msgstr "Слідуйте цим посібникам, щоб отримати максимум від Odoo."
+msgid "Follow these implementation guides to get the most out of ERP."
+msgstr "Слідуйте цим посібникам, щоб отримати максимум від ERP."
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -95,8 +95,8 @@ msgstr "Отримайте більше можливостей з корпора
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:131
 #, python-format
-msgid "Help us spread the word: Share Odoo's awesomeness with your friends!"
-msgstr "Допоможіть нам розповсюдитись: поділіться крутістю Odoo з друзями!"
+msgid "Help us spread the word: Share ERP's awesomeness with your friends!"
+msgstr "Допоможіть нам розповсюдитись: поділіться крутістю ERP з друзями!"
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -151,8 +151,8 @@ msgstr "Немає встановлених додатків"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:148
 #, python-format
-msgid "Odoo Enterprise"
-msgstr "Odoo Корпоративна"
+msgid "ERP Enterprise"
+msgstr "ERP Корпоративна"
 
 #. module: web_settings_dashboard
 #. openerp-web

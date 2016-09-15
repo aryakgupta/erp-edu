@@ -1,19 +1,19 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * im_livechat
 # 
 # Translators:
 # Loic <loic.richard2@gmail.com>, 2015
-# Lucas Deliege <lud@odoo.com>, 2015
+# Lucas Deliege <lud@erp.com>, 2015
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015-2016
-# Melanie Bernard <mbe@odoo.com>, 2015
+# Melanie Bernard <mbe@erp.com>, 2015
 # Quentin THEURET <quentin@theuret.net>, 2015
 # Shark McGnark <peculiarcheese@gmail.com>, 2016
 # Xavier Symons <xsy@openerp.com>, 2015
 # timo bellanger <bellanger.timo@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-26 12:06+0000\n"
 "PO-Revision-Date: 2016-05-27 16:18+0000\n"
@@ -299,10 +299,10 @@ msgstr "Expliquez votre note"
 #. module: im_livechat
 #: model:ir.ui.view,arch_db:im_livechat.im_livechat_channel_view_form
 msgid ""
-"For website built with Odoo CMS, please install the website_livechat module."
+"For website built with ERP CMS, please install the website_livechat module."
 " Then go to Settings &gt; Website Settings and select the Website Live Chat "
 "Channel you want to add on your website."
-msgstr "Pour les sites web réalisés avec Odoo CMS, installez le module website_livechat. Ensuite, allez dans Paramètres > Site web et sélectionner le canal de discussion que vous voulez ajouter à votre site."
+msgstr "Pour les sites web réalisés avec ERP CMS, installez le module website_livechat. Ensuite, allez dans Paramètres > Site web et sélectionner le canal de discussion que vous voulez ajouter à votre site."
 
 #. module: im_livechat
 #: model:ir.model.fields,help:im_livechat.field_im_livechat_channel_rule_sequence
@@ -794,8 +794,8 @@ msgstr "Canaux de messagerie instantanée du site web"
 
 #. module: im_livechat
 #: model:ir.ui.view,arch_db:im_livechat.support_page
-msgid "Website Live Chat Powered by <strong>Odoo</strong>."
-msgstr "Page de discussion instantanée sponsorisée par <strong>Odoo</strong>."
+msgid "Website Live Chat Powered by <strong>ERP</strong>."
+msgstr "Page de discussion instantanée sponsorisée par <strong>ERP</strong>."
 
 #. module: im_livechat
 #: model:ir.model.fields,field_description:im_livechat.field_im_livechat_channel_default_message

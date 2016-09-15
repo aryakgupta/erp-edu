@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_forum_doc
 # 
@@ -9,7 +9,7 @@
 # Ramiz Deniz Öner <deniz@denizoner.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:41+0000\n"
 "PO-Revision-Date: 2016-05-02 10:12+0000\n"
@@ -169,13 +169,13 @@ msgstr "Hata! Özyinelenen kategoriler oluşturamazsınız."
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to configure in Odoo"
-msgstr "Odoo yapılandırmak nasıl açıklamak"
+msgid "Explain how to configure in ERP"
+msgstr "ERP yapılandırmak nasıl açıklamak"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to implement it in Odoo"
-msgstr "Odoo'da nasıl implementasyon yapıldığını açıklamak"
+msgid "Explain how to implement it in ERP"
+msgstr "ERP'da nasıl implementasyon yapıldığını açıklamak"
 
 #. module: website_forum_doc
 #: model:ir.model.fields,field_description:website_forum_doc.field_forum_documentation_toc_forum_id
@@ -386,8 +386,8 @@ msgstr "Aşama"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "The answer is understandable for someone who does not know Odoo"
-msgstr "Cevap Odoo bilmiyor kimse için anlaşılabilir bir durumdur"
+msgid "The answer is understandable for someone who does not know ERP"
+msgstr "Cevap ERP bilmiyor kimse için anlaşılabilir bir durumdur"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question

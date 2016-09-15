@@ -251,7 +251,7 @@
             </field>
             <field name="help" type="html">
                 <p>
-                    The Odoo issues tacker allows you to efficiently manage things
+                    The ERP issues tacker allows you to efficiently manage things
                     like internal requests, software development bugs, customer
                     complaints, project troubles, material breakdowns, etc.
                 </p>
@@ -311,7 +311,7 @@
             <field name="view_mode">kanban,tree,form,calendar,graph</field>
             <field name="help" type="html">
                 <p>
-                    The Odoo issues tacker allows you to efficiently manage things
+                    The ERP issues tacker allows you to efficiently manage things
                     like internal requests, software development bugs, customer
                     complaints, project troubles, material breakdowns, etc.
                 </p>

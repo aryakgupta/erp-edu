@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * web_settings_dashboard
 # 
@@ -6,7 +6,7 @@
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-06-17 08:01+0000\n"
 "PO-Revision-Date: 2016-06-26 21:30+0000\n"
@@ -79,8 +79,8 @@ msgstr "Ingrese los correos electrónicos (uno por línea)"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:92
 #, python-format
-msgid "Follow these implementation guides to get the most out of Odoo."
-msgstr "Siga estas guías de implementación para obtener el máximo provecho de Odoo."
+msgid "Follow these implementation guides to get the most out of ERP."
+msgstr "Siga estas guías de implementación para obtener el máximo provecho de ERP."
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -93,8 +93,8 @@ msgstr "¡Obtenga más características con la Edición Enterprise!"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:131
 #, python-format
-msgid "Help us spread the word: Share Odoo's awesomeness with your friends!"
-msgstr "¡Ayúdanos a difundir la palabra: Comparte lo genial de Odoo con tus amigos!"
+msgid "Help us spread the word: Share ERP's awesomeness with your friends!"
+msgstr "¡Ayúdanos a difundir la palabra: Comparte lo genial de ERP con tus amigos!"
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -149,8 +149,8 @@ msgstr "Sin aplicaciones instaladas"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:148
 #, python-format
-msgid "Odoo Enterprise"
-msgstr "Odoo Enterprise"
+msgid "ERP Enterprise"
+msgstr "ERP Enterprise"
 
 #. module: web_settings_dashboard
 #. openerp-web

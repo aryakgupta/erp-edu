@@ -6,7 +6,7 @@
     'summary': 'Website Live Chat with Visitors/Customers',
     'category': 'Website',
     'complexity': 'easy',
-    'website': 'https://www.odoo.com/page/live-chat',
+    'website': 'https://www.erp.com/page/live-chat',
     'description':
         """
 Website Live Chat Support

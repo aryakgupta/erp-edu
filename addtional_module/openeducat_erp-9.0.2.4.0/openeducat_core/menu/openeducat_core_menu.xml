@@ -2,7 +2,7 @@
 <openerp>
     <data>
         <!-- Openeducat Menu -->
-        <menuitem id="menu_op_school_root" name="OpenEduCat"
+        <menuitem id="menu_op_school_root" name="ERP"
             sequence="10" groups="group_op_back_office,group_op_back_office_admin"
             web_icon="openeducat_core,static/description/icon_core.png" />
 

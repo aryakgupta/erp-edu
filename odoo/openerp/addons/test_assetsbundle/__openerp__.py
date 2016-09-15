@@ -4,8 +4,8 @@
     'version': '0.1',
     'category': 'Tests',
     'description': """A module to verify the Assets Bundle mechanism.""",
-    'maintainer': 'Odoo SA',
-    'website': 'https://www.odoo.com',
+    'maintainer': 'ERP SA',
+    'website': 'https://www.erp.com',
     'depends': ['base'],
     'installable': True,
     'data': [

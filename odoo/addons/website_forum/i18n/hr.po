@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_forum
 # 
@@ -7,7 +7,7 @@
 # Karolina Tonković <karolina.tonkovic@storm.hr>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-26 14:10+0000\n"
 "PO-Revision-Date: 2016-05-13 12:03+0000\n"
@@ -2527,8 +2527,8 @@ msgstr ""
 #: model:forum.forum,faq:website_forum.forum_help
 msgid ""
 "The goal of this site is create a relevant knowledge base that would answer\n"
-"    questions related to Odoo."
-msgstr "Cilj ove stranice je stvoriti relevantnu bazu znanja koja će odgovoriti\nna pitanja povezana sa Odoo."
+"    questions related to ERP."
+msgstr "Cilj ove stranice je stvoriti relevantnu bazu znanja koja će odgovoriti\nna pitanja povezana sa ERP."
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.moderation_queue
@@ -3021,8 +3021,8 @@ msgstr "dupliciraj objavu"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.new_link
-msgid "e.g. https://www.odoo.com"
-msgstr "npr. https://www.odoo.com"
+msgid "e.g. https://www.erp.com"
+msgstr "npr. https://www.erp.com"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.faq
@@ -3078,8 +3078,8 @@ msgstr "ovdje"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "how to configure or customize Odoo to specific business needs,"
-msgstr "kako konfigurirati ili prilagoditi Odoo specifičnim poslovnim potrebama,"
+msgid "how to configure or customize ERP to specific business needs,"
+msgstr "kako konfigurirati ili prilagoditi ERP specifičnim poslovnim potrebama,"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
@@ -3088,8 +3088,8 @@ msgstr "kako razviti module za vlastite potrebe,"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "how to install Odoo on a specific infrastructure,"
-msgstr "kako instalirati Odoo na određenu infrastrukturu,"
+msgid "how to install ERP on a specific infrastructure,"
+msgstr "kako instalirati ERP na određenu infrastrukturu,"
 
 #. module: website_forum
 #. openerp-web
@@ -3204,7 +3204,7 @@ msgstr "spam ili oglašavanje"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "specific questions about Odoo service offers, etc."
+msgid "specific questions about ERP service offers, etc."
 msgstr ""
 
 #. module: website_forum
@@ -3288,7 +3288,7 @@ msgstr "web stranica"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "what's the best way to use Odoo for a specific business need,"
+msgid "what's the best way to use ERP for a specific business need,"
 msgstr ""
 
 #. module: website_forum

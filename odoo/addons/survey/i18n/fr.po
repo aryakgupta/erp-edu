@@ -1,9 +1,9 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * survey
 # 
 # Translators:
-# Clo <clo@odoo.com>, 2015
+# Clo <clo@erp.com>, 2015
 # Frédéric LIETART <stuff@thelinuxfr.org>, 2015
 # Leo Schmitt <lschmitt@yziact.fr>, 2015
 # Martin Trigaux, 2015
@@ -11,7 +11,7 @@
 # Miguel Vidali <mvidali129@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:12+0000\n"
 "PO-Revision-Date: 2016-01-08 22:18+0000\n"
@@ -227,8 +227,8 @@ msgstr "Le jeton doit être unique !"
 
 #. module: survey
 #: model:survey.page,title:survey.feedback_1
-msgid "About your Odoo usage"
-msgstr "À propos de votre utilisation d'Odoo"
+msgid "About your ERP usage"
+msgstr "À propos de votre utilisation d'ERP"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey_message_needaction
@@ -309,8 +309,8 @@ msgstr "Les réponses ne vont pas dans le fil de discussion du document original
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_1_1
-msgid "Are you using Odoo on a daily basis?"
-msgstr "Utilisez-vous Odoo de manière quotidienne ?"
+msgid "Are you using ERP on a daily basis?"
+msgstr "Utilisez-vous ERP de manière quotidienne ?"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_mail_compose_message_attachment_ids
@@ -759,8 +759,8 @@ msgstr "Regrouper par"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_3_1
-msgid "How do you contribute or plan to contribute to Odoo?"
-msgstr "Comment contribuez-vous ou prévoyez-vous contribuer à Odoo?"
+msgid "How do you contribute or plan to contribute to ERP?"
+msgstr "Comment contribuez-vous ou prévoyez-vous contribuer à ERP?"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_2_6
@@ -794,8 +794,8 @@ msgstr "Je participe aux discussions et forums"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_1
-msgid "I use Github, like all official Odoo projects"
-msgstr "J'utilise Github, comme tous les projets officiels d'Odoo"
+msgid "I use Github, like all official ERP projects"
+msgstr "J'utilise Github, comme tous les projets officiels d'ERP"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_2
@@ -804,8 +804,8 @@ msgstr "J'utilise un autre système de dépôts (SourceForge...)"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_1_3
-msgid "I use the contextual help in Odoo"
-msgstr "J'utilise l'aide contextuelle dans Odoo"
+msgid "I use the contextual help in ERP"
+msgstr "J'utilise l'aide contextuelle dans ERP"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_3_1_5
@@ -875,8 +875,8 @@ msgstr "Si autre, précisez :"
 
 #. module: survey
 #: model:survey.page,description:survey.feedback_4
-msgid "If you do not contribute or develop in Odoo, skip this page."
-msgstr "Si vous ne contribuez pas et ou ne dévlopper pas pour Odoo, veuillez sauter cette page."
+msgid "If you do not contribute or develop in ERP, skip this page."
+msgstr "Si vous ne contribuez pas et ou ne dévlopper pas pour ERP, veuillez sauter cette page."
 
 #. module: survey
 #: model:ir.ui.view,arch_db:survey.sfinished
@@ -1958,9 +1958,9 @@ msgstr "Il y a trop de menus, c'est trop complexe à comprendre"
 #. module: survey
 #: model:survey.page,description:survey.feedback_2
 msgid ""
-"These questions relate to the ergonomy and ease of use of Odoo. Try to remind your firsts days on Odoo and\n"
+"These questions relate to the ergonomy and ease of use of ERP. Try to remind your firsts days on ERP and\n"
 "what have been your difficulties."
-msgstr "Ces questions concernent l'ergonomie et la prise en main d'Odoo. Essayez de vous rappeler de vos premiers pas sur Odoo et\nquelles ont été vos difficultés"
+msgstr "Ces questions concernent l'ergonomie et la prise en main d'ERP. Essayez de vous rappeler de vos premiers pas sur ERP et\nquelles ont été vos difficultés"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_2_2
@@ -1974,8 +1974,8 @@ msgstr "Ils sont utiles pour un usage quotidien"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_2_1
-msgid "They help new users to understand Odoo"
-msgstr "Ils aident les nouveaux utilisateurs à comprendre Odoo"
+msgid "They help new users to understand ERP"
+msgstr "Ils aident les nouveaux utilisateurs à comprendre ERP"
 
 #. module: survey
 #: code:addons/survey/survey.py:685 code:addons/survey/tests/test_survey.py:94
@@ -2214,8 +2214,8 @@ msgstr "Que pensez-vous des assistants de configuration ?"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_1
-msgid "What do you think about the documentation available on doc.odoo.com?"
-msgstr "Que pensez-vous de la documentation disponible sur doc.odoo.com?"
+msgid "What do you think about the documentation available on doc.erp.com?"
+msgstr "Que pensez-vous de la documentation disponible sur doc.erp.com?"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_5
@@ -2225,9 +2225,9 @@ msgstr "Que pensez-vous des groupes d'utilisateurs ?"
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_2
 msgid ""
-"What do you think about the process views of Odoo, available in the web "
+"What do you think about the process views of ERP, available in the web "
 "client ?"
-msgstr "Que pensez-vous des vues processus d'Odoo, disponibles dans le client web ?"
+msgstr "Que pensez-vous des vues processus d'ERP, disponibles dans le client web ?"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_4
@@ -2274,8 +2274,8 @@ msgstr "Oui, j'utilise la version 7.0, installée localement"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_1_3
-msgid "Yes, I use the online version of Odoo"
-msgstr "Oui, j'utilise la version en ligne d'Odoo"
+msgid "Yes, I use the online version of ERP"
+msgstr "Oui, j'utilise la version en ligne d'ERP"
 
 #. module: survey
 #: model:ir.actions.act_window,help:survey.action_survey_form

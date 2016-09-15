@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * im_odoo_support
 # 
@@ -6,7 +6,7 @@
 # Denis Trepalin <zekarious@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-29 10:26+0000\n"
 "PO-Revision-Date: 2015-10-20 15:15+0000\n"
@@ -30,6 +30,6 @@ msgstr "Ошибка"
 #: code:addons/im_odoo_support/static/src/js/im_odoo_support.js:76
 #, python-format
 msgid ""
-"The connection with the Odoo Support Server failed. Please retry in a few "
-"minutes, or send an email to support@odoo.com ."
-msgstr "Не удалось установить соединение с сервером поддержки Odoo. Пожалуйста, попробуйте подключиться снова через несколько минут или отправьте письмо на адрес support@odoo.com ."
+"The connection with the ERP Support Server failed. Please retry in a few "
+"minutes, or send an email to support@erp.com ."
+msgstr "Не удалось установить соединение с сервером поддержки ERP. Пожалуйста, попробуйте подключиться снова через несколько минут или отправьте письмо на адрес support@erp.com ."

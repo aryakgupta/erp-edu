@@ -1,7 +1,7 @@
 odoo.define('web.TreeView', function (require) {
 "use strict";
 /*---------------------------------------------------------
- * Odoo Tree view
+ * ERP Tree view
  *---------------------------------------------------------*/
 
 var core = require('web.core');

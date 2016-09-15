@@ -6,7 +6,7 @@
     'description': """
 Allows your customers to manage their account from a beautiful web interface.
         """,
-    'website': 'https://www.odoo.com/',
+    'website': 'https://www.erp.com/',
     'depends': [
         'website',
     ],

@@ -1048,7 +1048,7 @@ class AccountMoveLine(models.Model):
         # Create tax lines
         tax_lines_vals = []
         if apply_taxes and not context.get('dont_create_taxes') and vals.get('tax_ids'):
-            # Get ids from triplets : https://www.odoo.com/documentation/master/reference/orm.html#openerp.models.Model.write
+            # Get ids from triplets : https://www.erp.com/documentation/master/reference/orm.html#openerp.models.Model.write
             tax_ids = [tax['id'] for tax in self.resolve_2many_commands('tax_ids', vals['tax_ids']) if tax.get('id')]
             # Since create() receives ids instead of recordset, let's just use the old-api bridge
             taxes = self.env['account.tax'].browse(tax_ids)

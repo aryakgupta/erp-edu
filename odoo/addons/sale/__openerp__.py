@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Sales Management',
@@ -38,7 +38,7 @@ The Dashboard for the Sales Manager will include
 * My Quotations
 * Monthly Turnover (Graph)
     """,
-    'website': 'https://www.odoo.com/page/crm',
+    'website': 'https://www.erp.com/page/crm',
     'depends': ['sales_team','account', 'procurement', 'report'],
     'data': [
         'wizard/sale_make_invoice_advance.xml',

@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'odoo'
-copyright = u'Odoo S.A.'
+copyright = u'ERP S.A.'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -95,9 +95,9 @@ html_theme = 'odoo'
 
 odoo_cover_default = 'banners/installing_odoo.jpg'
 odoo_cover_external = {
-    'https://odoo.com/documentation/functional/accounting.html'   : 'banners/m_accounting.jpg',
-    'https://odoo.com/documentation/functional/double-entry.html' : 'banners/m_1.jpg',
-    'https://odoo.com/documentation/functional/valuation.html'    : 'banners/m_2.jpg',
+    'https://erp.com/documentation/functional/accounting.html'   : 'banners/m_accounting.jpg',
+    'https://erp.com/documentation/functional/double-entry.html' : 'banners/m_1.jpg',
+    'https://erp.com/documentation/functional/valuation.html'    : 'banners/m_2.jpg',
 }
 
 # Theme options are theme-specific and customize the look and feel of a theme

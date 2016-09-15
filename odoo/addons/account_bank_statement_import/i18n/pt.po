@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * account_bank_statement_import
 # 
@@ -6,7 +6,7 @@
 # Ricardo Correia <rcorreiavv@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2015-11-20 17:37+0000\n"
@@ -346,18 +346,18 @@ msgstr "Loss Account"
 #. module: account_bank_statement_import
 #: model:ir.model.fields,help:account_bank_statement_import.field_account_bank_statement_import_journal_creation_inbound_payment_method_ids
 msgid ""
-"Means of payment for collecting money. Odoo modules offer various payments "
+"Means of payment for collecting money. ERP modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
-msgstr "Meios de pagamento para recolher dinheiro. Os módulos do Odoo oferecem vários modos de efectuar pagamentos, mas pode sempre usar o método de pagamento 'Manual', a fim de gerir os pagamentos fora do software."
+msgstr "Meios de pagamento para recolher dinheiro. Os módulos do ERP oferecem vários modos de efectuar pagamentos, mas pode sempre usar o método de pagamento 'Manual', a fim de gerir os pagamentos fora do software."
 
 #. module: account_bank_statement_import
 #: model:ir.model.fields,help:account_bank_statement_import.field_account_bank_statement_import_journal_creation_outbound_payment_method_ids
 msgid ""
-"Means of payment for sending money. Odoo modules offer various payments "
+"Means of payment for sending money. ERP modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
-msgstr "Meios de pagamento para enviar dinheiro. Os módulos do Odoo oferecem vários modos de efectuar pagamentos, mas pode sempre usar o método de pagamento 'Manual', a fim de gerir os pagamentos fora do software."
+msgstr "Meios de pagamento para enviar dinheiro. Os módulos do ERP oferecem vários modos de efectuar pagamentos, mas pode sempre usar o método de pagamento 'Manual', a fim de gerir os pagamentos fora do software."
 
 #. module: account_bank_statement_import
 #: code:addons/account_bank_statement_import/account_bank_statement_import.py:132
@@ -423,10 +423,10 @@ msgstr "Mostrar diário no dashboard"
 #. module: account_bank_statement_import
 #: model:ir.ui.view,arch_db:account_bank_statement_import.account_bank_statement_import_journal_creation_view
 msgid ""
-"The account of the statement you are importing is not yet recorded in Odoo. "
+"The account of the statement you are importing is not yet recorded in ERP. "
 "In order to proceed with the import, you need to create a bank journal for "
 "this account."
-msgstr "A conta correspondente ao extrato que está a importar não está ainda criada no Odoo. Para prosseguir com a importação, precisa de criar um diário para esta conta bancária."
+msgstr "A conta correspondente ao extrato que está a importar não está ainda criada no ERP. Para prosseguir com a importação, precisa de criar um diário para esta conta bancária."
 
 #. module: account_bank_statement_import
 #: code:addons/account_bank_statement_import/account_bank_statement_import.py:143

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr
 # 
@@ -9,7 +9,7 @@
 # Mateo Tibaquirá <nestormateo@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-15 10:41+0000\n"
 "PO-Revision-Date: 2016-03-04 16:37+0000\n"
@@ -341,8 +341,8 @@ msgstr "Definir el calendario de recursos"
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_consultant
-msgid "Deliver generic Odoo functional training sessions"
-msgstr "Ofrecer sesiones genéricas de entrenamiento funcional de Odoo"
+msgid "Deliver generic ERP functional training sessions"
+msgstr "Ofrecer sesiones genéricas de entrenamiento funcional de ERP"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee_department_id
@@ -948,10 +948,10 @@ msgstr "Número de mensajes no leidos"
 #. module: hr
 #: model:ir.actions.act_window,help:hr.open_module_tree_department
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"ERP's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                leaves and holidays, recruitments, etc."
-msgstr "La estructura de departamentos de Odoo es usada para administrar todos los documentos relacionados a empleados por departamentos: gastos, partes de horas, ausencias, días festivos, contrataciones, etc."
+msgstr "La estructura de departamentos de ERP es usada para administrar todos los documentos relacionados a empleados por departamentos: gastos, partes de horas, ausencias, días festivos, contrataciones, etc."
 
 #. module: hr
 #: model:ir.actions.client,name:hr.action_client_hr_menu
@@ -1353,10 +1353,10 @@ msgstr "Informará al Jefe de Servicios Profesionales"
 #: model:ir.actions.act_window,help:hr.act_employee_from_department
 #: model:ir.actions.act_window,help:hr.open_view_employee_list_my
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the ERP employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
-msgstr "Con sólo un vistazo rápido en la pantalla empleado Odoo, usted puede encontrar fácilmente toda la información que necesita para cada persona;\ndatos de contacto, puesto de trabajo, disponibilidad, etc."
+msgstr "Con sólo un vistazo rápido en la pantalla empleado ERP, usted puede encontrar fácilmente toda la información que necesita para cada persona;\ndatos de contacto, puesto de trabajo, disponibilidad, etc."
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_ceo

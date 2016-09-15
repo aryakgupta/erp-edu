@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * marketing_campaign
 # 
@@ -6,7 +6,7 @@
 # krnkris, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2016-06-06 19:55+0000\n"
@@ -730,10 +730,10 @@ msgstr "Október"
 #. module: marketing_campaign
 #: model:ir.actions.act_window,help:marketing_campaign.action_marketing_campaign_form
 msgid ""
-"Odoo's marketing campaign allows you to automate communication\n"
+"ERP's marketing campaign allows you to automate communication\n"
 "            to your prospects. You can define a segment (set of conditions) on\n"
 "            your leads and partners to fullfil the campaign."
-msgstr "Odoo's marketing kampánya lehetővé teszi az automatikus kommunikációt\n            a halgatóival. Meghatározhat egy szegmenst (beéllíthat egy feltételt) az\n            érdeklődésein és partnerein a kampány végrehajtásához."
+msgstr "ERP's marketing kampánya lehetővé teszi az automatikus kommunikációt\n            a halgatóival. Meghatározhat egy szegmenst (beéllíthat egy feltételt) az\n            érdeklődésein és partnerein a kampány végrehajtásához."
 
 #. module: marketing_campaign
 #: selection:marketing.campaign.segment,sync_mode:0
@@ -1092,7 +1092,7 @@ msgstr "Változó költség"
 
 #. module: marketing_campaign
 #: model:mail.template,subject:marketing_campaign.email_template_1
-msgid "Welcome to the Odoo Partner Channel!"
+msgid "Welcome to the ERP Partner Channel!"
 msgstr "Üdvözöljük az Ügyfél csatornán!"
 
 #. module: marketing_campaign

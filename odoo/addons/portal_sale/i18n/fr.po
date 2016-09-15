@@ -1,16 +1,16 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * portal_sale
 # 
 # Translators:
-# Denis Ledoux <dle@odoo.com>, 2016
+# Denis Ledoux <dle@erp.com>, 2016
 # Leo Schmitt <inactive+lschmitt@transifex.com>, 2015
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015-2016
-# Melanie Bernard <mbe@odoo.com>, 2015
+# Melanie Bernard <mbe@erp.com>, 2015
 # Olivier Lenoir <olivier.lenoir@free.fr>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-22 11:24+0000\n"
 "PO-Revision-Date: 2016-07-23 10:09+0000\n"

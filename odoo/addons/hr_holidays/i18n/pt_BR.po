@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_holidays
 # 
@@ -9,7 +9,7 @@
 # Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:10+0000\n"
 "PO-Revision-Date: 2016-01-28 13:25+0000\n"
@@ -945,9 +945,9 @@ msgstr "Quantidade de mensagens não lidas."
 #. module: hr_holidays
 #: model:ir.model.fields,help:hr_holidays.field_hr_holidays_status_categ_id
 msgid ""
-"Once a leave is validated, Odoo will create a corresponding meeting of this "
+"Once a leave is validated, ERP will create a corresponding meeting of this "
 "type in the calendar."
-msgstr "Uma vez que uma licença é validada, o Odoo irá criar um evento no calendário correspondente a esse tipo."
+msgstr "Uma vez que uma licença é validada, o ERP irá criar um evento no calendário correspondente a esse tipo."
 
 #. module: hr_holidays
 #: model:ir.actions.act_window,help:hr_holidays.open_ask_holidays
@@ -1326,9 +1326,9 @@ msgstr "Ano"
 #. module: hr_holidays
 #: model:ir.actions.act_window,help:hr_holidays.hr_holidays_leaves_assign_legal
 msgid ""
-"You can assign remaining Legal Leaves for each employee, Odoo\n"
+"You can assign remaining Legal Leaves for each employee, ERP\n"
 "               will automatically create and validate allocation requests."
-msgstr "Você pode atribuir as Licenças Legais restantes para cada funcionário, Odoo\ncriará e validará automaticamente os pedidos de atribuição."
+msgstr "Você pode atribuir as Licenças Legais restantes para cada funcionário, ERP\ncriará e validará automaticamente os pedidos de atribuição."
 
 #. module: hr_holidays
 #: constraint:hr.holidays:0

@@ -1,6 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 import optparse
 import os
@@ -101,7 +101,7 @@ def publish(o, type, extensions):
         published.append(_publish(o, release))
     return published
 
-class OdooDocker(object):
+class ERPDocker(object):
     def __init__(self):
         self.log_file = NamedTemporaryFile(mode='w+b', prefix="bash", suffix=".txt", delete=False)
         self.port = 8069  # TODO sle: reliable way to get a free port?
@@ -143,7 +143,7 @@ class OdooDocker(object):
 
 @contextmanager
 def docker(docker_image, build_dir, pub_dir):
-    _docker = OdooDocker()
+    _docker = ERPDocker()
     try:
         _docker.start(docker_image, build_dir, pub_dir)
         try:
@@ -216,8 +216,8 @@ class KVMWinTestExe(KVM):
 
         self.rsync('"%s" %s@127.0.0.1:' % (setuppath, self.login))
         self.ssh("TEMP=/tmp ./%s /S" % setupfile)
-        self.ssh('PGPASSWORD=openpgpwd /cygdrive/c/"Program Files"/"Odoo %s"/PostgreSQL/bin/createdb.exe -e -U openpg mycompany' % setupversion)
-        self.ssh('/cygdrive/c/"Program Files"/"Odoo %s"/server/openerp-server.exe -d mycompany -i base --stop-after-init' % setupversion)
+        self.ssh('PGPASSWORD=openpgpwd /cygdrive/c/"Program Files"/"ERP %s"/PostgreSQL/bin/createdb.exe -e -U openpg mycompany' % setupversion)
+        self.ssh('/cygdrive/c/"Program Files"/"ERP %s"/server/openerp-server.exe -d mycompany -i base --stop-after-init' % setupversion)
         self.ssh('net start odoo-server-%s' % version)
         _rpc_count_modules(port=18069)
 
@@ -327,7 +327,7 @@ def test_rpm(o):
         centos7.system('su postgres -c "/usr/bin/pg_ctl -D /var/lib/postgres/data start"')
         centos7.system('sleep 5')
         centos7.system('su postgres -c "createdb mycompany"')
-        # Odoo install
+        # ERP install
         centos7.system('yum install -d 0 -e 0 /opt/release/%s -y' % centos7.release)
         centos7.system('su odoo -s /bin/bash -c "openerp-server -c /etc/odoo/openerp-server.conf -d mycompany -i base --stop-after-init"')
         centos7.system('su odoo -s /bin/bash -c "openerp-server -c /etc/odoo/openerp-server.conf -d mycompany &"')

@@ -37,7 +37,7 @@ Tour.register({
                     '<p>Harum trium sententiarum nulli prorsus assentior.</p>\n'+
                     '        </div>\n'+
                     '        <div class="col-md-6 mt16">\n'+
-                    '            <img class="img img-responsive shadow mb16" src="/web_editor/static/src/img/drag_here.png" alt="Odoo text and image block">\n'+
+                    '            <img class="img img-responsive shadow mb16" src="/web_editor/static/src/img/drag_here.png" alt="ERP text and image block">\n'+
                     '        </div>\n'+
                     '    </div>\n'+
                     '</section>\n';
@@ -220,7 +220,7 @@ Tour.register({
         {
             waitFor:   '.modal a#link-preview.btn',
             element:   '#link-external',
-            sampleText: "http://www.odoo.com",
+            sampleText: "http://www.erp.com",
             title:     "insert a link url",
         },
         {
@@ -355,7 +355,7 @@ Tour.register({
                     '          <img src="/logo.png" alt="Your Logo" class="img-circle img-thumbnail">\n'+
                     '        </td>\n'+
                     '        <td valign="center" width="270">\n'+
-                    '          <a href="https://www.facebook.com/Odoo"><span class="fa fa-facebook-square fa-2x text-primary"></span></a>\n'+
+                    '          <a href="https://www.facebook.com/ERP"><span class="fa fa-facebook-square fa-2x text-primary"></span></a>\n'+
                     '          <span style="color: rgb(255, 0, 0);" class="fa fa-4x fa-google-plus-square pull-right"></span>\n'+
                     '        </td>\n'+
                     '      </tr>\n'+

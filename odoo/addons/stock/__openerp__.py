@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Inventory Management',
@@ -31,7 +31,7 @@ Dashboard / Reports for Inventory Management will include:
 * Last Product Inventories
 * Moves Analysis
     """,
-    'website': 'https://www.odoo.com/page/warehouse',
+    'website': 'https://www.erp.com/page/warehouse',
     'depends': ['product', 'procurement', 'barcodes', 'web_planner'],
     'category': 'Warehouse',
     'sequence': 13,

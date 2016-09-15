@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_attendance
 # 
@@ -8,7 +8,7 @@
 # Mateo Tibaquirá <nestormateo@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2016-02-10 13:47+0000\n"
@@ -379,8 +379,8 @@ msgstr "Fecha de Inicio"
 msgid ""
 "The Time Tracking functionality aims to manage employee attendances from "
 "Sign in/Sign out actions. You can also link this feature to an attendance "
-"device using Odoo's web service features."
-msgstr "La funcionalidad de seguimiento de tiempo tiene como objetivo gestionar las asistencias de los empleados a través de acciones de Inicio/Cierre de sesión. También puede vincular esta función a un dispositivo de asistencia utilizando las funciones de servicio web de Odoo."
+"device using ERP's web service features."
+msgstr "La funcionalidad de seguimiento de tiempo tiene como objetivo gestionar las asistencias de los empleados a través de acciones de Inicio/Cierre de sesión. También puede vincular esta función a un dispositivo de asistencia utilizando las funciones de servicio web de ERP."
 
 #. module: hr_attendance
 #: model:ir.ui.menu,name:hr_attendance.menu_hr_time_tracking

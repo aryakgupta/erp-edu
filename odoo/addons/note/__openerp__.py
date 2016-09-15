@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Productivity',
@@ -17,7 +17,7 @@ meeting minutes.
 
 Notes can be found in the 'Home' menu.
 """,
-    'website': 'https://www.odoo.com/page/notes',
+    'website': 'https://www.erp.com/page/notes',
     'summary': 'Sticky notes, Collaborative, Memos',
     'sequence': 45,
     'depends': [

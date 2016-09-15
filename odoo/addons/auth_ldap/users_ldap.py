@@ -1,4 +1,4 @@
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 import ldap
 import logging
@@ -177,7 +177,7 @@ class CompanyLDAP(osv.osv):
             if res[1]:
                 user_id = res[0]
         elif conf['create_user']:
-            _logger.debug("Creating new Odoo user \"%s\" from LDAP" % login)
+            _logger.debug("Creating new ERP user \"%s\" from LDAP" % login)
             user_obj = self.pool['res.users']
             values = self.map_ldap_attributes(cr, uid, conf, login, ldap_entry)
             if conf['user']:

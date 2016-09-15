@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * l10n_be_invoice_bba
 # 
@@ -6,7 +6,7 @@
 # AYHAN KIZILTAN <akiziltan76@hotmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:56+0000\n"
 "PO-Revision-Date: 2015-10-31 19:11+0000\n"
@@ -109,5 +109,5 @@ msgstr "The daily maximum of outgoing invoices with an automatically generated B
 #, python-format
 msgid ""
 "Unsupported Structured Communication Type Algorithm '%s' !\n"
-"Please contact your Odoo support channel."
-msgstr "Desteklenmeyen Yapılandırılmış İletişim Türü Algoritması '%s' !\nLütfen Odoo destek kanalına başvurun."
+"Please contact your ERP support channel."
+msgstr "Desteklenmeyen Yapılandırılmış İletişim Türü Algoritması '%s' !\nLütfen ERP destek kanalına başvurun."

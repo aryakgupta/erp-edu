@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_recruitment
 # 
@@ -6,7 +6,7 @@
 # Kostas Goutoudis <goutoudis@gmail.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:11+0000\n"
 "PO-Revision-Date: 2016-08-04 20:25+0000\n"
@@ -1283,14 +1283,14 @@ msgstr "Πλήθος μη αναγνωσμένων μηνυμάτων"
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_applications
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"ERP helps you track applicants in the recruitment\n"
 "                process and follow up all operations: meetings, interviews, etc."
 msgstr ""
 
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.crm_case_categ0_act_job
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"ERP helps you track applicants in the recruitment\n"
 "            process and follow up all operations: meetings, interviews, etc."
 msgstr ""
 
@@ -1699,10 +1699,10 @@ msgstr ""
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
-msgstr "Το μοντέλο (Odoo Document Kind) στο οποίο αντιστοιχεί αυτό το ψευδώνυμο. Κάθε εισερχόμενο email που δεν έχει απαντηθεί σε υπάρχουσα εγγραφή, θα προκαλέσει τη δημιουργία μίας νέας εγγραφής αυτού του μοντέλου (π.χ. Εργασία Έργου)"
+msgstr "Το μοντέλο (ERP Document Kind) στο οποίο αντιστοιχεί αυτό το ψευδώνυμο. Κάθε εισερχόμενο email που δεν έχει απαντηθεί σε υπάρχουσα εγγραφή, θα προκαλέσει τη δημιουργία μίας νέας εγγραφής αυτού του μοντέλου (π.χ. Εργασία Έργου)"
 
 #. module: hr_recruitment
 #: sql_constraint:hr.recruitment.degree:0
@@ -1713,8 +1713,8 @@ msgstr ""
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
-msgstr "Το όνομα του ψευδώνυμου email , π.χ. 'jobs', αν θέλετε να πάρετε emails για <jobs@example.odoo.com>"
+"<jobs@example.erp.com>"
+msgstr "Το όνομα του ψευδώνυμου email , π.χ. 'jobs', αν θέλετε να πάρετε emails για <jobs@example.erp.com>"
 
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_user_id
@@ -1872,7 +1872,7 @@ msgstr ""
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_no_employee
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the ERP employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
 msgstr ""

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 from docutils import nodes
 from docutils.core import publish_string
 from docutils.transforms import Transform, writer_aux
@@ -288,7 +288,7 @@ class module(osv.osv):
             ('AGPL-3', 'Affero GPL-3'),
             ('LGPL-3', 'LGPL Version 3'),
             ('Other OSI approved licence', 'Other OSI Approved Licence'),
-            ('OEEL-1', 'Odoo Enterprise Edition License v1.0'),
+            ('OEEL-1', 'ERP Enterprise Edition License v1.0'),
             ('Other proprietary', 'Other Proprietary')
         ], string='License', readonly=True),
         'menus_by_module': fields.function(_get_views, string='Menus', type='text', multi="meta", store=True),

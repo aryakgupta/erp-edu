@@ -14,7 +14,7 @@
           </p><p>
             Use this menu to control the invoices to be received from your
             vendor. When registering a new bill, set the purchase order
-            and Odoo will fill the bill automatically according to ordered
+            and ERP will fill the bill automatically according to ordered
             or received quantities.
           </p>
         </field>

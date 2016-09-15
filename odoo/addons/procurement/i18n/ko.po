@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * procurement
 # 
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:11+0000\n"
 "PO-Revision-Date: 2016-03-10 13:16+0000\n"
@@ -493,8 +493,8 @@ msgstr "참조"
 #: model:ir.model.fields,help:procurement.field_procurement_order_origin
 msgid ""
 "Reference of the document that created this Procurement.\n"
-"This is automatically completed by Odoo."
-msgstr "이 조달에 작성된 문서의 참조.\nOdoo에 의해 자동으로 완성됩니다."
+"This is automatically completed by ERP."
+msgstr "이 조달에 작성된 문서의 참조.\nERP에 의해 자동으로 완성됩니다."
 
 #. module: procurement
 #: model:ir.model.fields,field_description:procurement.field_procurement_order_rule_id

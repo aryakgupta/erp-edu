@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 from openerp import api
 from openerp import SUPERUSER_ID
@@ -31,7 +31,7 @@ from reportlab.graphics.barcode import createBarcodeDrawing
 # A lock occurs when the user wants to print a report having multiple barcode while the server is
 # started in threaded-mode. The reason is that reportlab has to build a cache of the T1 fonts
 # before rendering a barcode (done in a C extension) and this part is not thread safe. We attempt
-# here to init the T1 fonts cache at the start-up of Odoo so that rendering of barcode in multiple
+# here to init the T1 fonts cache at the start-up of ERP so that rendering of barcode in multiple
 # thread does not lock the server.
 try:
     createBarcodeDrawing('Code128', value='foo', format='png', width=100, height=100, humanReadable=1).asString('png')
@@ -49,7 +49,7 @@ def _get_wkhtmltopdf_bin():
 
 
 #--------------------------------------------------------------------------
-# Check the presence of Wkhtmltopdf and return its version at Odoo start-up
+# Check the presence of Wkhtmltopdf and return its version at ERP start-up
 #--------------------------------------------------------------------------
 wkhtmltopdf_state = 'install'
 try:
@@ -69,7 +69,7 @@ else:
         wkhtmltopdf_state = 'ok'
 
     if config['workers'] == 1:
-        _logger.info('You need to start Odoo with at least two workers to print a pdf version of the reports.')
+        _logger.info('You need to start ERP with at least two workers to print a pdf version of the reports.')
         wkhtmltopdf_state = 'workers'
 
 

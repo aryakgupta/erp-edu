@@ -2,7 +2,7 @@
 {
     'name': 'Events Organisation',
     'version': '0.1',
-    'website': 'https://www.odoo.com/page/events',
+    'website': 'https://www.erp.com/page/events',
     'category': 'Marketing',
     'summary': 'Trainings, Conferences, Meetings, Exhibitions, Registrations',
     'description': """

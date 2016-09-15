@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 import render
 
@@ -20,7 +20,7 @@ class simple(render.render):
 
         title = parser.documentElement.tagName
         doc = SimpleDocTemplate(self.result, pagesize=A4, title=title,
-          author='Odoo, Fabien Pinckaers', leftmargin=10*mm, rightmargin=10*mm)
+          author='ERP, Fabien Pinckaers', leftmargin=10*mm, rightmargin=10*mm)
 
         styles = reportlab.lib.styles.getSampleStyleSheet()
         title_style = copy.deepcopy(styles["Heading1"])

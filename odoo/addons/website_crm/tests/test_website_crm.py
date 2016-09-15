@@ -14,4 +14,4 @@ class TestWebsiteCrm(openerp.tests.HttpCase):
         assert len(record) == 1
         assert record.contact_name == 'John Smith'
         assert record.email_from == 'john@smith.com'
-        assert record.partner_name == 'Odoo S.A.'
+        assert record.partner_name == 'ERP S.A.'

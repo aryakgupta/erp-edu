@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Customer References',
     'category': 'Website',
-    'website': 'https://www.odoo.com/page/website-builder',
+    'website': 'https://www.erp.com/page/website-builder',
     'summary': 'Publish Your Customer References',
     'version': '1.0',
     'description': """

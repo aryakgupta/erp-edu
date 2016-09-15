@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 ###############################################################################
 #
-#    Tech-Receptives Solutions Pvt. Ltd.
-#    Copyright (C) 2009-TODAY Tech-Receptives(<http://www.techreceptives.com>).
+#    ERP Solutions Pvt. Ltd.
+#    Copyright (C) 2009-TODAY ERP(<http://www.techreceptives.com>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Lesser General Public License as
@@ -20,7 +20,7 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Fees',
+    'name': 'ERP Fees',
     'version': '2.4.0',
     'category': 'Openerp Education',
     "sequence": 3,
@@ -31,8 +31,8 @@
         other finance operations.
 
     """,
-    'author': 'Tech Receptives',
-    'website': 'http://www.openeducat.org',
+    'author': 'ERP',
+    'website': 'http://www.erp.com',
     'depends': ['openeducat_core', 'account_accountant'],
     'data': [
         'views/student_view.xml',

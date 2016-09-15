@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 import time
 from psycopg2 import OperationalError
@@ -95,7 +95,7 @@ class procurement_order(osv.osv):
 
         'origin': fields.char('Source Document',
             help="Reference of the document that created this Procurement.\n"
-            "This is automatically completed by Odoo."),
+            "This is automatically completed by ERP."),
         'company_id': fields.many2one('res.company', 'Company', required=True),
 
         # These two fields are used for shceduling

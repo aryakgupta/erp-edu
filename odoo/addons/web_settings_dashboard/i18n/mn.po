@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * web_settings_dashboard
 # 
@@ -6,7 +6,7 @@
 # Otgonbayar.A <gobi.mn@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-06-17 08:01+0000\n"
 "PO-Revision-Date: 2016-06-17 08:57+0000\n"
@@ -79,8 +79,8 @@ msgstr "Имэйл хаягуудыг орууна уу (нэг мөрөнд н�
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:92
 #, python-format
-msgid "Follow these implementation guides to get the most out of Odoo."
-msgstr "Odoo-н бүх боломжийг ашиглахын тулд энэ зааврыг дагана уу."
+msgid "Follow these implementation guides to get the most out of ERP."
+msgstr "ERP-н бүх боломжийг ашиглахын тулд энэ зааврыг дагана уу."
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -93,8 +93,8 @@ msgstr ""
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:131
 #, python-format
-msgid "Help us spread the word: Share Odoo's awesomeness with your friends!"
-msgstr "Дэлхий даяар түгээхэд туслана уу: Odoo-н гайхалтай байдлыг найзууддаа хуваалцана уу!"
+msgid "Help us spread the word: Share ERP's awesomeness with your friends!"
+msgstr "Дэлхий даяар түгээхэд туслана уу: ERP-н гайхалтай байдлыг найзууддаа хуваалцана уу!"
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -149,7 +149,7 @@ msgstr "Апп суулгагдаагүй байна"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:148
 #, python-format
-msgid "Odoo Enterprise"
+msgid "ERP Enterprise"
 msgstr ""
 
 #. module: web_settings_dashboard

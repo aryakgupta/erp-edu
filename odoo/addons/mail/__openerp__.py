@@ -16,7 +16,7 @@ It enables the users to read and send messages as well as emails. It also provid
 
 Main Features
 -------------
-* Clean and renewed communication history for any Odoo document that can act as a discussion topic
+* Clean and renewed communication history for any ERP document that can act as a discussion topic
 * Subscription mechanism to be updated about new messages on interesting documents
 * Unified feeds page to see recent messages and activity on followed documents
 * User communication through the feeds page
@@ -24,7 +24,7 @@ Main Features
 * Relies on the global outgoing mail server - an integrated email management system - allowing to send emails with a configurable scheduler-based processing engine
 * Includes an extensible generic email composition assistant, that can turn into a mass-mailing assistant and is capable of interpreting simple *placeholder expressions* that will be replaced with dynamic data when each email is actually sent.
     """,
-    'website': 'https://www.odoo.com/page/enterprise-social-network',
+    'website': 'https://www.erp.com/page/enterprise-social-network',
     'depends': ['base', 'base_setup', 'bus'],
     'data': [
         'wizard/invite_view.xml',

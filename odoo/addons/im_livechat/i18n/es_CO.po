@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * im_livechat
 # 
@@ -9,7 +9,7 @@
 # Santiago Gonzalez <rowing1507@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-26 12:06+0000\n"
 "PO-Revision-Date: 2016-06-15 05:19+0000\n"
@@ -295,10 +295,10 @@ msgstr "Explique su nota."
 #. module: im_livechat
 #: model:ir.ui.view,arch_db:im_livechat.im_livechat_channel_view_form
 msgid ""
-"For website built with Odoo CMS, please install the website_livechat module."
+"For website built with ERP CMS, please install the website_livechat module."
 " Then go to Settings &gt; Website Settings and select the Website Live Chat "
 "Channel you want to add on your website."
-msgstr "Para sitios web construidos con el CMS de Odoo, por favor instale el módulo website_livechat. Luego vaya a Administración &gt;  Admin Sitio y seleccione el Canal de Chat del Sitio wn Vivo que quiere añadir en su sitio web."
+msgstr "Para sitios web construidos con el CMS de ERP, por favor instale el módulo website_livechat. Luego vaya a Administración &gt;  Admin Sitio y seleccione el Canal de Chat del Sitio wn Vivo que quiere añadir en su sitio web."
 
 #. module: im_livechat
 #: model:ir.model.fields,help:im_livechat.field_im_livechat_channel_rule_sequence
@@ -790,8 +790,8 @@ msgstr "Canales del Chat del Sitio Web"
 
 #. module: im_livechat
 #: model:ir.ui.view,arch_db:im_livechat.support_page
-msgid "Website Live Chat Powered by <strong>Odoo</strong>."
-msgstr "Chat del Sitio Web Soportado por <strong>Odoo</strong>."
+msgid "Website Live Chat Powered by <strong>ERP</strong>."
+msgstr "Chat del Sitio Web Soportado por <strong>ERP</strong>."
 
 #. module: im_livechat
 #: model:ir.model.fields,field_description:im_livechat.field_im_livechat_channel_default_message

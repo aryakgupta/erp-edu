@@ -112,7 +112,7 @@
     <data noupdate="1">
 
         <record id="project_project_data" model="project.project">
-            <field name="name">Start here to discover Odoo</field>
+            <field name="name">Start here to discover ERP</field>
             <field name="privacy_visibility">followers</field>
             <field name="user_id" ref="base.user_root"/>
             <field name="alias_model">project.task</field>
@@ -147,7 +147,7 @@
             <field name="user_id" ref="base.user_root"/>
             <field name="priority">0</field>
             <field name="project_id" ref="project.project_project_data"/>
-            <field name="name">Welcome to Odoo</field>
+            <field name="name">Welcome to ERP</field>
             <field name="description">Welcome! This project has the objective to show you all the main feature in the project app. Each card will help you to manage your projects easily in a few minutes.</field>
             <field name="color">2</field>
             <field name="stage_id" ref="project_stage_data_0"/>

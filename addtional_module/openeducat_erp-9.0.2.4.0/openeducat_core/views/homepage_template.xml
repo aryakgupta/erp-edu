@@ -17,7 +17,7 @@
 										<div class="carousel-content col-md-6 col-sm-12" style="background: #4D4D4D; opacity: 0.7;">
 											<h4>If you have any further questions visit our forum</h4>
 											<p>
-												<a class="btn btn-primary btn-lg" href="http://www.openeducat.org/forum/">Ask a Question</a>
+												<a class="btn btn-primary btn-lg" href="http://www.erp.com/forum/">Ask a Question</a>
 											</p>
 										</div>
 										<div class="carousel-img col-md-6 hidden-sm hidden-xs">
@@ -42,7 +42,7 @@
 						<div class="container">
 							<div class="row">
 								<h1 style="text-align: center;">
-									<strong>OpenEduCat</strong>
+									<strong>ERP</strong>
 								</h1>
 								<p style="text-align: justify;">A fully open source ERP system for educational
 									institute, for efficient management of students, faculties,
@@ -51,7 +51,7 @@
 								<p style="text-align: justify;">
 									<br />
 									Based on best of class enterprise level architecture make
-									<strong>OpenEduCat </strong>
+									<strong>ERP </strong>
 									ready to use in environments like local infrastructure or a
 									highly scalable cloud environment.
 								</p>
@@ -62,7 +62,7 @@
 						<div class="container-fluid highlight">
 							<div class="row mb32 mt16">
 								<h2 class="text-center">
-									OpenEduCat
+									ERP
 									<strong>Features</strong>
 								</h2>
 							</div>
@@ -82,42 +82,42 @@
 							</div>
 							<div class="col-md-9">
 								<div class="col-md-4 mt32">
-									<a href="https://www.openeducat.org/page/features/student"
+									<a href="https://www.erp.com/page/features/student"
 										target="_blank">
 										<span class="fa fa-child fa-4x hvr-grow" />
 										<h4>Student</h4>
 									</a>
 								</div>
 								<div class="col-md-4 mt32">
-									<a href="https://www.openeducat.org/page/features/faculty"
+									<a href="https://www.erp.com/page/features/faculty"
 										target="_blank">
 										<span class="fa fa-users fa-4x hvr-grow" />
 										<h4>Faculty</h4>
 									</a>
 								</div>
 								<div class="col-md-4 mt32">
-									<a href="https://www.openeducat.org/page/features/course"
+									<a href="https://www.erp.com/page/features/course"
 										target="_blank">
 										<span class="fa fa-leanpub fa-4x hvr-grow" />
 										<h4>Course</h4>
 									</a>
 								</div>
 								<div class="col-md-4 mt32">
-									<a href="https://www.openeducat.org/page/features/enrollment"
+									<a href="https://www.erp.com/page/features/enrollment"
 										target="_blank">
 										<span class="fa fa-check-square-o fa-4x hvr-grow" />
 										<h4>Enrollment</h4>
 									</a>
 								</div>
 								<div class="col-md-4 mt32">
-									<a href="https://www.openeducat.org/page/features/exam"
+									<a href="https://www.erp.com/page/features/exam"
 										target="_blank">
 										<span class="fa fa-pencil fa-4x hvr-grow" />
 										<h4>Exam</h4>
 									</a>
 								</div>
 								<div class="col-md-4 mt32">
-									<a href="https://www.openeducat.org/page/features/financial"
+									<a href="https://www.erp.com/page/features/financial"
 										target="_blank">
 										<span class="fa fa-money fa-4x hvr-grow" />
 										<h4>Financial</h4>
@@ -143,42 +143,42 @@
 								</div>
 								<div class="col-md-9">
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/application"
+										<a href="https://www.erp.com/page/features/application"
 											target="_blank">
 											<span class="fa fa-pencil-square-o fa-4x hvr-grow" />
 											<h4>Application</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/payment"
+										<a href="https://www.erp.com/page/features/payment"
 											target="_blank">
 											<span class="fa fa-usd fa-4x hvr-grow" />
 											<h4>Payment</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/classroom"
+										<a href="https://www.erp.com/page/features/classroom"
 											target="_blank">
 											<span class="fa fa-university fa-4x hvr-grow" />
 											<h4>Class Room</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/timetable"
+										<a href="https://www.erp.com/page/features/timetable"
 											target="_blank">
 											<span class="fa fa-calendar fa-4x hvr-grow" />
 											<h4>Time Table</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/attendance"
+										<a href="https://www.erp.com/page/features/attendance"
 											target="_blank">
 											<span class="fa fa-hand-o-up fa-4x hvr-grow" />
 											<h4>Attendance</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/assignment"
+										<a href="https://www.erp.com/page/features/assignment"
 											target="_blank">
 											<span class="fa fa-file-text-o fa-4x hvr-grow" />
 											<h4>Assignment</h4>
@@ -204,35 +204,35 @@
 								</div>
 								<div class="col-md-9">
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/library"
+										<a href="https://www.erp.com/page/features/library"
 											target="_blank">
 											<span class="fa fa-book fa-4x hvr-grow" />
 											<h4>Library</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/results"
+										<a href="https://www.erp.com/page/features/results"
 											target="_blank">
 											<span class="fa fa-line-chart fa-4x hvr-grow" />
 											<h4>Results</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/events"
+										<a href="https://www.erp.com/page/features/events"
 											target="_blank">
 											<span class="fa fa-flag fa-4x hvr-grow" />
 											<h4>Events</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/dashboard"
+										<a href="https://www.erp.com/page/features/dashboard"
 											target="_blank">
 											<span class="fa fa-tachometer fa-4x hvr-grow" />
 											<h4>Dashboard</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/reporting"
+										<a href="https://www.erp.com/page/features/reporting"
 											target="_blank">
 											<span class="fa fa-pie-chart fa-4x hvr-grow" />
 											<h4>Reporting</h4>
@@ -240,7 +240,7 @@
 									</div>
 									<div class="col-md-4 mt32">
 										<a
-											href="https://www.openeducat.org/page/features/mobile-application"
+											href="https://www.erp.com/page/features/mobile-application"
 											target="_blank">
 											<span class="fa fa-mobile fa-4x hvr-grow" />
 											<h4>Mobile Application</h4>
@@ -266,42 +266,42 @@
 								</div>
 								<div class="col-md-9">
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/hostel"
+										<a href="https://www.erp.com/page/features/hostel"
 											target="_blank">
 											<span class="fa fa-building-o fa-4x hvr-grow" />
 											<h4>Hostel</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/canteen"
+										<a href="https://www.erp.com/page/features/canteen"
 											target="_blank">
 											<span class="fa fa-cutlery fa-4x hvr-grow" />
 											<h4>Canteen</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/transportation"
+										<a href="https://www.erp.com/page/features/transportation"
 											target="_blank">
 											<span class="fa fa-bus fa-4x hvr-grow" />
 											<h4>Transportation</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/facility"
+										<a href="https://www.erp.com/page/features/facility"
 											target="_blank">
 											<span class="fa fa-leaf fa-4x hvr-grow" />
 											<h4>Facility</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/placement"
+										<a href="https://www.erp.com/page/features/placement"
 											target="_blank">
 											<span class="fa fa-graduation-cap fa-4x hvr-grow" />
 											<h4>Placement</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/parentlogin"
+										<a href="https://www.erp.com/page/features/parentlogin"
 											target="_blank">
 											<span class="fa fa-user fa-4x hvr-grow" />
 											<h4>Parent Login</h4>
@@ -327,42 +327,42 @@
 								</div>
 								<div class="col-md-9">
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/forum"
+										<a href="https://www.erp.com/page/features/forum"
 											target="_blank">
 											<span class="fa fa-question fa-4x hvr-grow" />
 											<h4>Forum</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/survey"
+										<a href="https://www.erp.com/page/features/survey"
 											target="_blank">
 											<span class="fa fa-list-alt fa-4x hvr-grow" />
 											<h4>Survey</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/discussion"
+										<a href="https://www.erp.com/page/features/discussion"
 											target="_blank">
 											<span class="fa fa-comments-o fa-4x hvr-grow" />
 											<h4>Discussion</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/news"
+										<a href="https://www.erp.com/page/features/news"
 											target="_blank">
 											<span class="fa fa-newspaper-o fa-4x hvr-grow" />
 											<h4>News Portal</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/poll"
+										<a href="https://www.erp.com/page/features/poll"
 											target="_blank">
 											<span class="fa fa-bar-chart fa-4x hvr-grow" />
 											<h4>Poll</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/blog"
+										<a href="https://www.erp.com/page/features/blog"
 											target="_blank">
 											<span class="fa fa-bullhorn fa-4x hvr-grow" />
 											<h4>Blog</h4>
@@ -388,42 +388,42 @@
 								</div>
 								<div class="col-md-9">
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/accounting"
+										<a href="https://www.erp.com/page/features/accounting"
 											target="_blank">
 											<span class="fa fa-money fa-4x hvr-grow" />
 											<h4>Accounting</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/sales"
+										<a href="https://www.erp.com/page/features/sales"
 											target="_blank">
 											<span class="fa fa-area-chart fa-4x hvr-grow" />
 											<h4>Sales</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/payroll"
+										<a href="https://www.erp.com/page/features/payroll"
 											target="_blank">
 											<span class="fa fa-credit-card fa-4x hvr-grow" />
 											<h4>Payroll</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/purchase"
+										<a href="https://www.erp.com/page/features/purchase"
 											target="_blank">
 											<span class="fa fa-cart-arrow-down fa-4x hvr-grow" />
 											<h4>Purchase</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/stock"
+										<a href="https://www.erp.com/page/features/stock"
 											target="_blank">
 											<span class="fa fa-gears fa-4x hvr-grow" />
 											<h4>Stock</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/crm"
+										<a href="https://www.erp.com/page/features/crm"
 											target="_blank">
 											<span class="fa fa-male fa-4x hvr-grow" />
 											<h4>CRM</h4>
@@ -449,21 +449,21 @@
 								</div>
 								<div class="col-md-9">
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/full-web-based"
+										<a href="https://www.erp.com/page/features/full-web-based"
 											target="_blank">
 											<span class="fa fa-globe fa-4x hvr-grow" />
 											<h4>Full Web Based</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/open-source"
+										<a href="https://www.erp.com/page/features/open-source"
 											target="_blank">
 											<span class="fa fa-circle-o-notch fa-4x hvr-grow" />
 											<h4>Open Source</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/modular"
+										<a href="https://www.erp.com/page/features/modular"
 											target="_blank">
 											<span class="fa fa-puzzle-piece fa-4x hvr-grow" />
 											<h4>Modular</h4>
@@ -471,21 +471,21 @@
 									</div>
 									<div class="col-md-4 mt32">
 										<a
-											href="https://www.openeducat.org/page/features/on-cloud-on-premise"
+											href="https://www.erp.com/page/features/on-cloud-on-premise"
 											target="_blank">
 											<span class="fa fa-cloud-download fa-4x hvr-grow" />
 											<h4>On Cloud On Premise</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32">
-										<a href="https://www.openeducat.org/page/features/customizable"
+										<a href="https://www.erp.com/page/features/customizable"
 											target="_blank">
 											<span class="fa fa-wrench fa-4x hvr-grow" />
 											<h4>Customizable</h4>
 										</a>
 									</div>
 									<div class="col-md-4 mt32 mb50">
-										<a href="https://www.openeducat.org/page/features/secure"
+										<a href="https://www.erp.com/page/features/secure"
 											target="_blank">
 											<span class="fa fa-shield fa-4x hvr-grow" />
 											<h4>Secure</h4>
@@ -505,14 +505,14 @@
 									<p class="mb0">
 										<span style="color:#FFFFFF;">Let us know if you have any specific
 											inquiries
-											about OpenEduCat, or if you have any comments
+											about ERP, or if you have any comments
 											regarding
 											anything, or even if you just want to say “Hi”.
 										</span>
 									</p>
 								</div>
 								<div class="col-md-3">
-									<a class="btn btn-primary btn-lg pull-right mt8" href="http://www.openeducat.org/page/website.contactus">
+									<a class="btn btn-primary btn-lg pull-right mt8" href="http://www.erp.com/page/website.contactus">
 										<i class="fa fa-arrow-right" />
 										Contact Us Now
 									</a>

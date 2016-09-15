@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * account_bank_statement_import
 # 
@@ -7,7 +7,7 @@
 # Bohdan Lisnenko, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2016-05-06 12:24+0000\n"
@@ -347,18 +347,18 @@ msgstr "Рахунок для браку і втрат"
 #. module: account_bank_statement_import
 #: model:ir.model.fields,help:account_bank_statement_import.field_account_bank_statement_import_journal_creation_inbound_payment_method_ids
 msgid ""
-"Means of payment for collecting money. Odoo modules offer various payments "
+"Means of payment for collecting money. ERP modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
-msgstr "Призначено для вхідних платежів. Модулі Odoo мають різні способи оплати аде ви завжди можете вказати ручний режим для оплати через зовнішні програми такі, як клієнт-банк."
+msgstr "Призначено для вхідних платежів. Модулі ERP мають різні способи оплати аде ви завжди можете вказати ручний режим для оплати через зовнішні програми такі, як клієнт-банк."
 
 #. module: account_bank_statement_import
 #: model:ir.model.fields,help:account_bank_statement_import.field_account_bank_statement_import_journal_creation_outbound_payment_method_ids
 msgid ""
-"Means of payment for sending money. Odoo modules offer various payments "
+"Means of payment for sending money. ERP modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
-msgstr "Призначено для вихідних платежів. Модулі Odoo мають різні способи оплати аде ви завжди можете вказати ручний режим для оплати через зовнішні програми такі, як клієнт-банк."
+msgstr "Призначено для вихідних платежів. Модулі ERP мають різні способи оплати аде ви завжди можете вказати ручний режим для оплати через зовнішні програми такі, як клієнт-банк."
 
 #. module: account_bank_statement_import
 #: code:addons/account_bank_statement_import/account_bank_statement_import.py:132
@@ -424,7 +424,7 @@ msgstr "Показати журнал на панелі приладів"
 #. module: account_bank_statement_import
 #: model:ir.ui.view,arch_db:account_bank_statement_import.account_bank_statement_import_journal_creation_view
 msgid ""
-"The account of the statement you are importing is not yet recorded in Odoo. "
+"The account of the statement you are importing is not yet recorded in ERP. "
 "In order to proceed with the import, you need to create a bank journal for "
 "this account."
 msgstr "Банківський рахунок для цієї виписки поки що не створено в системі. Для того щоб продовжити імпорт виписки вам необхідно створити банківський журнал з вказаним рахунком."

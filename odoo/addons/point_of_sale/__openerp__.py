@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Point of Sale',
@@ -79,6 +79,6 @@ Main Features
     'installable': True,
     'application': True,
     'qweb': ['static/src/xml/pos.xml'],
-    'website': 'https://www.odoo.com/page/point-of-sale',
+    'website': 'https://www.erp.com/page/point-of-sale',
     'auto_install': False,
 }

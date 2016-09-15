@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * base
 # 
@@ -37,7 +37,7 @@
 # liAnGjiA <liangjia@qq.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-08-03 02:32+0000\n"
@@ -1127,7 +1127,7 @@ msgid ""
 "\n"
 "Main Features\n"
 "-------------\n"
-"* Clean and renewed communication history for any Odoo document that can act as a discussion topic\n"
+"* Clean and renewed communication history for any ERP document that can act as a discussion topic\n"
 "* Subscription mechanism to be updated about new messages on interesting documents\n"
 "* Unified feeds page to see recent messages and activity on followed documents\n"
 "* User communication through the feeds page\n"
@@ -1135,7 +1135,7 @@ msgid ""
 "* Relies on the global outgoing mail server - an integrated email management system - allowing to send emails with a configurable scheduler-based processing engine\n"
 "* Includes an extensible generic email composition assistant, that can turn into a mass-mailing assistant and is capable of interpreting simple *placeholder expressions* that will be replaced with dynamic data when each email is actually sent.\n"
 "    "
-msgstr "\n\\n\n面向商业的社交网络\\n\n===================================\\n\n社会化网络模块提供了一个统一的社交网络抽象层，通过一个完全集成电子邮件和消息管理系统，允许应用基于单据展示完整的通信记录。\\n\n\\n\n它使用户能阅读和发送消息以及电子邮件。它还提供一个组合了订阅机制的反馈页面，允许通过关注单据并不断的得到最新消息。\\n\n\\n\n主要特性\\n\n---------\\n\n* 干净和更新的沟通历史，任何Odoo单据，它可作为讨论话题； \\n\n* 订阅机制，用来得最新消息；\\n\n* 统一反馈页面，用来查看最新消息和随后文件活动；\\n\n* 用户沟通，通过反馈页面；\\n\n* 基于单据的线程讨论设计；\\n\n* 依赖于全局发送邮件服务器，一个集成的邮件管理系统，允许通过可配置调度处理引擎来发送电子邮件；\\n\n* 包括一个可扩展的通用电子邮件撰写助手，它变为邮件群发助手，能解释简单*占位符表达式*，从而在电子邮件被真正发送时使用动态数据。"
+msgstr "\n\\n\n面向商业的社交网络\\n\n===================================\\n\n社会化网络模块提供了一个统一的社交网络抽象层，通过一个完全集成电子邮件和消息管理系统，允许应用基于单据展示完整的通信记录。\\n\n\\n\n它使用户能阅读和发送消息以及电子邮件。它还提供一个组合了订阅机制的反馈页面，允许通过关注单据并不断的得到最新消息。\\n\n\\n\n主要特性\\n\n---------\\n\n* 干净和更新的沟通历史，任何ERP单据，它可作为讨论话题； \\n\n* 订阅机制，用来得最新消息；\\n\n* 统一反馈页面，用来查看最新消息和随后文件活动；\\n\n* 用户沟通，通过反馈页面；\\n\n* 基于单据的线程讨论设计；\\n\n* 依赖于全局发送邮件服务器，一个集成的邮件管理系统，允许通过可配置调度处理引擎来发送电子邮件；\\n\n* 包括一个可扩展的通用电子邮件撰写助手，它变为邮件群发助手，能解释简单*占位符表达式*，从而在电子邮件被真正发送时使用动态数据。"
 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_ve
@@ -1336,7 +1336,7 @@ msgid ""
 "the portal automatically adds it to the portal users, etc).  That feature is\n"
 "very handy when used in combination with the module 'share'.\n"
 "    "
-msgstr "\n通过创建门户网站自定义访问到您的Odoo的数据库的外部用户。\n================================================================================\n门户定义了一个特定的用户菜单和其成员的访问权限。这个\n菜单中可看到门户网站的成员，匿名用户和任何其他的用户\n有技术特点的访问（例如，管理员）。\n此外，每个门户网站的成员连接到一个特定的业务伙伴。\n\n该模块还联营公司的门户网站的用户的用户组（添加组的\n门户网站会自动将其添加到门户用户等）。这些特性“共享”模块在组合使用时非常方便.\n    "
+msgstr "\n通过创建门户网站自定义访问到您的ERP的数据库的外部用户。\n================================================================================\n门户定义了一个特定的用户菜单和其成员的访问权限。这个\n菜单中可看到门户网站的成员，匿名用户和任何其他的用户\n有技术特点的访问（例如，管理员）。\n此外，每个门户网站的成员连接到一个特定的业务伙伴。\n\n该模块还联营公司的门户网站的用户的用户组（添加组的\n门户网站会自动将其添加到门户用户等）。这些特性“共享”模块在组合使用时非常方便.\n    "
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_sale_delivery
@@ -1417,7 +1417,7 @@ msgid ""
 "to open ESC/POS controlled cashdrawers in the point of sale and other modules\n"
 "that would need such functionality.\n"
 "\n"
-msgstr "\nESC/POS 硬件驱动\n=======================\n\n这个模块允许Odoo使用ESC/POS兼容打印机和\n打开在POS和其它模块中由ESC/POS控制的现金箱\n\n\n"
+msgstr "\nESC/POS 硬件驱动\n=======================\n\n这个模块允许ERP使用ESC/POS兼容打印机和\n打开在POS和其它模块中由ESC/POS控制的现金箱\n\n\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_eu_service
@@ -1560,7 +1560,7 @@ msgid ""
 "For non-numerical achievements, **badges** can be granted to users. From a simple \"thank you\" to an exceptional achievement, a badge is an easy way to exprimate gratitude to a user for their good work.\n"
 "\n"
 "Both goals and badges are flexibles and can be adapted to a large range of modules and actions. When installed, this module creates easy goals to help new users to discover OpenERP and configure their user profile.\n"
-msgstr "\n游戏化过程\n====================\n该游戏化模块提供了一些方法来评估和激励Odoo用户.\n\n用户可以使用目标和数值目标达成进行评估.\n已分派**目标**通过每个人的**挑战**和时间来评估和比较一个团队的成员.\n\n对于非数字的成绩, **徽章**可以授予给用户. 从一个简单的 \"谢谢\" 到一个杰出的成绩, 徽章是一种简单的方法来感谢那些出色工作的用户 .\n\n目标和徽章这两个是软件包装并可以适应于大范围的模块和动作. 安装时, 此模块创建简单的目标以帮助新用户发现OpenERP 并配置他们的用户配置文件.\n"
+msgstr "\n游戏化过程\n====================\n该游戏化模块提供了一些方法来评估和激励ERP用户.\n\n用户可以使用目标和数值目标达成进行评估.\n已分派**目标**通过每个人的**挑战**和时间来评估和比较一个团队的成员.\n\n对于非数字的成绩, **徽章**可以授予给用户. 从一个简单的 \"谢谢\" 到一个杰出的成绩, 徽章是一种简单的方法来感谢那些出色工作的用户 .\n\n目标和徽章这两个是软件包装并可以适应于大范围的模块和动作. 安装时, 此模块创建简单的目标以帮助新用户发现OpenERP 并配置他们的用户配置文件.\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_uy
@@ -1714,7 +1714,7 @@ msgid ""
 "\n"
 "This module allows you to integrate google documents to any of your OpenERP record quickly and easily using OAuth 2.0 for Installed Applications,\n"
 "You can configure your google Authorization Code from Settings > Configuration > General Settings by clicking on \"Generate Google Authorization Code\"\n"
-msgstr "\n集成谷歌文档到Odoo记录中.\n============================================\n\n通过使用OAuth 2.0的应用安装，这个模块能够快速并且轻松集成谷歌文档到任何OpenERP记录中,\n从【设置>配置>通用设置】中点【生成谷歌授权码】，你配置你的谷歌授权码\n"
+msgstr "\n集成谷歌文档到ERP记录中.\n============================================\n\n通过使用OAuth 2.0的应用安装，这个模块能够快速并且轻松集成谷歌文档到任何OpenERP记录中,\n从【设置>配置>通用设置】中点【生成谷歌授权码】，你配置你的谷歌授权码\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_account
@@ -1722,11 +1722,11 @@ msgid ""
 "\n"
 "Invoicing & Payments\n"
 "====================\n"
-"The specific and easy-to-use Invoicing system in Odoo allows you to keep track of your accounting, even when you are not an accountant. It provides an easy way to follow up on your vendors and customers.\n"
+"The specific and easy-to-use Invoicing system in ERP allows you to keep track of your accounting, even when you are not an accountant. It provides an easy way to follow up on your vendors and customers.\n"
 "\n"
 "You could use this simplified accounting in case you work with an (external) account to keep your books, and you still want to keep track of payments. This module also offers you an easy method of registering payments, without having to encode complete abstracts of account.\n"
 "    "
-msgstr "\n开票及付款\n====================\nOdoo里的具体的和易于使用的发票系统可以让你保持你的会计的轨迹，即使你不是一个 会计。它提供了一个简单的方式来跟进你的客户和客户。\n\n万一你使用(外部的)账户,你可以使用这个简化得的会计来保留你的账簿，跟踪付款。该模块还为您提供了注册费用的简单方法，而不必考虑完整的摘要进行编码。"
+msgstr "\n开票及付款\n====================\nERP里的具体的和易于使用的发票系统可以让你保持你的会计的轨迹，即使你不是一个 会计。它提供了一个简单的方式来跟进你的客户和客户。\n\n万一你使用(外部的)账户,你可以使用这个简化得的会计来保留你的账簿，跟踪付款。该模块还为您提供了注册费用的简单方法，而不必考虑完整的摘要进行编码。"
 
 #. module: base
 #: model:ir.module.module,description:base.module_stock_landed_costs
@@ -1808,9 +1808,9 @@ msgid ""
 "==================================================\n"
 "\n"
 "Purchase management enables you to track your vendors' price quotations and convert them into purchase orders if necessary.\n"
-"Odoo has several methods of monitoring invoices and tracking the receipt of ordered goods. You can handle partial deliveries in Odoo, so you can keep track of items that are still to be delivered in your orders, and you can issue reminders automatically.\n"
+"ERP has several methods of monitoring invoices and tracking the receipt of ordered goods. You can handle partial deliveries in ERP, so you can keep track of items that are still to be delivered in your orders, and you can issue reminders automatically.\n"
 "\n"
-"Odoo's replenishment management rules enable the system to generate draft purchase orders automatically, or you can configure it to run a lean process driven entirely by current production needs.\n"
+"ERP's replenishment management rules enable the system to generate draft purchase orders automatically, or you can configure it to run a lean process driven entirely by current production needs.\n"
 "\n"
 "Dashboard / Reports for Purchase Management will include:\n"
 "---------------------------------------------------------\n"
@@ -1820,7 +1820,7 @@ msgid ""
 "* Receipt Analysis\n"
 "* Purchase Analysis\n"
 "    "
-msgstr "\n用采购订单方便地管理货物需求\n==================================================\n\n采购管理能让你追踪供应商价格并按需求转化为采购单.\nOdoo有几种方式监控发票和货物收取情况. \n在Odoo中你可以部分收货, 所以你可以继续跟踪未交货部分，并自动发送提醒。\nOdoo补货管理规则让系统自动生成采购订单草稿，也可以将其配置为完全由当前的生产需求所驱动的流程.\n\n采购管理的仪表板 / 报告包括:\n---------------------------------------------------------\n* 询价单\n* 等待批准的采购单\n* 按类别的月度采购\n* 收货分析\n* 采购分析\n    "
+msgstr "\n用采购订单方便地管理货物需求\n==================================================\n\n采购管理能让你追踪供应商价格并按需求转化为采购单.\nERP有几种方式监控发票和货物收取情况. \n在ERP中你可以部分收货, 所以你可以继续跟踪未交货部分，并自动发送提醒。\nERP补货管理规则让系统自动生成采购订单草稿，也可以将其配置为完全由当前的生产需求所驱动的流程.\n\n采购管理的仪表板 / 报告包括:\n---------------------------------------------------------\n* 询价单\n* 等待批准的采购单\n* 按类别的月度采购\n* 收货分析\n* 采购分析\n    "
 
 #. module: base
 #: model:ir.module.module,description:base.module_hr_recruitment
@@ -1960,7 +1960,7 @@ msgstr "\n管理第二销售单位======出售的产品的单位不同于库存�
 #: model:ir.module.module,description:base.module_mrp
 msgid ""
 "\n"
-"Manage the Manufacturing process in Odoo\n"
+"Manage the Manufacturing process in ERP\n"
 "===========================================\n"
 "\n"
 "The manufacturing module allows you to cover planning, ordering, stocks and the manufacturing or assembly of products from raw materials and components. It handles the consumption and production of products according to a bill of materials and the necessary operations on machinery, tools or human resources according to routings.\n"
@@ -1982,7 +1982,7 @@ msgid ""
 "* Stock Value Variation (Graph)\n"
 "* Work Order Analysis\n"
 "    "
-msgstr "\n Odoo的制造过程管理\n===========================================\n\n生产模块可以使您涵盖计划，订单，仓库，或从原材料和组件来制造和组装产品.它按照工料单，需要的机械操作，工具或按工艺路线的人力来管理产品的生产和消耗。\n\n它支持对库存物品，可消费品，及服务的完全的集成和计划管理. 服务是完全与软件的其余部分集成在一起。例如, 你可以在物料清单里设置一个子合同服务，系统会自动根据订单去采购所需的零部件.\n\n主要功能\n------------\n* 库存生产/订单生产\n* 多级物料清单\n* 多级工艺路线\n* 工艺路线、工作中心与辅助核算的集成\n* 定期计划运算\n* 允许浏览包括子件和虚件在内的完整物料清单明细\n\nMRP的看板和报告包括:\n-----------------------------------------\n* 需求异常 (图表)\n* 库存价值变化 (Graph)\n* 工单分析\n    "
+msgstr "\n ERP的制造过程管理\n===========================================\n\n生产模块可以使您涵盖计划，订单，仓库，或从原材料和组件来制造和组装产品.它按照工料单，需要的机械操作，工具或按工艺路线的人力来管理产品的生产和消耗。\n\n它支持对库存物品，可消费品，及服务的完全的集成和计划管理. 服务是完全与软件的其余部分集成在一起。例如, 你可以在物料清单里设置一个子合同服务，系统会自动根据订单去采购所需的零部件.\n\n主要功能\n------------\n* 库存生产/订单生产\n* 多级物料清单\n* 多级工艺路线\n* 工艺路线、工作中心与辅助核算的集成\n* 定期计划运算\n* 允许浏览包括子件和虚件在内的完整物料清单明细\n\nMRP的看板和报告包括:\n-----------------------------------------\n* 需求异常 (图表)\n* 库存价值变化 (Graph)\n* 工单分析\n    "
 
 #. module: base
 #: model:ir.module.module,description:base.module_sale_layout
@@ -2138,13 +2138,13 @@ msgid ""
 "Module to import OFX bank statements.\n"
 "======================================\n"
 "\n"
-"This module allows you to import the machine readable OFX Files in Odoo: they are parsed and stored in human readable format in\n"
+"This module allows you to import the machine readable OFX Files in ERP: they are parsed and stored in human readable format in\n"
 "Accounting \\ Bank and Cash \\ Bank Statements.\n"
 "\n"
 "Bank Statements may be generated containing a subset of the OFX information (only those transaction lines that are required for the\n"
 "creation of the Financial Accounting records).\n"
 "    "
-msgstr "\n导入OFX银行对账单的模块.\n======================================\n\n这个模块可以允许你在Odoo里导入机器可读的OFX文件：它们被解析并存储在人们可读的格式在会计\\银行存款及现金\\银行对账单中。.\n\n银行对账单可以生成包含OFX信息(只需要为创建的财务会计记录的交易行)的一个子集。\n    "
+msgstr "\n导入OFX银行对账单的模块.\n======================================\n\n这个模块可以允许你在ERP里导入机器可读的OFX文件：它们被解析并存储在人们可读的格式在会计\\银行存款及现金\\银行对账单中。.\n\n银行对账单可以生成包含OFX信息(只需要为创建的财务会计记录的交易行)的一个子集。\n    "
 
 #. module: base
 #: model:ir.module.module,description:base.module_account_bank_statement_import_qif
@@ -2153,7 +2153,7 @@ msgid ""
 "Module to import QIF bank statements.\n"
 "======================================\n"
 "\n"
-"This module allows you to import the machine readable QIF Files in Odoo: they are parsed and stored in human readable format in\n"
+"This module allows you to import the machine readable QIF Files in ERP: they are parsed and stored in human readable format in\n"
 "Accounting \\ Bank and Cash \\ Bank Statements.\n"
 "\n"
 "Important Note\n"
@@ -2215,61 +2215,61 @@ msgstr "\nOE中新增可扩展文件的导入。\n==============================
 #: model:ir.module.module,description:base.module_l10n_sa
 msgid ""
 "\n"
-"Odoo Arabic localization for most arabic countries and Saudi Arabia.\n"
+"ERP Arabic localization for most arabic countries and Saudi Arabia.\n"
 "\n"
 "This initially includes chart of accounts of USA translated to Arabic.\n"
 "\n"
 "In future this module will include some payroll rules for ME .\n"
-msgstr "\nOdoo中面向大多数阿拉伯及沙乌地阿拉伯等国家或地区的本地化。\n\n此会计科目以美国会计科目为蓝本翻译为阿拉伯会计科目。\n\n对于本人而言，预计将来会包含一些工资规则。\n"
+msgstr "\nERP中面向大多数阿拉伯及沙乌地阿拉伯等国家或地区的本地化。\n\n此会计科目以美国会计科目为蓝本翻译为阿拉伯会计科目。\n\n对于本人而言，预计将来会包含一些工资规则。\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_form_editor
 msgid ""
 "\n"
-"Odoo Form Editor\n"
+"ERP Form Editor\n"
 "====================\n"
 "\n"
 "Allows you to build web forms on the website using the website builder.\n"
 "        "
-msgstr "\nOdoo 界面编辑\n====================\n\n允许你在网站上用网站编辑器建设网站.\n        "
+msgstr "\nERP 界面编辑\n====================\n\n允许你在网站上用网站编辑器建设网站.\n        "
 
 #. module: base
 #: model:ir.module.module,description:base.module_im_odoo_support
 msgid ""
 "\n"
-"Odoo Live Support\n"
+"ERP Live Support\n"
 "=================\n"
 "\n"
-"Ask your functional question directly to the Odoo Operators with the livechat support.\n"
+"Ask your functional question directly to the ERP Operators with the livechat support.\n"
 "\n"
 "        "
-msgstr "\nOdoo在线支持\n=================\n\n如有任何技术问题，请使用在线支持与Odoo工作人员直接联系。\n\n        "
+msgstr "\nERP在线支持\n=================\n\n如有任何技术问题，请使用在线支持与ERP工作人员直接联系。\n\n        "
 
 #. module: base
 #: model:ir.module.module,description:base.module_web_editor
 msgid ""
 "\n"
-"Odoo Web Editor widget.\n"
+"ERP Web Editor widget.\n"
 "==========================\n"
 "\n"
-msgstr "\nOdoo Web 编辑部件\n==========================\n"
+msgstr "\nERP Web 编辑部件\n==========================\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_livechat
 msgid ""
 "\n"
-"Odoo Website LiveChat\n"
+"ERP Website LiveChat\n"
 "========================\n"
-"For website built with Odoo CMS, this module include a chat button on your Website, and allow your visitors to chat with your collabarators.\n"
+"For website built with ERP CMS, this module include a chat button on your Website, and allow your visitors to chat with your collabarators.\n"
 "It also will include the feedback tool for the livechat, and web pages to display your channel and its ratings on the website.\n"
 "        "
-msgstr "\nOdoo 网站在线聊天\n========================\n对于Odoo CMS的网站建设，这个模块包括一个聊天按钮在你的网站上，允许你的访问者和你的合作者聊天。\n它也包含了对聊天和网页的反馈工具，来显示你的频道和在网页上的评价。\n\n        "
+msgstr "\nERP 网站在线聊天\n========================\n对于ERP CMS的网站建设，这个模块包括一个聊天按钮在你的网站上，允许你的访问者和你的合作者聊天。\n它也包含了对聊天和网页的反馈工具，来显示你的频道和在网页上的评价。\n\n        "
 
 #. module: base
 #: model:ir.module.module,description:base.module_web_settings_dashboard
 msgid ""
 "\n"
-"Odoo dashboard\n"
+"ERP dashboard\n"
 "==============\n"
 "* Quick access to install apps\n"
 "* Quick users add\n"
@@ -2277,7 +2277,7 @@ msgid ""
 "* Quick access to the `App Store` and `Theme Store`\n"
 "\n"
 "        "
-msgstr "\nOdoo仪表板\n============\n* 快速安装apps\n* 快速用户添加\n* 统一管理工具入口\n* 快速访问 `应用商店` 和 `主题商店`"
+msgstr "\nERP仪表板\n============\n* 快速安装apps\n* 快速用户添加\n* 统一管理工具入口\n* 快速访问 `应用商店` 和 `主题商店`"
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_event_track
@@ -2627,7 +2627,7 @@ msgid ""
 "Publish your products on eBay\n"
 "==============================================================\n"
 "\n"
-"The eBay integrator gives you the opportunity to manage your Odoo's products on eBay.\n"
+"The eBay integrator gives you the opportunity to manage your ERP's products on eBay.\n"
 "\n"
 "Key Features\n"
 "------------\n"
@@ -2637,7 +2637,7 @@ msgid ""
 "* Automatic creation of sales order and invoices\n"
 "\n"
 "  "
-msgstr "\n在eBay上发布你的产品.\n\neBay 的集成器提供在eBay上管理你的Odoo 产品的机会.\n\n关键功能\n-------------------\n在eBay 上发布产品\n在eBay上修改，重新提交，结束事项\n和仓储整合\n自动生成订单和发票"
+msgstr "\n在eBay上发布你的产品.\n\neBay 的集成器提供在eBay上管理你的ERP 产品的机会.\n\n关键功能\n-------------------\n在eBay 上发布产品\n在eBay上修改，重新提交，结束事项\n和仓储整合\n自动生成订单和发票"
 
 #. module: base
 #: model:ir.module.module,description:base.module_point_of_sale
@@ -2855,9 +2855,9 @@ msgid ""
 "``l10n_ch_payment_slip``\n"
 "  Support of ESR/BVR payment slip report and reconciliation.\n"
 "\n"
-"``l10n_ch`` is located in the core Odoo modules. The other modules are in:\n"
+"``l10n_ch`` is located in the core ERP modules. The other modules are in:\n"
 "https://github.com/OCA/l10n-switzerland\n"
-msgstr "\nSwiss localization\n==================\n\n**Multilang Swiss PME/KMU 2015 account chart and taxes**\n\n**Author:** Camptocamp SA\n\n**Financial contributors:** Prisme Solutions Informatique SA, Quod SA\n\n**Translation contributors:** brain-tec AG, Agile Business Group\n\nThe swiss localization addons are organized this way:\n\n``l10n_ch``\n  Multilang Swiss PME/KMU 2015 account chart and taxes (official addon)\n``l10n_ch_base_bank``\n  Technical module that introduces a new and simplified version of bank\n  type management\n``l10n_ch_bank``\n  List of swiss banks\n``l10n_ch_zip``\n  List of swiss postal zip\n``l10n_ch_dta``\n  Support of the DTA payment protocol (will be deprecated by the end of 2014)\n``l10n_ch_payment_slip``\n  Support of ESR/BVR payment slip report and reconciliation.\n\n``l10n_ch`` is located in the core Odoo modules. The other modules are in:\nhttps://github.com/OCA/l10n-switzerland\n"
+msgstr "\nSwiss localization\n==================\n\n**Multilang Swiss PME/KMU 2015 account chart and taxes**\n\n**Author:** Camptocamp SA\n\n**Financial contributors:** Prisme Solutions Informatique SA, Quod SA\n\n**Translation contributors:** brain-tec AG, Agile Business Group\n\nThe swiss localization addons are organized this way:\n\n``l10n_ch``\n  Multilang Swiss PME/KMU 2015 account chart and taxes (official addon)\n``l10n_ch_base_bank``\n  Technical module that introduces a new and simplified version of bank\n  type management\n``l10n_ch_bank``\n  List of swiss banks\n``l10n_ch_zip``\n  List of swiss postal zip\n``l10n_ch_dta``\n  Support of the DTA payment protocol (will be deprecated by the end of 2014)\n``l10n_ch_payment_slip``\n  Support of ESR/BVR payment slip report and reconciliation.\n\n``l10n_ch`` is located in the core ERP modules. The other modules are in:\nhttps://github.com/OCA/l10n-switzerland\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_account_yodlee
@@ -2889,9 +2889,9 @@ msgid ""
 "Synchronization of timesheet entries with the external timesheet application.\n"
 "====================================================================\n"
 "\n"
-"If you use the external timesheet application, this module alows you to synchronize timesheet entries between Odoo and the application.\n"
+"If you use the external timesheet application, this module alows you to synchronize timesheet entries between ERP and the application.\n"
 "    "
-msgstr "\n和外部工单程序同步工单输入\n==============================\n如果你使用外部工单程序，这个模块允许你同步工单在Odoo和该应用之间。"
+msgstr "\n和外部工单程序同步工单输入\n==============================\n如果你使用外部工单程序，这个模块允许你同步工单在ERP和该应用之间。"
 
 #. module: base
 #: model:ir.module.module,description:base.module_account_voucher
@@ -2902,7 +2902,7 @@ msgid ""
 "old description:\n"
 "Invoicing & Payments by Accounting Voucher & Receipts\n"
 "=====================================================\n"
-"The specific and easy-to-use Invoicing system in Odoo allows you to keep track of your accounting, even when you are not an accountant. It provides an easy way to follow up on your vendors and customers. \n"
+"The specific and easy-to-use Invoicing system in ERP allows you to keep track of your accounting, even when you are not an accountant. It provides an easy way to follow up on your vendors and customers. \n"
 "\n"
 "You could use this simplified accounting in case you work with an (external) account to keep your books, and you still want to keep track of payments. \n"
 "\n"
@@ -3171,7 +3171,7 @@ msgstr "\nThis is the base module to manage the accounting chart for Maroc.\n===
 #: model:ir.module.module,description:base.module_l10n_generic_coa
 msgid ""
 "\n"
-"This is the base module to manage the generic accounting chart in Odoo.\n"
+"This is the base module to manage the generic accounting chart in ERP.\n"
 "==============================================================================\n"
 "\n"
 "Install some generic chart of accounts.\n"
@@ -3349,7 +3349,7 @@ msgstr "\nThis is the module to manage the accounting chart for Vietnam in OpenE
 #: model:ir.module.module,description:base.module_l10n_vn_reports
 msgid ""
 "\n"
-"This is the module to manage the accounting reports for Vietnam in Odoo.\n"
+"This is the module to manage the accounting reports for Vietnam in ERP.\n"
 "=========================================================================\n"
 "\n"
 "This module applies to companies based in Vietnamese Accounting Standard (VAS).\n"
@@ -3563,7 +3563,7 @@ msgid ""
 "\n"
 "Scanning\n"
 "--------\n"
-"Use a USB scanner (that mimics keyboard inputs) in order to work with barcodes in Odoo.\n"
+"Use a USB scanner (that mimics keyboard inputs) in order to work with barcodes in ERP.\n"
 "The scanner must be configured to use no prefix and a carriage return or tab as suffix.\n"
 "The delay between each character input must be less than or equal to 50 milliseconds.\n"
 "Most barcode scanners will work out of the box.\n"
@@ -4147,7 +4147,7 @@ msgid ""
 "\n"
 "Vehicle, leasing, insurances, cost\n"
 "==================================\n"
-"With this module, Odoo helps you managing all your vehicles, the\n"
+"With this module, ERP helps you managing all your vehicles, the\n"
 "contracts associated to those vehicle as well as services, fuel log\n"
 "entries, costs and many other features necessary to the management \n"
 "of your fleet of vehicle(s)\n"
@@ -4160,7 +4160,7 @@ msgid ""
 "* Add services, fuel log entry, odometer values for all vehicles\n"
 "* Show all costs associated to a vehicle or to a type of service\n"
 "* Analysis graph for costs\n"
-msgstr "\n车辆、租赁、保险、花费\n==================================\n使用此模块，Odoo帮助你管理你的车辆，\n包括与车辆相关的合同，服务，加油记录，以及其它管理车辆\n服务，加油记录，以及其它管理车辆\n或车队所必须的要素。\n\n主要特性\n-------------\n* 为车队增加车辆\n* 管理车辆合同\n* 车辆合同到期提醒\n* 为所有车辆增加服务、加油记录、里程表\n* 显示某一车辆或某一种服务的所有费用\n* 费用图表分析\n"
+msgstr "\n车辆、租赁、保险、花费\n==================================\n使用此模块，ERP帮助你管理你的车辆，\n包括与车辆相关的合同，服务，加油记录，以及其它管理车辆\n服务，加油记录，以及其它管理车辆\n或车队所必须的要素。\n\n主要特性\n-------------\n* 为车队增加车辆\n* 管理车辆合同\n* 车辆合同到期提醒\n* 为所有车辆增加服务、加油记录、里程表\n* 显示某一车辆或某一种服务的所有费用\n* 费用图表分析\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_stock_account
@@ -5230,7 +5230,7 @@ msgid ""
 "         login once with a valid LDAP user, let OpenERP create a blank local\n"
 "         user with the same login (and a blank password), then rename this new\n"
 "         user to a username that does not exist in LDAP, and setup its groups\n"
-msgstr "增加LDAP服务器身份验证的支持\n===============================================\n此模块允许用户通过他们的LDAP用户名和密码登录，\n同时自动创建Odoo用户。\n\n**注意:**此模块只运行在已安装LDAP模块的Python服务器上。\n--------------\n安装完此模块后，你需要在“公司详细配置”页里配置LDAP参数。不同的公司可能有不同的LDAP服务器，只要他们有唯一的用户名（在Odoo里用户名必须唯一，甚至在不同的公司里，用户名也不同相同）。\n\n只要LDAP服务器允许，可支持匿名的LDAP绑定，只需在LDAP服务器中设置用户名和密码为空。这不允许用户匿名验证，只是用于在验证前验证一个用户是否存在的超级用户LDAP账户。\n\n在LDAP配置中打开TLS选项，LDAP服务器就能使用STARTTLS安全连接。更多的LDAP配置选项，请参考LDAP配置手册。\n配置手册：ldap.conf(5)\n安全考虑：\n-------------------------\n用户的LDAP密码不会被存储在Odoo数据库。当用户需要认证时，doo会从LDAP服务器查询用户，不会复制密码，密码只会由LDAP管理，所以更改密码的动作只能在LDAP目录中进行。\n本地用户也可能同时存在于Odoo数据库和LDAP，（管理员帐户就是一个明显的例子），它的工作原理如下：系统首先尝试通过本地Odoo数据库进行用户认证，如果认证失败（比如用户没有本地密码），则系统再通过LDAP进行认证。由于在Odoo数据库中，LDAP用户的默认密码为空（表示不能访问），第一步（通过本地Odoo数据库进行认证）总是失败，所以总是会通过LDAP服务器认证。使能STARTTLS能够保证通过LDAP的用户认证是被加密的。\n用户模板：在“公司”表格里的LDAP配置页里，可以选择“用户模板”。如果选上此项，当有用户通过LDAP服务认证时，可以选择一个用户作为创建本地用户的模板。这将允许预设用户所在群组和第一次登录时的菜单。\n（备注：）如果你在用户模板里预设密码，这个密码会被当作新的LDAP本地用户的默认密码，这可以当作这些新用户的“管理密码”，直到他们更改密码。你通常不会这么做。创建一个用户模板的简便方式，是用一个LDAP有效用户登录一次，让Odoo创建一个本地用户，密码为空，然后用一个在LDAP中不存在的用户名来重命名这个用户，设置他的用户组。\n与“基础加密（base_crypt）”交互：基础加密模块和LDAP模块不匹配，如果安装了“基础加密”模块，LDAP模块会被禁用。 \n"
+msgstr "增加LDAP服务器身份验证的支持\n===============================================\n此模块允许用户通过他们的LDAP用户名和密码登录，\n同时自动创建ERP用户。\n\n**注意:**此模块只运行在已安装LDAP模块的Python服务器上。\n--------------\n安装完此模块后，你需要在“公司详细配置”页里配置LDAP参数。不同的公司可能有不同的LDAP服务器，只要他们有唯一的用户名（在ERP里用户名必须唯一，甚至在不同的公司里，用户名也不同相同）。\n\n只要LDAP服务器允许，可支持匿名的LDAP绑定，只需在LDAP服务器中设置用户名和密码为空。这不允许用户匿名验证，只是用于在验证前验证一个用户是否存在的超级用户LDAP账户。\n\n在LDAP配置中打开TLS选项，LDAP服务器就能使用STARTTLS安全连接。更多的LDAP配置选项，请参考LDAP配置手册。\n配置手册：ldap.conf(5)\n安全考虑：\n-------------------------\n用户的LDAP密码不会被存储在ERP数据库。当用户需要认证时，doo会从LDAP服务器查询用户，不会复制密码，密码只会由LDAP管理，所以更改密码的动作只能在LDAP目录中进行。\n本地用户也可能同时存在于ERP数据库和LDAP，（管理员帐户就是一个明显的例子），它的工作原理如下：系统首先尝试通过本地ERP数据库进行用户认证，如果认证失败（比如用户没有本地密码），则系统再通过LDAP进行认证。由于在ERP数据库中，LDAP用户的默认密码为空（表示不能访问），第一步（通过本地ERP数据库进行认证）总是失败，所以总是会通过LDAP服务器认证。使能STARTTLS能够保证通过LDAP的用户认证是被加密的。\n用户模板：在“公司”表格里的LDAP配置页里，可以选择“用户模板”。如果选上此项，当有用户通过LDAP服务认证时，可以选择一个用户作为创建本地用户的模板。这将允许预设用户所在群组和第一次登录时的菜单。\n（备注：）如果你在用户模板里预设密码，这个密码会被当作新的LDAP本地用户的默认密码，这可以当作这些新用户的“管理密码”，直到他们更改密码。你通常不会这么做。创建一个用户模板的简便方式，是用一个LDAP有效用户登录一次，让ERP创建一个本地用户，密码为空，然后用一个在LDAP中不存在的用户名来重命名这个用户，设置他的用户组。\n与“基础加密（base_crypt）”交互：基础加密模块和LDAP模块不匹配，如果安装了“基础加密”模块，LDAP模块会被禁用。 \n"
 
 #. module: base
 #: model:ir.module.category,name:base.module_category_administration
@@ -6375,8 +6375,8 @@ msgstr "与你网站访问者聊天"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_im_odoo_support
-msgid "Chat with the Odoo collaborators"
-msgstr "与Odoo合作者聊天"
+msgid "Chat with the ERP collaborators"
+msgstr "与ERP合作者聊天"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_account_check_printing
@@ -7203,7 +7203,7 @@ msgstr "在基本模块中创建新记录"
 #. module: base
 #: model:ir.actions.act_window,help:base.action_res_company_form
 msgid ""
-"Create and manage the companies that will be managed by Odoo from here. "
+"Create and manage the companies that will be managed by ERP from here. "
 "Shops or subsidiaries can be created and maintained from here."
 msgstr "在此处创建与管理系统中的公司机构信息。门店与下属机构也可以在这里进行创建与维护。"
 
@@ -8936,9 +8936,9 @@ msgstr ""
 #. module: base
 #: model:ir.ui.view,arch_db:base.wizard_lang_export
 msgid ""
-"For more details about translating Odoo in your language, please refer to "
+"For more details about translating ERP in your language, please refer to "
 "the"
-msgstr "更多关于翻译Odoo的详细信息，请参见"
+msgstr "更多关于翻译ERP的详细信息，请参见"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_model_fields_relation_field
@@ -9969,7 +9969,7 @@ msgstr ""
 #: model:ir.model.fields,help:base.field_ir_ui_menu_groups_id
 msgid ""
 "If you have groups, the visibility of this menu will be based on these "
-"groups. If this field is empty, Odoo will compute visibility based on the "
+"groups. If this field is empty, ERP will compute visibility based on the "
 "related object's read access."
 msgstr "如果您归属于用户群组，则此菜单的可见性将有这些用户群组决定。如果该字段为空，系统将基于关联对象的读取权限计算可见性。"
 
@@ -11367,12 +11367,12 @@ msgstr "马耳他"
 #. module: base
 #: model:ir.actions.act_window,help:base.grant_menu_access
 msgid ""
-"Manage and customize the items available and displayed in your Odoo system "
+"Manage and customize the items available and displayed in your ERP system "
 "menu. You can delete an item by clicking on the box at the beginning of each"
 " line and then delete it through the button that appeared. Items can be "
 "assigned to specific groups in order to make them accessible to some users "
 "within the system."
-msgstr "管理和定制的项目提供并在Odoo系统菜单显示。您可以通过点击框每行开头删除一个项目，然后通过出现的按钮将其删除。项目可以被分配到特定组以便某些用户可以访问。"
+msgstr "管理和定制的项目提供并在ERP系统菜单显示。您可以通过点击框每行开头删除一个项目，然后通过出现的按钮将其删除。项目可以被分配到特定组以便某些用户可以访问。"
 
 #. module: base
 #: model:ir.actions.act_window,help:base.action_res_bank_form
@@ -12349,54 +12349,54 @@ msgstr "对象:"
 
 #. module: base
 #: selection:ir.module.module,license:0
-msgid "Odoo Enterprise Edition License v1.0"
-msgstr "Odoo 企业版授权协议 v1.0"
+msgid "ERP Enterprise Edition License v1.0"
+msgstr "ERP 企业版授权协议 v1.0"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_im_odoo_support
-msgid "Odoo Live Support"
-msgstr "Odoo在线支持"
+msgid "ERP Live Support"
+msgstr "ERP在线支持"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_web_settings_dashboard
-msgid "Odoo Settings Dashboard"
-msgstr "Odoo设置仪表板"
+msgid "ERP Settings Dashboard"
+msgstr "ERP设置仪表板"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_crm_voip
-msgid "Odoo VOIP"
-msgstr "Odoo VOIP"
+msgid "ERP VOIP"
+msgstr "ERP VOIP"
 
 #. module: base
 #: model:ir.actions.act_window,help:base.action_partner_customer_form
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "                a customer: discussions, history of business opportunities,\n"
 "                documents, etc."
-msgstr "Odoo帮助您轻松地跟踪有关一个客户所有的活动，会谈，商业机会历史，文档等。"
+msgstr "ERP帮助您轻松地跟踪有关一个客户所有的活动，会谈，商业机会历史，文档等。"
 
 #. module: base
 #: model:ir.actions.act_window,help:base.action_partner_form
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "                a customer; discussions, history of business opportunities,\n"
 "                documents, etc."
-msgstr "Odoo帮助您轻松地跟踪有关一个客户所有的活动，会谈，商业机会历史，文档等。"
+msgstr "ERP帮助您轻松地跟踪有关一个客户所有的活动，会谈，商业机会历史，文档等。"
 
 #. module: base
 #: model:ir.actions.act_window,help:base.action_partner_supplier_form
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "                a supplier: discussions, history of purchases,\n"
 "                documents, etc."
-msgstr "Odoo帮助您轻松地跟踪有关一个供应所有的活动，会谈，采购历史，文档等。"
+msgstr "ERP帮助您轻松地跟踪有关一个供应所有的活动，会谈，采购历史，文档等。"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_sequence_padding
 msgid ""
-"Odoo will automatically adds some '0' on the left of the 'Next Number' to "
+"ERP will automatically adds some '0' on the left of the 'Next Number' to "
 "get the required padding size."
-msgstr "Odoo将自动添加几个“0”在“下一个数字”的左侧以满足填充要求。"
+msgstr "ERP将自动添加几个“0”在“下一个数字”的左侧以满足填充要求。"
 
 #. module: base
 #: model:res.partner.category,name:base.res_partner_category_12
@@ -13139,8 +13139,8 @@ msgstr "库存门户"
 #: model:res.groups,comment:base.group_portal
 msgid ""
 "Portal members have specific access rights (such as record rules and restricted menus).\n"
-"                They usually do not belong to the usual Odoo groups."
-msgstr "门户成员有特定的访问权限 (如记录规则和限制菜单)。\n他们通常不属于普通的Odoo群组。"
+"                They usually do not belong to the usual ERP groups."
+msgstr "门户成员有特定的访问权限 (如记录规则和限制菜单)。\n他们通常不属于普通的ERP群组。"
 
 #. module: base
 #: model:res.country,name:base.pt
@@ -13393,8 +13393,8 @@ msgstr "公开"
 #: model:res.groups,comment:base.group_public
 msgid ""
 "Public users have specific access rights (such as record rules and restricted menus).\n"
-"                They usually do not belong to the usual Odoo groups."
-msgstr "公众用户有特定的访问权限 (如记录规则和限制菜单)。 他们通常不属于通常的Odoo群组"
+"                They usually do not belong to the usual ERP groups."
+msgstr "公众用户有特定的访问权限 (如记录规则和限制菜单)。 他们通常不属于通常的ERP群组"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_website_membership
@@ -15291,8 +15291,8 @@ msgstr "TGZ 压缩包"
 #: model:ir.ui.view,arch_db:base.wizard_lang_export
 msgid ""
 "TGZ format: this is a compressed archive containing a PO file, directly suitable\n"
-"                                for uploading to Odoo's translation platform,"
-msgstr "TGZ 格式: 这是一个压缩包，包含PO文件，可用于直接\n                                上传到Odoo的翻译平台。"
+"                                for uploading to ERP's translation platform,"
+msgstr "TGZ 格式: 这是一个压缩包，包含PO文件，可用于直接\n                                上传到ERP的翻译平台。"
 
 #. module: base
 #: code:addons/base/res/res_company.py:107
@@ -15408,7 +15408,7 @@ msgstr "技术设置"
 #: model:ir.model.fields,help:base.field_res_users_company_type
 msgid ""
 "Technical field, used only to display a boolean using a radio button. As for"
-" Odoo v9 RadioButton cannot be used on boolean fields, this one serves as "
+" ERP v9 RadioButton cannot be used on boolean fields, this one serves as "
 "interface. Due to the old API limitations with interface function field, we "
 "implement it by hand instead of a true function field. When migrating to the"
 " new API the code should be simplified."
@@ -15573,9 +15573,9 @@ msgstr "该用户当前工作的公司"
 #: model:ir.actions.act_window,help:base.act_ir_actions_todo_form
 msgid ""
 "The configuration wizards are used to help you configure a new instance of "
-"Odoo. They are launched during the installation of new modules, but you can "
+"ERP. They are launched during the installation of new modules, but you can "
 "choose to restart some wizards manually from this menu."
-msgstr "设置向导将帮助您设置一个新的 Odoo 实例。\n向导将在安装新模块的时候启动，但是您也可以在此菜单中手工重新启动一些向导。"
+msgstr "设置向导将帮助您设置一个新的 ERP 实例。\n向导将在安装新模块的时候启动，但是您也可以在此菜单中手工重新启动一些向导。"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_model_fields_related
@@ -15947,9 +15947,9 @@ msgstr "这是用于存储打印结果的附件的文件名。如果不想保存
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_no
 msgid ""
-"This is the module to manage the accounting chart for Norway in Odoo.\n"
+"This is the module to manage the accounting chart for Norway in ERP.\n"
 "\n"
-"Updated for Odoo 9 by Bringsvor Consulting AS <www.bringsvor.com>\n"
+"Updated for ERP 9 by Bringsvor Consulting AS <www.bringsvor.com>\n"
 msgstr ""
 
 #. module: base
@@ -16930,7 +16930,7 @@ msgstr "视图"
 #. module: base
 #: model:ir.actions.act_window,help:base.action_ui_view
 msgid ""
-"Views allows you to personalize each view of Odoo. You can add new fields, "
+"Views allows you to personalize each view of ERP. You can add new fields, "
 "move fields, rename them or delete the ones that you do not need."
 msgstr "视图允许你个性化odoo的每一个视图。你能添加新字段，移动字段，重命名字段，或者删除你不需要的字段。"
 
@@ -17225,7 +17225,7 @@ msgid ""
 "arrow, but rather add new nodes or arrows. If you absolutly need to modify a"
 " node or arrow, you can only change fields that are empty or set to the "
 "default value. If you don't do that, your customization will be overwrited "
-"at the next update or upgrade to a future version of Odoo."
+"at the next update or upgrade to a future version of ERP."
 msgstr ""
 
 #. module: base
@@ -17473,8 +17473,8 @@ msgstr "你不能用同一名字注册两种字体。"
 #, python-format
 msgid ""
 "You can not remove the admin user as it is used internally for resources "
-"created by Odoo (updates, module installation, ...)"
-msgstr "您不能删除 admin 用户，因为其由 Odoo 创建并被系统内部使用(更新，模块安装－)"
+"created by ERP (updates, module installation, ...)"
+msgstr "您不能删除 admin 用户，因为其由 ERP 创建并被系统内部使用(更新，模块安装－)"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_res_country_address_format
@@ -17741,8 +17741,8 @@ msgstr "例如：en_US"
 #: model:ir.ui.view,arch_db:base.view_company_form
 #: model:ir.ui.view,arch_db:base.view_partner_address_form
 #: model:ir.ui.view,arch_db:base.view_partner_form
-msgid "e.g. www.odoo.com"
-msgstr "例如：www.odoo.com"
+msgid "e.g. www.erp.com"
+msgstr "例如：www.erp.com"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website_sale

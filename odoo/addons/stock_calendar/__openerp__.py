@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Calendars on Orderpoints',
@@ -36,7 +36,7 @@
         The calendars we use are on weekly basis.  It is possible however to have a start date and end date for e.g. the Tuesday delivery.
         It is also possible to put exceptions for days when there is none.
     """,
-    'website': 'https://www.odoo.com/page/warehouse',
+    'website': 'https://www.erp.com/page/warehouse',
     'images': [],
     'depends': ['purchase', 'resource'],
     'category': 'Warehouse',

@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name' : 'Analytic Accounting',
     'version': '1.1',
-    'website' : 'https://www.odoo.com/page/accounting',
+    'website' : 'https://www.erp.com/page/accounting',
     'category': 'Hidden/Dependency',
     'depends' : ['base', 'decimal_precision', 'mail', 'report'],
     'description': """

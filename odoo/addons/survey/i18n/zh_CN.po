@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * survey
 # 
@@ -9,7 +9,7 @@
 # liAnGjiA <liangjia@qq.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:12+0000\n"
 "PO-Revision-Date: 2016-07-12 00:48+0000\n"
@@ -225,8 +225,8 @@ msgstr "标记必须唯一！"
 
 #. module: survey
 #: model:survey.page,title:survey.feedback_1
-msgid "About your Odoo usage"
-msgstr "关于您使用Odoo的一些情况"
+msgid "About your ERP usage"
+msgstr "关于您使用ERP的一些情况"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey_message_needaction
@@ -307,8 +307,8 @@ msgstr "答案不在原来的讨论区中，会对生成的message-id中有影�
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_1_1
-msgid "Are you using Odoo on a daily basis?"
-msgstr "你现在每天使用Odoo吗?"
+msgid "Are you using ERP on a daily basis?"
+msgstr "你现在每天使用ERP吗?"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_mail_compose_message_attachment_ids
@@ -757,8 +757,8 @@ msgstr "分组"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_3_1
-msgid "How do you contribute or plan to contribute to Odoo?"
-msgstr "你如何为Odoo贡献或计划贡献?"
+msgid "How do you contribute or plan to contribute to ERP?"
+msgstr "你如何为ERP贡献或计划贡献?"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_2_6
@@ -783,7 +783,7 @@ msgstr "我帮忙翻译"
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_3
 msgid "I host them on my own website"
-msgstr "我在自己的网站上推广Odoo"
+msgstr "我在自己的网站上推广ERP"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_3_1_1
@@ -792,7 +792,7 @@ msgstr "我参与论坛讨论"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_1
-msgid "I use Github, like all official Odoo projects"
+msgid "I use Github, like all official ERP projects"
 msgstr "就像官方odoo的项目一样，我用Github"
 
 #. module: survey
@@ -802,8 +802,8 @@ msgstr "我使用另外一个托管系统(如 sourceforge...)"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_1_3
-msgid "I use the contextual help in Odoo"
-msgstr "我在Odoo使用上下文相关的帮助"
+msgid "I use the contextual help in ERP"
+msgstr "我在ERP使用上下文相关的帮助"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_3_1_5
@@ -873,8 +873,8 @@ msgstr "如其他的，精确的："
 
 #. module: survey
 #: model:survey.page,description:survey.feedback_4
-msgid "If you do not contribute or develop in Odoo, skip this page."
-msgstr "如果你不打算贡献并开发Odoo，可以跳过这一页"
+msgid "If you do not contribute or develop in ERP, skip this page."
+msgstr "如果你不打算贡献并开发ERP，可以跳过这一页"
 
 #. module: survey
 #: model:ir.ui.view,arch_db:survey.sfinished
@@ -1956,7 +1956,7 @@ msgstr "有太多的菜单,理解起来比较复杂"
 #. module: survey
 #: model:survey.page,description:survey.feedback_2
 msgid ""
-"These questions relate to the ergonomy and ease of use of Odoo. Try to remind your firsts days on Odoo and\n"
+"These questions relate to the ergonomy and ease of use of ERP. Try to remind your firsts days on ERP and\n"
 "what have been your difficulties."
 msgstr ""
 
@@ -1972,8 +1972,8 @@ msgstr "他们是在日常中使用"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_2_1
-msgid "They help new users to understand Odoo"
-msgstr "他们帮助新用户了解Odoo"
+msgid "They help new users to understand ERP"
+msgstr "他们帮助新用户了解ERP"
 
 #. module: survey
 #: code:addons/survey/survey.py:685 code:addons/survey/tests/test_survey.py:94
@@ -2212,8 +2212,8 @@ msgstr "你怎么看配置向导?"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_1
-msgid "What do you think about the documentation available on doc.odoo.com?"
-msgstr "你觉得在doc.odoo.com的文档怎么样？"
+msgid "What do you think about the documentation available on doc.erp.com?"
+msgstr "你觉得在doc.erp.com的文档怎么样？"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_5
@@ -2223,9 +2223,9 @@ msgstr "你怎么看待用户组?"
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_2
 msgid ""
-"What do you think about the process views of Odoo, available in the web "
+"What do you think about the process views of ERP, available in the web "
 "client ?"
-msgstr "你怎么看待Odoo的流程视图,在web客户端是否匹配?"
+msgstr "你怎么看待ERP的流程视图,在web客户端是否匹配?"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_4
@@ -2272,8 +2272,8 @@ msgstr "是的,我使用7.0版本,在本地安装"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_1_3
-msgid "Yes, I use the online version of Odoo"
-msgstr "是的,我使用Odoo的在线版本"
+msgid "Yes, I use the online version of ERP"
+msgstr "是的,我使用ERP的在线版本"
 
 #. module: survey
 #: model:ir.actions.act_window,help:survey.action_survey_form

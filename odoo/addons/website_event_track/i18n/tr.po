@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_event_track
 # 
@@ -6,7 +6,7 @@
 # AYHAN KIZILTAN <akiziltan76@hotmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:12+0000\n"
 "PO-Revision-Date: 2016-05-31 18:08+0000\n"
@@ -69,9 +69,9 @@ msgstr ""
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track7
 msgid ""
-"A technical explanation of Odoo as a CMS and a eCommerce platform for "
+"A technical explanation of ERP as a CMS and a eCommerce platform for "
 "version 8."
-msgstr "Bir teknik açıklama Odoo bir CMS ve e-ticaret platformu için sürüm 8."
+msgstr "Bir teknik açıklama ERP bir CMS ve e-ticaret platformu için sürüm 8."
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.track_view
@@ -85,8 +85,8 @@ msgstr "Eylem Gerekiyor"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track19
-msgid "Advanced lead management with Odoo: tips and tricks from the fields"
-msgstr "Götürmek yönetim Odoo ile gelişmiş: keyif ve hileci alanları"
+msgid "Advanced lead management with ERP: tips and tricks from the fields"
+msgstr "Götürmek yönetim ERP ile gelişmiş: keyif ve hileci alanları"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track13
@@ -199,13 +199,13 @@ msgstr "Rapor yeni ölçü birimi ve iyileştirmeler için sürüm 8 ayrıntıl�
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track8
 msgid ""
-"Discover Odoo CRM: How to optimize your sales, from leads to sales orders."
-msgstr "Odoo CRM keşfetmek: nasıl üzerinden satış, optimize etmek için satış siparişleri yol açar."
+"Discover ERP CRM: How to optimize your sales, from leads to sales orders."
+msgstr "ERP CRM keşfetmek: nasıl üzerinden satış, optimize etmek için satış siparişleri yol açar."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track11
-msgid "Discover Odoo Point-of-Sale: Your shop ready to use in 30 minutes."
-msgstr "Discover Odoo Point-of-Sale: 30 dakika içinde kullanıma hazır Sizin dükkan."
+msgid "Discover ERP Point-of-Sale: Your shop ready to use in 30 minutes."
+msgstr "Discover ERP Point-of-Sale: 30 dakika içinde kullanıma hazır Sizin dükkan."
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_sponsor_display_name
@@ -349,8 +349,8 @@ msgstr "En yüksek"
 #: model:event.track,name:website_event_track.event_track18
 msgid ""
 "How to build your marketing strategy for the purpose of generating leads "
-"with Odoo."
-msgstr "Üretme amacı Odoo ile yol için pazarlama stratejisi oluşturmak için nasıl."
+"with ERP."
+msgstr "Üretme amacı ERP ile yol için pazarlama stratejisi oluşturmak için nasıl."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track1
@@ -359,8 +359,8 @@ msgstr "Nasıl bir web sitesi modülü geliştirmektir."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track4
-msgid "How to develop automated tests in the Odoo web client."
-msgstr "Nasıl Odoo web istemcisi otomatik testler geliştirmek."
+msgid "How to develop automated tests in the ERP web client."
+msgstr "Nasıl ERP web istemcisi otomatik testler geliştirmek."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track3
@@ -369,15 +369,15 @@ msgstr ""
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track2
-msgid "How to integrate hardware materials with the Odoo point of sale."
-msgstr "Nasıl Hırdavat malzemeleri satış Odoo noktası ile entegre."
+msgid "How to integrate hardware materials with the ERP point of sale."
+msgstr "Nasıl Hırdavat malzemeleri satış ERP noktası ile entegre."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track9
 msgid ""
-"How to use Odoo for your HR process: recruitment, leaves management, "
+"How to use ERP for your HR process: recruitment, leaves management, "
 "appraisals, expenses, etc."
-msgstr "İK işleminiz için Odoo kullanmayı: işe alım, yaprakları yönetimi, kıymet takdiri, giderleri, vb."
+msgstr "İK işleminiz için ERP kullanmayı: işe alım, yaprakları yönetimi, kıymet takdiri, giderleri, vb."
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_sponsor_id
@@ -415,8 +415,8 @@ msgstr "Takipçi mi"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track23
-msgid "Key Success factors selling Odoo."
-msgstr "Odoo satan Anahtar Başarı Faktörleri."
+msgid "Key Success factors selling ERP."
+msgstr "ERP satan Anahtar Başarı Faktörleri."
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track_message_last_post
@@ -483,8 +483,8 @@ msgstr "(OpenERP ortaklarına önerilen) KPI larınızı yönetin."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track12
-msgid "Manage your events with Odoo, the new training modules."
-msgstr "Sizin olaylara Odoo, yeni eğitim modülleri ile yönetin."
+msgid "Manage your events with ERP, the new training modules."
+msgstr "Sizin olaylara ERP, yeni eğitim modülleri ile yönetin."
 
 #. module: website_event_track
 #: selection:event.track,priority:0
@@ -584,23 +584,23 @@ msgstr "Okunmamış mesaj sayısı"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track15
-msgid "Odoo Mobile for Notes, Meetings and Messages."
-msgstr "Notlar, Toplantı ve Mesajlar Odoo Mobil."
+msgid "ERP Mobile for Notes, Meetings and Messages."
+msgstr "Notlar, Toplantı ve Mesajlar ERP Mobil."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track28
-msgid "Odoo Status & Strategy 2014"
-msgstr "Odoo Durumu ve 2015 Stratejisi"
+msgid "ERP Status & Strategy 2014"
+msgstr "ERP Durumu ve 2015 Stratejisi"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track16
-msgid "Odoo as your Enterprise Social Network."
-msgstr "Senin Kurumsal Sosyal Ağ olarak Odoo."
+msgid "ERP as your Enterprise Social Network."
+msgstr "Senin Kurumsal Sosyal Ağ olarak ERP."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track27
-msgid "Odoo in 2014"
-msgstr "2015'te Odoo"
+msgid "ERP in 2014"
+msgstr "2015'te ERP"
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.event_sponsor
@@ -685,8 +685,8 @@ msgstr "Anket uygulaması ile kalitatif anlayışlar Raising"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track21
-msgid "Recruiting high skilled talents with Odoo HR apps"
-msgstr "Odoo insan kaynakları uygulamaları ile yüksek vasıflı yeteneklerini alımı"
+msgid "Recruiting high skilled talents with ERP HR apps"
+msgstr "ERP insan kaynakları uygulamaları ile yüksek vasıflı yeteneklerini alımı"
 
 #. module: website_event_track
 #: selection:event.track,state:0
@@ -849,8 +849,8 @@ msgstr "Teklifiniz için teşekkür ederiz."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track17
-msgid "The Art of Making an Odoo Demo."
-msgstr "Bir Odoo Demo Yapma Sanatı."
+msgid "The Art of Making an ERP Demo."
+msgstr "Bir ERP Demo Yapma Sanatı."
 
 #. module: website_event_track
 #: model:ir.model.fields,help:website_event_track.field_event_track_website_url
@@ -865,8 +865,8 @@ msgstr "Yeni pazarlama stratejisi"
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track5
 msgid ""
-"The new way to promote your modules in the Apps platform and Odoo website."
-msgstr "yeni bir yol Apps platformu ve Odoo sitesinde sizin modülleri teşvik etmek."
+"The new way to promote your modules in the Apps platform and ERP website."
+msgstr "yeni bir yol Apps platformu ve ERP sitesinde sizin modülleri teşvik etmek."
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.event_track_proposal

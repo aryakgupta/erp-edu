@@ -1,10 +1,10 @@
 // ------------------------------------------------------------------------------
-// Compatibility with Odoo v8.  
+// Compatibility with ERP v8.  
 // 
 // With the new module system, no global variable can (and should) be accessed
 // in openerp.  This file exports everything, to mimic the previous global 
 // namespace structure.  This is only supposed to be used by 3rd parties to 
-// facilitate migration.  Odoo addons should not use the 'openerp' variable at 
+// facilitate migration.  ERP addons should not use the 'openerp' variable at 
 // all.
 // ------------------------------------------------------------------------------
 odoo.define('web.compatibility', function (require) {

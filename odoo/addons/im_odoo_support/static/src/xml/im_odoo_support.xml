@@ -4,7 +4,7 @@
     <!-- <t t-extend="UserMenu">
         <t t-jquery=".dropdown-menu li:eq(3)" t-operation="after">
             <li class="odoo_support_contact">
-                <a data-menu="odoo_support" href="#">Odoo Support</a>
+                <a data-menu="odoo_support" href="#">ERP Support</a>
             </li>
         </t>
     </t> -->

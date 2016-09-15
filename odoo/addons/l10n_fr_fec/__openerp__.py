@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 # Copyright (C) 2013-2015 Akretion (http://www.akretion.com)
 
@@ -8,7 +8,7 @@
     'version': '1.0',
     'category': 'Localization',
     'summary': "Fichier d'Échange Informatisé (FEC) for France",
-    'author': "Akretion,Odoo Community Association (OCA)",
+    'author': "Akretion,ERP Community Association (OCA)",
     'website': 'http://www.akretion.com',
     'depends': ['l10n_fr', 'account_accountant'],
     'data': [

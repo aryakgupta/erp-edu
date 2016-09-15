@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * point_of_sale
 # 
@@ -14,7 +14,7 @@
 # liAnGjiA <liangjia@qq.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-07-31 02:38+0000\n"
@@ -1848,8 +1848,8 @@ msgstr "ID"
 #. openerp-web
 #: code:addons/point_of_sale/static/src/js/popups.js:113
 #, python-format
-msgid "IMPORTANT: Bug Report From Odoo Point Of Sale"
-msgstr "重要：来自Odoo POS的Bug报告"
+msgid "IMPORTANT: Bug Report From ERP Point Of Sale"
+msgstr "重要：来自ERP POS的Bug报告"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config_proxy_ip
@@ -1864,9 +1864,9 @@ msgstr "如果不勾选，只有被邀请用户才能注册。"
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_settings_alias_domain
 msgid ""
-"If you have setup a catch-all email domain redirected to the Odoo server, "
+"If you have setup a catch-all email domain redirected to the ERP server, "
 "enter the domain name here."
-msgstr "如果你设置了电子邮件域名重定向到这个Odoo服务器，请在这里输入域名。"
+msgstr "如果你设置了电子邮件域名重定向到这个ERP服务器，请在这里输入域名。"
 
 #. module: point_of_sale
 #: model:ir.actions.act_window,help:point_of_sale.product_pos_category_action
@@ -2339,8 +2339,8 @@ msgstr "交易数"
 
 #. module: point_of_sale
 #: model:ir.ui.view,arch_db:point_of_sale.index
-msgid "Odoo POS"
-msgstr "Odoo POS"
+msgid "ERP POS"
+msgstr "ERP POS"
 
 #. module: point_of_sale
 #. openerp-web
@@ -3425,7 +3425,7 @@ msgstr "设置"
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_settings_module_share
-msgid "Share or embbed any screen of Odoo."
+msgid "Share or embbed any screen of ERP."
 msgstr "共享或嵌入odoo页面"
 
 #. module: point_of_sale
@@ -4003,9 +4003,9 @@ msgstr "该操作将会损坏存储在本地的所有会话中的未付订单你
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_sequence_id
 msgid ""
-"This sequence is automatically created by Odoo but you can change it to "
+"This sequence is automatically created by ERP but you can change it to "
 "customize the reference numbers of your orders."
-msgstr "这个序列号是由Odoo自动产生的，不过你可以自己定义订单的序列号。"
+msgstr "这个序列号是由ERP自动产生的，不过你可以自己定义订单的序列号。"
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_product_template_pos_categ_id

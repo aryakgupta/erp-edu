@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * portal
 # 
@@ -8,7 +8,7 @@
 # Zoriana Zaiats, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:41+0000\n"
 "PO-Revision-Date: 2016-05-06 12:24+0000\n"
@@ -52,12 +52,12 @@ msgid ""
 "                \t${object.wizard_id.welcome_message or ''}\n"
 "                </p>\n"
 "                <p>---<br />\n"
-"                    Odoo - Open Source Business Applications<br />\n"
-"                    http://www.odoo.com<br />\n"
+"                    ERP - Open Source Business Applications<br />\n"
+"                    http://www.erp.com<br />\n"
 "                </p>\n"
 "            \n"
 "            "
-msgstr "\n<p>\n Шановний/а/ ${object.user_id.name or ''},\n</p>\n<p>\nВам надано доступ до ${user.company_id.name} ${object.wizard_id.portal_id.name}.\n</p>\n<p>\nДані вашого облікового запису:\n</p>\n<ul>\n<li>Ім’я користувача: ${object.user_id.login or ''}</li>\n</ul>\n<ul>\n<li>Портал: <a href=\"${'portal_url' in ctx and ctx['portal_url'] or ''}\">${'portal_url' in ctx and ctx['portal_url'] or ''}</a></li>\n</ul>\n<ul>\n<li>База даних: ${'dbname' in ctx and ctx['dbname'] or ''}</li>\n</ul>\n<p>\nВи можете встановити чи змінити свій пароль за таким посиланням:\n</p>\n<ul>\n<li><a href=\"${object.user_id.signup_url}\">${object.user_id.signup_url}</a></li>\n</ul>\n<p>\n${object.wizard_id.welcome_message or ''}\n</p>\n<p>---<br />\nOdoo - Бізнес програми з відкритим кодом<br />\nhttp://www.odoo.com<br />\n</p>"
+msgstr "\n<p>\n Шановний/а/ ${object.user_id.name or ''},\n</p>\n<p>\nВам надано доступ до ${user.company_id.name} ${object.wizard_id.portal_id.name}.\n</p>\n<p>\nДані вашого облікового запису:\n</p>\n<ul>\n<li>Ім’я користувача: ${object.user_id.login or ''}</li>\n</ul>\n<ul>\n<li>Портал: <a href=\"${'portal_url' in ctx and ctx['portal_url'] or ''}\">${'portal_url' in ctx and ctx['portal_url'] or ''}</a></li>\n</ul>\n<ul>\n<li>База даних: ${'dbname' in ctx and ctx['dbname'] or ''}</li>\n</ul>\n<p>\nВи можете встановити чи змінити свій пароль за таким посиланням:\n</p>\n<ul>\n<li><a href=\"${object.user_id.signup_url}\">${object.user_id.signup_url}</a></li>\n</ul>\n<p>\n${object.wizard_id.welcome_message or ''}\n</p>\n<p>---<br />\nERP - Бізнес програми з відкритим кодом<br />\nhttp://www.erp.com<br />\n</p>"
 
 #. module: portal
 #: model:ir.model,name:portal.model_res_groups
@@ -264,5 +264,5 @@ msgstr ""
 
 #. module: portal
 #: model:mail.template,subject:portal.mail_template_data_portal_welcome
-msgid "Your Odoo account at ${user.company_id.name|safe}"
-msgstr "Ваш обліковий запис в Odoo на ${user.company_id.name|safe}"
+msgid "Your ERP account at ${user.company_id.name|safe}"
+msgstr "Ваш обліковий запис в ERP на ${user.company_id.name|safe}"

@@ -1,16 +1,16 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * product
 # 
 # Translators:
 # Alexandre Fayolle <alexandre.fayolle@camptocamp.com>, 2016
-# Clo <clo@odoo.com>, 2015
+# Clo <clo@erp.com>, 2015
 # François Honoré <chiendesenfers@outlook.be>, 2016
 # Léa Geffroy <geffroylea@gmail.com>, 2016
 # Leo Schmitt <inactive+lschmitt@transifex.com>, 2015
 # Martin Trigaux, 2016
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015-2016
-# Melanie Bernard <mbe@odoo.com>, 2015
+# Melanie Bernard <mbe@erp.com>, 2015
 # Nancy Bolognesi <nb@microcom.ca>, 2015
 # Quentin THEURET <quentin@theuret.net>, 2015-2016
 # Sébastien LANGE (SYLEAM) <sebastien.lange@syleam.fr>, 2016
@@ -19,7 +19,7 @@
 # zoe <yann.hoareau@migs.re>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-29 10:26+0000\n"
 "PO-Revision-Date: 2016-06-14 16:22+0000\n"
@@ -3373,8 +3373,8 @@ msgstr "ex. Lampes"
 
 #. module: product
 #: model:ir.ui.view,arch_db:product.product_variant_easy_edit_view
-msgid "e.g. Odoo Enterprise Susbcription"
-msgstr "ex. Soiuscription à Odoo Enterprise. "
+msgid "e.g. ERP Enterprise Susbcription"
+msgstr "ex. Soiuscription à ERP Enterprise. "
 
 #. module: product
 #: model:ir.ui.view,arch_db:product.product_pricelist_view

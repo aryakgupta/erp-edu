@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Sales Timesheet',
@@ -15,7 +15,7 @@ according to the order/contract you work on. This allows to
 have real delivered quantities in sales orders.
 """,
     'author': 'OpenERP SA',
-    'website': 'https://www.odoo.com/page/warehouse',
+    'website': 'https://www.erp.com/page/warehouse',
     'depends': ['sale', 'hr_timesheet'],
     'data': ['views/sale_timesheet_view.xml',
              'data/sale_timesheet_data.xml'],

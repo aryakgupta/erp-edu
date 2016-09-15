@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * mail
 # 
@@ -9,7 +9,7 @@
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-22 13:00+0000\n"
 "PO-Revision-Date: 2016-07-25 19:16+0000\n"
@@ -78,7 +78,7 @@ msgid ""
 "                </a>\n"
 "                % endif\n"
 "                <strong>using</strong>\n"
-"                <a href=\"https://www.odoo.com\" style=\"text-decoration:none; color: #a24689;\"><strong>Odoo</strong></a>\n"
+"                <a href=\"https://www.erp.com\" style=\"text-decoration:none; color: #a24689;\"><strong>ERP</strong></a>\n"
 "                % endif\n"
 "                </p>\n"
 "            </td>\n"
@@ -123,7 +123,7 @@ msgid ""
 "    </table>\n"
 "</div>\n"
 "% endif\n"
-msgstr "\n<div itemscope itemtype=\"http://schema.org/EmailMessage\">\n    <div itemprop=\"potentialAction\" itemscope itemtype=\"http://schema.org/ViewAction\">\n        % if ctx.get('button_access'):\n        <link itemprop=\"target\" href=\"${ctx['button_access']['url']}\"/>\n        <link itemprop=\"url\" href=\"${ctx['button_access']['url']}\"/>\n        % endif\n        <meta itemprop=\"name\" content=\"View ${ctx['model_name']}\"/>\n    </div>\n</div>\n<div summary=\"o_mail_notification\" style=\"padding:0px; width:600px; margin:0 auto; background: #FFFFFF repeat top /100%; color:#777777\">\n    <table cellspacing=\"0\" cellpadding=\"0\" style=\"width:600px; border-collapse:collapse; background:inherit; color:inherit\">\n        <tbody><tr>\n            <td valign=\"center\" width=\"270\" style=\"padding:5px 10px 5px 5px;font-size: 30px\">\n                % if ctx.get('button_access'):\n                <a href=\"${ctx['button_access']['url']}\" style=\"-webkit-user-select: none; padding: 5px 10px; font-size: 12px; line-height: 18px; color: #FFFFFF; border-color:#a24689; text-decoration: none; display: inline-block; margin-bottom: 0px; font-weight: 400; text-align: center; vertical-align: middle; cursor: pointer; white-space: nowrap; background-image: none; background-color: #a24689; border: 1px solid #a24689; border-radius:3px\" class=\"o_default_snippet_text\">${ctx['button_access']['title']}</a>\n                % endif\n\n                % if ctx.get('button_follow'):\n                <a href=\"${ctx['button_follow']['url']}\" style=\"-webkit-user-select: none; padding: 5px 10px; font-size: 12px; line-height: 18px; color: #FFFFFF; border-color:#a24689; text-decoration: none; display: inline-block; margin-bottom: 0px; font-weight: 400; text-align: center; vertical-align: middle; cursor: pointer; white-space: nowrap; background-image: none; background-color: #a24689; border: 1px solid #a24689; border-radius:3px\" class=\"o_default_snippet_text\">${ctx['button_follow']['title']}</a>\n                \n                % elif ctx.get('button_unfollow'):\n                <a href=\"${ctx['button_unfollow']['url']}\" style=\"-webkit-user-select: none; padding: 5px 10px; font-size: 12px; line-height: 18px; color: #FFFFFF; border-color:#a24689; text-decoration: none; display: inline-block; margin-bottom: 0px; font-weight: 400; text-align: center; vertical-align: middle; cursor: pointer; white-space: nowrap; background-image: none; background-color: #a24689; border: 1px solid #a24689; border-radius:3px\" class=\"o_default_snippet_text\">${ctx['button_unfollow']['title']}</a>\n                % endif\n\n                % if not ctx.get('button_access') and not ctx.get('button_follow') and not ctx.get('button_unfollow') and ctx.get('model_name'):\n                <p style=\"padding: 5px 10px; font-size: 12px;\">\n                Acerca de <strong>${ctx['model_name']}\n                % if ctx.get('record_name'):\n                : ${ctx['record_name']}\n                % endif\n                </strong>\n                </p>\n                % endif\n            </td>\n            <td valign=\"center\" align=\"right\" width=\"270\" style=\"padding:5px 15px 5px 10px; font-size: 12px;\">\n                <p>\n                % if ctx.get('actions'):\n                % for action in ctx['actions']:\n                <a href=\"${action['url']}\" style=\"text-decoration:none; color: #a24689;\"><strong>${action['title']}</strong></a>\n                %if cmp(len(ctx['actions']), 1) == 1 and cmp(len(ctx['actions']), loop.index) == 1:\n                    |\n                % endif\n                % endfor\n                % else:\n                <strong>Enviado por</strong>\n                % if ctx.get('website_url'):\n                <a href=\"${ctx['website_url']}\" style=\"text-decoration:none; color: #a24689;\">\n                % endif\n                <strong>${ctx.get('company_name')}</strong>\n                % if ctx.get('website_url'):\n                </a>\n                % endif\n                <strong>using</strong>\n                <a href=\"https://www.odoo.com\" style=\"text-decoration:none; color: #a24689;\"><strong>Odoo</strong></a>\n                % endif\n                </p>\n            </td>\n        </tr>\n    </tbody></table>\n</div>\n<div style=\"padding:0px; width:600px; margin:0 auto; background: #FFFFFF repeat top /100%; color:#777777\">\n    <table cellspacing=\"0\" cellpadding=\"0\" style=\"vertical-align:top; padding:0px; border-collapse:collapse; background:inherit; color:inherit\">\n        <tbody><tr>\n            <td valign=\"top\" style=\"width:600px; padding:5px 10px 5px 5px;\">\n                <div>\n                    <hr width=\"100%\" style=\"background-color:rgb(204,204,204);border:medium none;clear:both;display:block;font-size:0px;min-height:1px;line-height:0;margin:15px auto;padding:0\">\n                </div>\n            </td>\n        </tr></tbody>\n    </table>\n</div>\n<div style=\"padding:0px; width:600px; margin:0 auto; background: #FFFFFF repeat top /100%;color:#777777\">\n    <table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" style=\"margin: 0 auto; width:600px; border-collapse:collapse; background:inherit; color:inherit\">\n        <tbody><tr>\n            <td style=\"padding:5px 10px 5px 5px;font-size: 14px;\">\n                ${object.body | safe}\n                % if ctx.get('tracking'):\n                    <ul>\n                    % for tracking in ctx['tracking']\n                        <li>${tracking[0]} : ${tracking[1]} -&gt; ${tracking[2]}</li>\n                    % endfor\n                    </ul>\n                % endif\n            </td>\n        </tr></tbody>\n    </table>\n</div>\n% if ctx.get('signature'):\n<div style=\"padding:0px; width:600px;margin:0 auto; background: #FFFFFF repeat top /100%;color:#777777\">\n    <table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" style=\"margin: 0 auto; width:600px; border-collapse:collapse; background:inherit; color:inherit\">\n        <tbody><tr>\n            <td style=\"padding:5px 10px 5px 5px;font-size: 14px; text-align: left;\">\n                ${ctx['signature'] | safe}\n            </td>\n        </tr></tbody>\n    </table>\n</div>\n% endif\n"
+msgstr "\n<div itemscope itemtype=\"http://schema.org/EmailMessage\">\n    <div itemprop=\"potentialAction\" itemscope itemtype=\"http://schema.org/ViewAction\">\n        % if ctx.get('button_access'):\n        <link itemprop=\"target\" href=\"${ctx['button_access']['url']}\"/>\n        <link itemprop=\"url\" href=\"${ctx['button_access']['url']}\"/>\n        % endif\n        <meta itemprop=\"name\" content=\"View ${ctx['model_name']}\"/>\n    </div>\n</div>\n<div summary=\"o_mail_notification\" style=\"padding:0px; width:600px; margin:0 auto; background: #FFFFFF repeat top /100%; color:#777777\">\n    <table cellspacing=\"0\" cellpadding=\"0\" style=\"width:600px; border-collapse:collapse; background:inherit; color:inherit\">\n        <tbody><tr>\n            <td valign=\"center\" width=\"270\" style=\"padding:5px 10px 5px 5px;font-size: 30px\">\n                % if ctx.get('button_access'):\n                <a href=\"${ctx['button_access']['url']}\" style=\"-webkit-user-select: none; padding: 5px 10px; font-size: 12px; line-height: 18px; color: #FFFFFF; border-color:#a24689; text-decoration: none; display: inline-block; margin-bottom: 0px; font-weight: 400; text-align: center; vertical-align: middle; cursor: pointer; white-space: nowrap; background-image: none; background-color: #a24689; border: 1px solid #a24689; border-radius:3px\" class=\"o_default_snippet_text\">${ctx['button_access']['title']}</a>\n                % endif\n\n                % if ctx.get('button_follow'):\n                <a href=\"${ctx['button_follow']['url']}\" style=\"-webkit-user-select: none; padding: 5px 10px; font-size: 12px; line-height: 18px; color: #FFFFFF; border-color:#a24689; text-decoration: none; display: inline-block; margin-bottom: 0px; font-weight: 400; text-align: center; vertical-align: middle; cursor: pointer; white-space: nowrap; background-image: none; background-color: #a24689; border: 1px solid #a24689; border-radius:3px\" class=\"o_default_snippet_text\">${ctx['button_follow']['title']}</a>\n                \n                % elif ctx.get('button_unfollow'):\n                <a href=\"${ctx['button_unfollow']['url']}\" style=\"-webkit-user-select: none; padding: 5px 10px; font-size: 12px; line-height: 18px; color: #FFFFFF; border-color:#a24689; text-decoration: none; display: inline-block; margin-bottom: 0px; font-weight: 400; text-align: center; vertical-align: middle; cursor: pointer; white-space: nowrap; background-image: none; background-color: #a24689; border: 1px solid #a24689; border-radius:3px\" class=\"o_default_snippet_text\">${ctx['button_unfollow']['title']}</a>\n                % endif\n\n                % if not ctx.get('button_access') and not ctx.get('button_follow') and not ctx.get('button_unfollow') and ctx.get('model_name'):\n                <p style=\"padding: 5px 10px; font-size: 12px;\">\n                Acerca de <strong>${ctx['model_name']}\n                % if ctx.get('record_name'):\n                : ${ctx['record_name']}\n                % endif\n                </strong>\n                </p>\n                % endif\n            </td>\n            <td valign=\"center\" align=\"right\" width=\"270\" style=\"padding:5px 15px 5px 10px; font-size: 12px;\">\n                <p>\n                % if ctx.get('actions'):\n                % for action in ctx['actions']:\n                <a href=\"${action['url']}\" style=\"text-decoration:none; color: #a24689;\"><strong>${action['title']}</strong></a>\n                %if cmp(len(ctx['actions']), 1) == 1 and cmp(len(ctx['actions']), loop.index) == 1:\n                    |\n                % endif\n                % endfor\n                % else:\n                <strong>Enviado por</strong>\n                % if ctx.get('website_url'):\n                <a href=\"${ctx['website_url']}\" style=\"text-decoration:none; color: #a24689;\">\n                % endif\n                <strong>${ctx.get('company_name')}</strong>\n                % if ctx.get('website_url'):\n                </a>\n                % endif\n                <strong>using</strong>\n                <a href=\"https://www.erp.com\" style=\"text-decoration:none; color: #a24689;\"><strong>ERP</strong></a>\n                % endif\n                </p>\n            </td>\n        </tr>\n    </tbody></table>\n</div>\n<div style=\"padding:0px; width:600px; margin:0 auto; background: #FFFFFF repeat top /100%; color:#777777\">\n    <table cellspacing=\"0\" cellpadding=\"0\" style=\"vertical-align:top; padding:0px; border-collapse:collapse; background:inherit; color:inherit\">\n        <tbody><tr>\n            <td valign=\"top\" style=\"width:600px; padding:5px 10px 5px 5px;\">\n                <div>\n                    <hr width=\"100%\" style=\"background-color:rgb(204,204,204);border:medium none;clear:both;display:block;font-size:0px;min-height:1px;line-height:0;margin:15px auto;padding:0\">\n                </div>\n            </td>\n        </tr></tbody>\n    </table>\n</div>\n<div style=\"padding:0px; width:600px; margin:0 auto; background: #FFFFFF repeat top /100%;color:#777777\">\n    <table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" style=\"margin: 0 auto; width:600px; border-collapse:collapse; background:inherit; color:inherit\">\n        <tbody><tr>\n            <td style=\"padding:5px 10px 5px 5px;font-size: 14px;\">\n                ${object.body | safe}\n                % if ctx.get('tracking'):\n                    <ul>\n                    % for tracking in ctx['tracking']\n                        <li>${tracking[0]} : ${tracking[1]} -&gt; ${tracking[2]}</li>\n                    % endfor\n                    </ul>\n                % endif\n            </td>\n        </tr></tbody>\n    </table>\n</div>\n% if ctx.get('signature'):\n<div style=\"padding:0px; width:600px;margin:0 auto; background: #FFFFFF repeat top /100%;color:#777777\">\n    <table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" style=\"margin: 0 auto; width:600px; border-collapse:collapse; background:inherit; color:inherit\">\n        <tbody><tr>\n            <td style=\"padding:5px 10px 5px 5px;font-size: 14px; text-align: left;\">\n                ${ctx['signature'] | safe}\n            </td>\n        </tr></tbody>\n    </table>\n</div>\n% endif\n"
 
 #. module: mail
 #: model:mail.template,subject:mail.mail_template_data_notification_email_default
@@ -1456,9 +1456,9 @@ msgstr "Si 'No acepta mensajes' está marcado, este contacto ha rehusado recibir
 #. module: mail
 #: model:ir.model.fields,help:mail.field_base_config_settings_alias_domain
 msgid ""
-"If you have setup a catch-all email domain redirected to the Odoo server, "
+"If you have setup a catch-all email domain redirected to the ERP server, "
 "enter the domain name here."
-msgstr "Si tiene un dominio de correo electrónico general redireccionado a un servidor de Odoo, ponga el nombre del dominio aquí."
+msgstr "Si tiene un dominio de correo electrónico general redireccionado a un servidor de ERP, ponga el nombre del dominio aquí."
 
 #. module: mail
 #: code:addons/mail/models/mail_alias.py:141
@@ -2143,17 +2143,17 @@ msgstr "Número de mensajes no leidos"
 #. module: mail
 #: model:ir.actions.act_window,help:mail.action_contacts
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "            a customer; discussions, history of business opportunities,\n"
 "            documents, etc."
-msgstr "Odoo le ayuda a gestionar fácilmente las actividades relativas al estado actual de sus miembros, discusiones, historial, etc"
+msgstr "ERP le ayuda a gestionar fácilmente las actividades relativas al estado actual de sus miembros, discusiones, historial, etc"
 
 #. module: mail
 #. openerp-web
 #: code:addons/mail/static/src/xml/client_action.xml:11
 #, python-format
-msgid "Odoo needs your permission to"
-msgstr "Odoo necesita su permiso para"
+msgid "ERP needs your permission to"
+msgstr "ERP necesita su permiso para"
 
 #. module: mail
 #. openerp-web
@@ -2944,10 +2944,10 @@ msgstr "La clase de documento con el que esta plantilla puede ser usada"
 #: model:ir.model.fields,help:mail.field_mail_channel_alias_model_id
 #: model:ir.model.fields,help:mail.field_res_users_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
-msgstr "El modelo (Tipo de documento de Odoo) al que corresponde este seudónimo. Cualquier correo entrante que no sea respuesta a un registro existente, causará la creación de un nuevo registro de este modelo (por ejemplo, una tarea de proyecto)."
+msgstr "El modelo (Tipo de documento de ERP) al que corresponde este seudónimo. Cualquier correo entrante que no sea respuesta a un registro existente, causará la creación de un nuevo registro de este modelo (por ejemplo, una tarea de proyecto)."
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias_alias_name
@@ -2955,8 +2955,8 @@ msgstr "El modelo (Tipo de documento de Odoo) al que corresponde este seudónimo
 #: model:ir.model.fields,help:mail.field_res_users_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
-msgstr "El nombre de este seudónimo de correo electrónico. Por ejemplo, \"trabajos\",  si lo que quiere es obtener los correos para <trabajos@example.odoo.com>."
+"<jobs@example.erp.com>"
+msgstr "El nombre de este seudónimo de correo electrónico. Por ejemplo, \"trabajos\",  si lo que quiere es obtener los correos para <trabajos@example.erp.com>."
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias_alias_user_id
@@ -3429,8 +3429,8 @@ msgstr "mención(es) marcadas como leídas."
 
 #. module: mail
 #: model:ir.ui.view,arch_db:mail.view_general_configuration_mail_alias_domain
-msgid "mycompany.odoo.com"
-msgstr "micompania.odoo.com"
+msgid "mycompany.erp.com"
+msgstr "micompania.erp.com"
 
 #. module: mail
 #. openerp-web

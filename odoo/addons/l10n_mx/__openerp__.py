@@ -1,10 +1,10 @@
 # -*- encoding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 #    Coded by: Alejandro Negrin anegrin@vauxoo.com,
 #    Planified by: Alejandro Negrin, Humberto Arocha, Moises Lopez
 #    Finance by: Vauxoo.
 #    Audited by: Humberto Arocha (hbto@vauxoo.com) y Moises Lopez (moylop260@vauxoo.com)
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     "name": "Mexico - Accounting",

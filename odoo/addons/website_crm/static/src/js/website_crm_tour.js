@@ -32,7 +32,7 @@ odoo.define('website_crm.tour', function(require) {
                 {
                     title:          "Complete Company",
                     element:        "input[name=partner_name]",
-                    sampleText:     "Odoo S.A."
+                    sampleText:     "ERP S.A."
                 },
                 {
                     title:          "Complete Subject",

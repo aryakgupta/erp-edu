@@ -239,11 +239,11 @@ class AccountJournal(models.Model):
 
     inbound_payment_method_ids = fields.Many2many('account.payment.method', 'account_journal_inbound_payment_method_rel', 'journal_id', 'inbound_payment_method',
         domain=[('payment_type', '=', 'inbound')], string='Debit Methods', default=lambda self: self._default_inbound_payment_methods(),
-        help="Means of payment for collecting money. Odoo modules offer various payments handling facilities, "
+        help="Means of payment for collecting money. ERP modules offer various payments handling facilities, "
              "but you can always use the 'Manual' payment method in order to manage payments outside of the software.")
     outbound_payment_method_ids = fields.Many2many('account.payment.method', 'account_journal_outbound_payment_method_rel', 'journal_id', 'outbound_payment_method',
         domain=[('payment_type', '=', 'outbound')], string='Payment Methods', default=lambda self: self._default_outbound_payment_methods(),
-        help="Means of payment for sending money. Odoo modules offer various payments handling facilities, "
+        help="Means of payment for sending money. ERP modules offer various payments handling facilities, "
              "but you can always use the 'Manual' payment method in order to manage payments outside of the software.")
     at_least_one_inbound = fields.Boolean(compute='_methods_compute', store=True)
     at_least_one_outbound = fields.Boolean(compute='_methods_compute', store=True)

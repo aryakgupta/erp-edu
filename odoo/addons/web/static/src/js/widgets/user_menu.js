@@ -56,10 +56,10 @@ var UserMenu = Widget.extend({
         this.update_promise = this.update_promise.then(fct, fct);
     },
     on_menu_documentation: function () {
-        window.open('https://www.odoo.com/documentation/user', '_blank');
+        window.open('https://www.erp.com/documentation/user', '_blank');
     },
     on_menu_support: function () {
-        window.open('https://www.odoo.com/buy', '_blank');
+        window.open('https://www.erp.com/buy', '_blank');
     },
     on_menu_about: function () {
         var self = this;
@@ -106,10 +106,10 @@ var UserMenu = Widget.extend({
                     state: JSON.stringify(state),
                     scope: 'userinfo',
                 };
-                framework.redirect('https://accounts.odoo.com/oauth2/auth?'+$.param(params));
+                framework.redirect('https://accounts.erp.com/oauth2/auth?'+$.param(params));
             }).fail(function(result, ev){
                 ev.preventDefault();
-                framework.redirect('https://accounts.odoo.com/account');
+                framework.redirect('https://accounts.erp.com/account');
             });
         });
     },

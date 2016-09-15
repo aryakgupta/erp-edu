@@ -2,7 +2,7 @@
     'name': 'Online Proposals',
     'category': 'Website',
     'summary': 'Sales',
-    'website': 'https://www.odoo.com/page/quote-builder',
+    'website': 'https://www.erp.com/page/quote-builder',
     'version': '1.0',
     'description': """
 OpenERP Sale Quote Roller

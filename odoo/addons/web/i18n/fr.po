@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * web
 # 
@@ -11,7 +11,7 @@
 # ShevAbam, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-18 04:43+0000\n"
 "PO-Revision-Date: 2016-05-31 13:10+0000\n"
@@ -236,8 +236,8 @@ msgstr "<span class=\"oe_logo_edit\">Modifier les données de la société</span
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.menu_secondary
-msgid "<span>Odoo</span>"
-msgstr "<span>Odoo</span>"
+msgid "<span>ERP</span>"
+msgstr "<span>ERP</span>"
 
 #. module: web
 #. openerp-web
@@ -585,8 +585,8 @@ msgstr "Contexte :"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:116
 #, python-format
-msgid "Copyright © 2004-2015 Odoo S.A."
-msgstr "Copyright © 2004-2015 Odoo S.A."
+msgid "Copyright © 2004-2015 ERP S.A."
+msgstr "Copyright © 2004-2015 ERP S.A."
 
 #. module: web
 #. openerp-web
@@ -1067,8 +1067,8 @@ msgstr ""
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1500
 #, python-format
-msgid "Get this feature and much more with Odoo Enterprise!"
-msgstr "Activez cette application et bien d'autres via Odoo Enterprise!"
+msgid "Get this feature and much more with ERP Enterprise!"
+msgstr "Activez cette application et bien d'autres via ERP Enterprise!"
 
 #. module: web
 #. openerp-web
@@ -1399,8 +1399,8 @@ msgstr "Déplacer votre souris ici pour ouvrir le bloc d'insertion"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:83
 #, python-format
-msgid "My Odoo.com account"
-msgstr "Mon compte Odoo.com"
+msgid "My ERP.com account"
+msgstr "Mon compte ERP.com"
 
 #. module: web
 #. openerp-web
@@ -1558,55 +1558,55 @@ msgstr "Objet :"
 #: code:addons/web/static/src/js/framework/dialog.js:36
 #: model:ir.ui.view,arch_db:web.layout
 #, python-format
-msgid "Odoo"
-msgstr "Odoo"
+msgid "ERP"
+msgstr "ERP"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:101
 #, python-format
-msgid "Odoo (Formerly OpenERP)"
+msgid "ERP (Formerly OpenERP)"
 msgstr ""
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/apps.js:189
 #, python-format
-msgid "Odoo Apps will be available soon"
-msgstr "Les applications Odoo seront bientôt disponibles"
+msgid "ERP Apps will be available soon"
+msgstr "Les applications ERP seront bientôt disponibles"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/views/form_widgets.js:1675
 #, python-format
-msgid "Odoo Enterprise"
-msgstr "Odoo Enterprise"
+msgid "ERP Enterprise"
+msgstr "ERP Enterprise"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:117
 #, python-format
-msgid "Odoo S.A."
-msgstr "Odoo S.A."
+msgid "ERP S.A."
+msgstr "ERP S.A."
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.qunit_suite
-msgid "Odoo Web Tests"
-msgstr "Essais Web Odoo"
+msgid "ERP Web Tests"
+msgstr "Essais Web ERP"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:117
 #, python-format
-msgid "Odoo is a trademark of"
-msgstr "Odoo est une marque déposée de"
+msgid "ERP is a trademark of"
+msgstr "ERP est une marque déposée de"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:119
 #, python-format
-msgid "Odoo.com"
-msgstr "Odoo.com"
+msgid "ERP.com"
+msgstr "ERP.com"
 
 #. module: web
 #. openerp-web
@@ -1758,8 +1758,8 @@ msgstr "Fourni par"
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "Propulsé par <span>Odoo</span>"
+msgid "Powered by <span>ERP</span>"
+msgstr "Propulsé par <span>ERP</span>"
 
 #. module: web
 #. openerp-web
@@ -2202,8 +2202,8 @@ msgstr "Cet assistant permet d'exporter dans un fichier CSV toutes les données 
 #, python-format
 msgid ""
 "Timezone Mismatch : The timezone of your browser doesn't match the selected "
-"one. The time in Odoo is displayed according to your field timezone."
-msgstr "Différence de fuseau horaire : Le fuseau horaire de votre navigateur ne correspond pas à celui sélectionné. Le temps dans Odoo est affiché selon votre champ fuseau horaire"
+"one. The time in ERP is displayed according to your field timezone."
+msgstr "Différence de fuseau horaire : Le fuseau horaire de votre navigateur ne correspond pas à celui sélectionné. Le temps dans ERP est affiché selon votre champ fuseau horaire"
 
 #. module: web
 #. openerp-web
@@ -2530,8 +2530,8 @@ msgstr "Vous devez sélectionner au moins un enregistrement."
 #. openerp-web
 #: code:addons/web/static/src/js/framework/crash_manager.js:69
 #, python-format
-msgid "Your Odoo session expired. Please refresh the current web page."
-msgstr "Votre session Odoo a expiré. Merci d'actualiser la page."
+msgid "Your ERP session expired. Please refresh the current web page."
+msgstr "Votre session ERP a expiré. Merci d'actualiser la page."
 
 #. module: web
 #. openerp-web

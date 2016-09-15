@@ -1,9 +1,9 @@
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 {
     'name': 'Purchase Requisitions',
     'version': '0.1',
     'category': 'Purchases',
-    'website': 'https://www.odoo.com/page/purchase',
+    'website': 'https://www.erp.com/page/purchase',
     'description': """
 This module allows you to manage your Purchase Requisition.
 ===========================================================

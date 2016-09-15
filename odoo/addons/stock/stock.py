@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 from datetime import date, datetime
 from dateutil import relativedelta
@@ -2218,7 +2218,7 @@ class stock_move(osv.osv):
                     warning.update({
                         'title': _('Information'),
                         'message': _("By changing this quantity here, you accept the "
-                                "new quantity as complete: Odoo will not "
+                                "new quantity as complete: ERP will not "
                                 "automatically generate a back order.")})
                 break
         return {'warning': warning}
@@ -4712,11 +4712,11 @@ class stock_warehouse_orderpoint(osv.osv):
         'product_uom': fields.related('product_id', 'uom_id', type='many2one', relation='product.uom', string='Product Unit of Measure', readonly=True, required=True),
         'product_min_qty': fields.float('Minimum Quantity', required=True,
             digits_compute=dp.get_precision('Product Unit of Measure'),
-            help="When the virtual stock goes below the Min Quantity specified for this field, Odoo generates "\
+            help="When the virtual stock goes below the Min Quantity specified for this field, ERP generates "\
             "a procurement to bring the forecasted quantity to the Max Quantity."),
         'product_max_qty': fields.float('Maximum Quantity', required=True,
             digits_compute=dp.get_precision('Product Unit of Measure'),
-            help="When the virtual stock goes below the Min Quantity, Odoo generates "\
+            help="When the virtual stock goes below the Min Quantity, ERP generates "\
             "a procurement to bring the forecasted quantity to the Quantity specified as Max Quantity."),
         'qty_multiple': fields.float('Qty Multiple', required=True,
             digits_compute=dp.get_precision('Product Unit of Measure'),

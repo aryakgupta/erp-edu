@@ -45,7 +45,7 @@ touch $INIT_FILE
 chmod 0700 $INIT_FILE
 cat << 'EOF' > $INIT_FILE
 [Unit]
-Description=Odoo Open Source ERP and CRM
+Description=ERP Open Source ERP and CRM
 After=network.target
 
 [Service]

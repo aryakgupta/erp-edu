@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_forum
 # 
@@ -6,7 +6,7 @@
 # Jaroslav Bosansky <jaro.bosansky@ekoenergo.sk>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-26 14:10+0000\n"
 "PO-Revision-Date: 2016-05-02 19:48+0000\n"
@@ -2526,8 +2526,8 @@ msgstr "Fronta označených príspevkov je prázdna."
 #: model:forum.forum,faq:website_forum.forum_help
 msgid ""
 "The goal of this site is create a relevant knowledge base that would answer\n"
-"    questions related to Odoo."
-msgstr "Cieľom týchto stránok je vytvoriť relevantnú vedomostnú základňu, ktorá zodpovie\notázky týkajúce sa Odoo."
+"    questions related to ERP."
+msgstr "Cieľom týchto stránok je vytvoriť relevantnú vedomostnú základňu, ktorá zodpovie\notázky týkajúce sa ERP."
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.moderation_queue
@@ -3020,8 +3020,8 @@ msgstr "duplicitný príspevok"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.new_link
-msgid "e.g. https://www.odoo.com"
-msgstr "napr. https://www.odoo.com"
+msgid "e.g. https://www.erp.com"
+msgstr "napr. https://www.erp.com"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.faq
@@ -3077,8 +3077,8 @@ msgstr "tu"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "how to configure or customize Odoo to specific business needs,"
-msgstr "ako konfigurovať alebo prispôsobiť Odoo špecifickým obchodným potrebám,"
+msgid "how to configure or customize ERP to specific business needs,"
+msgstr "ako konfigurovať alebo prispôsobiť ERP špecifickým obchodným potrebám,"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
@@ -3087,8 +3087,8 @@ msgstr "ako vyvinúťmodly pre vlastnú potrebu,"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "how to install Odoo on a specific infrastructure,"
-msgstr "ako nainštalovať Odoo na špecifickej infraštruktúre,"
+msgid "how to install ERP on a specific infrastructure,"
+msgstr "ako nainštalovať ERP na špecifickej infraštruktúre,"
 
 #. module: website_forum
 #. openerp-web
@@ -3203,8 +3203,8 @@ msgstr "spam alebo reklama"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "specific questions about Odoo service offers, etc."
-msgstr "konkrétne otázky týkajúce sa ponuky služieb Odoo atď."
+msgid "specific questions about ERP service offers, etc."
+msgstr "konkrétne otázky týkajúce sa ponuky služieb ERP atď."
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
@@ -3287,8 +3287,8 @@ msgstr "webstránka"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "what's the best way to use Odoo for a specific business need,"
-msgstr "čo je najlepší spôsob, ako využiť Odoo pre konkrétne obchodné potreby,"
+msgid "what's the best way to use ERP for a specific business need,"
+msgstr "čo je najlepší spôsob, ako využiť ERP pre konkrétne obchodné potreby,"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help

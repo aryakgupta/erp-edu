@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * survey
 # 
@@ -7,7 +7,7 @@
 # Tuomo Aura <tuomo.aura@web-veistamo.fi>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:12+0000\n"
 "PO-Revision-Date: 2016-07-15 13:36+0000\n"
@@ -223,8 +223,8 @@ msgstr ""
 
 #. module: survey
 #: model:survey.page,title:survey.feedback_1
-msgid "About your Odoo usage"
-msgstr "Odoon käytöstäsi"
+msgid "About your ERP usage"
+msgstr "ERPn käytöstäsi"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey_message_needaction
@@ -305,8 +305,8 @@ msgstr ""
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_1_1
-msgid "Are you using Odoo on a daily basis?"
-msgstr "Käytätkö Odoo'ta päivittäin?"
+msgid "Are you using ERP on a daily basis?"
+msgstr "Käytätkö ERP'ta päivittäin?"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_mail_compose_message_attachment_ids
@@ -755,8 +755,8 @@ msgstr "Ryhmittele"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_3_1
-msgid "How do you contribute or plan to contribute to Odoo?"
-msgstr "Kuinka osallistut, tai aiot osallistua, Odoon kehitykseen?"
+msgid "How do you contribute or plan to contribute to ERP?"
+msgstr "Kuinka osallistut, tai aiot osallistua, ERPn kehitykseen?"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_2_6
@@ -790,7 +790,7 @@ msgstr "Osallistun keskusteluun ja foorumeihin"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_1
-msgid "I use Github, like all official Odoo projects"
+msgid "I use Github, like all official ERP projects"
 msgstr ""
 
 #. module: survey
@@ -800,7 +800,7 @@ msgstr "Käytän toista repositoryn allintaa (SourceForge...)"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_1_3
-msgid "I use the contextual help in Odoo"
+msgid "I use the contextual help in ERP"
 msgstr ""
 
 #. module: survey
@@ -871,7 +871,7 @@ msgstr "Jos muu, tarkenna:"
 
 #. module: survey
 #: model:survey.page,description:survey.feedback_4
-msgid "If you do not contribute or develop in Odoo, skip this page."
+msgid "If you do not contribute or develop in ERP, skip this page."
 msgstr ""
 
 #. module: survey
@@ -1954,7 +1954,7 @@ msgstr ""
 #. module: survey
 #: model:survey.page,description:survey.feedback_2
 msgid ""
-"These questions relate to the ergonomy and ease of use of Odoo. Try to remind your firsts days on Odoo and\n"
+"These questions relate to the ergonomy and ease of use of ERP. Try to remind your firsts days on ERP and\n"
 "what have been your difficulties."
 msgstr ""
 
@@ -1970,7 +1970,7 @@ msgstr ""
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_2_1
-msgid "They help new users to understand Odoo"
+msgid "They help new users to understand ERP"
 msgstr ""
 
 #. module: survey
@@ -2210,7 +2210,7 @@ msgstr ""
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_1
-msgid "What do you think about the documentation available on doc.odoo.com?"
+msgid "What do you think about the documentation available on doc.erp.com?"
 msgstr ""
 
 #. module: survey
@@ -2221,7 +2221,7 @@ msgstr ""
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_2
 msgid ""
-"What do you think about the process views of Odoo, available in the web "
+"What do you think about the process views of ERP, available in the web "
 "client ?"
 msgstr ""
 
@@ -2270,8 +2270,8 @@ msgstr "Kyllä, käytän versiota 7.0, asennettuna paikallisesti"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_1_3
-msgid "Yes, I use the online version of Odoo"
-msgstr "Kyllä, käytän Odoon verkkoversiota"
+msgid "Yes, I use the online version of ERP"
+msgstr "Kyllä, käytän ERPn verkkoversiota"
 
 #. module: survey
 #: model:ir.actions.act_window,help:survey.action_survey_form

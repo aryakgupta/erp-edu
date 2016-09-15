@@ -148,7 +148,7 @@ database
 
     - ``%h`` is replaced by the whole hostname the request is made on.
     - ``%d`` is replaced by the subdomain the request is made on, with the
-      exception of ``www`` (so domain ``odoo.com`` and ``www.odoo.com`` both
+      exception of ``www`` (so domain ``erp.com`` and ``www.erp.com`` both
       match the database ``odoo``)
 
 .. option:: --db-template <template>
@@ -184,7 +184,7 @@ built-in HTTP
 logging
 -------
 
-By default, Odoo displays all logging of level_ ``info`` except for workflow
+By default, ERP displays all logging of level_ ``info`` except for workflow
 logging (``warning`` only), and log output is sent to ``stdout``. Various
 options are available to redirect logging to other destinations and to
 customize the amount of logging output
@@ -258,7 +258,7 @@ customize the amount of logging output
     ``openerp`` and ``werkzeug`` loggers (except for ``debug`` which is only
     set on ``openerp``).
 
-    Odoo also provides debugging pseudo-levels which apply to different sets
+    ERP also provides debugging pseudo-levels which apply to different sets
     of loggers:
 
     ``debug_sql``
@@ -289,7 +289,7 @@ Scaffolding
 .. program:: odoo.py scaffold
 
 Scaffolding is the automated creation of a skeleton structure to simplify
-bootstrapping (of new modules, in the case of Odoo). While not necessary it
+bootstrapping (of new modules, in the case of ERP). While not necessary it
 avoids the tedium of setting up basic structures and looking up what all
 starting requirements are.
 

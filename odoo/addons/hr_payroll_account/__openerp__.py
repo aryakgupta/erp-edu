@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 {
     'name': 'Payroll Accounting',
     'version': '1.0',
@@ -12,7 +12,7 @@ Generic Payroll system Integrated with Accounting.
     * Payment Encoding
     * Company Contribution Management
     """,
-    'website': 'https://www.odoo.com/page/employees',
+    'website': 'https://www.erp.com/page/employees',
     'depends': [
         'hr_payroll',
         'account',

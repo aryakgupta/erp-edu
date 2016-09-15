@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * mail
 # 
@@ -6,7 +6,7 @@
 # Otgonbayar.A <gobi.mn@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-22 13:00+0000\n"
 "PO-Revision-Date: 2016-07-23 09:04+0000\n"
@@ -75,7 +75,7 @@ msgid ""
 "                </a>\n"
 "                % endif\n"
 "                <strong>using</strong>\n"
-"                <a href=\"https://www.odoo.com\" style=\"text-decoration:none; color: #a24689;\"><strong>Odoo</strong></a>\n"
+"                <a href=\"https://www.erp.com\" style=\"text-decoration:none; color: #a24689;\"><strong>ERP</strong></a>\n"
 "                % endif\n"
 "                </p>\n"
 "            </td>\n"
@@ -1453,9 +1453,9 @@ msgstr "Хэрэв сонголтоос гадуур гэж тэмдэглэгд
 #. module: mail
 #: model:ir.model.fields,help:mail.field_base_config_settings_alias_domain
 msgid ""
-"If you have setup a catch-all email domain redirected to the Odoo server, "
+"If you have setup a catch-all email domain redirected to the ERP server, "
 "enter the domain name here."
-msgstr "Хэрэв Odoo серверрүү чиглүүлсэн бүх эмэйлийг барьж авахаар тохируулсан бол дөмэйн нэрийг энд оруулна уу."
+msgstr "Хэрэв ERP серверрүү чиглүүлсэн бүх эмэйлийг барьж авахаар тохируулсан бол дөмэйн нэрийг энд оруулна уу."
 
 #. module: mail
 #: code:addons/mail/models/mail_alias.py:141
@@ -2140,16 +2140,16 @@ msgstr "Уншаагүй зурвасын тоо"
 #. module: mail
 #: model:ir.actions.act_window,help:mail.action_contacts
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "            a customer; discussions, history of business opportunities,\n"
 "            documents, etc."
-msgstr "Odoo нь захиалагч, хөөрөлдөөн, боломжуудын түүх, баримтууд\n            зэрэгт холбогдох үйл ажиллагаануудыг хөтлөхөд тусладаг.]"
+msgstr "ERP нь захиалагч, хөөрөлдөөн, боломжуудын түүх, баримтууд\n            зэрэгт холбогдох үйл ажиллагаануудыг хөтлөхөд тусладаг.]"
 
 #. module: mail
 #. openerp-web
 #: code:addons/mail/static/src/xml/client_action.xml:11
 #, python-format
-msgid "Odoo needs your permission to"
+msgid "ERP needs your permission to"
 msgstr ""
 
 #. module: mail
@@ -2941,10 +2941,10 @@ msgstr "Энэ үлгэртэй хэрэглэгдэж болох баримту
 #: model:ir.model.fields,help:mail.field_mail_channel_alias_model_id
 #: model:ir.model.fields,help:mail.field_res_users_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
-msgstr "Хуурмаг нэрийн харгалзах модель (Odoo-н баримтын төрөл). Байгаа ямар нэг бичлэг рүү хариулж байгаа биш бүх эмэйл энэ моделийн шин бичлэгийг үүсгэнэ (Ж. Төслийн даалгавар)"
+msgstr "Хуурмаг нэрийн харгалзах модель (ERP-н баримтын төрөл). Байгаа ямар нэг бичлэг рүү хариулж байгаа биш бүх эмэйл энэ моделийн шин бичлэгийг үүсгэнэ (Ж. Төслийн даалгавар)"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias_alias_name
@@ -2952,8 +2952,8 @@ msgstr "Хуурмаг нэрийн харгалзах модель (Odoo-н б�
 #: model:ir.model.fields,help:mail.field_res_users_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
-msgstr "эмэйл хуурмаг нэр, Ж. 'jobs' гэдэгээр <jobs@example.odoo.com> хаягийн эмэйлийг бүгдийг хүлээн авч байгаа бол"
+"<jobs@example.erp.com>"
+msgstr "эмэйл хуурмаг нэр, Ж. 'jobs' гэдэгээр <jobs@example.erp.com> хаягийн эмэйлийг бүгдийг хүлээн авч байгаа бол"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias_alias_user_id
@@ -3426,8 +3426,8 @@ msgstr ""
 
 #. module: mail
 #: model:ir.ui.view,arch_db:mail.view_general_configuration_mail_alias_domain
-msgid "mycompany.odoo.com"
-msgstr "mycompany.odoo.com"
+msgid "mycompany.erp.com"
+msgstr "mycompany.erp.com"
 
 #. module: mail
 #. openerp-web

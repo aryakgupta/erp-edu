@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -34,7 +34,7 @@ must become done.
 The field 'Working Hours' is the delay(stop date - start date).
 So, that we can compare the theoretic delay and real delay. 
     """,
-    'website': 'https://www.odoo.com/page/manufacturing',
+    'website': 'https://www.erp.com/page/manufacturing',
     'depends': ['mrp'],
     'data': [
         'data/report_paperformat.xml',

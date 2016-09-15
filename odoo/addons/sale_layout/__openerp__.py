@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Sale Layout',
@@ -12,7 +12,7 @@ Manage your sales reports
 With this module you can personnalize the sale order and invoice report with
 separators, page-breaks or subtotals.
     """,
-    'website': 'https://www.odoo.com/page/crm',
+    'website': 'https://www.erp.com/page/crm',
     'depends': ['sale', 'report'],
     'category': 'Sales',
     'data': ['views/sale_layout_category_view.xml',

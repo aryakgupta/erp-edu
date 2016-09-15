@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 import logging
 import pytz
 import time
@@ -115,7 +115,7 @@ class ir_sequence(models.Model):
     number_increment = fields.Integer('Step', required=True, default=1,
                                       help="The next number of the sequence will be incremented by this number")
     padding = fields.Integer('Sequence Size', required=True, default=0,
-                             help="Odoo will automatically adds some '0' on the left of the "
+                             help="ERP will automatically adds some '0' on the left of the "
                              "'Next Number' to get the required padding size.")
     company_id = fields.Many2one('res.company', 'Company',
                                  default=lambda s: s.env['res.company']._company_default_get('ir.sequence'))

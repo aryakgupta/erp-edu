@@ -6,7 +6,7 @@
     'description': """
 This module allows a customer to give rating on Project Issue.
 """,
-    'website': 'http://odoo.com',
+    'website': 'http://erp.com',
     'depends': [
         'rating_project',
         'project_issue'

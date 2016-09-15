@@ -897,7 +897,7 @@ BUG2 = """
               <th nowrap="" valign="BASELINE" align="RIGHT">Répondre
 
                 à&nbsp;: </th>
-              <td><a class="moz-txt-link-abbreviated" href="mailto:catchall@mail.odoo.com">catchall@mail.odoo.com</a></td>
+              <td><a class="moz-txt-link-abbreviated" href="mailto:catchall@mail.erp.com">catchall@mail.erp.com</a></td>
             </tr>
             <tr>
               <th nowrap="" valign="BASELINE" align="RIGHT">Pour&nbsp;:
@@ -1113,7 +1113,7 @@ BUG3 = """<div class="oe_msg_body_long" style="/* display: none; */"><p>OpenERP 
 <ul>
 <li><p class="first">New Warehouse Management System:</p>
 <blockquote>
-<p>Schedule your picking, packing, receptions and internal moves automatically with Odoo using
+<p>Schedule your picking, packing, receptions and internal moves automatically with ERP using
 your own routing rules. Define push and procurement rules to organize a warehouse or to manage
 product moves between several warehouses. Track in detail all stock moves, not only in your
 warehouse but wherever else it's taken as well (customers, vendors or manufacturing
@@ -1177,7 +1177,7 @@ BUG_3_OUT = [
 REMOVE_CLASS = """
 <div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; COLOR: #000000">
     <div>Hello</div>
-    <div>I have just installed Odoo 9 and I've got the following error:</div>
+    <div>I have just installed ERP 9 and I've got the following error:</div>
     <div>&nbsp;</div>
     <div class="openerp openerp_webclient_container oe_webclient">
         <div class="oe_loading" style="DISPLAY: none">&nbsp;</div>
@@ -1187,7 +1187,7 @@ REMOVE_CLASS = """
         <div class="modal-dialog modal-lg">
             <div class="modal-content openerp">
                 <div class="modal-header"> 
-                    <h4 class="modal-title">Odoo Error<span class="o_subtitle text-muted"></span></h4>
+                    <h4 class="modal-title">ERP Error<span class="o_subtitle text-muted"></span></h4>
                 </div>
                 <div class="o_error_detail modal-body">
                     <pre>An error occured in a modal and I will send you back the html to try opening one on your end</pre>

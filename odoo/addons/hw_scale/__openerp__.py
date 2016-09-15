@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -8,7 +8,7 @@
     'category': 'Point of Sale',
     'sequence': 6,
     'summary': 'Hardware Driver for Weighting Scales',
-    'website': 'https://www.odoo.com/page/point-of-sale',
+    'website': 'https://www.erp.com/page/point-of-sale',
     'description': """
 Weighting Scale Hardware Driver
 ================================

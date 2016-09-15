@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 import itertools
 import logging
 from functools import partial
@@ -384,7 +384,7 @@ class res_users(osv.osv):
 
     def unlink(self, cr, uid, ids, context=None):
         if 1 in ids:
-            raise UserError(_('You can not remove the admin user as it is used internally for resources created by Odoo (updates, module installation, ...)'))
+            raise UserError(_('You can not remove the admin user as it is used internally for resources created by ERP (updates, module installation, ...)'))
         db = cr.dbname
         if db in self.__uid_cache:
             for id in ids:

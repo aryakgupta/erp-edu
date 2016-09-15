@@ -14,11 +14,11 @@
         <!-- POSTS -->
         <record id="blog_post_1" model="blog.post">
             <field name="name">The Future of Emails</field>
-            <field name="subtitle">Ideas behind the Odoo communication tools.</field>
+            <field name="subtitle">Ideas behind the ERP communication tools.</field>
             <field name="blog_id" ref="blog_blog_1"/>
             <field name="tag_ids" eval="[(6, 0, [ref('blog_tag_1')])]"/>
             <field name="website_published" eval="True"/>
-            <field name="website_meta_keywords">Odoo, email</field>
+            <field name="website_meta_keywords">ERP, email</field>
             <field name="website_meta_description">The Future of Emails</field>
             <field name="cover_properties">{"background-image": "url(/website_blog/static/src/img/library/flower_texture.jpg)", "background-color": "oe_yellow" ,"opacity": "1.0", "resize_class": "cover container cover_narrow"}</field>
             <field name="content"><![CDATA[
@@ -45,7 +45,7 @@
         </section>
         <section class="mt16 mb16 readable">
             <p>
-                At Odoo, we build tools to bring productivity to
+                At ERP, we build tools to bring productivity to
                 enterprises. As emails and information flows are one of
                 the biggest wastes of time in companies, we have to fix
                 this.
@@ -53,9 +53,9 @@
                 To disrupt emails, you need more than just another user
                 interface. We need to rethink the whole communication flow.
             </p>
-            <h3>The Communication Mechanism of Odoo</h3>
+            <h3>The Communication Mechanism of ERP</h3>
             <p>
-                Here are the ideas behind the Odoo communication tools:
+                Here are the ideas behind the ERP communication tools:
             </p>
             <ul>
                 <li>
@@ -79,7 +79,7 @@
                 </li><li>
                     A mix of push & pull: Today, people
                     are victims of what others decide to push to them.
-                    Odoo differentiates:
+                    ERP differentiates:
                     <ul>
                         <li>
                             Messages "for information":
@@ -105,7 +105,7 @@
                     every message)
                 </li><li>
                     Folders and mailing lists are great tools but too
-                    complex in traditional email clients. In Odoo, a
+                    complex in traditional email clients. In ERP, a
                     group of contacts that share a discussion can be
                     created with one click. Every group should have it's
                     own email address.
@@ -132,7 +132,7 @@
                 <div class="col-md-6 mt16">
                     <h3>New Features Launched</h3>
 
-                    <p data-chatter-id="counter_0/section/div/div/div">To add to an already comprehensive set of Odoo
+                    <p data-chatter-id="counter_0/section/div/div/div">To add to an already comprehensive set of ERP
                     features, a website content management system (CMS
                     or WMS) has been developed and a beta release is
                     available from today, 31st January 2014.</p>
@@ -141,13 +141,13 @@
         </section>
         <section class="readable">
             <p>
-                Odoo claims to be 'the Open Source software that makes
+                ERP claims to be 'the Open Source software that makes
                 building your company's website and selling your products
                 online easy'. So how true is this statement?
             </p><p>
-                "Odoo's latest launch will allow a business to go from
+                "ERP's latest launch will allow a business to go from
                 zero to trading online quicker than ever before,” Stuart
-                Mackintosh, MD of Open Source specialist and Odoo
+                Mackintosh, MD of Open Source specialist and ERP
                 integration partner, OpusVL, explains. “The investment
                 required to have a fully automated business system is
                 dramatically reduced, enabling the small and medium
@@ -163,11 +163,11 @@
             </blockquote>
             <p>
                 "This is another clever and highly disruptive move by
-                Odoo,which will force other technology providers to
+                ERP,which will force other technology providers to
                 take another look at the value they are providing to ensure
                 that their 'solutions' can still compete."
             </p><p>
-                "Odoo now competes on many fronts, with no real
+                "ERP now competes on many fronts, with no real
                 competition out there to knock them off the top spot.
                 With the launch of their integrated CMS and Ecommerce
                 systems,it only elevates their position as one of the leading
@@ -178,7 +178,7 @@
             </p>
             <h4>Adding to industry leading technology</h4>
             <p>
-                Like many modern website editors, with Odoo you can edit
+                Like many modern website editors, with ERP you can edit
                 content in-line, enabling you to see exactly what you are
                 changing and ensure your changes suit the context.
             </p><p>

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -8,7 +8,7 @@
     'category': 'Human Resources',
     'sequence': 27,
     'summary': 'Holidays, Allocation and Leave Requests',
-    'website': 'https://www.odoo.com/page/employees',
+    'website': 'https://www.erp.com/page/employees',
     'description': """
 Manage leave requests and allocations
 =====================================

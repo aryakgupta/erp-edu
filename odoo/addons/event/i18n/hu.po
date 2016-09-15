@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * event
 # 
@@ -7,7 +7,7 @@
 # krnkris, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-01 06:27+0000\n"
 "PO-Revision-Date: 2016-06-06 19:55+0000\n"
@@ -349,8 +349,8 @@ msgstr "Jelkép balra belül"
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Banner Odoo Image"
-msgstr "Odoo hírdetés képe"
+msgid "Banner ERP Image"
+msgstr "ERP hírdetés képe"
 
 #. module: event
 #: selection:event.mail,interval_type:0
@@ -1340,23 +1340,23 @@ msgstr "Olvasatlan üzenetek száma"
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Official Website"
-msgstr "Odoo hivatalos weboldal"
+msgid "ERP Official Website"
+msgstr "ERP hivatalos weboldal"
 
 #. module: event
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Web Client"
-msgstr "Odoo Web kliens"
+msgid "ERP Web Client"
+msgstr "ERP Web kliens"
 
 #. module: event
 #: model:ir.actions.act_window,help:event.action_event_view
 msgid ""
-"Odoo helps you schedule and efficiently organize your events:\n"
+"ERP helps you schedule and efficiently organize your events:\n"
 "    track subscriptions and participations, automate the confirmation emails,\n"
 "    sell tickets, etc."
-msgstr "Odoo rendszer segít az eseményei, rendezvényei hatékony \n    megszervezésében és szervezésében: feliratkozások, részvételek nyomon követése, \n    automatikus email igazolások, jegy eladás, stb."
+msgstr "ERP rendszer segít az eseményei, rendezvényei hatékony \n    megszervezésében és szervezésében: feliratkozások, részvételek nyomon követése, \n    automatikus email igazolások, jegy eladás, stb."
 
 #. module: event
 #: model:event.event,name:event.event_0
@@ -1931,8 +1931,8 @@ msgstr "megtanulni az <i>üzleti alkalmazások fejlesztését</i>"
 
 #. module: event
 #: model:event.event,description:event.event_0
-msgid "to learn Odoo Programming"
-msgstr "megtanulni az Odoo programozását"
+msgid "to learn ERP Programming"
+msgstr "megtanulni az ERP programozását"
 
 #. module: event
 #: model:event.event,description:event.event_1

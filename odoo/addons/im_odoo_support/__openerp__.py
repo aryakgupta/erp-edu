@@ -1,16 +1,16 @@
 {
-    'name' : 'Odoo Live Support',
+    'name' : 'ERP Live Support',
     'version': '1.0',
-    'summary': 'Chat with the Odoo collaborators',
+    'summary': 'Chat with the ERP collaborators',
     'category': 'Website',
     'complexity': 'medium',
-    'website': 'https://www.odoo.com/',
+    'website': 'https://www.erp.com/',
     'description':
         """
-Odoo Live Support
+ERP Live Support
 =================
 
-Ask your functional question directly to the Odoo Operators with the livechat support.
+Ask your functional question directly to the ERP Operators with the livechat support.
 
         """,
     'data': [

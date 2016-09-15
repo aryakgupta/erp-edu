@@ -1,4 +1,4 @@
-odoo.define('im_odoo_support.OdooSupport', function (require) {
+odoo.define('im_odoo_support.ERPSupport', function (require) {
 "use strict";
 
 var core = require('web.core');
@@ -11,9 +11,9 @@ var _t = core._t;
 
 
 var COOKIE_NAME = 'odoo_livechat_conversation';
-var SERVICE_URL = 'https://services.odoo.com/';
+var SERVICE_URL = 'https://services.erp.com/';
 
-var OdooSupport = Widget.extend({
+var ERPSupport = Widget.extend({
     init: function(login, uuid, params, options){
         this._super();
         this.login = login;
@@ -50,7 +50,7 @@ var OdooSupport = Widget.extend({
     },
     start_support: function(){
         // The free livechat service doesn't exist anymore
-        window.open('https://www.odoo.com/help', '_blank');
+        window.open('https://www.erp.com/help', '_blank');
         return;
         var self = this;
         if(!this.assets_loaded){
@@ -76,7 +76,7 @@ var OdooSupport = Widget.extend({
     },
     error_on_start: function(e){
         this.assets_loaded = false;
-        this.do_warn(_t("Error"), _t("The connection with the Odoo Support Server failed. Please retry in a few minutes, or send an email to support@odoo.com ."));
+        this.do_warn(_t("Error"), _t("The connection with the ERP Support Server failed. Please retry in a few minutes, or send an email to support@erp.com ."));
     },
     load_assets: function(){
         var self = this;
@@ -115,7 +115,7 @@ UserMenu.include({
     },
 });
 
-return OdooSupport;
+return ERPSupport;
 
 });
 

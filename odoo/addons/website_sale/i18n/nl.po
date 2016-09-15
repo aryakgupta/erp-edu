@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_sale
 # 
@@ -7,7 +7,7 @@
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-06-25 10:14+0000\n"
@@ -1079,9 +1079,9 @@ msgstr "ID"
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
 "If you have an eCommerce, one of your objectives is of course to grow your revenues by\n"
-"                    selling more and pricier products. Luckily for you, Odoo integrates three powerful\n"
+"                    selling more and pricier products. Luckily for you, ERP integrates three powerful\n"
 "                    customizations for that."
-msgstr "Als u een online winkel heeft is een van uw doelen om uw omzet te doen groeien door\nmeer en duurdere producten te verkopen. Gelukkig voor u integreert Odoo drie krachtige\npersonalisaties hiervoor."
+msgstr "Als u een online winkel heeft is een van uw doelen om uw omzet te doen groeien door\nmeer en duurdere producten te verkopen. Gelukkig voor u integreert ERP drie krachtige\npersonalisaties hiervoor."
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_product_public_category_image
@@ -1258,15 +1258,15 @@ msgstr "OK"
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
-"Odoo offers an importation service to handle the whole process for you!"
-msgstr "Odoo biedt een import dienst aan om het hele proces voor u af te handelen!"
+"ERP offers an importation service to handle the whole process for you!"
+msgstr "ERP biedt een import dienst aan om het hele proces voor u af te handelen!"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
-"Odoo's web-services allows developers to create scripts that will load data "
+"ERP's web-services allows developers to create scripts that will load data "
 "automatically into the system."
-msgstr "Odoo's web services staan ontwikkelaars toe om scripts aan te maken die automatisch data inladen in uw systeem."
+msgstr "ERP's web services staan ontwikkelaars toe om scripts aan te maken die automatisch data inladen in uw systeem."
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
@@ -2122,8 +2122,8 @@ msgstr "U kan ook verschillende prijzen definiëren voor de varianten die u heef
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
-msgid "You can setup 3 types of <strong>payment methods in Odoo:</strong>"
-msgstr "U kan 3 soorten van <strong>betaalmethodes opzetten in Odoo:</strong>"
+msgid "You can setup 3 types of <strong>payment methods in ERP:</strong>"
+msgstr "U kan 3 soorten van <strong>betaalmethodes opzetten in ERP:</strong>"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner

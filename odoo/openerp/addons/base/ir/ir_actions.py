@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 from functools import partial
 import logging
@@ -640,7 +640,7 @@ class ir_actions_server(osv.osv):
         'sequence': 5,
         'code': """# Available locals:
 #  - time, datetime, dateutil: Python libraries
-#  - env: Odoo Environement
+#  - env: ERP Environement
 #  - model: Model of the record on which the action is triggered
 #  - object: Record on which the action is triggered if there is one, otherwise None
 #  - workflow: Workflow engine

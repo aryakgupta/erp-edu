@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # This test can be run stand-alone with something like:
 # > PYTHONPATH=. python2 openerp/tests/test_misc.py
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 import cgi
 import lxml

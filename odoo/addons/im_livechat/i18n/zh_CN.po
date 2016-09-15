@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * im_livechat
 # 
@@ -17,7 +17,7 @@
 # liAnGjiA <liangjia@qq.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-26 12:06+0000\n"
 "PO-Revision-Date: 2016-07-12 01:00+0000\n"
@@ -303,10 +303,10 @@ msgstr "备注您的笔记"
 #. module: im_livechat
 #: model:ir.ui.view,arch_db:im_livechat.im_livechat_channel_view_form
 msgid ""
-"For website built with Odoo CMS, please install the website_livechat module."
+"For website built with ERP CMS, please install the website_livechat module."
 " Then go to Settings &gt; Website Settings and select the Website Live Chat "
 "Channel you want to add on your website."
-msgstr "对于带有Odoo CMS 的网站，请安装 website_livechat 模块。 然后到 设置 > 网站设置，选择要添加到你的站点的即时聊天频道。"
+msgstr "对于带有ERP CMS 的网站，请安装 website_livechat 模块。 然后到 设置 > 网站设置，选择要添加到你的站点的即时聊天频道。"
 
 #. module: im_livechat
 #: model:ir.model.fields,help:im_livechat.field_im_livechat_channel_rule_sequence
@@ -798,8 +798,8 @@ msgstr "网站在线客服"
 
 #. module: im_livechat
 #: model:ir.ui.view,arch_db:im_livechat.support_page
-msgid "Website Live Chat Powered by <strong>Odoo</strong>."
-msgstr "<strong>Odoo</strong>的实时聊天"
+msgid "Website Live Chat Powered by <strong>ERP</strong>."
+msgstr "<strong>ERP</strong>的实时聊天"
 
 #. module: im_livechat
 #: model:ir.model.fields,field_description:im_livechat.field_im_livechat_channel_default_message

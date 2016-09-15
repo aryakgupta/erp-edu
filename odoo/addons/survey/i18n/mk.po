@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * survey
 # 
@@ -6,7 +6,7 @@
 # Aleksandar Vangelovski <aleksandarv@hbee.eu>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:12+0000\n"
 "PO-Revision-Date: 2016-08-03 11:08+0000\n"
@@ -222,8 +222,8 @@ msgstr "Токенот мора да биде уникатен"
 
 #. module: survey
 #: model:survey.page,title:survey.feedback_1
-msgid "About your Odoo usage"
-msgstr "За вашата употреба на Odoo"
+msgid "About your ERP usage"
+msgstr "За вашата употреба на ERP"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey_message_needaction
@@ -304,8 +304,8 @@ msgstr ""
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_1_1
-msgid "Are you using Odoo on a daily basis?"
-msgstr "Дали го користите Odoo секој ден?"
+msgid "Are you using ERP on a daily basis?"
+msgstr "Дали го користите ERP секој ден?"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_mail_compose_message_attachment_ids
@@ -754,8 +754,8 @@ msgstr "Групирај по"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_3_1
-msgid "How do you contribute or plan to contribute to Odoo?"
-msgstr "Како придонесувате или планирате да придонесете кон Odoo?"
+msgid "How do you contribute or plan to contribute to ERP?"
+msgstr "Како придонесувате или планирате да придонесете кон ERP?"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_2_6
@@ -789,7 +789,7 @@ msgstr "Учествувам во дискусии и форуми"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_1
-msgid "I use Github, like all official Odoo projects"
+msgid "I use Github, like all official ERP projects"
 msgstr ""
 
 #. module: survey
@@ -799,8 +799,8 @@ msgstr "Јас користам друг репозиторен систем (So
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_1_3
-msgid "I use the contextual help in Odoo"
-msgstr "Ја користам контекстуалната помош во Odoo"
+msgid "I use the contextual help in ERP"
+msgstr "Ја користам контекстуалната помош во ERP"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_3_1_5
@@ -870,7 +870,7 @@ msgstr "Ако е друго, нагласи:"
 
 #. module: survey
 #: model:survey.page,description:survey.feedback_4
-msgid "If you do not contribute or develop in Odoo, skip this page."
+msgid "If you do not contribute or develop in ERP, skip this page."
 msgstr ""
 
 #. module: survey
@@ -1953,7 +1953,7 @@ msgstr "Има премногу мениа, сложено е за разбир�
 #. module: survey
 #: model:survey.page,description:survey.feedback_2
 msgid ""
-"These questions relate to the ergonomy and ease of use of Odoo. Try to remind your firsts days on Odoo and\n"
+"These questions relate to the ergonomy and ease of use of ERP. Try to remind your firsts days on ERP and\n"
 "what have been your difficulties."
 msgstr ""
 
@@ -1969,8 +1969,8 @@ msgstr "Корисни се за секојдневна употреба"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_2_1
-msgid "They help new users to understand Odoo"
-msgstr "Им помагаат на новите корисници да го разберат Odoo"
+msgid "They help new users to understand ERP"
+msgstr "Им помагаат на новите корисници да го разберат ERP"
 
 #. module: survey
 #: code:addons/survey/survey.py:685 code:addons/survey/tests/test_survey.py:94
@@ -2209,7 +2209,7 @@ msgstr "Што мислите за волшебниците за конфигу�
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_1
-msgid "What do you think about the documentation available on doc.odoo.com?"
+msgid "What do you think about the documentation available on doc.erp.com?"
 msgstr ""
 
 #. module: survey
@@ -2220,9 +2220,9 @@ msgstr "Што мислите за групите на корисници?"
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_2
 msgid ""
-"What do you think about the process views of Odoo, available in the web "
+"What do you think about the process views of ERP, available in the web "
 "client ?"
-msgstr "Што мислите за прегледот на процес во Odoo, достапен во веб клиентот ?"
+msgstr "Што мислите за прегледот на процес во ERP, достапен во веб клиентот ?"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_4
@@ -2269,8 +2269,8 @@ msgstr "Да ја користам верзијата 7.0 инсталирана
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_1_3
-msgid "Yes, I use the online version of Odoo"
-msgstr "Да ја користам интернет верзијата на Odoo"
+msgid "Yes, I use the online version of ERP"
+msgstr "Да ја користам интернет верзијата на ERP"
 
 #. module: survey
 #: model:ir.actions.act_window,help:survey.action_survey_form

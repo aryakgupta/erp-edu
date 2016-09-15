@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * base_import
 # 
@@ -9,7 +9,7 @@
 # Sidnei Luiz Baumgartenn <sidnei@sbaum.com.br>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-18 13:40+0000\n"
 "PO-Revision-Date: 2015-12-29 18:48+0000\n"
@@ -177,9 +177,9 @@ msgstr "País/Banco de dados \n                        ID: 21"
 #: code:addons/base_import/static/src/xml/import.xml:153
 #, python-format
 msgid ""
-"Country/Database ID: the unique Odoo ID for a \n"
+"Country/Database ID: the unique ERP ID for a \n"
 "                        record, defined by the ID postgresql column"
-msgstr "País/ID do Banco de dados: um ID único do Odoo para um registro, definido pela coluna ID do postgresql"
+msgstr "País/ID do Banco de dados: um ID único do ERP para um registro, definido pela coluna ID do postgresql"
 
 #. module: base_import
 #. openerp-web
@@ -378,9 +378,9 @@ msgstr "Para arquivos CSV, a questão poderia ser uma codificação incorreta."
 #, python-format
 msgid ""
 "For example, to \n"
-"                        reference the country of a contact, Odoo proposes \n"
+"                        reference the country of a contact, ERP proposes \n"
 "                        you 3 different fields to import:"
-msgstr "Por exemplo, para\nreferenciar um país a um contato, Odoo propõe\n3 campos diferentes para importar:"
+msgstr "Por exemplo, para\nreferenciar um país a um contato, ERP propõe\n3 campos diferentes para importar:"
 
 #. module: base_import
 #. openerp-web
@@ -464,8 +464,8 @@ msgstr "Como posso importar um relacionamento one2many (por exemplo, vários \n 
 #, python-format
 msgid ""
 "How to export/import different tables from an SQL \n"
-"                        application to Odoo?"
-msgstr "Como exportar/importar diferentes tabelas de uma \n                        aplicação SQL para Odoo?"
+"                        application to ERP?"
+msgstr "Como exportar/importar diferentes tabelas de uma \n                        aplicação SQL para ERP?"
 
 #. module: base_import
 #. openerp-web
@@ -523,10 +523,10 @@ msgstr "Se, por exemplo, você tem duas categorias de produtos \n               
 #, python-format
 msgid ""
 "If the file contains\n"
-"                the column names, Odoo can try auto-detecting the\n"
+"                the column names, ERP can try auto-detecting the\n"
 "                field corresponding to the column. This makes imports\n"
 "                simpler especially when the file has many columns."
-msgstr "se o arquivo contem \n                os nomes de colunas, Odoo pode tentar auto detectar\n                o campo correspondente à coluna. Isto torna simples a\n                importação, especialmente quando o aquivo contem\n                muitas colunas."
+msgstr "se o arquivo contem \n                os nomes de colunas, ERP pode tentar auto detectar\n                o campo correspondente à coluna. Isto torna simples a\n                importação, especialmente quando o aquivo contem\n                muitas colunas."
 
 #. module: base_import
 #. openerp-web
@@ -544,12 +544,12 @@ msgstr "Se o modelo usa openchatter, acompanhamento histórico definirá assinat
 #, python-format
 msgid ""
 "If you do not set all fields in your CSV file, \n"
-"                        Odoo will assign the default value for every non \n"
+"                        ERP will assign the default value for every non \n"
 "                        defined fields. But if you\n"
-"                        set fields with empty values in your CSV file, Odoo \n"
+"                        set fields with empty values in your CSV file, ERP \n"
 "                        will set the EMPTY value in the field, instead of \n"
 "                        assigning the default value."
-msgstr "Se você não definir todos os campos no seu arquivo CSV,\nOdoo atribuirá os valores padrões para cada campo não definido.\nMas se você definir campos com valores vazios no arquivo CSV,\nOdoo vai popular os campos com valor VAZIO, ao invés de definir\nos valores padrões."
+msgstr "Se você não definir todos os campos no seu arquivo CSV,\nERP atribuirá os valores padrões para cada campo não definido.\nMas se você definir campos com valores vazios no arquivo CSV,\nERP vai popular os campos com valor VAZIO, ao invés de definir\nos valores padrões."
 
 #. module: base_import
 #. openerp-web
@@ -575,10 +575,10 @@ msgid ""
 "                        have already been imported will be modified instead of \n"
 "                        being created. This is very usefull as it allows you \n"
 "                        to import several times the same CSV file while having \n"
-"                        made some changes in between two imports. Odoo will \n"
+"                        made some changes in between two imports. ERP will \n"
 "                        take care of creating or modifying each record \n"
 "                        depending if it's new or not."
-msgstr "Se você importar um arquivo que contém uma coluna\n\"ID Externo\" ou \"ID do Banco de Dados\", registros que já\nforam importados serão modificados ao invés de serem criados.\nIsto é muito útil pois permite a você importar o mesmo arquivo\ndiversas vezes fazendo algumas mudanças entre cada uma. Odoo vai\ncuidar de criar ou modificar cada registro dependendo se for um \nregistro novo ou não."
+msgstr "Se você importar um arquivo que contém uma coluna\n\"ID Externo\" ou \"ID do Banco de Dados\", registros que já\nforam importados serão modificados ao invés de serem criados.\nIsto é muito útil pois permite a você importar o mesmo arquivo\ndiversas vezes fazendo algumas mudanças entre cada uma. ERP vai\ncuidar de criar ou modificar cada registro dependendo se for um \nregistro novo ou não."
 
 #. module: base_import
 #. openerp-web
@@ -705,8 +705,8 @@ msgstr "Última atualização em"
 #. openerp-web
 #: code:addons/base_import/static/src/xml/import.xml:37
 #, python-format
-msgid "Map your data to Odoo"
-msgstr "Mapeia sues dados para Odoo"
+msgid "Map your data to ERP"
+msgstr "Mapeia sues dados para ERP"
 
 #. module: base_import
 #. openerp-web
@@ -749,11 +749,11 @@ msgstr "Campos normais"
 #, python-format
 msgid ""
 "Note that if your CSV file \n"
-"                        has a tabulation as separator, Odoo will not \n"
+"                        has a tabulation as separator, ERP will not \n"
 "                        detect the separations. You will need to change the \n"
 "                        file format options in your spreadsheet application. \n"
 "                        See the following question."
-msgstr "Se seu arquivo CSV usa\n                       tabulação como separador, Odoo não detectará\n                       as separações. Você necessita trocar o formato \n                       do arquivo em sua aplicação.\n                       Veja a seguinte questão."
+msgstr "Se seu arquivo CSV usa\n                       tabulação como separador, ERP não detectará\n                       as separações. Você necessita trocar o formato \n                       do arquivo em sua aplicação.\n                       Veja a seguinte questão."
 
 #. module: base_import
 #: model:ir.model.fields,field_description:base_import.field_base_import_tests_models_preview_othervalue
@@ -824,12 +824,12 @@ msgid ""
 "Some fields define a relationship with another \n"
 "                        object. For example, the country of a contact is a \n"
 "                        link to a record of the 'Country' object. When you \n"
-"                        want to import such fields, Odoo will have to \n"
+"                        want to import such fields, ERP will have to \n"
 "                        recreate links between the different records. \n"
-"                        To help you import such fields, Odoo provides 3 \n"
+"                        To help you import such fields, ERP provides 3 \n"
 "                        mechanisms. You must use one and only one mechanism \n"
 "                        per field you want to import."
-msgstr "Alguns campos definem relacionamentos com outros\nobjetos. Por exemplo o país de um contato é um link\npara o registro do objeto 'País'. Quando você quer importar\ntais campos, Odoo terá que recriar os links entre os registros.\nPara ajudar a importar estes campos, Odoo provê 3 mecanismos. \nVocê precisa usar um e somente um mecanismo por campo que\ndeseja importar."
+msgstr "Alguns campos definem relacionamentos com outros\nobjetos. Por exemplo o país de um contato é um link\npara o registro do objeto 'País'. Quando você quer importar\ntais campos, ERP terá que recriar os links entre os registros.\nPara ajudar a importar estes campos, ERP provê 3 mecanismos. \nVocê precisa usar um e somente um mecanismo por campo que\ndeseja importar."
 
 #. module: base_import
 #. openerp-web
@@ -897,12 +897,12 @@ msgstr "As etiquetas devem ser separadas por uma vírgula, sem qualquer \n      
 #, python-format
 msgid ""
 "The two files produced are ready to be imported in \n"
-"                        Odoo without any modifications. After having \n"
+"                        ERP without any modifications. After having \n"
 "                        imported these two CSV files, you will have 4 contacts \n"
 "                        and 3 companies. (the firsts two contacts are linked \n"
 "                        to the first company). You must first import the \n"
 "                        companies and then the persons."
-msgstr "Os 2 arquivos produzidos estão prontos para serem importados no\nOdoo sem nenhuma modificação. Depois de importá-los, você terá\n4 contatos e 3 empresas. os 2 primeiros contatos estão atrelados a\nprimeira empresa). Você deve primeiro importar as empresas e depois\nas pessoas."
+msgstr "Os 2 arquivos produzidos estão prontos para serem importados no\nERP sem nenhuma modificação. Depois de importá-los, você terá\n4 contatos e 3 empresas. os 2 primeiros contatos estão atrelados a\nprimeira empresa). Você deve primeiro importar as empresas e depois\nas pessoas."
 
 #. module: base_import
 #. openerp-web
@@ -917,10 +917,10 @@ msgstr "Este comando SQL vai gerar o seguinte arquivo CSV:"
 #, python-format
 msgid ""
 "This feature \n"
-"                        allows you to use the Import/Export tool of Odoo to \n"
+"                        allows you to use the Import/Export tool of ERP to \n"
 "                        modify a batch of records in your favorite spreadsheet \n"
 "                        application."
-msgstr "Este recurso\n                       permite você usar a ferramenta de importação/exportação\n                       do Odoo para modificar um conjunto de registros em sua\n                       planilha."
+msgstr "Este recurso\n                       permite você usar a ferramenta de importação/exportação\n                       do ERP para modificar um conjunto de registros em sua\n                       planilha."
 
 #. module: base_import
 #. openerp-web
@@ -938,14 +938,14 @@ msgstr "Para criar o arquivo CSV para as pessoas, ligadas a \n                  
 #, python-format
 msgid ""
 "To manage relations between tables, \n"
-"                        you can use the \"External ID\" facilities of Odoo. \n"
+"                        you can use the \"External ID\" facilities of ERP. \n"
 "                        The \"External ID\" of a record is the unique identifier \n"
 "                        of this record in another application. This \"External \n"
 "                        ID\" must be unique accoss all the records of all \n"
 "                        objects, so it's a good practice to prefix this \n"
 "                        \"External ID\" with the name of the application or \n"
 "                        table. (like 'company_1', 'person_1' instead of '1')"
-msgstr "Para gerenciar relacionamento entre tabelas, você pode usar a \nfacilidade do\"ID Externo\" do Odoo. O \"ID Externo\" de um registro é\num identificar único do registro em outra aplicação. Este \"ID Externo\"\nprecisa ser único entre todos os registros de todos os objetos, então\né de boa prática usar prefixos no \"ID Externo\" com o nome da aplicação\nou tabela. (como 'company_1', 'person_1' ao invés de somente '1')"
+msgstr "Para gerenciar relacionamento entre tabelas, você pode usar a \nfacilidade do\"ID Externo\" do ERP. O \"ID Externo\" de um registro é\num identificar único do registro em outra aplicação. Este \"ID Externo\"\nprecisa ser único entre todos os registros de todos os objetos, então\né de boa prática usar prefixos no \"ID Externo\" com o nome da aplicação\nou tabela. (como 'company_1', 'person_1' ao invés de somente '1')"
 
 #. module: base_import
 #. openerp-web
@@ -1179,10 +1179,10 @@ msgstr "entre as linhas% d e% d"
 #: code:addons/base_import/static/src/xml/import.xml:69
 #, python-format
 msgid ""
-"column in Odoo. When you\n"
+"column in ERP. When you\n"
 "                        import an other record that links to the first\n"
 "                        one, use"
-msgstr "Coluna no Odoo. Quando você\n                        importar outro registro que está ligado com este,\n                        use"
+msgstr "Coluna no ERP. Quando você\n                        importar outro registro que está ligado com este,\n                        use"
 
 #. module: base_import
 #. openerp-web

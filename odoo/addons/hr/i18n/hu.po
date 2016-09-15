@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr
 # 
@@ -7,7 +7,7 @@
 # krnkris, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-15 10:41+0000\n"
 "PO-Revision-Date: 2016-06-06 19:55+0000\n"
@@ -339,8 +339,8 @@ msgstr "Az erőforrás ütemezésének a meghatározása."
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_consultant
-msgid "Deliver generic Odoo functional training sessions"
-msgstr "Nyújtson általános Odoo rendszer gyakorlati oktatási szakaszokat"
+msgid "Deliver generic ERP functional training sessions"
+msgstr "Nyújtson általános ERP rendszer gyakorlati oktatási szakaszokat"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee_department_id
@@ -946,10 +946,10 @@ msgstr "Olvasatlan üzenetek száma"
 #. module: hr
 #: model:ir.actions.act_window,help:hr.open_module_tree_department
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"ERP's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                leaves and holidays, recruitments, etc."
-msgstr " Odoo rendszer osztályfelépítése az összes munkavállaló \n                dokumentumának osztályonkénti kezelésére szolgál: kiadások, \n                időbeosztások, eltávozások és szabadságolások, felvételiztetések, stb."
+msgstr " ERP rendszer osztályfelépítése az összes munkavállaló \n                dokumentumának osztályonkénti kezelésére szolgál: kiadások, \n                időbeosztások, eltávozások és szabadságolások, felvételiztetések, stb."
 
 #. module: hr
 #: model:ir.actions.client,name:hr.action_client_hr_menu
@@ -1351,10 +1351,10 @@ msgstr "Be fog számolni a  Szak Szolgáltatások Vezetőségének"
 #: model:ir.actions.act_window,help:hr.act_employee_from_department
 #: model:ir.actions.act_window,help:hr.open_view_employee_list_my
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the ERP employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
-msgstr "Az Odoo rendszer munkavállalói képernyőn szempillantás alatt\nkönnyen megtalálja az összes személyhez a kívánt információkat; \nkapcsolati adatok, munka pozíció, elérhetőség, stb."
+msgstr "Az ERP rendszer munkavállalói képernyőn szempillantás alatt\nkönnyen megtalálja az összes személyhez a kívánt információkat; \nkapcsolati adatok, munka pozíció, elérhetőség, stb."
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_ceo

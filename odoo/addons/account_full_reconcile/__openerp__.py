@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Full Reconciliation Concept',
@@ -8,7 +8,7 @@
     'description': """
 Add the concept of full reconciliation back into the accounting.
     """,
-    'website': 'https://www.odoo.com/page/accounting',
+    'website': 'https://www.erp.com/page/accounting',
     'depends': ['account'],
     'data': [
         'security/ir.model.access.csv',

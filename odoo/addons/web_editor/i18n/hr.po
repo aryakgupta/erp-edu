@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * web_editor
 # 
@@ -8,7 +8,7 @@
 # Karolina Tonković <karolina.tonkovic@storm.hr>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-29 10:26+0000\n"
 "PO-Revision-Date: 2015-11-24 10:04+0000\n"
@@ -635,8 +635,8 @@ msgstr "Normalni"
 
 #. module: web_editor
 #: model:ir.ui.view,arch_db:web_editor.layout
-msgid "Odoo Editor layout"
-msgstr "Odoo urednik izgleda"
+msgid "ERP Editor layout"
+msgstr "ERP urednik izgleda"
 
 #. module: web_editor
 #. openerp-web

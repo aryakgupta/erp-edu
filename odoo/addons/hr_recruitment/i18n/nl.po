@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_recruitment
 # 
@@ -10,7 +10,7 @@
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:11+0000\n"
 "PO-Revision-Date: 2016-06-13 15:11+0000\n"
@@ -1287,16 +1287,16 @@ msgstr "Aantal ongelezen berichten"
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_applications
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"ERP helps you track applicants in the recruitment\n"
 "                process and follow up all operations: meetings, interviews, etc."
-msgstr "Odoo helpt u bij het werven van sollicitanten en volgt\nalle handelingen op: vergaderingen, interviews, enz."
+msgstr "ERP helpt u bij het werven van sollicitanten en volgt\nalle handelingen op: vergaderingen, interviews, enz."
 
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.crm_case_categ0_act_job
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"ERP helps you track applicants in the recruitment\n"
 "            process and follow up all operations: meetings, interviews, etc."
-msgstr "Odoo helpt u bij het werven van sollicitanten en volgt\nalle handelingen op: vergaderingen, interviews, enz."
+msgstr "ERP helpt u bij het werven van sollicitanten en volgt\nalle handelingen op: vergaderingen, interviews, enz."
 
 #. module: hr_recruitment
 #: model:survey.label,value:hr_recruitment.rrow_2_1_3
@@ -1703,7 +1703,7 @@ msgstr "De datum waarop de sollicitant beschikbaar is om te starten met werken"
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
 msgstr "Het model waar deze alias bijhoort. Iedere inkomende e-mail dat niet bij een bestaande regel hoort zal leiden tot het aanmaken van een nieuwe regel in dit model (Bijv. een project taak)."
@@ -1717,7 +1717,7 @@ msgstr "De naam van de mate van werving moet uniek zijn!"
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
+"<jobs@example.erp.com>"
 msgstr "De naam van de e-mail alias, bijvoorbeeld: 'vacature' indien u alle e-mails van vacature@uwbedrijf.nl wilt afvangen."
 
 #. module: hr_recruitment
@@ -1876,10 +1876,10 @@ msgstr "Wat is je geslacht?"
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_no_employee
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the ERP employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
-msgstr "Met slechts een snelle blik op het Odoo werknemer scherm kan u\ngemakkelijk alle informatie vinden die u nodig heeft voor elke persoon;\ncontact data, job positie, beschikbaarheid, enz."
+msgstr "Met slechts een snelle blik op het ERP werknemer scherm kan u\ngemakkelijk alle informatie vinden die u nodig heeft voor elke persoon;\ncontact data, job positie, beschikbaarheid, enz."
 
 #. module: hr_recruitment
 #: code:addons/hr_recruitment/models/hr_recruitment.py:432

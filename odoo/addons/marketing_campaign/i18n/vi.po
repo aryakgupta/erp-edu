@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * marketing_campaign
 # 
@@ -7,7 +7,7 @@
 # Lan Pham <phamquanglan@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2016-02-23 06:34+0000\n"
@@ -731,10 +731,10 @@ msgstr "Tháng Mười"
 #. module: marketing_campaign
 #: model:ir.actions.act_window,help:marketing_campaign.action_marketing_campaign_form
 msgid ""
-"Odoo's marketing campaign allows you to automate communication\n"
+"ERP's marketing campaign allows you to automate communication\n"
 "            to your prospects. You can define a segment (set of conditions) on\n"
 "            your leads and partners to fullfil the campaign."
-msgstr "Chiến dịch quảng cáo của Odoo cho phép bạn tự động giao tiếp đến những khách hàng tiềm năng của bạn. Bạn có thể định nghĩa một phân vùng (thiết lập các điều kiện) cho những manh mối và những đối tác để hoàn thành chiến dịch này."
+msgstr "Chiến dịch quảng cáo của ERP cho phép bạn tự động giao tiếp đến những khách hàng tiềm năng của bạn. Bạn có thể định nghĩa một phân vùng (thiết lập các điều kiện) cho những manh mối và những đối tác để hoàn thành chiến dịch này."
 
 #. module: marketing_campaign
 #: selection:marketing.campaign.segment,sync_mode:0
@@ -1093,8 +1093,8 @@ msgstr "Biến phí"
 
 #. module: marketing_campaign
 #: model:mail.template,subject:marketing_campaign.email_template_1
-msgid "Welcome to the Odoo Partner Channel!"
-msgstr "Chào mừng tới Kênh Đối tác Odoo!"
+msgid "Welcome to the ERP Partner Channel!"
+msgstr "Chào mừng tới Kênh Đối tác ERP!"
 
 #. module: marketing_campaign
 #: selection:marketing.campaign,mode:0

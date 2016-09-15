@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -19,7 +19,7 @@ This module adds several restaurant features to the Point of Sale:
 
 """,
     'depends': ['point_of_sale'],
-    'website': 'https://www.odoo.com/page/point-of-sale',
+    'website': 'https://www.erp.com/page/point-of-sale',
     'data': [
         'restaurant_view.xml',
         'security/ir.model.access.csv',

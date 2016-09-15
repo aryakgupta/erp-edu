@@ -8,13 +8,13 @@ Building a Module
 
 .. warning::
 
-    This tutorial requires :ref:`having installed Odoo <setup/install>`
+    This tutorial requires :ref:`having installed ERP <setup/install>`
 
-Start/Stop the Odoo server
+Start/Stop the ERP server
 ==========================
 
-Odoo uses a client/server architecture in which clients are web browsers
-accessing the Odoo server via RPC.
+ERP uses a client/server architecture in which clients are web browsers
+accessing the ERP server via RPC.
 
 Business logic and extension is generally performed on the server side,
 although supporting client features (e.g. new data representation such as
@@ -31,27 +31,27 @@ necessary:
 The server is stopped by hitting ``Ctrl-C`` twice from the terminal, or by
 killing the corresponding OS process.
 
-Build an Odoo module
+Build an ERP module
 ====================
 
 Both server and client extensions are packaged as *modules* which are
 optionally loaded in a *database*.
 
-Odoo modules can either add brand new business logic to an Odoo system, or
+ERP modules can either add brand new business logic to an ERP system, or
 alter and extend existing business logic: a module can be created to add your
-country's accounting rules to Odoo's generic accounting support, while the
+country's accounting rules to ERP's generic accounting support, while the
 next module adds support for real-time visualisation of a bus fleet.
 
-Everything in Odoo thus starts and ends with modules.
+Everything in ERP thus starts and ends with modules.
 
 Composition of a module
 -----------------------
 
-An Odoo module can contain a number of elements:
+An ERP module can contain a number of elements:
 
 Business objects
     declared as Python classes, these resources are automatically persisted
-    by Odoo based on their configuration
+    by ERP based on their configuration
 
 Data files
     XML or CSV files declaring metadata (views or workflows), configuration
@@ -76,7 +76,7 @@ option.
     most command-line options can also be set using :ref:`a configuration
     file <reference/cmdline/config>`
 
-An Odoo module is declared by its :ref:`manifest <reference/module/manifest>`.
+An ERP module is declared by its :ref:`manifest <reference/module/manifest>`.
 See the :ref:`manifest documentation <reference/module/manifest>` information
 about it.
 
@@ -90,7 +90,7 @@ might contain::
 
     from . import mymodule
 
-Odoo provides a mechanism to help set up a new module, :ref:`odoo.py
+ERP provides a mechanism to help set up a new module, :ref:`odoo.py
 <reference/cmdline/server>` has a subcommand :ref:`scaffold
 <reference/cmdline/scaffold>` to create an empty module:
 
@@ -105,7 +105,7 @@ or XML. The usage of most of those files will be explained along this tutorial.
 .. exercise:: Module creation
 
     Use the command line above to  create an empty module Open Academy, and
-    install it in Odoo.
+    install it in ERP.
 
     .. only:: solutions
 
@@ -118,7 +118,7 @@ or XML. The usage of most of those files will be explained along this tutorial.
 Object-Relational Mapping
 -------------------------
 
-A key component of Odoo is the :abbr:`ORM (Object-Relational Mapping)` layer.
+A key component of ERP is the :abbr:`ORM (Object-Relational Mapping)` layer.
 This layer avoids having to write most :abbr:`SQL (Structured Query Language)`
 by hand and provides extensibility and security services\ [#rawsql]_.
 
@@ -129,7 +129,7 @@ persistence system.
 Models can be configured by setting a number of attributes at their
 definition. The most important attribute is
 :attr:`~openerp.models.Model._name` which is required and defines the name for
-the model in the Odoo system. Here is a minimally complete definition of a
+the model in the ERP system. Here is a minimally complete definition of a
 model::
 
     from openerp import models
@@ -167,7 +167,7 @@ Some attributes are available on all fields, here are the most common ones:
 :attr:`~openerp.fields.Field.help` (``unicode``, default: ``''``)
     Long-form, provides a help tooltip to users in the UI.
 :attr:`~openerp.fields.Field.index` (``bool``, default: ``False``)
-    Requests that Odoo create a `database index`_ on the column
+    Requests that ERP create a `database index`_ on the column
 
 Simple fields
 #############
@@ -182,7 +182,7 @@ Example of simple fields are :class:`~openerp.fields.Boolean`,
 Reserved fields
 ###############
 
-Odoo creates a few fields in all models\ [#autofields]_. These fields are
+ERP creates a few fields in all models\ [#autofields]_. These fields are
 managed by the system and shouldn't be written to. They can be read if
 useful or necessary:
 
@@ -200,7 +200,7 @@ useful or necessary:
 Special fields
 ##############
 
-By default, Odoo also requires a ``name`` field on all models for various
+By default, ERP also requires a ``name`` field on all models for various
 display and search behaviors. The field used for these purposes can be
 overridden by setting :attr:`~openerp.models.Model._rec_name`.
 
@@ -218,10 +218,10 @@ overridden by setting :attr:`~openerp.models.Model._rec_name`.
 Data files
 ----------
 
-Odoo is a highly data driven system. Although behavior is customized using
+ERP is a highly data driven system. Although behavior is customized using
 Python_ code part of a module's value is in the data it sets up when loaded.
 
-.. tip:: some modules exist solely to add data into Odoo
+.. tip:: some modules exist solely to add data into ERP
     :class: aphorism
 
 Module data is declared via :ref:`data files <reference/data>`, XML files with
@@ -238,7 +238,7 @@ record.
         </data>
     </openerp>
 
-* ``model`` is the name of the Odoo model for the record
+* ``model`` is the name of the ERP model for the record
 * ``id`` is an :term:`external identifier`, it allows referring to the record
   (without having to know its in-database identifier)
 * ``<field>`` elements have a ``name`` which is the name of the field in the
@@ -455,7 +455,7 @@ composed of fields defining which fields can be searched on:
         <field name="inventor_id"/>
     </search>
 
-If no search view exists for the model, Odoo generates one which only allows
+If no search view exists for the model, ERP generates one which only allows
 searching on the ``name`` field.
 
 .. exercise:: Search courses
@@ -583,7 +583,7 @@ Inheritance
 Model inheritance
 -----------------
 
-Odoo provides two *inheritance* mechanisms to extend an existing model in a
+ERP provides two *inheritance* mechanisms to extend an existing model in a
 modular way.
 
 The first inheritance mechanism allows a module to modify the behavior of a
@@ -610,7 +610,7 @@ fields of the parent record.
 View inheritance
 ----------------
 
-Instead of modifying existing views in place (by overwriting them), Odoo
+Instead of modifying existing views in place (by overwriting them), ERP
 provides view inheritance where children "extension" views are applied on top of
 root views, and can add or remove content from their parent.
 
@@ -693,7 +693,7 @@ instead of a single view its ``arch`` field is composed of any number of
 Domains
 #######
 
-In Odoo, :ref:`reference/orm/domains` are values that encode conditions on
+In ERP, :ref:`reference/orm/domains` are values that encode conditions on
 records. A domain is a  list of criteria used to select a subset of a model's
 records. Each criteria is a triple with a field name, an operator and a value.
 
@@ -859,7 +859,7 @@ float, string), or a function taking a recordset and returning a value::
 
         .. note::
 
-            Odoo has built-in rules making fields with an ``active`` field set
+            ERP has built-in rules making fields with an ``active`` field set
             to ``False`` invisible.
 
 Onchange
@@ -914,7 +914,7 @@ the ``taken_seats`` progressbar is automatically updated.
 Model constraints
 =================
 
-Odoo provides two ways to set up automatically verified invariants:
+ERP provides two ways to set up automatically verified invariants:
 :func:`Python constraints <openerp.api.constrains>` and
 :attr:`SQL constraints <openerp.models.Model._sql_constraints>`.
 
@@ -1260,7 +1260,7 @@ Workflows are also used to track processes that evolve over time.
 
         .. patch::
 
-Workflows may be associated with any object in Odoo, and are entirely
+Workflows may be associated with any object in ERP, and are entirely
 customizable. Workflows are used to structure and manage the lifecycles of
 business objects and documents, and define transitions, triggers, etc. with
 graphical tools. Workflows, activities (nodes or actions) and transitions
@@ -1511,15 +1511,15 @@ Internationalization
 Each module can provide its own translations within the i18n directory, by
 having files named LANG.po where LANG is the locale code for the language, or
 the language and country combination when they differ (e.g. pt.po or
-pt_BR.po). Translations will be loaded automatically by Odoo for all
+pt_BR.po). Translations will be loaded automatically by ERP for all
 enabled languages. Developers always use English when creating a module, then
-export the module terms using Odoo's gettext POT export feature
+export the module terms using ERP's gettext POT export feature
 (:menuselection:`Settings --> Translations --> Import/Export --> Export
 Translation` without specifying a language), to create the module template POT
 file, and then derive the translated PO files. Many IDE's have plugins or modes
 for editing and merging PO/POT files.
 
-.. tip:: The Portable Object files generated by Odoo are published on
+.. tip:: The Portable Object files generated by ERP are published on
          `Transifex <https://www.transifex.com/odoo/public/>`__, making it
          easy to translate the software.
 
@@ -1527,22 +1527,22 @@ for editing and merging PO/POT files.
 
    |- idea/ # The module directory
       |- i18n/ # Translation files
-         | - idea.pot # Translation Template (exported from Odoo)
+         | - idea.pot # Translation Template (exported from ERP)
          | - fr.po # French translation
          | - pt_BR.po # Brazilian Portuguese translation
          | (...)
 
 .. tip:: 
 
-   By default Odoo's POT export only extracts labels inside XML files or
+   By default ERP's POT export only extracts labels inside XML files or
    inside field definitions in Python code, but any Python string can be
    translated this way by surrounding it with the function :func:`openerp._`
    (e.g. ``_("Label")``)
 
 .. exercise:: Translate a module
 
-   Choose a second language for your Odoo installation. Translate your
-   module using the facilities provided by Odoo.
+   Choose a second language for your ERP installation. Translate your
+   module using the facilities provided by ERP.
 
    .. only:: solutions
 
@@ -1580,7 +1580,7 @@ Reporting
 Printed reports
 ---------------
 
-Odoo 8.0 comes with a new report engine based on :ref:`reference/qweb`,
+ERP 8.0 comes with a new report engine based on :ref:`reference/qweb`,
 `Twitter Bootstrap`_ and Wkhtmltopdf_. 
 
 A report is a combination two elements:
@@ -1704,13 +1704,13 @@ Business objects can also be accessed via the distributed object
 mechanism. They can all be modified via the client interface with contextual
 views.
 
-Odoo is accessible through XML-RPC/JSON-RPC interfaces, for which libraries
+ERP is accessible through XML-RPC/JSON-RPC interfaces, for which libraries
 exist in many languages.
 
 XML-RPC Library
 ---------------
 
-The following example is a Python program that interacts with an Odoo
+The following example is a Python program that interacts with an ERP
 server with the library ``xmlrpclib``::
 
    import xmlrpclib
@@ -1732,7 +1732,7 @@ server with the library ``xmlrpclib``::
 .. exercise:: Add a new service to the client
 
    Write a Python program able to send XML-RPC requests to a PC running
-   Odoo (yours, or your instructor's). This program should display all
+   ERP (yours, or your instructor's). This program should display all
    the sessions, and their corresponding number of seats. It should also
    create a new session for one of the courses.
 
@@ -1780,7 +1780,7 @@ server with the library ``xmlrpclib``::
 JSON-RPC Library
 ----------------
 
-The following example is a Python program that interacts with an Odoo server
+The following example is a Python program that interacts with an ERP server
 with the standard Python libraries ``urllib2`` and ``json``::
 
     import json
@@ -1846,7 +1846,7 @@ Examples can be easily adapted from XML-RPC to JSON-RPC.
 
 .. note::
 
-    There are a number of high-level APIs in various languages to access Odoo
+    There are a number of high-level APIs in various languages to access ERP
     systems without *explicitly* going through XML-RPC or JSON-RPC, such as:
 
     * https://github.com/akretion/ooor
@@ -1858,7 +1858,7 @@ Examples can be easily adapted from XML-RPC to JSON-RPC.
 .. [#autofields] it is possible to :attr:`disable the automatic creation of some
                  fields <openerp.models.Model._log_access>`
 .. [#rawsql] writing raw SQL queries is possible, but requires care as it
-             bypasses all Odoo authentication and security mechanisms.
+             bypasses all ERP authentication and security mechanisms.
 
 .. _database index:
     http://use-the-index-luke.com/sql/preface

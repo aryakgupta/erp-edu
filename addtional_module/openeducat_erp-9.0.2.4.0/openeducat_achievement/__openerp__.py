@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 ###############################################################################
 #
-#    Tech-Receptives Solutions Pvt. Ltd.
-#    Copyright (C) 2009-TODAY Tech-Receptives(<http://www.techreceptives.com>).
+#    ERP Solutions Pvt. Ltd.
+#    Copyright (C) 2009-TODAY ERP(<http://www.techreceptives.com>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Lesser General Public License as
@@ -20,7 +20,7 @@
 ###############################################################################
 
 {
-    'name': 'OpenEduCat Achievement',
+    'name': 'ERP Achievement',
     'version': '2.4.0',
     'category': 'Openerp Education',
     "sequence": 3,
@@ -29,8 +29,8 @@
     'description': """
         This module adds the feature of achievement in Openeducat
     """,
-    'author': 'Tech Receptives',
-    'website': 'http://www.openeducat.org',
+    'author': 'ERP',
+    'website': 'http://www.erp.com',
     'depends': ['openeducat_core'],
     'data': [
         'views/achievement_view.xml',

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * web
 # 
@@ -6,7 +6,7 @@
 # Kris Krnacs, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-18 04:43+0000\n"
 "PO-Revision-Date: 2016-02-22 19:08+0000\n"
@@ -231,8 +231,8 @@ msgstr "<span class=\"oe_logo_edit\">Vállalat adatainak szerkesztése</span>"
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.menu_secondary
-msgid "<span>Odoo</span>"
-msgstr "<span>Odoo</span>"
+msgid "<span>ERP</span>"
+msgstr "<span>ERP</span>"
 
 #. module: web
 #. openerp-web
@@ -580,8 +580,8 @@ msgstr "Összefüggés:"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:116
 #, python-format
-msgid "Copyright © 2004-2015 Odoo S.A."
-msgstr "Copyright © 2004-2015 Odoo S.A."
+msgid "Copyright © 2004-2015 ERP S.A."
+msgstr "Copyright © 2004-2015 ERP S.A."
 
 #. module: web
 #. openerp-web
@@ -1062,8 +1062,8 @@ msgstr "GNU Lesser General Public Licensz"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1500
 #, python-format
-msgid "Get this feature and much more with Odoo Enterprise!"
-msgstr "Kapja meg ezt a jellemzőt és még többet az Odoo Nagyvállalati rendszerrel!"
+msgid "Get this feature and much more with ERP Enterprise!"
+msgstr "Kapja meg ezt a jellemzőt és még többet az ERP Nagyvállalati rendszerrel!"
 
 #. module: web
 #. openerp-web
@@ -1394,8 +1394,8 @@ msgstr "Mozgassa az egerét ide a beillesztő blokk megnyitásához"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:83
 #, python-format
-msgid "My Odoo.com account"
-msgstr "Az Odoo.com fiókom"
+msgid "My ERP.com account"
+msgstr "Az ERP.com fiókom"
 
 #. module: web
 #. openerp-web
@@ -1553,55 +1553,55 @@ msgstr "Objektum:"
 #: code:addons/web/static/src/js/framework/dialog.js:36
 #: model:ir.ui.view,arch_db:web.layout
 #, python-format
-msgid "Odoo"
-msgstr "Odoo"
+msgid "ERP"
+msgstr "ERP"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:101
 #, python-format
-msgid "Odoo (Formerly OpenERP)"
-msgstr "Odoo (régebben mint OpenERP)"
+msgid "ERP (Formerly OpenERP)"
+msgstr "ERP (régebben mint OpenERP)"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/apps.js:189
 #, python-format
-msgid "Odoo Apps will be available soon"
-msgstr "Az Odoo alkalmazások rövidesen elérhetők lesznek"
+msgid "ERP Apps will be available soon"
+msgstr "Az ERP alkalmazások rövidesen elérhetők lesznek"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/views/form_widgets.js:1675
 #, python-format
-msgid "Odoo Enterprise"
-msgstr "Odoo vállalati"
+msgid "ERP Enterprise"
+msgstr "ERP vállalati"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:117
 #, python-format
-msgid "Odoo S.A."
-msgstr "Odoo S.A."
+msgid "ERP S.A."
+msgstr "ERP S.A."
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.qunit_suite
-msgid "Odoo Web Tests"
-msgstr "Odoo Web Teszt"
+msgid "ERP Web Tests"
+msgstr "ERP Web Teszt"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:117
 #, python-format
-msgid "Odoo is a trademark of"
-msgstr "Odoo a védjegye ennek"
+msgid "ERP is a trademark of"
+msgstr "ERP a védjegye ennek"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:119
 #, python-format
-msgid "Odoo.com"
-msgstr "Odoo.com"
+msgid "ERP.com"
+msgstr "ERP.com"
 
 #. module: web
 #. openerp-web
@@ -1753,8 +1753,8 @@ msgstr "Támogatja"
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
-msgstr "Támogatja az <span>Odoo</span>"
+msgid "Powered by <span>ERP</span>"
+msgstr "Támogatja az <span>ERP</span>"
 
 #. module: web
 #. openerp-web
@@ -2197,8 +2197,8 @@ msgstr "Ez a varázsló exportálja az aktuális keresési feltételeknek megfel
 #, python-format
 msgid ""
 "Timezone Mismatch : The timezone of your browser doesn't match the selected "
-"one. The time in Odoo is displayed according to your field timezone."
-msgstr "Nem egyező időzóna : A böngésző időzónája nem egyezik a kiválasztottal. Az Odoo rendszeridő kijelzése a mező időzónája szerint kerül kijelzésre."
+"one. The time in ERP is displayed according to your field timezone."
+msgstr "Nem egyező időzóna : A böngésző időzónája nem egyezik a kiválasztottal. Az ERP rendszeridő kijelzése a mező időzónája szerint kerül kijelzésre."
 
 #. module: web
 #. openerp-web
@@ -2525,8 +2525,8 @@ msgstr "Legalább egy a rekordot válasszon ki."
 #. openerp-web
 #: code:addons/web/static/src/js/framework/crash_manager.js:69
 #, python-format
-msgid "Your Odoo session expired. Please refresh the current web page."
-msgstr "Az Odoo rendszer munkafázisa letelt. Kérem frissítse a jelenlegi weboldalt."
+msgid "Your ERP session expired. Please refresh the current web page."
+msgstr "Az ERP rendszer munkafázisa letelt. Kérem frissítse a jelenlegi weboldalt."
 
 #. module: web
 #. openerp-web

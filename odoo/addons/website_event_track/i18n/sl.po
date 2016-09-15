@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_event_track
 # 
@@ -6,7 +6,7 @@
 # Dejan Sraka <dejan.sraka@picolabs.si>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:12+0000\n"
 "PO-Revision-Date: 2016-03-27 21:09+0000\n"
@@ -69,9 +69,9 @@ msgstr ""
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track7
 msgid ""
-"A technical explanation of Odoo as a CMS and a eCommerce platform for "
+"A technical explanation of ERP as a CMS and a eCommerce platform for "
 "version 8."
-msgstr "Tehnična razlaga Odoo kot CMS in eCommerce platforme za verzijo 8"
+msgstr "Tehnična razlaga ERP kot CMS in eCommerce platforme za verzijo 8"
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.track_view
@@ -85,8 +85,8 @@ msgstr "Potreben je ukrep"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track19
-msgid "Advanced lead management with Odoo: tips and tricks from the fields"
-msgstr "Napredno upravljanje indicev z Odoo: namigi in triki iz terena"
+msgid "Advanced lead management with ERP: tips and tricks from the fields"
+msgstr "Napredno upravljanje indicev z ERP: namigi in triki iz terena"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track13
@@ -199,13 +199,13 @@ msgstr "Podrobna karta novih računovodskih modulov in izboljšav v verziji 8."
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track8
 msgid ""
-"Discover Odoo CRM: How to optimize your sales, from leads to sales orders."
-msgstr "Odkrijte Odoo CRM: kako optimizirati prodajo, od indicev do prodajnih nalogov"
+"Discover ERP CRM: How to optimize your sales, from leads to sales orders."
+msgstr "Odkrijte ERP CRM: kako optimizirati prodajo, od indicev do prodajnih nalogov"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track11
-msgid "Discover Odoo Point-of-Sale: Your shop ready to use in 30 minutes."
-msgstr "Odkrijte Odoo prodajno točko: uporabna trgovina v 30 minutah."
+msgid "Discover ERP Point-of-Sale: Your shop ready to use in 30 minutes."
+msgstr "Odkrijte ERP prodajno točko: uporabna trgovina v 30 minutah."
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_sponsor_display_name
@@ -349,8 +349,8 @@ msgstr "Najvišja"
 #: model:event.track,name:website_event_track.event_track18
 msgid ""
 "How to build your marketing strategy for the purpose of generating leads "
-"with Odoo."
-msgstr "Kako zgraditi marketinško strategijo za namene ustvarjanja indicev z Odoo."
+"with ERP."
+msgstr "Kako zgraditi marketinško strategijo za namene ustvarjanja indicev z ERP."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track1
@@ -359,8 +359,8 @@ msgstr "Kako se razvije modul spletne strani."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track4
-msgid "How to develop automated tests in the Odoo web client."
-msgstr "Kako razviti samodejna testiranja z Odoo spletnim odjemalcem."
+msgid "How to develop automated tests in the ERP web client."
+msgstr "Kako razviti samodejna testiranja z ERP spletnim odjemalcem."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track3
@@ -369,15 +369,15 @@ msgstr ""
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track2
-msgid "How to integrate hardware materials with the Odoo point of sale."
-msgstr "Kako integrirati strojno opremo v Odoo prodajno točko."
+msgid "How to integrate hardware materials with the ERP point of sale."
+msgstr "Kako integrirati strojno opremo v ERP prodajno točko."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track9
 msgid ""
-"How to use Odoo for your HR process: recruitment, leaves management, "
+"How to use ERP for your HR process: recruitment, leaves management, "
 "appraisals, expenses, etc."
-msgstr "Kako uporabljati Odoo za kadrovske procese: zaposlovanje, upravljanje odsotnosti, ocenjevanja, stroški, ipd."
+msgstr "Kako uporabljati ERP za kadrovske procese: zaposlovanje, upravljanje odsotnosti, ocenjevanja, stroški, ipd."
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_sponsor_id
@@ -415,8 +415,8 @@ msgstr "Je sledilec"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track23
-msgid "Key Success factors selling Odoo."
-msgstr "Ključni dejavniki uspeha pri prodaji Odoo."
+msgid "Key Success factors selling ERP."
+msgstr "Ključni dejavniki uspeha pri prodaji ERP."
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track_message_last_post
@@ -483,8 +483,8 @@ msgstr "Upravljanje ključnih indikatorjev storilnosti (priporočeno za openERP 
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track12
-msgid "Manage your events with Odoo, the new training modules."
-msgstr "Upravljanje dogodkov z Odoo, novi moduli za izobraževanja."
+msgid "Manage your events with ERP, the new training modules."
+msgstr "Upravljanje dogodkov z ERP, novi moduli za izobraževanja."
 
 #. module: website_event_track
 #: selection:event.track,priority:0
@@ -584,23 +584,23 @@ msgstr "Število neprebranih sporočil"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track15
-msgid "Odoo Mobile for Notes, Meetings and Messages."
-msgstr "Odoo Mobile za opombe, sestanke in sporočila."
+msgid "ERP Mobile for Notes, Meetings and Messages."
+msgstr "ERP Mobile za opombe, sestanke in sporočila."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track28
-msgid "Odoo Status & Strategy 2014"
-msgstr "Odoo status in strategija 2014"
+msgid "ERP Status & Strategy 2014"
+msgstr "ERP status in strategija 2014"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track16
-msgid "Odoo as your Enterprise Social Network."
-msgstr "Odoo kot podjetniško socialno omrežje."
+msgid "ERP as your Enterprise Social Network."
+msgstr "ERP kot podjetniško socialno omrežje."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track27
-msgid "Odoo in 2014"
-msgstr "Odoo v 2014"
+msgid "ERP in 2014"
+msgstr "ERP v 2014"
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.event_sponsor
@@ -685,8 +685,8 @@ msgstr "Zbiranje kvalitativnih vpogledov z aplikacijo za ankete"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track21
-msgid "Recruiting high skilled talents with Odoo HR apps"
-msgstr "Novačenje visoko kvalificiranih talentov z Odoo kadrovskimi aplikacijami"
+msgid "Recruiting high skilled talents with ERP HR apps"
+msgstr "Novačenje visoko kvalificiranih talentov z ERP kadrovskimi aplikacijami"
 
 #. module: website_event_track
 #: selection:event.track,state:0
@@ -849,8 +849,8 @@ msgstr "Hvala za vaš predlog."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track17
-msgid "The Art of Making an Odoo Demo."
-msgstr "Umetnost priprave Odoo predstavitvenih programov."
+msgid "The Art of Making an ERP Demo."
+msgstr "Umetnost priprave ERP predstavitvenih programov."
 
 #. module: website_event_track
 #: model:ir.model.fields,help:website_event_track.field_event_track_website_url
@@ -865,8 +865,8 @@ msgstr "Nova marketinška strategija"
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track5
 msgid ""
-"The new way to promote your modules in the Apps platform and Odoo website."
-msgstr "Načini promocije lastnih modulov na aplikacijski platformi Odoo spletne strani."
+"The new way to promote your modules in the Apps platform and ERP website."
+msgstr "Načini promocije lastnih modulov na aplikacijski platformi ERP spletne strani."
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.event_track_proposal

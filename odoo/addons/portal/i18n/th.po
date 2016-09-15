@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * portal
 # 
@@ -6,7 +6,7 @@
 # Khwunchai Jaengsawang <khwunchai.j@ku.th>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:41+0000\n"
 "PO-Revision-Date: 2016-05-30 04:09+0000\n"
@@ -50,8 +50,8 @@ msgid ""
 "                \t${object.wizard_id.welcome_message or ''}\n"
 "                </p>\n"
 "                <p>---<br />\n"
-"                    Odoo - Open Source Business Applications<br />\n"
-"                    http://www.odoo.com<br />\n"
+"                    ERP - Open Source Business Applications<br />\n"
+"                    http://www.erp.com<br />\n"
 "                </p>\n"
 "            \n"
 "            "
@@ -262,5 +262,5 @@ msgstr ""
 
 #. module: portal
 #: model:mail.template,subject:portal.mail_template_data_portal_welcome
-msgid "Your Odoo account at ${user.company_id.name|safe}"
+msgid "Your ERP account at ${user.company_id.name|safe}"
 msgstr ""

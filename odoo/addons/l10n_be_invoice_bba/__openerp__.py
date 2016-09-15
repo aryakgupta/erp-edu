@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 # Copyright (c) 2011 Noviat nv/sa (www.noviat.be). All rights reserved.
 
@@ -7,7 +7,7 @@
     'name': 'Belgium - Structured Communication',
     'version': '1.2',
     'author': 'Noviat',
-    'website': 'https://www.odoo.com/page/accounting',
+    'website': 'https://www.erp.com/page/accounting',
     'category': 'Localization',
     'description': """
     

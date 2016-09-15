@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * stock
 # 
@@ -9,7 +9,7 @@
 # Marko Carević <marko.carevic@live.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-13 09:40+0000\n"
 "PO-Revision-Date: 2016-06-21 08:53+0000\n"
@@ -162,8 +162,8 @@ msgstr ", ako su Računovodstvo ili Nabava instalirani"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "- The Odoo Team"
-msgstr "- Odoo tim"
+msgid "- The ERP Team"
+msgstr "- ERP tim"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -429,8 +429,8 @@ msgstr "<strong>Odredište</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "<strong>Enjoy your Inventory management with Odoo!</strong>"
-msgstr "<strong>Uživajte u Inventurama sa Odoo!</strong>"
+msgid "<strong>Enjoy your Inventory management with ERP!</strong>"
+msgstr "<strong>Uživajte u Inventurama sa ERP!</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -972,15 +972,15 @@ msgstr "Po jedinstvenom serijskom broju"
 #, python-format
 msgid ""
 "By changing this quantity here, you accept the new quantity as complete: "
-"Odoo will not automatically generate a back order."
+"ERP will not automatically generate a back order."
 msgstr ""
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"By default, Odoo measures products by 'units', which are generic and "
+"By default, ERP measures products by 'units', which are generic and "
 "represent just about anything"
-msgstr "Po zadanoj postavci, Odoo mjeri artikle po jedinicama, koje su općenite i predstavljaju bilošto"
+msgstr "Po zadanoj postavci, ERP mjeri artikle po jedinicama, koje su općenite i predstavljaju bilošto"
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_move_procure_method
@@ -1669,7 +1669,7 @@ msgstr ""
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
 "Define your locations to reflect your warehouse structure and\n"
-"                organization. Odoo is able to manage physical locations\n"
+"                organization. ERP is able to manage physical locations\n"
 "                (warehouses, shelves, bin, etc), partner locations (customers,\n"
 "                vendors) and virtual locations which are the counterpart of\n"
 "                the stock operations like the manufacturing orders\n"
@@ -1984,9 +1984,9 @@ msgstr "Europski kupci"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
-"Every stock operation in Odoo moves the products from one\n"
+"Every stock operation in ERP moves the products from one\n"
 "                location to another one.  For instance, if you receive products\n"
-"                from a vendor, Odoo will move products from the Vendor\n"
+"                from a vendor, ERP will move products from the Vendor\n"
 "                location to the Stock location. Each report can be performed on\n"
 "                physical, partner or virtual locations."
 msgstr ""
@@ -2075,9 +2075,9 @@ msgstr "Pratitelji (Partneri)"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the ERP Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
-msgstr "Za Odoo tim,<br/>\nFabien Pinckaers, Osnivač"
+msgstr "Za ERP tim,<br/>\nFabien Pinckaers, Osnivač"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.view_picking_form
@@ -2482,7 +2482,7 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"If you configured automatic procurement, Odoo automatically generates\n"
+"If you configured automatic procurement, ERP automatically generates\n"
 "                        Procurements Orders. You usually don't need to worry about them, but\n"
 "                        sometimes the system can remain blocked without generating a\n"
 "                        corresponding document, usually due to a configuration problem."
@@ -2534,8 +2534,8 @@ msgstr "Uvezite koristeći lijevi gumb na vrhu"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"In Odoo, <strong>Reordering Rules</strong> are used to replenish your products.\n"
-"                        Odoo will automatically propose a procurement to buy new products if you are\n"
+"In ERP, <strong>Reordering Rules</strong> are used to replenish your products.\n"
+"                        ERP will automatically propose a procurement to buy new products if you are\n"
 "                        running out of stock."
 msgstr ""
 
@@ -2879,7 +2879,7 @@ msgstr "Je lokacija otpisa?"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "It is also possible to import your initial inventory from an Excel or CSV file.\n"
-"                        If you want to do that, contact your Odoo project manager."
+"                        If you want to do that, contact your ERP project manager."
 msgstr ""
 
 #. module: stock
@@ -3071,7 +3071,7 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Like with the sales flow, Odoo inventory management is\n"
+"Like with the sales flow, ERP inventory management is\n"
 "                        fully integrated with the purchase app."
 msgstr ""
 
@@ -3424,7 +3424,7 @@ msgstr "Više <i class=\"fa fa-caret-down\"/>"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_picking_tree
 msgid ""
-"Most operations are prepared automatically by Odoo according\n"
+"Most operations are prepared automatically by ERP according\n"
 "                to your preconfigured logistics rules, but you can also record\n"
 "                manual stock movements."
 msgstr ""
@@ -3698,19 +3698,19 @@ msgstr "U redu"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo handles <strong>advanced push/pull routes configuration</strong>, for "
+"ERP handles <strong>advanced push/pull routes configuration</strong>, for "
 "example:"
 msgstr ""
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "Odoo has preconfigured <strong>one Warehouse</strong> for you."
+msgid "ERP has preconfigured <strong>one Warehouse</strong> for you."
 msgstr ""
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo inventory management is fully integrated with sales and\n"
+"ERP inventory management is fully integrated with sales and\n"
 "                        invoicing process. Everything is automated from the initial\n"
 "                        quotation to the delivery and the final invoice."
 msgstr ""
@@ -3718,14 +3718,14 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo is able to run advanced traceability by using Product Lots and Serial\n"
+"ERP is able to run advanced traceability by using Product Lots and Serial\n"
 "                        Numbers, usually identified by bar codes stuck on the products."
 msgstr ""
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Of course, feel free to add your own. Please note that Odoo is able to "
+"Of course, feel free to add your own. Please note that ERP is able to "
 "convert units within the same category, for example, liters to gallons in "
 "the volume category"
 msgstr ""
@@ -5858,7 +5858,7 @@ msgstr ""
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"This guide helps getting started with Odoo Inventory.\n"
+"This guide helps getting started with ERP Inventory.\n"
 "                        Once you are done, you will benefit from:"
 msgstr ""
 
@@ -6515,7 +6515,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
 msgstr ""
@@ -6524,14 +6524,14 @@ msgstr ""
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
 msgstr ""
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "We hope this guide helped you implement Odoo Inventory."
+msgid "We hope this guide helped you implement ERP Inventory."
 msgstr ""
 
 #. module: stock
@@ -6589,14 +6589,14 @@ msgstr ""
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_min_qty
 msgid ""
 "When the virtual stock goes below the Min Quantity specified for this field,"
-" Odoo generates a procurement to bring the forecasted quantity to the Max "
+" ERP generates a procurement to bring the forecasted quantity to the Max "
 "Quantity."
 msgstr ""
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_max_qty
 msgid ""
-"When the virtual stock goes below the Min Quantity, Odoo generates a "
+"When the virtual stock goes below the Min Quantity, ERP generates a "
 "procurement to bring the forecasted quantity to the Quantity specified as "
 "Max Quantity."
 msgstr ""
@@ -6638,13 +6638,13 @@ msgstr ""
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_orderpoint_form
 msgid ""
-"You can define your minimum stock rules, so that Odoo will automatically "
+"You can define your minimum stock rules, so that ERP will automatically "
 "create draft manufacturing orders or request for quotations according to the"
 " stock level. Once the virtual stock of a product (= stock on hand minus all"
-" confirmed orders and reservations) is below the minimum quantity, Odoo will"
+" confirmed orders and reservations) is below the minimum quantity, ERP will"
 " generate a procurement request to increase the stock up to the maximum "
 "quantity."
-msgstr "Možete definirati pravila minimalnih zaliha, kako bi Odoo automatski kreirao nacrt proizvodnog naloga ili zahtjev za ponudom sukladno količini na zalihi. Kada jednom virtualna zaliha proizvoda (= dostupna zaliha minus svi potvrđeni nalozi i rezervacije) padne ispod minimalne količine, Odoo će generirati zahtjev za nabavkom kako bi se povećala zaliha na maksimalnu količinu."
+msgstr "Možete definirati pravila minimalnih zaliha, kako bi ERP automatski kreirao nacrt proizvodnog naloga ili zahtjev za ponudom sukladno količini na zalihi. Kada jednom virtualna zaliha proizvoda (= dostupna zaliha minus svi potvrđeni nalozi i rezervacije) padne ispod minimalne količine, ERP će generirati zahtjev za nabavkom kako bi se povećala zaliha na maksimalnu količinu."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.view_inventory_form
@@ -6791,8 +6791,8 @@ msgstr "Morate odabrati jedinicu mjere proizvoda u istoj kategoriji kao i zadana
 #: model:ir.ui.view,arch_db:stock.view_immediate_transfer
 msgid ""
 "You haven't set processed quantities. If you click <i>apply</i>,\n"
-"                        Odoo will process all quantities to do."
-msgstr "Niste postavili obrađene količine. Ako kliknete <i> primjeni </i>, \nOdoo će obraditi sve količine."
+"                        ERP will process all quantities to do."
+msgstr "Niste postavili obrađene količine. Ako kliknete <i> primjeni </i>, \nERP će obraditi sve količine."
 
 #. module: stock
 #: code:addons/stock/wizard/stock_return_picking.py:48
@@ -6910,20 +6910,20 @@ msgstr "npr. PO0032"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or let "
-"Odoo do it automatically while validating"
+"ERP do it automatically while validating"
 msgstr ""
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or scan "
-"them with the Odoo Barcode app, or let Odoo do it automatically while "
+"them with the ERP Barcode app, or let ERP do it automatically while "
 "validating"
 msgstr ""
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "feedback@mail.odoo.com"
+msgid "feedback@mail.erp.com"
 msgstr ""
 
 #. module: stock

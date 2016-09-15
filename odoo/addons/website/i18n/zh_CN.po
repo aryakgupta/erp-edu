@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website
 # 
@@ -14,7 +14,7 @@
 # liAnGjiA <liangjia@qq.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-06-26 00:47+0000\n"
@@ -76,8 +76,8 @@ msgstr ", 更新:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
-msgid "- The Odoo Team"
-msgstr "- Odoo团队"
+msgid "- The ERP Team"
+msgstr "- ERP团队"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sitemap_index_xml
@@ -472,9 +472,9 @@ msgstr "<STRONG>1。你的主菜单项</STRONG>和2.您的二级菜单项(可选
 msgid ""
 "<strong>2. Create the page variation</strong><br/>\n"
 "                                Once you're clear on the measurable objective, the page and the variable\n"
-"                                you want to test, duplicate the page in Odoo using the <strong>'Versions'</strong>\n"
+"                                you want to test, duplicate the page in ERP using the <strong>'Versions'</strong>\n"
 "                                menu and apply the modification you decided."
-msgstr "<STRONG>2。创建网页版本</STRONG><BR/>一旦你清楚的衡量的目标，你想要测试的网页和变量，使用的Odoo里<strong>“版本”</strong>菜单复制网页并应用你决定的修改。"
+msgstr "<STRONG>2。创建网页版本</STRONG><BR/>一旦你清楚的衡量的目标，你想要测试的网页和变量，使用的ERP里<strong>“版本”</strong>菜单复制网页并应用你决定的修改。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -498,8 +498,8 @@ msgstr "<STRONG>4。在谷歌分析账户创建广告系列</STRONG><BR/>只需�
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_button
-msgid "<strong>50,000+ companies run Odoo to grow their businesses.</strong>"
-msgstr "<STRONG>50000+ 公司使用Odoo发展其业务。</STRONG>"
+msgid "<strong>50,000+ companies run ERP to grow their businesses.</strong>"
+msgstr "<STRONG>50000+ 公司使用ERP发展其业务。</STRONG>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -535,9 +535,9 @@ msgstr "<STRONG>广告来获得的第一个游客</STRONG><BR/>如果你有一�
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"<strong>Be announced on the Odoo Twitter account</strong><br/>\n"
-"                                We like to hear from people using Odoo to build their website. Tweet us"
-msgstr "<STRONG>发布Odoo Twitter帐户</STRONG><BR/>我们喜欢听到人们使用Odoo建立自己的网站。通过Twitter联系我们"
+"<strong>Be announced on the ERP Twitter account</strong><br/>\n"
+"                                We like to hear from people using ERP to build their website. Tweet us"
+msgstr "<STRONG>发布ERP Twitter帐户</STRONG><BR/>我们喜欢听到人们使用ERP建立自己的网站。通过Twitter联系我们"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1077,8 +1077,8 @@ msgstr "背景图"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_banner
-msgid "Banner Odoo Image"
-msgstr "Odoo横幅图像"
+msgid "Banner ERP Image"
+msgstr "ERP横幅图像"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -1607,8 +1607,8 @@ msgstr "放弃"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image_floating
-msgid "Discover more about Odoo"
-msgstr "发现更多关于Odoo的信息"
+msgid "Discover more about ERP"
+msgstr "发现更多关于ERP的信息"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.template_partner_comment
@@ -1918,15 +1918,15 @@ msgid ""
 "For example, you'll want your company name, your country/city and a few\n"
 "                                    words describing your business in your homepage title so that potential\n"
 "                                    customers near your location will find your website easily.\n"
-"                                    WIth Odoo, this can be done easily by using the Promote menu."
-msgstr "例如，你希望你的公司名称，所在国家/城市的几句话来描述你的网页标题您的业务，使您的位置附近的潜在客户会方便地找到您的网站.使用Odoo，这可以很容易地通过推广菜单做到。"
+"                                    WIth ERP, this can be done easily by using the Promote menu."
+msgstr "例如，你希望你的公司名称，所在国家/城市的几句话来描述你的网页标题您的业务，使您的位置附近的潜在客户会方便地找到您的网站.使用ERP，这可以很容易地通过推广菜单做到。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the ERP Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
-msgstr "关于Odoo团队,<br/>\n                            Fabien Pinckaers, 创始人"
+msgstr "关于ERP团队,<br/>\n                            Fabien Pinckaers, 创始人"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_config_settings_module_website_form_editor
@@ -2159,8 +2159,8 @@ msgstr "如果对这些3个问题回答是肯定的，然后继续用些关键�
 msgid ""
 "If you have a lot of pages in your website, you can create a small top-menu to focus\n"
 "                            on the main six pages and make all secondary pages accessible from a footer. You can\n"
-"                            have a look at the Odoo.com website, it's a great example of this type of structure."
-msgstr "如果你有大量的页面在你的网站，你可以创建一个小型顶部菜单把重点放在主要的六页，使所有二级页面的从页脚访问。你可以看一下Odoo.com的网站，它的这种类型的结构的一个很好的例子。"
+"                            have a look at the ERP.com website, it's a great example of this type of structure."
+msgstr "如果你有大量的页面在你的网站，你可以创建一个小型顶部菜单把重点放在主要的六页，使所有二级页面的从页脚访问。你可以看一下ERP.com的网站，它的这种类型的结构的一个很好的例子。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2188,11 +2188,11 @@ msgid ""
 "                        of the company anymore. With our newest apps, such\n"
 "                        as Website Builder, PoS or eCommerce, we have\n"
 "                        moved beyond the ERP territory. <br/>\n"
-"                        But <u>don't worry</u>, <b>Odoo</b> is and always will be\n"
+"                        But <u>don't worry</u>, <b>ERP</b> is and always will be\n"
 "                        fully open source. You can read more about the new name here.\n"
 "                        We have also prepared a short FAQ to explain all these changes\n"
 "                        to all of you. <br/>"
-msgstr "如果你还是对我们所有的昨天的公告觉得有点疑惑，这里有一个小小的总结。我们决定改名字，因为OpenERP没有反映出公司的产品了。随着我们最新的应用程序，如网站制作，销售点或电子商务，我们已经超越了ERP领域。但不用担心，Odoo是而且将永远是完全开源。你可以阅读更多有关新的名称这里。我们也准备了一个简短的常见问题，解释所有这些变化给大家。"
+msgstr "如果你还是对我们所有的昨天的公告觉得有点疑惑，这里有一个小小的总结。我们决定改名字，因为OpenERP没有反映出公司的产品了。随着我们最新的应用程序，如网站制作，销售点或电子商务，我们已经超越了ERP领域。但不用担心，ERP是而且将永远是完全开源。你可以阅读更多有关新的名称这里。我们也准备了一个简短的常见问题，解释所有这些变化给大家。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2636,93 +2636,93 @@ msgstr "注意：要使用这些功能，您需要安装"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
-msgid "Odoo"
-msgstr "Odoo"
+msgid "ERP"
+msgstr "ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 1 for three columns"
-msgstr "Odoo - 样品1的三列"
+msgid "ERP - Sample 1 for three columns"
+msgstr "ERP - 样品1的三列"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 2 for three columns"
-msgstr "Odoo - 样品2的三列"
+msgid "ERP - Sample 2 for three columns"
+msgstr "ERP - 样品2的三列"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 3 for three columns"
-msgstr "Odoo - 样品3的三列"
+msgid "ERP - Sample 3 for three columns"
+msgstr "ERP - 样品3的三列"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
-msgid "Odoo CMS - a big picture"
-msgstr "Odoo CMS-一张大图"
+msgid "ERP CMS - a big picture"
+msgstr "ERP CMS-一张大图"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_floating
-msgid "Odoo CMS- Sample image floating"
-msgstr "Odoo CMS-样图浮动"
+msgid "ERP CMS- Sample image floating"
+msgstr "ERP CMS-样图浮动"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image_floating
-msgid "Odoo Members"
-msgstr "Odoo 成员"
+msgid "ERP Members"
+msgstr "ERP 成员"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
-msgid "Odoo Version"
-msgstr "Odoo版本"
+msgid "ERP Version"
+msgstr "ERP版本"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_text
-msgid "Odoo image and text block"
-msgstr "Odoo的图像和文字块"
+msgid "ERP image and text block"
+msgstr "ERP的图像和文字块"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid ""
-"Odoo provides essential platform for our project management.\n"
+"ERP provides essential platform for our project management.\n"
 "                                                Things are better organized and more visible with it."
-msgstr "Odoo提供了必要的平台，为我们的项目管理。事情变得更好组织和更加清晰。"
+msgstr "ERP提供了必要的平台，为我们的项目管理。事情变得更好组织和更加清晰。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_quotes_slider
 msgid ""
-"Odoo provides essential platform for our project management.\n"
+"ERP provides essential platform for our project management.\n"
 "                                        Things are better organized and more visible with it."
-msgstr "Odoo提供了必要的平台，为我们的项目管理。事情变得更好组织和更加清晰。"
+msgstr "ERP提供了必要的平台，为我们的项目管理。事情变得更好组织和更加清晰。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_references
 msgid ""
-"Odoo provides essential platform for our project management.\n"
+"ERP provides essential platform for our project management.\n"
 "                            Things are better organized and more visible with it."
-msgstr "Odoo提供了必要的平台，为我们的项目管理。事情变得更好组织和更加清晰。"
+msgstr "ERP提供了必要的平台，为我们的项目管理。事情变得更好组织和更加清晰。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image
-msgid "Odoo text and image block"
-msgstr "Odoo文本和图像块"
+msgid "ERP text and image block"
+msgstr "ERP文本和图像块"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
-msgid "Odoo's Google Analytics settings"
-msgstr "Odoo的谷歌分析设置"
+msgid "ERP's Google Analytics settings"
+msgstr "ERP的谷歌分析设置"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
 msgid ""
-"Odoo's POS is a web application that can run on any device that\n"
+"ERP's POS is a web application that can run on any device that\n"
 "                                can display websites with little to no setup required."
-msgstr "Odoo的POS机是一个Web应用程序，它可以在任何可以显示的网站的设备上，只需一点或无需设置。"
+msgstr "ERP的POS机是一个Web应用程序，它可以在任何可以显示的网站的设备上，只需一点或无需设置。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq
 msgid ""
-"Odoo's POS is a web application that can run on any device that\n"
+"ERP's POS is a web application that can run on any device that\n"
 "                can display websites with little to no setup required."
-msgstr "Odoo的POS机是一个Web应用程序，它可以在任何可以显示的网站的设备上，只需一点或无需设置。"
+msgstr "ERP的POS机是一个Web应用程序，它可以在任何可以显示的网站的设备上，只需一点或无需设置。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2902,9 +2902,9 @@ msgstr "请安装或更新 node-less"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"Please note that you'll need an Odoo Standard or Business subscriptions for "
+"Please note that you'll need an ERP Standard or Business subscriptions for "
 "that"
-msgstr "请注意，你需要一个Odoo标准或企业订阅了"
+msgstr "请注意，你需要一个ERP标准或企业订阅了"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq
@@ -3698,10 +3698,10 @@ msgstr "翻译版本是32小时后平均自动更新。"
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
 "Translating your website into other languages is the best way to broaden its audience.\n"
-"                        In Odoo, you can either manually translate your pages as they are displayed, use an\n"
+"                        In ERP, you can either manually translate your pages as they are displayed, use an\n"
 "                        automatic machine translation service for free or pay professional translators to do\n"
 "                        it for you."
-msgstr "翻译您的网站成其他语言是为了扩大其受众的最好途径。在Odoo，您可以手动转换您的网页，免费使用的自动机器翻译服务或支付专业翻译来为你做翻译。"
+msgstr "翻译您的网站成其他语言是为了扩大其受众的最好途径。在ERP，您可以手动转换您的网页，免费使用的自动机器翻译服务或支付专业翻译来为你做翻译。"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_config_settings_social_twitter
@@ -4032,8 +4032,8 @@ msgstr "此视图是否是一个新的Web页面模板（完成）"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
-msgid "Which hardware does Odoo POS support?"
-msgstr "Odoo销售点支持哪些硬件？"
+msgid "Which hardware does ERP POS support?"
+msgstr "ERP销售点支持哪些硬件？"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -4052,19 +4052,19 @@ msgstr "虽然需要通过互联网连接到启动销售点，它甚至会后完
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image_floating
 msgid ""
-"With Odoo's fully integrated software, you can easily manage your\n"
+"With ERP's fully integrated software, you can easily manage your\n"
 "                        meetings, schedule business calls, create recurring meetings,\n"
 "                        synchronize your agenda and easily keep in touch with your colleagues,\n"
 "                        partners and other people involved in projects or business discussions.\n"
 "                        <br/><br/>"
-msgstr "使用Odoo完全集成的软件，可以轻松管理您的会议，安排业务来电，创建定期会议，同步日程，轻松地保持联系与您的同事，合作伙伴和参与项目或业务讨论其他人。"
+msgstr "使用ERP完全集成的软件，可以轻松管理您的会议，安排业务来电，创建定期会议，同步日程，轻松地保持联系与您的同事，合作伙伴和参与项目或业务讨论其他人。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"With Odoo, you can automatically check which keywords are ranked best for a\n"
+"With ERP, you can automatically check which keywords are ranked best for a\n"
 "                                    specific query, then add them in the content of your page."
-msgstr "使用Odoo，可以自动检查哪些关键字是排名最好的一个特定的查询，然后将其添加到页面的内容。"
+msgstr "使用ERP，可以自动检查哪些关键字是排名最好的一个特定的查询，然后将其添加到页面的内容。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -4181,11 +4181,11 @@ msgstr "你可以收回75$优惠券代码来你新的活动："
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"You can set Odoo on a custom domain name (e.g. yourcompany.com) for both the website\n"
+"You can set ERP on a custom domain name (e.g. yourcompany.com) for both the website\n"
 "                        and your emails. Because your website address is as important to your branding as the\n"
 "                        name of your business or organization, you’ll want to put some thought into changing it\n"
 "                        for a proper domain, or change it to one you already own."
-msgstr "您可以在自定义域名(例如yourcompany.com)为网站和你的邮件设置Odoo。因为你的网站地址是你的品牌，对您的企业或组织的名称一样重要，你会希望把一些想法变成改变它合适的域名，或将其更改为你已经拥有。"
+msgstr "您可以在自定义域名(例如yourcompany.com)为网站和你的邮件设置ERP。因为你的网站地址是你的品牌，对您的企业或组织的名称一样重要，你会希望把一些想法变成改变它合适的域名，或将其更改为你已经拥有。"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -4366,19 +4366,19 @@ msgstr "http://www.google.com/webmasters/tools/"
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_config_settings
 #: model:ir.ui.view,arch_db:website.view_website_form
-msgid "https://plus.google.com/+Odooapps"
-msgstr "https://plus.google.com/+Odooapps"
+msgid "https://plus.google.com/+ERPapps"
+msgstr "https://plus.google.com/+ERPapps"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_config_settings
 #: model:ir.ui.view,arch_db:website.view_website_form
-msgid "https://twitter.com/Odoo"
-msgstr "https://twitter.com/Odoo"
+msgid "https://twitter.com/ERP"
+msgstr "https://twitter.com/ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_config_settings
-msgid "https://www.facebook.com/Odoo"
-msgstr "https://www.facebook.com/Odoo"
+msgid "https://www.facebook.com/ERP"
+msgstr "https://www.facebook.com/ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
@@ -4410,13 +4410,13 @@ msgstr "如果你还没有一个"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
-msgid "in Odoo"
-msgstr "在Odoo里"
+msgid "in ERP"
+msgstr "在ERP里"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
-msgid "instance of Odoo, the"
-msgstr "Odoo实例，这个"
+msgid "instance of ERP, the"
+msgstr "ERP实例，这个"
 
 #. module: website
 #: model:ir.model,name:website.model_ir_actions_server
@@ -4492,8 +4492,8 @@ msgstr "sitemap.xml"
 #. openerp-web
 #: code:addons/website/static/src/xml/website.xml:35
 #, python-format
-msgid "the classic Odoo interface"
-msgstr "经典的Odoo界面"
+msgid "the classic ERP interface"
+msgstr "经典的ERP界面"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner

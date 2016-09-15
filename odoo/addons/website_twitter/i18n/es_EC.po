@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_twitter
 # 
@@ -7,7 +7,7 @@
 # Rick Hunter <rick_hunter_ec@yahoo.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:41+0000\n"
 "PO-Revision-Date: 2016-01-25 18:11+0000\n"
@@ -31,13 +31,13 @@ msgstr "<strong>URL de retorno: </strong> déjelo en blanco"
 
 #. module: website_twitter
 #: model:ir.ui.view,arch_db:website_twitter.view_website_config_settings
-msgid "<strong>Description: </strong> Odoo Tweet Scroller"
-msgstr "<strong>Descripción: </strong> Odoo Tweet Scroller"
+msgid "<strong>Description: </strong> ERP Tweet Scroller"
+msgstr "<strong>Descripción: </strong> ERP Tweet Scroller"
 
 #. module: website_twitter
 #: model:ir.ui.view,arch_db:website_twitter.view_website_config_settings
-msgid "<strong>Name: </strong> Odoo Tweet Scroller"
-msgstr "<strong>Nombre: </strong> Odoo Tweet Scroller"
+msgid "<strong>Name: </strong> ERP Tweet Scroller"
+msgstr "<strong>Nombre: </strong> ERP Tweet Scroller"
 
 #. module: website_twitter
 #: model:ir.ui.view,arch_db:website_twitter.view_website_config_settings
@@ -342,8 +342,8 @@ msgstr "https://apps.twitter.com/app/new"
 
 #. module: website_twitter
 #: model:ir.ui.view,arch_db:website_twitter.view_website_config_settings
-msgid "https://www.odoo.com"
-msgstr "https://www.odoo.com"
+msgid "https://www.erp.com"
+msgstr "https://www.erp.com"
 
 #. module: website_twitter
 #: model:ir.model,name:website_twitter.model_website_config_settings

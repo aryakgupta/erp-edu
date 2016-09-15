@@ -20,7 +20,7 @@
                                 </p>
                         </div>
                         <div class="carousel-img col-md-6 hidden-sm hidden-xs">
-                            <img class="img-responsive" src="/website/static/src/img/banner/banner_picture.png" alt="Banner Odoo Image"/>
+                            <img class="img-responsive" src="/website/static/src/img/banner/banner_picture.png" alt="Banner ERP Image"/>
                         </div>
                     </div>
                 </div>
@@ -47,7 +47,7 @@
                     </p>
                 </div>
                 <div class="col-md-6 mt16">
-                  <img class="img img-responsive shadow mb16" src="/website/static/src/img/text_image.png" alt="Odoo text and image block"/>
+                  <img class="img img-responsive shadow mb16" src="/website/static/src/img/text_image.png" alt="ERP text and image block"/>
                 </div>
             </div>
         </div>
@@ -59,7 +59,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mt16">
-                  <img class="img img-responsive shadow mb16" src="/website/static/src/img/image_text.jpg"  alt="Odoo image and text block"/>
+                  <img class="img img-responsive shadow mb16" src="/website/static/src/img/image_text.jpg"  alt="ERP image and text block"/>
                 </div>
                 <div class="col-md-6 mt16">
                     <h3>A Section Subtitle</h3>
@@ -84,7 +84,7 @@
                 <div class="col-md-12 mb16 mt16">
                     <div class="o_image_floating o_margin_l pull-right">
                         <div class="o_container">
-                            <img class="img img-rounded img-responsive" src="/website/static/src/img/odoo.jpg"  alt="Odoo Members"/>
+                            <img class="img img-rounded img-responsive" src="/website/static/src/img/odoo.jpg"  alt="ERP Members"/>
                             <mark class="text-center"><a href="#"><strong>Click Here</strong></a></mark>
                         </div>
                         <div class="o_footer">
@@ -101,14 +101,14 @@
                         of the company anymore. With our newest apps, such
                         as Website Builder, PoS or eCommerce, we have
                         moved beyond the ERP territory. <br/>
-                        But <u>don't worry</u>, <b>Odoo</b> is and always will be
+                        But <u>don't worry</u>, <b>ERP</b> is and always will be
                         fully open source. You can read more about the new name here.
                         We have also prepared a short FAQ to explain all these changes
                         to all of you. <br/>
                     </p>
-                    <h3>Discover more about Odoo</h3>
+                    <h3>Discover more about ERP</h3>
                     <p style="text-align: justify;">
-                        With Odoo's fully integrated software, you can easily manage your
+                        With ERP's fully integrated software, you can easily manage your
                         meetings, schedule business calls, create recurring meetings,
                         synchronize your agenda and easily keep in touch with your colleagues,
                         partners and other people involved in projects or business discussions.
@@ -214,7 +214,7 @@
                     <h2>A Punchy Headline</h2>
                 </div>
                 <div class="col-md-12">
-                  <img class="img img-responsive" src="/website/static/src/img/big_picture.png" style="margin: 0 auto;"  alt="Odoo CMS - a big picture"/>
+                  <img class="img img-responsive" src="/website/static/src/img/big_picture.png" style="margin: 0 auto;"  alt="ERP CMS - a big picture"/>
                 </div>
                 <div class="col-md-6 col-md-offset-3 mb16 mt16">
                     <p class="text-center">
@@ -239,7 +239,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <img class="img img-rounded img-responsive" src="/website/static/src/img/desert_thumb.jpg" alt="Odoo - Sample 1 for three columns"/>
+                    <img class="img img-rounded img-responsive" src="/website/static/src/img/desert_thumb.jpg" alt="ERP - Sample 1 for three columns"/>
                     <h4 class="mt16">Feature One</h4>
                     <p>
                         Adapt these three columns to fit you design need.
@@ -248,7 +248,7 @@
                     </p>
                 </div>
                 <div class="col-md-4">
-                    <img class="img img-rounded img-responsive" src="/website/static/src/img/deers_thumb.jpg" alt="Odoo - Sample 2 for three columns"/>
+                    <img class="img img-rounded img-responsive" src="/website/static/src/img/deers_thumb.jpg" alt="ERP - Sample 2 for three columns"/>
                     <h4 class="mt16">Feature Two</h4>
                     <p>
                         To add a fourth column, reduce the size of these
@@ -258,7 +258,7 @@
                     </p>
                 </div>
                 <div class="col-md-4">
-                    <img class="img img-rounded img-responsive" src="/website/static/src/img/china_thumb.jpg" alt="Odoo - Sample 3 for three columns"/>
+                    <img class="img img-rounded img-responsive" src="/website/static/src/img/china_thumb.jpg" alt="ERP - Sample 3 for three columns"/>
                     <h4 class="mt16">Feature Three</h4>
                     <p>
                         Delete the above image or replace it with a picture
@@ -307,7 +307,7 @@
 <template id="s_image_floating" name="Image Floating">
     <div class="o_image_floating o_margin_l pull-right s_image_floating">
         <div class="o_container">
-            <img class="img img-rounded img-responsive" src="/website/static/src/img/library/ipad.png" alt="Odoo CMS- Sample image floating"/>
+            <img class="img img-rounded img-responsive" src="/website/static/src/img/library/ipad.png" alt="ERP CMS- Sample image floating"/>
             <mark class="text-center"><a href="#"><strong>Click Here</strong></a></mark>
         </div>
         <div class="o_footer">
@@ -449,7 +449,7 @@
             <div class="row">
                 <div class="col-md-9 text-muted">
                     <p class="mb0">
-                        <strong>50,000+ companies run Odoo to grow their businesses.</strong>
+                        <strong>50,000+ companies run ERP to grow their businesses.</strong>
                     </p><p class="mb0">
                         Join us and make your company a better place.
                     </p>
@@ -472,10 +472,10 @@
                 Point of Sale Questions <small>v7</small>
             </h2>
             <h3>
-                Which hardware does Odoo POS support?
+                Which hardware does ERP POS support?
             </h3>
             <p>
-                Odoo's POS is a web application that can run on any device that
+                ERP's POS is a web application that can run on any device that
                 can display websites with little to no setup required.
             </p><p>
                 The Point of Sale works perfectly on any kind of touch enabled
@@ -515,13 +515,13 @@
                 <div class="panel panel-default">
                     <div class="panel-heading" role="tab" data-toggle="collapse">
                         <h4 class="panel-title">
-                            Which hardware does Odoo POS support?
+                            Which hardware does ERP POS support?
                         </h4>
                     </div>
                     <div class="panel-collapse collapse" role="tabpanel">
                         <div class="panel-body">
                             <p>
-                                Odoo's POS is a web application that can run on any device that
+                                ERP's POS is a web application that can run on any device that
                                 can display websites with little to no setup required.
                             </p>
                             <p>
@@ -593,7 +593,7 @@
                 <div class="col-md-4 col-xs-12 col-md-offset-2 mt16 mb32">
                     <blockquote>
                         <p>
-                            Odoo provides essential platform for our project management.
+                            ERP provides essential platform for our project management.
                             Things are better organized and more visible with it.
                         </p>
                         <small>John Doe, CEO</small>
@@ -656,7 +656,7 @@
                         <div class="row">
                             <blockquote class="mt48 mb16 col-md-4 col-md-offset-4">
                                     <p>
-                                        Odoo provides essential platform for our project management.
+                                        ERP provides essential platform for our project management.
                                         Things are better organized and more visible with it.
                                     </p>
                                     <small>John Doe, CEO</small>
@@ -768,7 +768,7 @@
                                     <div class="row">
                                         <blockquote class="mt48 mb16 col-md-4 col-md-offset-4">
                                             <p>
-                                                Odoo provides essential platform for our project management.
+                                                ERP provides essential platform for our project management.
                                                 Things are better organized and more visible with it.
                                             </p>
                                             <small>John Doe, CEO</small>

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_expense
 # 
@@ -6,7 +6,7 @@
 # Cyrille de Lambert <cdelambert@teclib.com>, 2015
 # Fabrice Henrion, 2016
 # Leo Schmitt <inactive+lschmitt@transifex.com>, 2015
-# Lucas Deliege <lud@odoo.com>, 2015
+# Lucas Deliege <lud@erp.com>, 2015
 # Martin Trigaux, 2016
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015
 # Mensanh Dodji Anani LAWSON <omolowo73@gmail.com>, 2016
@@ -14,7 +14,7 @@
 # Shark McGnark <peculiarcheese@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-21 09:18+0000\n"
 "PO-Revision-Date: 2016-05-27 16:14+0000\n"

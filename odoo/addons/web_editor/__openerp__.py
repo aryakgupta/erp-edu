@@ -2,7 +2,7 @@
     'name': 'Web Editor',
     'category': 'Hidden',
     'description': """
-Odoo Web Editor widget.
+ERP Web Editor widget.
 ==========================
 
 """,

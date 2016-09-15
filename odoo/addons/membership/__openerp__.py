@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -31,7 +31,7 @@ invoice and send propositions for membership renewal.
     'demo': [
         'membership_demo.xml',
     ],
-    'website': 'https://www.odoo.com/page/community-builder',
+    'website': 'https://www.erp.com/page/community-builder',
     'test': [
         '../account/test/account_minimal_test.xml',
         'test/test_membership.yml'

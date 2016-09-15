@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_holidays
 # 
@@ -7,7 +7,7 @@
 # krnkris, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:10+0000\n"
 "PO-Revision-Date: 2016-06-06 19:55+0000\n"
@@ -943,9 +943,9 @@ msgstr "Olvasatlan üzenetek száma"
 #. module: hr_holidays
 #: model:ir.model.fields,help:hr_holidays.field_hr_holidays_status_categ_id
 msgid ""
-"Once a leave is validated, Odoo will create a corresponding meeting of this "
+"Once a leave is validated, ERP will create a corresponding meeting of this "
 "type in the calendar."
-msgstr "Ha egy távollét el lett fogadva, Odoo rendszer létrehoz egy ide vonatkozó találkozó típust a naptárban."
+msgstr "Ha egy távollét el lett fogadva, ERP rendszer létrehoz egy ide vonatkozó találkozó típust a naptárban."
 
 #. module: hr_holidays
 #: model:ir.actions.act_window,help:hr_holidays.open_ask_holidays
@@ -1324,9 +1324,9 @@ msgstr "Év"
 #. module: hr_holidays
 #: model:ir.actions.act_window,help:hr_holidays.hr_holidays_leaves_assign_legal
 msgid ""
-"You can assign remaining Legal Leaves for each employee, Odoo\n"
+"You can assign remaining Legal Leaves for each employee, ERP\n"
 "               will automatically create and validate allocation requests."
-msgstr "Lehetősége van a még meglévő törvényes távollétek munkavállalókhoz egyenként történő hozzárendelésére, Odoo \nrendszer automatikusan létrehozza és érvényesíti az igények kiosztását. "
+msgstr "Lehetősége van a még meglévő törvényes távollétek munkavállalókhoz egyenként történő hozzárendelésére, ERP \nrendszer automatikusan létrehozza és érvényesíti az igények kiosztását. "
 
 #. module: hr_holidays
 #: constraint:hr.holidays:0

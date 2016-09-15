@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * survey
 # 
@@ -8,7 +8,7 @@
 # Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:12+0000\n"
 "PO-Revision-Date: 2015-12-29 18:39+0000\n"
@@ -224,8 +224,8 @@ msgstr "Um token deve ser único!"
 
 #. module: survey
 #: model:survey.page,title:survey.feedback_1
-msgid "About your Odoo usage"
-msgstr "Sobre a utilização do Odoo"
+msgid "About your ERP usage"
+msgstr "Sobre a utilização do ERP"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey_message_needaction
@@ -306,8 +306,8 @@ msgstr "Respostas não vá no documento original \"linha de discussão. Isto tem
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_1_1
-msgid "Are you using Odoo on a daily basis?"
-msgstr "Você está usando Odoo diariamente?"
+msgid "Are you using ERP on a daily basis?"
+msgstr "Você está usando ERP diariamente?"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_mail_compose_message_attachment_ids
@@ -756,7 +756,7 @@ msgstr "Agrupar por"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_3_1
-msgid "How do you contribute or plan to contribute to Odoo?"
+msgid "How do you contribute or plan to contribute to ERP?"
 msgstr "Como você contribui ou pretende contribuir para Openerp?"
 
 #. module: survey
@@ -791,8 +791,8 @@ msgstr "Eu participo de discussão e fóruns"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_1
-msgid "I use Github, like all official Odoo projects"
-msgstr "Eu uso Github, como todos os projetos oficiais Odoo"
+msgid "I use Github, like all official ERP projects"
+msgstr "Eu uso Github, como todos os projetos oficiais ERP"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_4_1_2
@@ -801,8 +801,8 @@ msgstr "Eu uso um outro sistema de repositório (SourceForge ...)"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_1_3
-msgid "I use the contextual help in Odoo"
-msgstr "Eu uso a ajuda contextual no Odoo"
+msgid "I use the contextual help in ERP"
+msgstr "Eu uso a ajuda contextual no ERP"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_3_1_5
@@ -872,8 +872,8 @@ msgstr "Se outro, descreva:"
 
 #. module: survey
 #: model:survey.page,description:survey.feedback_4
-msgid "If you do not contribute or develop in Odoo, skip this page."
-msgstr "Se você não contribui ou se desenvolve em Odoo, pule esta página."
+msgid "If you do not contribute or develop in ERP, skip this page."
+msgstr "Se você não contribui ou se desenvolve em ERP, pule esta página."
 
 #. module: survey
 #: model:ir.ui.view,arch_db:survey.sfinished
@@ -1955,9 +1955,9 @@ msgstr "Há também muito menus, é complexo compreender"
 #. module: survey
 #: model:survey.page,description:survey.feedback_2
 msgid ""
-"These questions relate to the ergonomy and ease of use of Odoo. Try to remind your firsts days on Odoo and\n"
+"These questions relate to the ergonomy and ease of use of ERP. Try to remind your firsts days on ERP and\n"
 "what have been your difficulties."
-msgstr "<p>Essas questões dizem respeito à ergonomia e facilidade de uso de Odoo. Tente lembrar seus primeiros dias no Odoo e\nQuais foram suas dificuldades.</p>"
+msgstr "<p>Essas questões dizem respeito à ergonomia e facilidade de uso de ERP. Tente lembrar seus primeiros dias no ERP e\nQuais foram suas dificuldades.</p>"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_2_2
@@ -1971,8 +1971,8 @@ msgstr "Eles são úteis no uso diário"
 
 #. module: survey
 #: model:survey.label,value:survey.frow_2_2_1
-msgid "They help new users to understand Odoo"
-msgstr "Eles ajudam novos usuários a entender o Odoo"
+msgid "They help new users to understand ERP"
+msgstr "Eles ajudam novos usuários a entender o ERP"
 
 #. module: survey
 #: code:addons/survey/survey.py:685 code:addons/survey/tests/test_survey.py:94
@@ -2211,8 +2211,8 @@ msgstr "O que você acha sobre assistentes de configuração?"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_1
-msgid "What do you think about the documentation available on doc.odoo.com?"
-msgstr "O que você acha sobre a documentação disponível em doc.odoo.com?"
+msgid "What do you think about the documentation available on doc.erp.com?"
+msgstr "O que você acha sobre a documentação disponível em doc.erp.com?"
 
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_5
@@ -2222,7 +2222,7 @@ msgstr "O que você acha sobre os grupos de usuários?"
 #. module: survey
 #: model:survey.question,question:survey.feedback_2_2
 msgid ""
-"What do you think about the process views of Odoo, available in the web "
+"What do you think about the process views of ERP, available in the web "
 "client ?"
 msgstr "O Que rápido você acha Sobre os pontos de vista do Processo de OpenERP, disponivel no Cliente web?"
 
@@ -2271,8 +2271,8 @@ msgstr "Sim, eu uso a versão 7.0, instalado localmente"
 
 #. module: survey
 #: model:survey.label,value:survey.choice_1_1_3
-msgid "Yes, I use the online version of Odoo"
-msgstr "Sim, eu uso a versão online do Odoo"
+msgid "Yes, I use the online version of ERP"
+msgstr "Sim, eu uso a versão online do ERP"
 
 #. module: survey
 #: model:ir.actions.act_window,help:survey.action_survey_form

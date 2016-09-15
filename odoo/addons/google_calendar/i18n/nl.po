@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * google_calendar
 # 
@@ -7,7 +7,7 @@
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2016-04-20 13:20+0000\n"
@@ -216,8 +216,8 @@ msgstr "Selecteer het submenu API's uit het linkse menu (van menu API's en auth)
 #: model:ir.model.fields,help:google_calendar.field_res_users_google_calendar_cal_id
 msgid ""
 "Last Calendar ID who has been synchronized. If it is changed, we remove all "
-"links between GoogleID and Odoo Google Internal ID"
-msgstr "Laatste kalender ID dat is gesynchroniseerd. Als dit veranderd is verwijderen we alle links tussen het Google ID en Odoo Google intern ID"
+"links between GoogleID and ERP Google Internal ID"
+msgstr "Laatste kalender ID dat is gesynchroniseerd. Als dit veranderd is verwijderen we alle links tussen het Google ID en ERP Google intern ID"
 
 #. module: google_calendar
 #: model:ir.model.fields,field_description:google_calendar.field_google_calendar___last_update
@@ -231,13 +231,13 @@ msgstr "Laatste synchronisatie datum"
 
 #. module: google_calendar
 #: model:ir.model.fields,field_description:google_calendar.field_calendar_attendee_oe_synchro_date
-msgid "Odoo Synchro Date"
-msgstr "Odoo synchronisatie datum"
+msgid "ERP Synchro Date"
+msgstr "ERP synchronisatie datum"
 
 #. module: google_calendar
 #: model:ir.model.fields,field_description:google_calendar.field_calendar_event_oe_update_date
-msgid "Odoo Update Date"
-msgstr "Odoo update datum"
+msgid "ERP Update Date"
+msgstr "ERP update datum"
 
 #. module: google_calendar
 #: model:ir.ui.view,arch_db:google_calendar.view_calendar_config_settings

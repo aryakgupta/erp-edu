@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * base
 # 
@@ -9,7 +9,7 @@
 # Robert Kirschner <robertkirschner@yahoo.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-04-16 21:43+0000\n"
@@ -1099,7 +1099,7 @@ msgid ""
 "\n"
 "Main Features\n"
 "-------------\n"
-"* Clean and renewed communication history for any Odoo document that can act as a discussion topic\n"
+"* Clean and renewed communication history for any ERP document that can act as a discussion topic\n"
 "* Subscription mechanism to be updated about new messages on interesting documents\n"
 "* Unified feeds page to see recent messages and activity on followed documents\n"
 "* User communication through the feeds page\n"
@@ -1107,7 +1107,7 @@ msgid ""
 "* Relies on the global outgoing mail server - an integrated email management system - allowing to send emails with a configurable scheduler-based processing engine\n"
 "* Includes an extensible generic email composition assistant, that can turn into a mass-mailing assistant and is capable of interpreting simple *placeholder expressions* that will be replaced with dynamic data when each email is actually sent.\n"
 "    "
-msgstr "\nPodnikanie zamerané na socíalne siete\n===================================\nModul Sociálne siete poskytuje jednotnú vrstvu abstrakcie sociálnej siete umožňujúc \naplikáciám zobrazenie kompletnej\nkomunikačnej histórie na dokumentoch s plne integrovaným spravovacím systémom e-mailov a správ.\n\nTo umožňuje užívateľom čítať a odosielať správy, rovnako ako e-maily. Poskytuje tiež feed stránku kombinovanú do predplatného mechanizmu, ktorý umožňuje sledovať dokumenty a byť neustále aktualizovaný o najnovších správach.\n\nHlavné funkcie\n-------------\n* Čistá a obnovená história komunikácie pre akýkoľvek dokument Odoo, ktorý môže slúžiť ako diskusná téma\n* Predplatný mechanizmus je potrebné aktualizovať novými správami o zaujímavých dokumentoch\n* Zjednotená feeds stránka pre posledné správy a aktivity sledovaných dokumentov\n* Užívateľská komunikácia prostredníctvom feeds stránky \n* Dizajn vlákna diskusie na dokumentoch\n* Spolieha na globálny server odchádzajúcej pošty - integrovaný systém e-mail spravovania umožňujúci posielať emaily s upravitelnym, na plánovači založenom, spracovacím prostriedkom.\n* Zahŕňa rozšíriteľný všeobecný kompozičný email asistent, ktorý sa môže premeniť v asistent  hromadnej pošty a je schopný interpretovať jednoduché * zástupné výrazy *, ktoré budú nahradené dynamickými dátami, keď každý email bude skutočne odoslaný."
+msgstr "\nPodnikanie zamerané na socíalne siete\n===================================\nModul Sociálne siete poskytuje jednotnú vrstvu abstrakcie sociálnej siete umožňujúc \naplikáciám zobrazenie kompletnej\nkomunikačnej histórie na dokumentoch s plne integrovaným spravovacím systémom e-mailov a správ.\n\nTo umožňuje užívateľom čítať a odosielať správy, rovnako ako e-maily. Poskytuje tiež feed stránku kombinovanú do predplatného mechanizmu, ktorý umožňuje sledovať dokumenty a byť neustále aktualizovaný o najnovších správach.\n\nHlavné funkcie\n-------------\n* Čistá a obnovená história komunikácie pre akýkoľvek dokument ERP, ktorý môže slúžiť ako diskusná téma\n* Predplatný mechanizmus je potrebné aktualizovať novými správami o zaujímavých dokumentoch\n* Zjednotená feeds stránka pre posledné správy a aktivity sledovaných dokumentov\n* Užívateľská komunikácia prostredníctvom feeds stránky \n* Dizajn vlákna diskusie na dokumentoch\n* Spolieha na globálny server odchádzajúcej pošty - integrovaný systém e-mail spravovania umožňujúci posielať emaily s upravitelnym, na plánovači založenom, spracovacím prostriedkom.\n* Zahŕňa rozšíriteľný všeobecný kompozičný email asistent, ktorý sa môže premeniť v asistent  hromadnej pošty a je schopný interpretovať jednoduché * zástupné výrazy *, ktoré budú nahradené dynamickými dátami, keď každý email bude skutočne odoslaný."
 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_ve
@@ -1694,11 +1694,11 @@ msgid ""
 "\n"
 "Invoicing & Payments\n"
 "====================\n"
-"The specific and easy-to-use Invoicing system in Odoo allows you to keep track of your accounting, even when you are not an accountant. It provides an easy way to follow up on your vendors and customers.\n"
+"The specific and easy-to-use Invoicing system in ERP allows you to keep track of your accounting, even when you are not an accountant. It provides an easy way to follow up on your vendors and customers.\n"
 "\n"
 "You could use this simplified accounting in case you work with an (external) account to keep your books, and you still want to keep track of payments. This module also offers you an easy method of registering payments, without having to encode complete abstracts of account.\n"
 "    "
-msgstr "\nFakturácia a platby\n====================\nKonkrétny a ľahko použiteľný systém fakturácie v Odoo vám umožní sledovať vaše účtovníctvo, a to aj keď nie ste účtovník. To poskytuje jednoduchý spôsob, ako sledovať svojich dodávateľov a zákazníkov.\n\nToto zjednodušené účtovníctvo by sa dalo použiť v prípade, že pracujete s (externým) účtom, aby sa zachovali vaše záznamy, a k tomu chcete sledovať platby. Tento modul vám tiež ponúka jednoduchý spôsob registrácie platieb, bez nutnosti kódovať kompletné výpisy z účtu."
+msgstr "\nFakturácia a platby\n====================\nKonkrétny a ľahko použiteľný systém fakturácie v ERP vám umožní sledovať vaše účtovníctvo, a to aj keď nie ste účtovník. To poskytuje jednoduchý spôsob, ako sledovať svojich dodávateľov a zákazníkov.\n\nToto zjednodušené účtovníctvo by sa dalo použiť v prípade, že pracujete s (externým) účtom, aby sa zachovali vaše záznamy, a k tomu chcete sledovať platby. Tento modul vám tiež ponúka jednoduchý spôsob registrácie platieb, bez nutnosti kódovať kompletné výpisy z účtu."
 
 #. module: base
 #: model:ir.module.module,description:base.module_stock_landed_costs
@@ -1780,9 +1780,9 @@ msgid ""
 "==================================================\n"
 "\n"
 "Purchase management enables you to track your vendors' price quotations and convert them into purchase orders if necessary.\n"
-"Odoo has several methods of monitoring invoices and tracking the receipt of ordered goods. You can handle partial deliveries in Odoo, so you can keep track of items that are still to be delivered in your orders, and you can issue reminders automatically.\n"
+"ERP has several methods of monitoring invoices and tracking the receipt of ordered goods. You can handle partial deliveries in ERP, so you can keep track of items that are still to be delivered in your orders, and you can issue reminders automatically.\n"
 "\n"
-"Odoo's replenishment management rules enable the system to generate draft purchase orders automatically, or you can configure it to run a lean process driven entirely by current production needs.\n"
+"ERP's replenishment management rules enable the system to generate draft purchase orders automatically, or you can configure it to run a lean process driven entirely by current production needs.\n"
 "\n"
 "Dashboard / Reports for Purchase Management will include:\n"
 "---------------------------------------------------------\n"
@@ -1792,7 +1792,7 @@ msgid ""
 "* Receipt Analysis\n"
 "* Purchase Analysis\n"
 "    "
-msgstr "\nSpravujte požiadavky na tovar jednoducho podľa objednávok\n==================================================\n\nSpravovanie nákupov umožňuje sledovať cenové ponuky vašich dodávateľov a previesť ich do objednávok v prípade potreby.\nOdoo má niekoľko spôsobov monitorovania faktúr a sledovanie príjmu objednaného tovaru. Čiastočné dodávky môžete spracovať v Odoo, takže môžete sledovať položky ktoré ešte len maju byť dodané vo vašich objednávkach a automaticky môžete vydávať pripomienky.\n\nOdoo pravidlá pre spravovanie doplňovania umožňujú systému automaticky generovať návrh objednávky, alebo si môžete nastaviť, aby sa spúšťal priamy proces poháňaný iba aktuálnymi potrebami výroby.\n\nNástenka / Výkaz pre nákupný manežment bude zahŕňať:\n-------------------------------------------------- -------\n* Žiadosť o cenové ponuky\n* Objednávky čakajúce na schválenie\n* Mesačné nákupy podľa kategórie\n* Analýza príjmu\n* Analýza nákupu"
+msgstr "\nSpravujte požiadavky na tovar jednoducho podľa objednávok\n==================================================\n\nSpravovanie nákupov umožňuje sledovať cenové ponuky vašich dodávateľov a previesť ich do objednávok v prípade potreby.\nERP má niekoľko spôsobov monitorovania faktúr a sledovanie príjmu objednaného tovaru. Čiastočné dodávky môžete spracovať v ERP, takže môžete sledovať položky ktoré ešte len maju byť dodané vo vašich objednávkach a automaticky môžete vydávať pripomienky.\n\nERP pravidlá pre spravovanie doplňovania umožňujú systému automaticky generovať návrh objednávky, alebo si môžete nastaviť, aby sa spúšťal priamy proces poháňaný iba aktuálnymi potrebami výroby.\n\nNástenka / Výkaz pre nákupný manežment bude zahŕňať:\n-------------------------------------------------- -------\n* Žiadosť o cenové ponuky\n* Objednávky čakajúce na schválenie\n* Mesačné nákupy podľa kategórie\n* Analýza príjmu\n* Analýza nákupu"
 
 #. module: base
 #: model:ir.module.module,description:base.module_hr_recruitment
@@ -1932,7 +1932,7 @@ msgstr "\nSpravovanie druhotných jednotiek predaja\n===========================
 #: model:ir.module.module,description:base.module_mrp
 msgid ""
 "\n"
-"Manage the Manufacturing process in Odoo\n"
+"Manage the Manufacturing process in ERP\n"
 "===========================================\n"
 "\n"
 "The manufacturing module allows you to cover planning, ordering, stocks and the manufacturing or assembly of products from raw materials and components. It handles the consumption and production of products according to a bill of materials and the necessary operations on machinery, tools or human resources according to routings.\n"
@@ -1954,7 +1954,7 @@ msgid ""
 "* Stock Value Variation (Graph)\n"
 "* Work Order Analysis\n"
 "    "
-msgstr "\nSpravovanie výrobného procesu v Odoo\n===========================================\n\nVýrobný modul vám umožňuje pokryť plánovanie, objednávanie, materiály a výrobu alebo montáž produktov zo surových materiálov a komponentov. Zaoberá sa spotrebou a výrobou produktov podľa kusovníka a nevyhnutných operácií na strojových zariadeniach, nástrojoch alebo ľudských zdrojoch podľa zamerania.\n\nPodporuje kompletnú integráciu a plánovanie skladovateľného tovaru, spotrebného materiálu alebo služieb. Služby sú plne integrované s ostatným softvérom. Napríklad, môžete nastaviť vedľajšo-zmluvné služby v zozname materiálu, aby automaticky nakupoval na objednávku zostavenie vašej výroby.\n\nKľúčové funkcie\n------------\n* Vyrobiť na sklad / vyrobiť na objednávku\n* Viacúrovňový kusovník, žiadny limit\n* Viacúrovňové zameranie, bez obmedzenia\n* Zamerania a pracovné stredisko integrované s analytickým účtovníctvom\n* Pravidelné výpočty plánovača\n* Umožňuje prechádzať kusovníkmi v kompletnej štruktúre, ktorá zahŕňa pod účty a fiktívne účty materiálov\n\nNástenka / výkazy pre MRP budú zahŕňať:\n-----------------------------------------\n* Obstarávania vo výnimke (graf)\n* Variácia hodnoty akcií (graf)\n* Analýza pracovnej objednávky"
+msgstr "\nSpravovanie výrobného procesu v ERP\n===========================================\n\nVýrobný modul vám umožňuje pokryť plánovanie, objednávanie, materiály a výrobu alebo montáž produktov zo surových materiálov a komponentov. Zaoberá sa spotrebou a výrobou produktov podľa kusovníka a nevyhnutných operácií na strojových zariadeniach, nástrojoch alebo ľudských zdrojoch podľa zamerania.\n\nPodporuje kompletnú integráciu a plánovanie skladovateľného tovaru, spotrebného materiálu alebo služieb. Služby sú plne integrované s ostatným softvérom. Napríklad, môžete nastaviť vedľajšo-zmluvné služby v zozname materiálu, aby automaticky nakupoval na objednávku zostavenie vašej výroby.\n\nKľúčové funkcie\n------------\n* Vyrobiť na sklad / vyrobiť na objednávku\n* Viacúrovňový kusovník, žiadny limit\n* Viacúrovňové zameranie, bez obmedzenia\n* Zamerania a pracovné stredisko integrované s analytickým účtovníctvom\n* Pravidelné výpočty plánovača\n* Umožňuje prechádzať kusovníkmi v kompletnej štruktúre, ktorá zahŕňa pod účty a fiktívne účty materiálov\n\nNástenka / výkazy pre MRP budú zahŕňať:\n-----------------------------------------\n* Obstarávania vo výnimke (graf)\n* Variácia hodnoty akcií (graf)\n* Analýza pracovnej objednávky"
 
 #. module: base
 #: model:ir.module.module,description:base.module_sale_layout
@@ -2110,13 +2110,13 @@ msgid ""
 "Module to import OFX bank statements.\n"
 "======================================\n"
 "\n"
-"This module allows you to import the machine readable OFX Files in Odoo: they are parsed and stored in human readable format in\n"
+"This module allows you to import the machine readable OFX Files in ERP: they are parsed and stored in human readable format in\n"
 "Accounting \\ Bank and Cash \\ Bank Statements.\n"
 "\n"
 "Bank Statements may be generated containing a subset of the OFX information (only those transaction lines that are required for the\n"
 "creation of the Financial Accounting records).\n"
 "    "
-msgstr "\nModul pre import OFX bankových výpisov.\n======================================\n\nTento modul umožňuje importovať strojovo čitateľné OFX súbory do Odoo: sú rozobraté a uložené v ľudsky čitateľnom formáte v\nÚčtovníctvo \\ Banka a hotovosť \\ Bankové výpisy.\n\nBankové výpisy môžu byť generované obsahujúc podmnožinu informácií OFX (Iba tie riadky transakcií, ktoré sú nutné pre\nvytvorenie záznamov finančného účtovníctva)."
+msgstr "\nModul pre import OFX bankových výpisov.\n======================================\n\nTento modul umožňuje importovať strojovo čitateľné OFX súbory do ERP: sú rozobraté a uložené v ľudsky čitateľnom formáte v\nÚčtovníctvo \\ Banka a hotovosť \\ Bankové výpisy.\n\nBankové výpisy môžu byť generované obsahujúc podmnožinu informácií OFX (Iba tie riadky transakcií, ktoré sú nutné pre\nvytvorenie záznamov finančného účtovníctva)."
 
 #. module: base
 #: model:ir.module.module,description:base.module_account_bank_statement_import_qif
@@ -2125,14 +2125,14 @@ msgid ""
 "Module to import QIF bank statements.\n"
 "======================================\n"
 "\n"
-"This module allows you to import the machine readable QIF Files in Odoo: they are parsed and stored in human readable format in\n"
+"This module allows you to import the machine readable QIF Files in ERP: they are parsed and stored in human readable format in\n"
 "Accounting \\ Bank and Cash \\ Bank Statements.\n"
 "\n"
 "Important Note\n"
 "---------------------------------------------\n"
 "Because of the QIF format limitation, we cannot ensure the same transactions aren't imported several times or handle multicurrency.\n"
 "Whenever possible, you should use a more appropriate file format like OFX.\n"
-msgstr "\nModul pre import QIF bankových výpisov.\n======================================\n\nTento modul umožňuje importovať strojovo čitateľné QIF súbory do Odoo: sú rozobraté a uložené v ľudsky čitateľnom formáte, v\nÚčtovníctvo \\ Banka a hotovosť \\ Bankové výpisy.\n\nDôležitá poznámka\n---------------------------------------------\nVzhľadom k obmedzeniu formátu QIF, nemôžeme zabezpečiť že rovnaké transakcie nie sú importované niekoľkokrát, alebo zvláda multimeny.\nKedykoľvek je to možné, mali by ste použiť vhodnejší formát súboru, ako je OFX.\n"
+msgstr "\nModul pre import QIF bankových výpisov.\n======================================\n\nTento modul umožňuje importovať strojovo čitateľné QIF súbory do ERP: sú rozobraté a uložené v ľudsky čitateľnom formáte, v\nÚčtovníctvo \\ Banka a hotovosť \\ Bankové výpisy.\n\nDôležitá poznámka\n---------------------------------------------\nVzhľadom k obmedzeniu formátu QIF, nemôžeme zabezpečiť že rovnaké transakcie nie sú importované niekoľkokrát, alebo zvláda multimeny.\nKedykoľvek je to možné, mali by ste použiť vhodnejší formát súboru, ako je OFX.\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_warning
@@ -2187,61 +2187,61 @@ msgstr "\nNový rozšíriteľný import súboru pre OpenERP\n===================
 #: model:ir.module.module,description:base.module_l10n_sa
 msgid ""
 "\n"
-"Odoo Arabic localization for most arabic countries and Saudi Arabia.\n"
+"ERP Arabic localization for most arabic countries and Saudi Arabia.\n"
 "\n"
 "This initially includes chart of accounts of USA translated to Arabic.\n"
 "\n"
 "In future this module will include some payroll rules for ME .\n"
-msgstr "\nOdoo Arabic localization for most arabic countries and Saudi Arabia.\n\nThis initially includes chart of accounts of USA translated to Arabic.\n\nIn future this module will include some payroll rules for ME .\n"
+msgstr "\nERP Arabic localization for most arabic countries and Saudi Arabia.\n\nThis initially includes chart of accounts of USA translated to Arabic.\n\nIn future this module will include some payroll rules for ME .\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_form_editor
 msgid ""
 "\n"
-"Odoo Form Editor\n"
+"ERP Form Editor\n"
 "====================\n"
 "\n"
 "Allows you to build web forms on the website using the website builder.\n"
 "        "
-msgstr "\nOdoo formulárový editor\n====================\n\nUmožňuje vytvárať webové formuláre na webových stránkach pomocou staviteľa webových stránok."
+msgstr "\nERP formulárový editor\n====================\n\nUmožňuje vytvárať webové formuláre na webových stránkach pomocou staviteľa webových stránok."
 
 #. module: base
 #: model:ir.module.module,description:base.module_im_odoo_support
 msgid ""
 "\n"
-"Odoo Live Support\n"
+"ERP Live Support\n"
 "=================\n"
 "\n"
-"Ask your functional question directly to the Odoo Operators with the livechat support.\n"
+"Ask your functional question directly to the ERP Operators with the livechat support.\n"
 "\n"
 "        "
-msgstr "\nOdoo živá podpora\n=================\n\nOpýtajte sa svoju praktickú otázku priamo Odoo operátorov s liveChat podporou."
+msgstr "\nERP živá podpora\n=================\n\nOpýtajte sa svoju praktickú otázku priamo ERP operátorov s liveChat podporou."
 
 #. module: base
 #: model:ir.module.module,description:base.module_web_editor
 msgid ""
 "\n"
-"Odoo Web Editor widget.\n"
+"ERP Web Editor widget.\n"
 "==========================\n"
 "\n"
-msgstr "\nOdoo web editor nástroj.\n==========================\n"
+msgstr "\nERP web editor nástroj.\n==========================\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_livechat
 msgid ""
 "\n"
-"Odoo Website LiveChat\n"
+"ERP Website LiveChat\n"
 "========================\n"
-"For website built with Odoo CMS, this module include a chat button on your Website, and allow your visitors to chat with your collabarators.\n"
+"For website built with ERP CMS, this module include a chat button on your Website, and allow your visitors to chat with your collabarators.\n"
 "It also will include the feedback tool for the livechat, and web pages to display your channel and its ratings on the website.\n"
 "        "
-msgstr "\nOdoo živý chat web stránky \n========================\nPre webové stránky postavené s Odoo CMS, tento modul zahŕňa tlačidlo chatu na vašich webových stránkach, a umožňuje tak návštevníkom chatovať so svojimi spoluúčastníkmi.\nTiež bude obsahovať nástroj spätnej väzby pre live chat, a webové stránky pre zobrazenie vášho kanála a jeho hodnotenie na webových stránkach."
+msgstr "\nERP živý chat web stránky \n========================\nPre webové stránky postavené s ERP CMS, tento modul zahŕňa tlačidlo chatu na vašich webových stránkach, a umožňuje tak návštevníkom chatovať so svojimi spoluúčastníkmi.\nTiež bude obsahovať nástroj spätnej väzby pre live chat, a webové stránky pre zobrazenie vášho kanála a jeho hodnotenie na webových stránkach."
 
 #. module: base
 #: model:ir.module.module,description:base.module_web_settings_dashboard
 msgid ""
 "\n"
-"Odoo dashboard\n"
+"ERP dashboard\n"
 "==============\n"
 "* Quick access to install apps\n"
 "* Quick users add\n"
@@ -2249,7 +2249,7 @@ msgid ""
 "* Quick access to the `App Store` and `Theme Store`\n"
 "\n"
 "        "
-msgstr "\nOdoo nástenka\n==============\n* Rýchly prístup k inštalovaniu aplikácií\n* Rýchle pridávanie používateľov\n* Prístup ku všetkým plánovačom na jednom mieste\n* Rýchly prístup k obchodu s aplikáciami a obchodu s témami"
+msgstr "\nERP nástenka\n==============\n* Rýchly prístup k inštalovaniu aplikácií\n* Rýchle pridávanie používateľov\n* Prístup ku všetkým plánovačom na jednom mieste\n* Rýchly prístup k obchodu s aplikáciami a obchodu s témami"
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_event_track
@@ -2599,7 +2599,7 @@ msgid ""
 "Publish your products on eBay\n"
 "==============================================================\n"
 "\n"
-"The eBay integrator gives you the opportunity to manage your Odoo's products on eBay.\n"
+"The eBay integrator gives you the opportunity to manage your ERP's products on eBay.\n"
 "\n"
 "Key Features\n"
 "------------\n"
@@ -2609,7 +2609,7 @@ msgid ""
 "* Automatic creation of sales order and invoices\n"
 "\n"
 "  "
-msgstr "\nZverejnite svoje výrobky na eBay\n==============================================================\n\neBay integrátor vám dáva možnosť spravovať svoje Odoo produkty na eBay.\n\nKľúčové funkcie\n------------\n* Publikovať produkty na eBay\n* Revidovať, preceniť, ukončiť položky na eBay\n* Integrácia s pohybmi na sklade\n* Automatické vytvorenie predajných objednávok a faktúr"
+msgstr "\nZverejnite svoje výrobky na eBay\n==============================================================\n\neBay integrátor vám dáva možnosť spravovať svoje ERP produkty na eBay.\n\nKľúčové funkcie\n------------\n* Publikovať produkty na eBay\n* Revidovať, preceniť, ukončiť položky na eBay\n* Integrácia s pohybmi na sklade\n* Automatické vytvorenie predajných objednávok a faktúr"
 
 #. module: base
 #: model:ir.module.module,description:base.module_point_of_sale
@@ -2827,9 +2827,9 @@ msgid ""
 "``l10n_ch_payment_slip``\n"
 "  Support of ESR/BVR payment slip report and reconciliation.\n"
 "\n"
-"``l10n_ch`` is located in the core Odoo modules. The other modules are in:\n"
+"``l10n_ch`` is located in the core ERP modules. The other modules are in:\n"
 "https://github.com/OCA/l10n-switzerland\n"
-msgstr "\nSwiss localization\n==================\n\n**Multilang Swiss PME/KMU 2015 account chart and taxes**\n\n**Author:** Camptocamp SA\n\n**Financial contributors:** Prisme Solutions Informatique SA, Quod SA\n\n**Translation contributors:** brain-tec AG, Agile Business Group\n\nThe swiss localization addons are organized this way:\n\n``l10n_ch``\nMultilang Swiss PME/KMU 2015 account chart and taxes (official addon)\n``l10n_ch_base_bank``\nTechnical module that introduces a new and simplified version of bank\ntype management\n``l10n_ch_bank``\nList of swiss banks\n``l10n_ch_zip``\nList of swiss postal zip\n``l10n_ch_dta``\nSupport of the DTA payment protocol (will be deprecated by the end of 2014)\n``l10n_ch_payment_slip``\nSupport of ESR/BVR payment slip report and reconciliation.\n\n``l10n_ch`` is located in the core Odoo modules. The other modules are in:\nhttps://github.com/OCA/l10n-switzerland\n"
+msgstr "\nSwiss localization\n==================\n\n**Multilang Swiss PME/KMU 2015 account chart and taxes**\n\n**Author:** Camptocamp SA\n\n**Financial contributors:** Prisme Solutions Informatique SA, Quod SA\n\n**Translation contributors:** brain-tec AG, Agile Business Group\n\nThe swiss localization addons are organized this way:\n\n``l10n_ch``\nMultilang Swiss PME/KMU 2015 account chart and taxes (official addon)\n``l10n_ch_base_bank``\nTechnical module that introduces a new and simplified version of bank\ntype management\n``l10n_ch_bank``\nList of swiss banks\n``l10n_ch_zip``\nList of swiss postal zip\n``l10n_ch_dta``\nSupport of the DTA payment protocol (will be deprecated by the end of 2014)\n``l10n_ch_payment_slip``\nSupport of ESR/BVR payment slip report and reconciliation.\n\n``l10n_ch`` is located in the core ERP modules. The other modules are in:\nhttps://github.com/OCA/l10n-switzerland\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_account_yodlee
@@ -2861,9 +2861,9 @@ msgid ""
 "Synchronization of timesheet entries with the external timesheet application.\n"
 "====================================================================\n"
 "\n"
-"If you use the external timesheet application, this module alows you to synchronize timesheet entries between Odoo and the application.\n"
+"If you use the external timesheet application, this module alows you to synchronize timesheet entries between ERP and the application.\n"
 "    "
-msgstr "\nSynchronizácia záznamov časového rozvrhu s externou aplikáciou časového rozvrhu .\n ====================================================================\n\nAk používate externú aplikáciu časového rozvrhu, tento modul umožňuje synchronizovať položky časového rozvrhu medzi Odoo a tou aplikáciou."
+msgstr "\nSynchronizácia záznamov časového rozvrhu s externou aplikáciou časového rozvrhu .\n ====================================================================\n\nAk používate externú aplikáciu časového rozvrhu, tento modul umožňuje synchronizovať položky časového rozvrhu medzi ERP a tou aplikáciou."
 
 #. module: base
 #: model:ir.module.module,description:base.module_account_voucher
@@ -2874,7 +2874,7 @@ msgid ""
 "old description:\n"
 "Invoicing & Payments by Accounting Voucher & Receipts\n"
 "=====================================================\n"
-"The specific and easy-to-use Invoicing system in Odoo allows you to keep track of your accounting, even when you are not an accountant. It provides an easy way to follow up on your vendors and customers. \n"
+"The specific and easy-to-use Invoicing system in ERP allows you to keep track of your accounting, even when you are not an accountant. It provides an easy way to follow up on your vendors and customers. \n"
 "\n"
 "You could use this simplified accounting in case you work with an (external) account to keep your books, and you still want to keep track of payments. \n"
 "\n"
@@ -2886,7 +2886,7 @@ msgid ""
 "* Voucher Receipt [Sales & Purchase]\n"
 "* Voucher Payment [Customer & Vendors]\n"
 "    "
-msgstr "\nTODO\n\nstarý popis:\nFakturácia a platby podľa účtovného poukazu & Príjmy\n===================================================== \nŠpecifický a ľahko použiteľný systém fakturácie v Odoo vám umožní sledovať vaše účtovníctvo, a to aj keď nie ste účtovník. To poskytuje jednoduchý spôsob, ako nadviazať na svojich dodávateľov a zákazníkov.\n\nToto zjednodušené účtovníctvo by sa dalo použiť v prípade, že pracujete s (externým) účtom, aby sa zachovali vaše záznamy, a k tomu chcete sledovať platby.\n\nFakturačný systém zahŕňa príjmy a poukážky (jednoduchý spôsob, ako udržať prehľad o predajoch a nákupoch). To vám ponúka jednoduchý spôsob registrácie platby, bez nutnosti kódovať kompletné výňatky z účtu.\n\nTento modul spravuje:\n\n* Zadávanie poukazov\n* Príjem poukazov [Predaje & Nákupy]\n* Platba poukazom[Zákazník & Predajcovia]"
+msgstr "\nTODO\n\nstarý popis:\nFakturácia a platby podľa účtovného poukazu & Príjmy\n===================================================== \nŠpecifický a ľahko použiteľný systém fakturácie v ERP vám umožní sledovať vaše účtovníctvo, a to aj keď nie ste účtovník. To poskytuje jednoduchý spôsob, ako nadviazať na svojich dodávateľov a zákazníkov.\n\nToto zjednodušené účtovníctvo by sa dalo použiť v prípade, že pracujete s (externým) účtom, aby sa zachovali vaše záznamy, a k tomu chcete sledovať platby.\n\nFakturačný systém zahŕňa príjmy a poukážky (jednoduchý spôsob, ako udržať prehľad o predajoch a nákupoch). To vám ponúka jednoduchý spôsob registrácie platby, bez nutnosti kódovať kompletné výňatky z účtu.\n\nTento modul spravuje:\n\n* Zadávanie poukazov\n* Príjem poukazov [Predaje & Nákupy]\n* Platba poukazom[Zákazník & Predajcovia]"
 
 #. module: base
 #: model:ir.module.module,description:base.module_lunch
@@ -3143,12 +3143,12 @@ msgstr "\nThis is the base module to manage the accounting chart for Maroc.\n===
 #: model:ir.module.module,description:base.module_l10n_generic_coa
 msgid ""
 "\n"
-"This is the base module to manage the generic accounting chart in Odoo.\n"
+"This is the base module to manage the generic accounting chart in ERP.\n"
 "==============================================================================\n"
 "\n"
 "Install some generic chart of accounts.\n"
 "    "
-msgstr "\nToto je základný modul pre správu všeobecného účtovnického grafu v Odoo.\n================================================== ============================\n\nNainštalovať nejaký všeobecný graf účtov."
+msgstr "\nToto je základný modul pre správu všeobecného účtovnického grafu v ERP.\n================================================== ============================\n\nNainštalovať nejaký všeobecný graf účtov."
 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_uk
@@ -3321,13 +3321,13 @@ msgstr "\nThis is the module to manage the accounting chart for Vietnam in OpenE
 #: model:ir.module.module,description:base.module_l10n_vn_reports
 msgid ""
 "\n"
-"This is the module to manage the accounting reports for Vietnam in Odoo.\n"
+"This is the module to manage the accounting reports for Vietnam in ERP.\n"
 "=========================================================================\n"
 "\n"
 "This module applies to companies based in Vietnamese Accounting Standard (VAS).\n"
 "\n"
 "**Credits:** General Solutions.\n"
-msgstr "\nThis is the module to manage the accounting reports for Vietnam in Odoo.\n=========================================================================\n\nThis module applies to companies based in Vietnamese Accounting Standard (VAS).\n\n**Credits:** General Solutions.\n"
+msgstr "\nThis is the module to manage the accounting reports for Vietnam in ERP.\n=========================================================================\n\nThis module applies to companies based in Vietnamese Accounting Standard (VAS).\n\n**Credits:** General Solutions.\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_crm_partner_assign
@@ -3535,7 +3535,7 @@ msgid ""
 "\n"
 "Scanning\n"
 "--------\n"
-"Use a USB scanner (that mimics keyboard inputs) in order to work with barcodes in Odoo.\n"
+"Use a USB scanner (that mimics keyboard inputs) in order to work with barcodes in ERP.\n"
 "The scanner must be configured to use no prefix and a carriage return or tab as suffix.\n"
 "The delay between each character input must be less than or equal to 50 milliseconds.\n"
 "Most barcode scanners will work out of the box.\n"
@@ -3550,7 +3550,7 @@ msgid ""
 "- Patterns to identify barcodes containing a numerical value (e.g. weight, price)\n"
 "- Definition of barcode aliases that allow to identify the same product with different barcodes\n"
 "- Support for encodings EAN-13, EAN-8 and UPC-A\n"
-msgstr "\nTento modul pridáva podporu pre snímanie čiarového kódu a analýzu.\n\nSkenovanie\n--------\nPoužite USB skener (ktorá napodobňuje klávesnicové vstupy) pre prácu s čiarovými kódmi v Odoo.\nSkener musí byť nakonfigurovaný na použitie bez prefixu a návrat vozíka alebo záloku ako sufix.\nOneskorenie medzi zadaním každého znaku musí byť menšie ako alebo rovné 50 milisekúnd.\nVäčšina sknerov čiarových kódov bude fungovať po vybalení z krabice.\nAvšak, uistite sa že skener používa rovnaké rozloženie klávesnice ako zariadenie na ktorom je zapojený.\nBuď pomocou nastavenia rozloženia klávesnice zariadenia na US QWERTY (predvolená hodnota pre väčšinu čítačov)\nalebo zmenou rozloženia klávesnice skenera (pozrite v príručke).\n\nAnalýza\n------- \nČiarové kódy sú interpretované pomocou pravidiel definovaných nomenklatúrou.\nTo poskytuje nasledujúce funkcie:\n- Vzory pre identifikáciu čiarových kódov, ktoré obsahujú číselné hodnoty (napr hmotnosť, cena)\n- Definícia aliasov čiarových kódov, ktoré umožňujú identifikovať rovnaký výrobok s rôznymi čiarovými kódmi\n- Podpora pre kódovanie EAN-13, EAN-8 a UPC-A\n"
+msgstr "\nTento modul pridáva podporu pre snímanie čiarového kódu a analýzu.\n\nSkenovanie\n--------\nPoužite USB skener (ktorá napodobňuje klávesnicové vstupy) pre prácu s čiarovými kódmi v ERP.\nSkener musí byť nakonfigurovaný na použitie bez prefixu a návrat vozíka alebo záloku ako sufix.\nOneskorenie medzi zadaním každého znaku musí byť menšie ako alebo rovné 50 milisekúnd.\nVäčšina sknerov čiarových kódov bude fungovať po vybalení z krabice.\nAvšak, uistite sa že skener používa rovnaké rozloženie klávesnice ako zariadenie na ktorom je zapojený.\nBuď pomocou nastavenia rozloženia klávesnice zariadenia na US QWERTY (predvolená hodnota pre väčšinu čítačov)\nalebo zmenou rozloženia klávesnice skenera (pozrite v príručke).\n\nAnalýza\n------- \nČiarové kódy sú interpretované pomocou pravidiel definovaných nomenklatúrou.\nTo poskytuje nasledujúce funkcie:\n- Vzory pre identifikáciu čiarových kódov, ktoré obsahujú číselné hodnoty (napr hmotnosť, cena)\n- Definícia aliasov čiarových kódov, ktoré umožňujú identifikovať rovnaký výrobok s rôznymi čiarovými kódmi\n- Podpora pre kódovanie EAN-13, EAN-8 a UPC-A\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_sale_margin
@@ -4119,7 +4119,7 @@ msgid ""
 "\n"
 "Vehicle, leasing, insurances, cost\n"
 "==================================\n"
-"With this module, Odoo helps you managing all your vehicles, the\n"
+"With this module, ERP helps you managing all your vehicles, the\n"
 "contracts associated to those vehicle as well as services, fuel log\n"
 "entries, costs and many other features necessary to the management \n"
 "of your fleet of vehicle(s)\n"
@@ -4132,7 +4132,7 @@ msgid ""
 "* Add services, fuel log entry, odometer values for all vehicles\n"
 "* Show all costs associated to a vehicle or to a type of service\n"
 "* Analysis graph for costs\n"
-msgstr "\nVozidlo, leasing, poistenia, náklady\n================================== \nS týmto modulom, Odoo vám pomôže spravovať všetky svoje vozidlá,\nzmluvy spojenej s týmito vozidla, ako aj služby, záznamy protokolu paliva, \nnáklady a mnoho ďalších funkcií potrebných na riadenie\nvášho vozového parku (vozidiel)\n\nHlavné funkcie\n------------- \n* Pridávanie vozidiel do vášho vozového parku\n* Spravovanie zmlúv na vozidlá\n* Pripomenutie keď sa zmluve blíži dátum vypršania platnosti\n* Pridať služby, záznamy protokolu paliva, hodnoty počítadla kilometrov pre všetky vozidlá\n* Zobraziť všetky náklady spojené s vozidlom alebo na druhom služby\n* Analytický graf nákladov\n"
+msgstr "\nVozidlo, leasing, poistenia, náklady\n================================== \nS týmto modulom, ERP vám pomôže spravovať všetky svoje vozidlá,\nzmluvy spojenej s týmito vozidla, ako aj služby, záznamy protokolu paliva, \nnáklady a mnoho ďalších funkcií potrebných na riadenie\nvášho vozového parku (vozidiel)\n\nHlavné funkcie\n------------- \n* Pridávanie vozidiel do vášho vozového parku\n* Spravovanie zmlúv na vozidlá\n* Pripomenutie keď sa zmluve blíži dátum vypršania platnosti\n* Pridať služby, záznamy protokolu paliva, hodnoty počítadla kilometrov pre všetky vozidlá\n* Zobraziť všetky náklady spojené s vozidlom alebo na druhom služby\n* Analytický graf nákladov\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_stock_account
@@ -6347,8 +6347,8 @@ msgstr "Chatujte s návštevníkmi vašich webových stránok"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_im_odoo_support
-msgid "Chat with the Odoo collaborators"
-msgstr "Chatujte so spolupracovníkmi Odoo"
+msgid "Chat with the ERP collaborators"
+msgstr "Chatujte so spolupracovníkmi ERP"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_account_check_printing
@@ -7175,9 +7175,9 @@ msgstr "Vytvorte nový záznam v základnom modeli"
 #. module: base
 #: model:ir.actions.act_window,help:base.action_res_company_form
 msgid ""
-"Create and manage the companies that will be managed by Odoo from here. "
+"Create and manage the companies that will be managed by ERP from here. "
 "Shops or subsidiaries can be created and maintained from here."
-msgstr "Vytvorte a spravujte spoločnosti, ktoré bude bude riadiť Odoo odtiaľto. Obchody alebo dcérske spoločnosti možno vytvoriť a udržiavať odtiaľto."
+msgstr "Vytvorte a spravujte spoločnosti, ktoré bude bude riadiť ERP odtiaľto. Obchody alebo dcérske spoločnosti možno vytvoriť a udržiavať odtiaľto."
 
 #. module: base
 #: model:ir.actions.act_window,help:base.action_res_users
@@ -8908,9 +8908,9 @@ msgstr "Pre akcie, jeden z možných akčných slotov:\n- client_action_multi\n-
 #. module: base
 #: model:ir.ui.view,arch_db:base.wizard_lang_export
 msgid ""
-"For more details about translating Odoo in your language, please refer to "
+"For more details about translating ERP in your language, please refer to "
 "the"
-msgstr "Pre viac informácií o prekladaní Odoo vo vašom jazyku, prosím obráťte sa na"
+msgstr "Pre viac informácií o prekladaní ERP vo vašom jazyku, prosím obráťte sa na"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_model_fields_relation_field
@@ -9941,7 +9941,7 @@ msgstr "Ak povolíte túto možnosť, budú existujúce preklady (vrátane uprav
 #: model:ir.model.fields,help:base.field_ir_ui_menu_groups_id
 msgid ""
 "If you have groups, the visibility of this menu will be based on these "
-"groups. If this field is empty, Odoo will compute visibility based on the "
+"groups. If this field is empty, ERP will compute visibility based on the "
 "related object's read access."
 msgstr "Ak máte skupiny, viditeľnosť tohto menu bude na nich založená. Ak bude toto pole prázdne, OpenERP vypočíta viditeľnosť v závislosti na čítacích právach priradeného objektu."
 
@@ -11339,12 +11339,12 @@ msgstr "Malta"
 #. module: base
 #: model:ir.actions.act_window,help:base.grant_menu_access
 msgid ""
-"Manage and customize the items available and displayed in your Odoo system "
+"Manage and customize the items available and displayed in your ERP system "
 "menu. You can delete an item by clicking on the box at the beginning of each"
 " line and then delete it through the button that appeared. Items can be "
 "assigned to specific groups in order to make them accessible to some users "
 "within the system."
-msgstr "Správa a úprava položiek, ktoré sú dostupné a zobrazené vo vašom Odoo menu. Položku môžte vymazať kliknutím na pole na začiatku riadku a nsledne pomocou tlačidla, ktoré sa objaví. Položky môžu byť priradené k určitým skupinám aby boli dostupné iba pre niektorých používateľov systému."
+msgstr "Správa a úprava položiek, ktoré sú dostupné a zobrazené vo vašom ERP menu. Položku môžte vymazať kliknutím na pole na začiatku riadku a nsledne pomocou tlačidla, ktoré sa objaví. Položky môžu byť priradené k určitým skupinám aby boli dostupné iba pre niektorých používateľov systému."
 
 #. module: base
 #: model:ir.actions.act_window,help:base.action_res_bank_form
@@ -12321,54 +12321,54 @@ msgstr "Objekt:"
 
 #. module: base
 #: selection:ir.module.module,license:0
-msgid "Odoo Enterprise Edition License v1.0"
-msgstr "Odoo podnikateľská edícia licencia v1.0"
+msgid "ERP Enterprise Edition License v1.0"
+msgstr "ERP podnikateľská edícia licencia v1.0"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_im_odoo_support
-msgid "Odoo Live Support"
-msgstr "Odoo Live Support"
+msgid "ERP Live Support"
+msgstr "ERP Live Support"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_web_settings_dashboard
-msgid "Odoo Settings Dashboard"
-msgstr "Odoo nástenka nastavení"
+msgid "ERP Settings Dashboard"
+msgstr "ERP nástenka nastavení"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_crm_voip
-msgid "Odoo VOIP"
-msgstr "Odoo VOIP"
+msgid "ERP VOIP"
+msgstr "ERP VOIP"
 
 #. module: base
 #: model:ir.actions.act_window,help:base.action_partner_customer_form
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "                a customer: discussions, history of business opportunities,\n"
 "                documents, etc."
-msgstr "Odoo vám pomáha ľahko sledovať všetky aktivity súvisiace so\nzákazníkom: diskusie, história obchodných príležitostí,\ndokumenty atď."
+msgstr "ERP vám pomáha ľahko sledovať všetky aktivity súvisiace so\nzákazníkom: diskusie, história obchodných príležitostí,\ndokumenty atď."
 
 #. module: base
 #: model:ir.actions.act_window,help:base.action_partner_form
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "                a customer; discussions, history of business opportunities,\n"
 "                documents, etc."
-msgstr "Odoo vám pomáha ľahko sledovať všetky aktivity súvisiace so\nzákazníkom; diskusie, história obchodných príležitostí,\ndokumenty atď."
+msgstr "ERP vám pomáha ľahko sledovať všetky aktivity súvisiace so\nzákazníkom; diskusie, história obchodných príležitostí,\ndokumenty atď."
 
 #. module: base
 #: model:ir.actions.act_window,help:base.action_partner_supplier_form
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "                a supplier: discussions, history of purchases,\n"
 "                documents, etc."
-msgstr "Odoo vám pomáha ľahko sledovať všetky aktivity súvisiace s\ndodávateľom: diskusie, história nákupov,\ndokumenty atď."
+msgstr "ERP vám pomáha ľahko sledovať všetky aktivity súvisiace s\ndodávateľom: diskusie, história nákupov,\ndokumenty atď."
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_sequence_padding
 msgid ""
-"Odoo will automatically adds some '0' on the left of the 'Next Number' to "
+"ERP will automatically adds some '0' on the left of the 'Next Number' to "
 "get the required padding size."
-msgstr "Odoo sám prídaná '0' naľavo od 'Nasledujúce čísla' aby sa dosiahlo požadovaného zarovnania."
+msgstr "ERP sám prídaná '0' naľavo od 'Nasledujúce čísla' aby sa dosiahlo požadovaného zarovnania."
 
 #. module: base
 #: model:res.partner.category,name:base.res_partner_category_12
@@ -13111,8 +13111,8 @@ msgstr "Portálový sklad"
 #: model:res.groups,comment:base.group_portal
 msgid ""
 "Portal members have specific access rights (such as record rules and restricted menus).\n"
-"                They usually do not belong to the usual Odoo groups."
-msgstr "Členovia portálu majú špecifické prístupové práva (ako sú pravidilá záznamov a obmedzené ponuky).\nZvyčajne nepatria do bežných Odoo skupín."
+"                They usually do not belong to the usual ERP groups."
+msgstr "Členovia portálu majú špecifické prístupové práva (ako sú pravidilá záznamov a obmedzené ponuky).\nZvyčajne nepatria do bežných ERP skupín."
 
 #. module: base
 #: model:res.country,name:base.pt
@@ -13365,8 +13365,8 @@ msgstr "Verejné"
 #: model:res.groups,comment:base.group_public
 msgid ""
 "Public users have specific access rights (such as record rules and restricted menus).\n"
-"                They usually do not belong to the usual Odoo groups."
-msgstr "Verejní užívatelia majú špecifické prístupové práva (ako sú pravidilá záznamov a obmedzené ponuky).\nZvyčajne nepatria do bežných Odoo skupín."
+"                They usually do not belong to the usual ERP groups."
+msgstr "Verejní užívatelia majú špecifické prístupové práva (ako sú pravidilá záznamov a obmedzené ponuky).\nZvyčajne nepatria do bežných ERP skupín."
 
 #. module: base
 #: model:ir.module.module,summary:base.module_website_membership
@@ -15263,8 +15263,8 @@ msgstr "TGZ Archív"
 #: model:ir.ui.view,arch_db:base.wizard_lang_export
 msgid ""
 "TGZ format: this is a compressed archive containing a PO file, directly suitable\n"
-"                                for uploading to Odoo's translation platform,"
-msgstr "Formát TGZ: jedná sa o komprimovaný archív obsahujúci súbor PO, priamo vhodný\npre nahrávanie do Odoo prekladovej platformy,"
+"                                for uploading to ERP's translation platform,"
+msgstr "Formát TGZ: jedná sa o komprimovaný archív obsahujúci súbor PO, priamo vhodný\npre nahrávanie do ERP prekladovej platformy,"
 
 #. module: base
 #: code:addons/base/res/res_company.py:107
@@ -15380,11 +15380,11 @@ msgstr "Technické nastavenia"
 #: model:ir.model.fields,help:base.field_res_users_company_type
 msgid ""
 "Technical field, used only to display a boolean using a radio button. As for"
-" Odoo v9 RadioButton cannot be used on boolean fields, this one serves as "
+" ERP v9 RadioButton cannot be used on boolean fields, this one serves as "
 "interface. Due to the old API limitations with interface function field, we "
 "implement it by hand instead of a true function field. When migrating to the"
 " new API the code should be simplified."
-msgstr "Technické pole, ktoré sa používa iba na zobrazenie boolovského pomocou rádiového spínača. Pokiaľ ide o Odoo v9 RadioButton nemôže byť použitý na boolovské pole, tento slúži ako rozhranie. Vzhľadom k starým obmedzeniam API s poľom funkcie rozhrania , my ho implementujeme manuálne namiesto poľa skutočnej funkcie . Pri prechode na nové rozhranie API by mal byť kód  zjednodušený. "
+msgstr "Technické pole, ktoré sa používa iba na zobrazenie boolovského pomocou rádiového spínača. Pokiaľ ide o ERP v9 RadioButton nemôže byť použitý na boolovské pole, tento slúži ako rozhranie. Vzhľadom k starým obmedzeniam API s poľom funkcie rozhrania , my ho implementujeme manuálne namiesto poľa skutočnej funkcie . Pri prechode na nové rozhranie API by mal byť kód  zjednodušený. "
 
 #. module: base
 #: model:ir.actions.report.xml,name:base.ir_module_reference_print
@@ -15545,9 +15545,9 @@ msgstr "Spoločnosť pre, ktorú práve pracuje používateľ."
 #: model:ir.actions.act_window,help:base.act_ir_actions_todo_form
 msgid ""
 "The configuration wizards are used to help you configure a new instance of "
-"Odoo. They are launched during the installation of new modules, but you can "
+"ERP. They are launched during the installation of new modules, but you can "
 "choose to restart some wizards manually from this menu."
-msgstr "Sprievodcovia konfiguráciou sú používaný aby vám pomohli nastaviť novú Odoo inštanciu. Sú spustení počas inštalácie nových modulov, ale môžete si vybrať reštart niektorých sprievodcov manuálne z tohto menu."
+msgstr "Sprievodcovia konfiguráciou sú používaný aby vám pomohli nastaviť novú ERP inštanciu. Sú spustení počas inštalácie nových modulov, ale môžete si vybrať reštart niektorých sprievodcov manuálne z tohto menu."
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_model_fields_related
@@ -15919,10 +15919,10 @@ msgstr "Toto meno súboru prílohy je použité pri ukladaní vytlačených výs
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_no
 msgid ""
-"This is the module to manage the accounting chart for Norway in Odoo.\n"
+"This is the module to manage the accounting chart for Norway in ERP.\n"
 "\n"
-"Updated for Odoo 9 by Bringsvor Consulting AS <www.bringsvor.com>\n"
-msgstr "Toto je modul pre správu Nórskeho účtovného grafu v Odoo.\n\nAktualizované pre Odoo 9 podľa Bringsvor Consulting AS <www.bringsvor.com> \n"
+"Updated for ERP 9 by Bringsvor Consulting AS <www.bringsvor.com>\n"
+msgstr "Toto je modul pre správu Nórskeho účtovného grafu v ERP.\n\nAktualizované pre ERP 9 podľa Bringsvor Consulting AS <www.bringsvor.com> \n"
 
 #. module: base
 #: model:ir.ui.view,arch_db:base.view_base_module_upgrade
@@ -16902,7 +16902,7 @@ msgstr "Zobrazenia"
 #. module: base
 #: model:ir.actions.act_window,help:base.action_ui_view
 msgid ""
-"Views allows you to personalize each view of Odoo. You can add new fields, "
+"Views allows you to personalize each view of ERP. You can add new fields, "
 "move fields, rename them or delete the ones that you do not need."
 msgstr "Zobrazenia vám umožňujú personalizovať každé OpenERP zobrazenie. Môžte pridávať nové polia, presúvať polia, premenovať ich alebo vymazať tie ktoré nepotrebujete."
 
@@ -17197,8 +17197,8 @@ msgid ""
 "arrow, but rather add new nodes or arrows. If you absolutly need to modify a"
 " node or arrow, you can only change fields that are empty or set to the "
 "default value. If you don't do that, your customization will be overwrited "
-"at the next update or upgrade to a future version of Odoo."
-msgstr "Pri úpravách pracovný postupu sa uistite, že nemusíte upraviť existujúci uzol alebo šípku, ale pridávať nové uzly alebo šípky. Ak nevyhnutne potrebujete upraviť uzol alebo šípky, môžete zmeniť len polia, ktoré sú prázdne alebo nastaviť na predvolenú hodnotu. Ak to neurobíte, bude vaša úprava prepísaná pri budúcej aktualizácii alebo vylepšení na budúce verzie Odoo."
+"at the next update or upgrade to a future version of ERP."
+msgstr "Pri úpravách pracovný postupu sa uistite, že nemusíte upraviť existujúci uzol alebo šípku, ale pridávať nové uzly alebo šípky. Ak nevyhnutne potrebujete upraviť uzol alebo šípky, môžete zmeniť len polia, ktoré sú prázdne alebo nastaviť na predvolenú hodnotu. Ak to neurobíte, bude vaša úprava prepísaná pri budúcej aktualizácii alebo vylepšení na budúce verzie ERP."
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_act_server_sequence
@@ -17445,8 +17445,8 @@ msgstr "Nemôžte registrovať dva fonty s rovnakým menom!"
 #, python-format
 msgid ""
 "You can not remove the admin user as it is used internally for resources "
-"created by Odoo (updates, module installation, ...)"
-msgstr "Nemôžte odstrániť admin používateľa, lebo sa používa interne pre zdroje ktoré vytvorí Odoo (aktualizácie, inštalácie modulov, ...)"
+"created by ERP (updates, module installation, ...)"
+msgstr "Nemôžte odstrániť admin používateľa, lebo sa používa interne pre zdroje ktoré vytvorí ERP (aktualizácie, inštalácie modulov, ...)"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_res_country_address_format
@@ -17713,8 +17713,8 @@ msgstr "napr. en_US"
 #: model:ir.ui.view,arch_db:base.view_company_form
 #: model:ir.ui.view,arch_db:base.view_partner_address_form
 #: model:ir.ui.view,arch_db:base.view_partner_form
-msgid "e.g. www.odoo.com"
-msgstr "napr. www.odoo.com"
+msgid "e.g. www.erp.com"
+msgstr "napr. www.erp.com"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website_sale

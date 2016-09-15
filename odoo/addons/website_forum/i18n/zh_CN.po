@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_forum
 # 
@@ -11,7 +11,7 @@
 # liAnGjiA <liangjia@qq.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-26 14:10+0000\n"
 "PO-Revision-Date: 2016-07-12 07:31+0000\n"
@@ -2531,8 +2531,8 @@ msgstr "标记的队列是空的"
 #: model:forum.forum,faq:website_forum.forum_help
 msgid ""
 "The goal of this site is create a relevant knowledge base that would answer\n"
-"    questions related to Odoo."
-msgstr "这个网站的目的是建立一个与Odoo问题回复相关的知识库"
+"    questions related to ERP."
+msgstr "这个网站的目的是建立一个与ERP问题回复相关的知识库"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.moderation_queue
@@ -3025,8 +3025,8 @@ msgstr "重复的帖子"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.new_link
-msgid "e.g. https://www.odoo.com"
-msgstr "例如https://www.odoo.com"
+msgid "e.g. https://www.erp.com"
+msgstr "例如https://www.erp.com"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.faq
@@ -3082,8 +3082,8 @@ msgstr "这里"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "how to configure or customize Odoo to specific business needs,"
-msgstr "如何为特定的业务需求配置或自定义Odoo"
+msgid "how to configure or customize ERP to specific business needs,"
+msgstr "如何为特定的业务需求配置或自定义ERP"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
@@ -3092,8 +3092,8 @@ msgstr "如果为你的需求开发模块"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "how to install Odoo on a specific infrastructure,"
-msgstr "如何在特定环境下安装Odoo"
+msgid "how to install ERP on a specific infrastructure,"
+msgstr "如何在特定环境下安装ERP"
 
 #. module: website_forum
 #. openerp-web
@@ -3208,8 +3208,8 @@ msgstr "垃圾邮件或广告"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "specific questions about Odoo service offers, etc."
-msgstr "有关Odoo服务等具体问题"
+msgid "specific questions about ERP service offers, etc."
+msgstr "有关ERP服务等具体问题"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
@@ -3292,8 +3292,8 @@ msgstr "网站"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "what's the best way to use Odoo for a specific business need,"
-msgstr "什么是使用Odoo特定业务需求的最佳方式，"
+msgid "what's the best way to use ERP for a specific business need,"
+msgstr "什么是使用ERP特定业务需求的最佳方式，"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help

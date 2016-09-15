@@ -411,7 +411,7 @@ PaymentScreenWidget.include({
 
             if (data === "internal error") {
                 def.resolve({
-                    message: _t("Odoo error while processing transaction.")
+                    message: _t("ERP error while processing transaction.")
                 });
                 return;
             }
@@ -559,7 +559,7 @@ PaymentScreenWidget.include({
 
             if (data === "internal error") {
                 def.resolve({
-                    message: _t("Odoo error while processing transaction.")
+                    message: _t("ERP error while processing transaction.")
                 });
                 return;
             }

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * crm
 # 
@@ -6,7 +6,7 @@
 # Adrian Munteanu <adrian.munteanu@itconstruction.ro>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:17+0000\n"
 "PO-Revision-Date: 2016-02-20 10:37+0000\n"
@@ -344,10 +344,10 @@ msgstr ""
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"<strong>Every business is different.</strong> Odoo allows to\n"
+"<strong>Every business is different.</strong> ERP allows to\n"
 "                        customize every application and it's usually a good\n"
 "                        advice to customize screens to fit your sales process.\n"
-"                        <strong>Customizations are done by Odoo experts.</strong>"
+"                        <strong>Customizations are done by ERP experts.</strong>"
 msgstr ""
 
 #. module: crm
@@ -506,7 +506,7 @@ msgstr ""
 msgid ""
 "<strong>Trainings</strong><br/>\n"
 "                                To build a strong sales training program, you can use the following\n"
-"                                apps of Odoo:"
+"                                apps of ERP:"
 msgstr ""
 
 #. module: crm
@@ -551,7 +551,7 @@ msgstr ""
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"A product in Odoo is something you sell or buy. It could\n"
+"A product in ERP is something you sell or buy. It could\n"
 "                    be a goods, consumable or services. Choose how you want to\n"
 "                    create your products:"
 msgstr ""
@@ -1670,7 +1670,7 @@ msgstr "Din motive de siguranţă, nu aveţi posibilitatea să îmbinaţi mai mu
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the ERP Team,<br/>\n"
 "                          Fabien Pinckaers, Founder"
 msgstr ""
 
@@ -1748,7 +1748,7 @@ msgstr "Gestionati determinarea sau generarea partenerului in wizard-urile MRC."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
-msgid "Happy Selling!<br/>- The Odoo Team"
+msgid "Happy Selling!<br/>- The ERP Team"
 msgstr ""
 
 #. module: crm
@@ -1888,7 +1888,7 @@ msgstr ""
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"In Odoo, there are 3 different ways to manage your products prices.<br/>"
+"In ERP, there are 3 different ways to manage your products prices.<br/>"
 msgstr ""
 
 #. module: crm
@@ -1911,7 +1911,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
 "Incoming email create leads automatically when a new prospect contacts you.\n"
-"                        That's the easiest way to integrate Odoo with third party apps."
+"                        That's the easiest way to integrate ERP with third party apps."
 msgstr ""
 
 #. module: crm
@@ -2625,19 +2625,19 @@ msgstr ""
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
-msgid "Odoo Default"
+msgid "ERP Default"
 msgstr ""
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_sale_config_settings_module_website_sign
 #: model:ir.ui.view,arch_db:crm.view_sale_config_settings
-msgid "Odoo Sign"
+msgid "ERP Sign"
 msgstr ""
 
 #. module: crm
 #: model:ir.actions.act_window,help:crm.crm_case_form_view_salesteams_opportunity
 msgid ""
-"Odoo helps you keep track of your sales pipeline to follow\n"
+"ERP helps you keep track of your sales pipeline to follow\n"
 "                    up potential sales and better forecast your future revenues."
 msgstr ""
 
@@ -2645,26 +2645,26 @@ msgstr ""
 #: model:ir.actions.act_window,help:crm.crm_lead_opportunities
 #: model:ir.actions.act_window,help:crm.crm_lead_opportunities_tree_view
 msgid ""
-"Odoo helps you keep track of your sales pipeline to follow\n"
+"ERP helps you keep track of your sales pipeline to follow\n"
 "                up potential sales and better forecast your future revenues."
 msgstr ""
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"Odoo is the world's only software to have a full integration of Marketing "
+"ERP is the world's only software to have a full integration of Marketing "
 "Apps for your sales channel: insight sales, point of sale, ecommerce."
 msgstr ""
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_sale_config_settings_generate_sales_team_alias
-msgid "Odoo will generate an email alias based on the sales team name"
+msgid "ERP will generate an email alias based on the sales team name"
 msgstr ""
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"Odoo will help you create polished, professional quotations and contracts in minutes.\n"
+"ERP will help you create polished, professional quotations and contracts in minutes.\n"
 "                        Tell us how you sell and we will tell you what\n"
 "                        configuration will best fit your quotation process."
 msgstr ""
@@ -3206,7 +3206,7 @@ msgstr "Selecteaza Etapele pentru aceasta Echipa de Vanzari"
 msgid ""
 "Select the list of fields used to search for\n"
 "                            duplicated records. If you select several fields,\n"
-"                            Odoo will propose you to merge only those having\n"
+"                            ERP will propose you to merge only those having\n"
 "                            all these fields in common. (not one of the fields)."
 msgstr ""
 
@@ -3265,7 +3265,7 @@ msgstr "Configuratea acestei etape va schimba automat probabilitatea in ceea ce 
 msgid ""
 "Setting up your sales funnel is just the first step. To achieve a\n"
 "                      significant boost, we will help you get the most out of\n"
-"                      Odoo CRM to transform how your salespeople work.\n"
+"                      ERP CRM to transform how your salespeople work.\n"
 "                      That's the purpose of this guide."
 msgstr ""
 
@@ -3484,7 +3484,7 @@ msgstr ""
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
-msgid "Templates of quotations (use Odoo Online Proposals for this)"
+msgid "Templates of quotations (use ERP Online Proposals for this)"
 msgstr ""
 
 #. module: crm
@@ -3515,7 +3515,7 @@ msgstr ""
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_team_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
 msgstr ""
@@ -3524,7 +3524,7 @@ msgstr ""
 #: model:ir.model.fields,help:crm.field_crm_team_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
+"<jobs@example.erp.com>"
 msgstr ""
 
 #. module: crm
@@ -3874,7 +3874,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
 msgstr ""
@@ -3883,7 +3883,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
 msgstr ""
@@ -3898,7 +3898,7 @@ msgstr ""
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"We designed Odoo to help you grow your business. Odoo CRM\n"
+"We designed ERP to help you grow your business. ERP CRM\n"
 "                      is not just a tool, we want it to have a major impact on your\n"
 "                      sales performance. That's our mission, and we are serious about it."
 msgstr ""

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * pos_mercury
 # 
@@ -14,7 +14,7 @@
 # liAnGjiA <liangjia@qq.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:39+0000\n"
 "PO-Revision-Date: 2016-07-07 14:36+0000\n"
@@ -622,7 +622,7 @@ msgstr "服务器没有响应（连接到网络？）"
 #: code:addons/pos_mercury/static/src/js/pos_mercury.js:413
 #: code:addons/pos_mercury/static/src/js/pos_mercury.js:560
 #, python-format
-msgid "Odoo error while processing transaction."
+msgid "ERP error while processing transaction."
 msgstr "处理交易事务的ODoo错误"
 
 #. module: pos_mercury

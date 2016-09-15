@@ -37,7 +37,7 @@ class AccountConfigSettings(models.TransientModel):
     paypal_account = fields.Char(related='company_id.paypal_account', size=128, string='Paypal account',
         help="""Paypal account (email) for receiving online payments (credit card, etc.)
              If you set a paypal account, the customer  will be able to pay your invoices or quotations
-             with a button \"Pay with  Paypal\" in automated emails or through the Odoo portal.""")
+             with a button \"Pay with  Paypal\" in automated emails or through the ERP portal.""")
     company_footer = fields.Text(related='company_id.rml_footer', string='Bank accounts footer preview',
         readonly=True, help="Bank accounts as printed in the footer of each printed document")
 
@@ -131,10 +131,10 @@ class AccountConfigSettings(models.TransientModel):
         help='Get your bank statements from your bank and import them through yodlee.com.\n'
                                           '-that installs the module account_yodlee.')
     module_account_bank_statement_import_qif = fields.Boolean("Import .qif files",
-        help='Get your bank statements from your bank and import them in Odoo in the .QIF format.\n'
+        help='Get your bank statements from your bank and import them in ERP in the .QIF format.\n'
             'This installs the module account_bank_statement_import_qif.')
     module_account_bank_statement_import_ofx = fields.Boolean("Import in .ofx format",
-        help='Get your bank statements from your bank and import them in Odoo in the .OFX format.\n'
+        help='Get your bank statements from your bank and import them in ERP in the .OFX format.\n'
             'This installs the module account_bank_statement_import_ofx.')
 
 

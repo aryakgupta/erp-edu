@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website
 # 
@@ -9,7 +9,7 @@
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-08-06 10:39+0000\n"
@@ -71,8 +71,8 @@ msgstr ", bijgewerkt:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
-msgid "- The Odoo Team"
-msgstr "- Het Odoo Team"
+msgid "- The ERP Team"
+msgstr "- Het ERP Team"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sitemap_index_xml
@@ -467,9 +467,9 @@ msgstr "<strong>1. Uw hoofdmenu items</strong> en 2. Uw secundaire menu items (o
 msgid ""
 "<strong>2. Create the page variation</strong><br/>\n"
 "                                Once you're clear on the measurable objective, the page and the variable\n"
-"                                you want to test, duplicate the page in Odoo using the <strong>'Versions'</strong>\n"
+"                                you want to test, duplicate the page in ERP using the <strong>'Versions'</strong>\n"
 "                                menu and apply the modification you decided."
-msgstr "<strong>2. Maak de pagina variaties</strong><br/>\nEenmaal u zeker bent van het meetbare objectief, de pagina en de variabelen\nwilt u testen, dupliceer de Odoo pagina door middel van de <strong>'Versies'</strong>\nmenu en pas de wijzigingen toe die u heeft beslist."
+msgstr "<strong>2. Maak de pagina variaties</strong><br/>\nEenmaal u zeker bent van het meetbare objectief, de pagina en de variabelen\nwilt u testen, dupliceer de ERP pagina door middel van de <strong>'Versies'</strong>\nmenu en pas de wijzigingen toe die u heeft beslist."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -493,8 +493,8 @@ msgstr "<strong>4. Maak uw campagne in Google Analytics</strong><br/>\nVolg simp
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_button
-msgid "<strong>50,000+ companies run Odoo to grow their businesses.</strong>"
-msgstr "<strong>50,000+ bedrijven gebruiken Odoo om hun zaak te doen groeien.</strong>"
+msgid "<strong>50,000+ companies run ERP to grow their businesses.</strong>"
+msgstr "<strong>50,000+ bedrijven gebruiken ERP om hun zaak te doen groeien.</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -530,9 +530,9 @@ msgstr "<strong>Adverteer om uw eerste bezoekers te ontvangen</strong><br/>\nAls
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"<strong>Be announced on the Odoo Twitter account</strong><br/>\n"
-"                                We like to hear from people using Odoo to build their website. Tweet us"
-msgstr "<strong>Wordt bekend gemaakt op de Odoo Twitter account</strong><br/>\nWij horen graag van mensen die Odoo gebruiken om hun website te bouwen. Tweet ons"
+"<strong>Be announced on the ERP Twitter account</strong><br/>\n"
+"                                We like to hear from people using ERP to build their website. Tweet us"
+msgstr "<strong>Wordt bekend gemaakt op de ERP Twitter account</strong><br/>\nWij horen graag van mensen die ERP gebruiken om hun website te bouwen. Tweet ons"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -1072,8 +1072,8 @@ msgstr "Achtergrondafbeelding"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_banner
-msgid "Banner Odoo Image"
-msgstr "Banner Odoo afbeelding"
+msgid "Banner ERP Image"
+msgstr "Banner ERP afbeelding"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -1602,8 +1602,8 @@ msgstr "Negeren"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image_floating
-msgid "Discover more about Odoo"
-msgstr "Ontdek meer over Odoo"
+msgid "Discover more about ERP"
+msgstr "Ontdek meer over ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.template_partner_comment
@@ -1913,15 +1913,15 @@ msgid ""
 "For example, you'll want your company name, your country/city and a few\n"
 "                                    words describing your business in your homepage title so that potential\n"
 "                                    customers near your location will find your website easily.\n"
-"                                    WIth Odoo, this can be done easily by using the Promote menu."
-msgstr "U wilt bijvoorbeeld in uw homepagina uw bedrijfsnaam, uw land/gemeente en een paar woorden uitleg plaatsen over wat uw bedrijf doet zodat potentiële\nklanten dichtbij uw locatie uw website gemakkelijk vinden.\nMet Odoo kan dit gemakkelijk gedaan worden door het Promotie menu te gebruiken."
+"                                    WIth ERP, this can be done easily by using the Promote menu."
+msgstr "U wilt bijvoorbeeld in uw homepagina uw bedrijfsnaam, uw land/gemeente en een paar woorden uitleg plaatsen over wat uw bedrijf doet zodat potentiële\nklanten dichtbij uw locatie uw website gemakkelijk vinden.\nMet ERP kan dit gemakkelijk gedaan worden door het Promotie menu te gebruiken."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the ERP Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
-msgstr "Namens het gehele Odoo Team,<br/>\n                            Fabien Pinckaers, Oprichter"
+msgstr "Namens het gehele ERP Team,<br/>\n                            Fabien Pinckaers, Oprichter"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_config_settings_module_website_form_editor
@@ -2154,8 +2154,8 @@ msgstr "Als u ja antwoord op deze 3 vragen, ga dan verder en positioneer uw webs
 msgid ""
 "If you have a lot of pages in your website, you can create a small top-menu to focus\n"
 "                            on the main six pages and make all secondary pages accessible from a footer. You can\n"
-"                            have a look at the Odoo.com website, it's a great example of this type of structure."
-msgstr "Als u veel pagina's heeft op uw website, kan u een kleine top-menu aanmaken om te focussen\nop de zes hoofdpagina's en maak alle andere pagina's beschikbaar via de voettekst. U kan\nkijken op de Odoo.com website, het is een geweldig voorbeeld van dit soort structuur."
+"                            have a look at the ERP.com website, it's a great example of this type of structure."
+msgstr "Als u veel pagina's heeft op uw website, kan u een kleine top-menu aanmaken om te focussen\nop de zes hoofdpagina's en maak alle andere pagina's beschikbaar via de voettekst. U kan\nkijken op de ERP.com website, het is een geweldig voorbeeld van dit soort structuur."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2183,11 +2183,11 @@ msgid ""
 "                        of the company anymore. With our newest apps, such\n"
 "                        as Website Builder, PoS or eCommerce, we have\n"
 "                        moved beyond the ERP territory. <br/>\n"
-"                        But <u>don't worry</u>, <b>Odoo</b> is and always will be\n"
+"                        But <u>don't worry</u>, <b>ERP</b> is and always will be\n"
 "                        fully open source. You can read more about the new name here.\n"
 "                        We have also prepared a short FAQ to explain all these changes\n"
 "                        to all of you. <br/>"
-msgstr "Indien u zich een beetje verbaasd voelt over alle\nmeldingen van gisteren, is hier een kleine\nsamenvatting voor u. <br/>\nWe hebben beslist om de naam te\nwijzigen omdat <b>\"OpenERP\"</b> niet meer het aanbod\nvan ons bedrijf reflecteerde. Met onze nieuwste apps, zoals\nde Website Bouwer, PoS of eCommerce, hebben we ons\nverplaatst voorbij het ERP terrein. <br/>\nMaar <u>geen zorgen</u>, <b>Odoo</b> is en zal altijd\nvolledig open source zijn. U kan hier meer lezen over de nieuwe naam.\nWe hebben ook een korte FAQ gemaakt om alle wijzigingen\naan u uit te leggen. <br/>"
+msgstr "Indien u zich een beetje verbaasd voelt over alle\nmeldingen van gisteren, is hier een kleine\nsamenvatting voor u. <br/>\nWe hebben beslist om de naam te\nwijzigen omdat <b>\"OpenERP\"</b> niet meer het aanbod\nvan ons bedrijf reflecteerde. Met onze nieuwste apps, zoals\nde Website Bouwer, PoS of eCommerce, hebben we ons\nverplaatst voorbij het ERP terrein. <br/>\nMaar <u>geen zorgen</u>, <b>ERP</b> is en zal altijd\nvolledig open source zijn. U kan hier meer lezen over de nieuwe naam.\nWe hebben ook een korte FAQ gemaakt om alle wijzigingen\naan u uit te leggen. <br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2631,93 +2631,93 @@ msgstr "Opmerking: Om deze toepassingen te gebruiken, installeert u de"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
-msgid "Odoo"
-msgstr "Odoo"
+msgid "ERP"
+msgstr "ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 1 for three columns"
-msgstr "Odoo - Voorbeeld 1 voor drie kolommen"
+msgid "ERP - Sample 1 for three columns"
+msgstr "ERP - Voorbeeld 1 voor drie kolommen"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 2 for three columns"
-msgstr "Odoo - Voorbeeld 2 voor drie kolommen"
+msgid "ERP - Sample 2 for three columns"
+msgstr "ERP - Voorbeeld 2 voor drie kolommen"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 3 for three columns"
-msgstr "Odoo - Voorbeeld 3 voor drie kolommen"
+msgid "ERP - Sample 3 for three columns"
+msgstr "ERP - Voorbeeld 3 voor drie kolommen"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
-msgid "Odoo CMS - a big picture"
-msgstr "Odoo CMS - een grote afbeelding"
+msgid "ERP CMS - a big picture"
+msgstr "ERP CMS - een grote afbeelding"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_floating
-msgid "Odoo CMS- Sample image floating"
-msgstr "Odoo CMS - voorbeeld zwevende afbeelding"
+msgid "ERP CMS- Sample image floating"
+msgstr "ERP CMS - voorbeeld zwevende afbeelding"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image_floating
-msgid "Odoo Members"
-msgstr "Odoo Members"
+msgid "ERP Members"
+msgstr "ERP Members"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
-msgid "Odoo Version"
-msgstr "Odoo versie"
+msgid "ERP Version"
+msgstr "ERP versie"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_text
-msgid "Odoo image and text block"
-msgstr "Odoo afbeelding en tekstblok"
+msgid "ERP image and text block"
+msgstr "ERP afbeelding en tekstblok"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid ""
-"Odoo provides essential platform for our project management.\n"
+"ERP provides essential platform for our project management.\n"
 "                                                Things are better organized and more visible with it."
-msgstr "Odoo biedt een essentiële platform voor ons project management. \nDingen zijn beter georganiseerd en beter zichtbaar."
+msgstr "ERP biedt een essentiële platform voor ons project management. \nDingen zijn beter georganiseerd en beter zichtbaar."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_quotes_slider
 msgid ""
-"Odoo provides essential platform for our project management.\n"
+"ERP provides essential platform for our project management.\n"
 "                                        Things are better organized and more visible with it."
-msgstr "Odoo biedt een essentiële platform voor ons project management. \nDingen zijn beter georganiseerd en beter zichtbaar."
+msgstr "ERP biedt een essentiële platform voor ons project management. \nDingen zijn beter georganiseerd en beter zichtbaar."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_references
 msgid ""
-"Odoo provides essential platform for our project management.\n"
+"ERP provides essential platform for our project management.\n"
 "                            Things are better organized and more visible with it."
-msgstr "Odoo biedt een essentiële platform voor ons project management. \nDingen zijn beter georganiseerd en beter zichtbaar."
+msgstr "ERP biedt een essentiële platform voor ons project management. \nDingen zijn beter georganiseerd en beter zichtbaar."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image
-msgid "Odoo text and image block"
-msgstr "Odoo tekst en afbeelding blok"
+msgid "ERP text and image block"
+msgstr "ERP tekst en afbeelding blok"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
-msgid "Odoo's Google Analytics settings"
-msgstr "Odoo's Google Analytics instellingen"
+msgid "ERP's Google Analytics settings"
+msgstr "ERP's Google Analytics instellingen"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
 msgid ""
-"Odoo's POS is a web application that can run on any device that\n"
+"ERP's POS is a web application that can run on any device that\n"
 "                                can display websites with little to no setup required."
-msgstr "Odoo's Kassa is een web-applicatie die kan draaien op elk apparaat dat \nwebsites kan weergeven met weinig  tot geen installatie."
+msgstr "ERP's Kassa is een web-applicatie die kan draaien op elk apparaat dat \nwebsites kan weergeven met weinig  tot geen installatie."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq
 msgid ""
-"Odoo's POS is a web application that can run on any device that\n"
+"ERP's POS is a web application that can run on any device that\n"
 "                can display websites with little to no setup required."
-msgstr "Odoo's Kassa is een web-applicatie die kan draaien op elk apparaat dat \nwebsites kan weergeven met weinig  tot geen installatie."
+msgstr "ERP's Kassa is een web-applicatie die kan draaien op elk apparaat dat \nwebsites kan weergeven met weinig  tot geen installatie."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -2897,9 +2897,9 @@ msgstr "Installeer of update a.u.b node-less"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"Please note that you'll need an Odoo Standard or Business subscriptions for "
+"Please note that you'll need an ERP Standard or Business subscriptions for "
 "that"
-msgstr "Merk op dat u een Odoo standaard of bedrijfsabonnement nodig heeft daarvoor"
+msgstr "Merk op dat u een ERP standaard of bedrijfsabonnement nodig heeft daarvoor"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq
@@ -3693,10 +3693,10 @@ msgstr "Vertaalde versies worden gemiddeld na 32 uur automatisch geüpdatet."
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
 "Translating your website into other languages is the best way to broaden its audience.\n"
-"                        In Odoo, you can either manually translate your pages as they are displayed, use an\n"
+"                        In ERP, you can either manually translate your pages as they are displayed, use an\n"
 "                        automatic machine translation service for free or pay professional translators to do\n"
 "                        it for you."
-msgstr "Uw website vertalen in andere talen is de beste manier om de doelgroep uit te breiden.\nIn Odoo kan u handmatig pagina's vertalen als ze getoond worden, een \nautomatische gratis machine vertaling dienst gebruiken of professionele vertalers betalen om dit\nvoor u te doen."
+msgstr "Uw website vertalen in andere talen is de beste manier om de doelgroep uit te breiden.\nIn ERP kan u handmatig pagina's vertalen als ze getoond worden, een \nautomatische gratis machine vertaling dienst gebruiken of professionele vertalers betalen om dit\nvoor u te doen."
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_config_settings_social_twitter
@@ -4027,8 +4027,8 @@ msgstr "Of deze weergave een website sjabloon is (compleet)"
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
-msgid "Which hardware does Odoo POS support?"
-msgstr "Welke hardware ondersteund Odoo POS?"
+msgid "Which hardware does ERP POS support?"
+msgstr "Welke hardware ondersteund ERP POS?"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
@@ -4047,19 +4047,19 @@ msgstr "Hoewel er een internetverbinding nodig is om de kassa te starten\nzal de
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image_floating
 msgid ""
-"With Odoo's fully integrated software, you can easily manage your\n"
+"With ERP's fully integrated software, you can easily manage your\n"
 "                        meetings, schedule business calls, create recurring meetings,\n"
 "                        synchronize your agenda and easily keep in touch with your colleagues,\n"
 "                        partners and other people involved in projects or business discussions.\n"
 "                        <br/><br/>"
-msgstr "Met Odoo's volledige gedesintegreerde software, kunt eenvoudig\nafspraken beheren, telefoongesprekken plannen, herhalende afspraken maken,\nsynchroniseer uw agenda en eenvoudig in contact blijven met uw collega's,\nrelaties en andere mensen die zijn betrokken bij uw projecten of overleggen.\n<br/><br/>"
+msgstr "Met ERP's volledige gedesintegreerde software, kunt eenvoudig\nafspraken beheren, telefoongesprekken plannen, herhalende afspraken maken,\nsynchroniseer uw agenda en eenvoudig in contact blijven met uw collega's,\nrelaties en andere mensen die zijn betrokken bij uw projecten of overleggen.\n<br/><br/>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"With Odoo, you can automatically check which keywords are ranked best for a\n"
+"With ERP, you can automatically check which keywords are ranked best for a\n"
 "                                    specific query, then add them in the content of your page."
-msgstr "Met Odoo kan u automatisch controleren welke sleutelwoorden het beste gerankt worden voor een\nspecifieke query, voeg ze vervolgens toe in de inhoud van uw pagina."
+msgstr "Met ERP kan u automatisch controleren welke sleutelwoorden het beste gerankt worden voor een\nspecifieke query, voeg ze vervolgens toe in de inhoud van uw pagina."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.snippet_options
@@ -4176,11 +4176,11 @@ msgstr "U kan hier een 75$ kortingscode krijgen om uw campagne te starten:"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"You can set Odoo on a custom domain name (e.g. yourcompany.com) for both the website\n"
+"You can set ERP on a custom domain name (e.g. yourcompany.com) for both the website\n"
 "                        and your emails. Because your website address is as important to your branding as the\n"
 "                        name of your business or organization, you’ll want to put some thought into changing it\n"
 "                        for a proper domain, or change it to one you already own."
-msgstr "U kan Odoo op een gepersonaliseerd domein zetten (bijvoorbeeld yourcompany.com) voor beide de website\nen uw e-mails. Omdat uw website adres even belangrijk is voor uw huisstijl als de\nnaam van uw bedrijf of organisatie wilt u er gedachten in steken om dit te wijzigen naar\neen mooi domein, of wijzig het naar een domein dat u al bezit."
+msgstr "U kan ERP op een gepersonaliseerd domein zetten (bijvoorbeeld yourcompany.com) voor beide de website\nen uw e-mails. Omdat uw website adres even belangrijk is voor uw huisstijl als de\nnaam van uw bedrijf of organisatie wilt u er gedachten in steken om dit te wijzigen naar\neen mooi domein, of wijzig het naar een domein dat u al bezit."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -4361,19 +4361,19 @@ msgstr "http://www.google.com/webmasters/tools/"
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_config_settings
 #: model:ir.ui.view,arch_db:website.view_website_form
-msgid "https://plus.google.com/+Odooapps"
-msgstr "https://plus.google.com/+Odooapps"
+msgid "https://plus.google.com/+ERPapps"
+msgstr "https://plus.google.com/+ERPapps"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_config_settings
 #: model:ir.ui.view,arch_db:website.view_website_form
-msgid "https://twitter.com/Odoo"
-msgstr "https://twitter.com/Odoo"
+msgid "https://twitter.com/ERP"
+msgstr "https://twitter.com/ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_config_settings
-msgid "https://www.facebook.com/Odoo"
-msgstr "https://www.facebook.com/Odoo"
+msgid "https://www.facebook.com/ERP"
+msgstr "https://www.facebook.com/ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
@@ -4405,13 +4405,13 @@ msgstr "als u er nog geen heeft."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
-msgid "in Odoo"
-msgstr "in Odoo"
+msgid "in ERP"
+msgstr "in ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
-msgid "instance of Odoo, the"
-msgstr "instantie van Odoo, de"
+msgid "instance of ERP, the"
+msgstr "instantie van ERP, de"
 
 #. module: website
 #: model:ir.model,name:website.model_ir_actions_server
@@ -4487,8 +4487,8 @@ msgstr "sitemap.xml"
 #. openerp-web
 #: code:addons/website/static/src/xml/website.xml:35
 #, python-format
-msgid "the classic Odoo interface"
-msgstr "de klassieke Odoo interface"
+msgid "the classic ERP interface"
+msgstr "de klassieke ERP interface"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner

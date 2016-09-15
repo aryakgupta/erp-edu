@@ -19,7 +19,7 @@
                     <p class="last"><i>We wish you a fun time!</i></p>
                     <div class="mt32">
                         <address>
-                            For the Odoo Team,<br/>
+                            For the ERP Team,<br/>
                             Fabien Pinckaers, Founder
                         </address>
                     </div>
@@ -103,7 +103,7 @@
                             <li class="row">
                                 <span>#1</span>
                                 <div class="col-md-6">
-                                    <input id="input_element_stage_0" type="text" value="http://www.odoo.com/"/>
+                                    <input id="input_element_stage_0" type="text" value="http://www.erp.com/"/>
                                 </div>
                                 <div class="col-md-6">
                                     <textarea id="input_element_stage_7" type="text" placeholder="ex: interesting contents, texts and articles"/>
@@ -157,7 +157,7 @@
                                     <li>The colors palettes</li>
                                     <li>The pre-loaded images</li>
                                     <p>It's difficult to change your theme after creating your website, so take the time to look at all the themes, and be sure that you're happy with your choice!</p>
-                                    <a href="https://www.odoo.com/apps/themes" target="_blank">View our themes selection</a>
+                                    <a href="https://www.erp.com/apps/themes" target="_blank">View our themes selection</a>
                                 </div>
                             </div>
                         </div>
@@ -193,7 +193,7 @@
                                 <div class="well well-lg">
                                     <strong>Contact us now:</strong><br/>
                                     <a href="#" target="_blank" style="margin-right:10px"><span class="fa fa-comment-o"/> Website Live Chat on</a><br/>
-                                    <a href="https://www.odoo.com/help" target="_blank"><i class="fa fa-envelope-o"/> Email Our Website Expert</a>
+                                    <a href="https://www.erp.com/help" target="_blank"><i class="fa fa-envelope-o"/> Email Our Website Expert</a>
                                 </div>
                             </div>
                         </div>
@@ -427,7 +427,7 @@
                         <p>
                             If you have a lot of pages in your website, you can create a small top-menu to focus
                             on the main six pages and make all secondary pages accessible from a footer. You can
-                            have a look at the Odoo.com website, it's a great example of this type of structure.
+                            have a look at the ERP.com website, it's a great example of this type of structure.
                         </p>
                     </div>
                     <p><h4>Example of Good Footer <a data-toggle="collapse"  href="#o_planner_footer"><i class="fa fa-question-circle"></i></a></h4></p>
@@ -504,7 +504,7 @@
                 <t t-call="web_planner.page">
                     <t t-set="page_title">Your Domain Name</t>
                     <p class="text-muted">
-                        You can set Odoo on a custom domain name (e.g. yourcompany.com) for both the website
+                        You can set ERP on a custom domain name (e.g. yourcompany.com) for both the website
                         and your emails. Because your website address is as important to your branding as the
                         name of your business or organization, you’ll want to put some thought into changing it
                         for a proper domain, or change it to one you already own.
@@ -532,8 +532,8 @@
                     </div>
                     <div class="well well-lg">
                         <strong>You have your domain name ?</strong><br/>
-                        <li>Then simply <a href="mailto:info@odoo.com?subject=Website%20customer%20domain%20request" target="_blank">Contact us</a> and we'll configure your website and/or email for you.</li>
-                        <li>Please note that you'll need an Odoo Standard or Business subscriptions for that</li>
+                        <li>Then simply <a href="mailto:info@erp.com?subject=Website%20customer%20domain%20request" target="_blank">Contact us</a> and we'll configure your website and/or email for you.</li>
+                        <li>Please note that you'll need an ERP Standard or Business subscriptions for that</li>
                     </div>
                 </t>
                 <t t-call="web_planner.page">
@@ -574,8 +574,8 @@
                             </div>
                             <div class="col-sm-1 col-md-2 icon"><span  data-icon="&#xe009;" /></div>
                             <div class="col-sm-11 col-md-10">
-                                <p><strong>Be announced on the Odoo Twitter account</strong><br/>
-                                We like to hear from people using Odoo to build their website. Tweet us
+                                <p><strong>Be announced on the ERP Twitter account</strong><br/>
+                                We like to hear from people using ERP to build their website. Tweet us
                                 <a href="https://twitter.com/odoo" target="_blank">@odoo</a> a reference to your new website. We will retweet it (we have 30,000 followers) and feature it in our different communications.
                                 </p>
                             </div>
@@ -612,7 +612,7 @@
                                 tends to increase  traffic to your website.
                                 </p>
                                 <p>
-                                    With Odoo, you can automatically check which keywords are ranked best for a
+                                    With ERP, you can automatically check which keywords are ranked best for a
                                     specific query, then add them in the content of your page.
                                 </p>
                                 <p>
@@ -632,7 +632,7 @@
                                     For example, you'll want your company name, your country/city and a few
                                     words describing your business in your homepage title so that potential
                                     customers near your location will find your website easily.
-                                    WIth Odoo, this can be done easily by using the Promote menu.
+                                    WIth ERP, this can be done easily by using the Promote menu.
                                 </p>
                             </div>
                         </div>
@@ -664,7 +664,7 @@
                                 Google loves websites which are updated often or ones where new content is
                                 added regularly. This is why starting a blog is an excellent way of
                                 improving your search ranking. If you have the time and dedication to write
-                                good articles, <a href="https://www.odoo.com/page/blog-engine" target="_blank">check out our blog application</a> to get started.
+                                good articles, <a href="https://www.erp.com/page/blog-engine" target="_blank">check out our blog application</a> to get started.
                                 </p>
                             </div>
                         </div>
@@ -764,7 +764,7 @@
                             <div class="col-sm-11 col-md-10">
                                 <p><strong>2. Create the page variation</strong><br/>
                                 Once you're clear on the measurable objective, the page and the variable
-                                you want to test, duplicate the page in Odoo using the <strong>'Versions'</strong>
+                                you want to test, duplicate the page in ERP using the <strong>'Versions'</strong>
                                 menu and apply the modification you decided.
                                 </p>
                             </div>
@@ -782,7 +782,7 @@
                                     <li>In the left-side menu of the project, go to <strong>APIs and auth > APIs</strong> and activate <strong>Analytics API</strong> by clicking on the <a class="btn-primary btn-xs">Off</a> button.</li>
                                     <li>Still in the left-side menu, go to <strong>APIs and auth > Credentials</strong> and click on <strong>'Create New Client ID'</strong></li>
                                     <li>In the pop-up window, simply enter your domain name in the first textbox (the second will complete automatically)</li>
-                                    <li>Then, copy the <strong>Client ID</strong> and <strong>Client Secret</strong> codes and paste them in <a t-att-href="prepare_backend_url('base_setup.action_general_configuration')">Odoo's Google Analytics settings</a></li>
+                                    <li>Then, copy the <strong>Client ID</strong> and <strong>Client Secret</strong> codes and paste them in <a t-att-href="prepare_backend_url('base_setup.action_general_configuration')">ERP's Google Analytics settings</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -840,7 +840,7 @@
                     <t t-set="page_title" name="translate_placeholder">Translate</t>
                     <p class="text-muted">
                         Translating your website into other languages is the best way to broaden its audience.
-                        In Odoo, you can either manually translate your pages as they are displayed, use an
+                        In ERP, you can either manually translate your pages as they are displayed, use an
                         automatic machine translation service for free or pay professional translators to do
                         it for you.
                     </p>
@@ -859,7 +859,7 @@
                             <div class="col-sm-1 col-md-2 icon"><span class="fa fa-cubes"/></div>
                             <div class="col-sm-11 col-md-10">
                                 <p> 2. <strong>Setup Gengo</strong><br/>
-                                <li>Install the <a t-att-href="prepare_backend_url('base.open_module_tree', 'form', 'website_gengo')">Gengo module</a> in Odoo</li>
+                                <li>Install the <a t-att-href="prepare_backend_url('base.open_module_tree', 'form', 'website_gengo')">Gengo module</a> in ERP</li>
                                 <li>Configure your Gengo API key in <a t-att-href="prepare_backend_url('base.action_res_company_form', 'form')">your Company details form</a></li>
                                 </p>
                             </div>
@@ -976,10 +976,10 @@
                     <h1>Congratulations, you're done !</h1>
                     <h3>We hope this planner helped you to create your website.</h3>
                     <h4>Don't hesitate to
-                    <a href="mailto:info@odoo.com?subject=Website%20Planner%20feeedback" target="_blank">send us an email</a> to describe
+                    <a href="mailto:info@erp.com?subject=Website%20Planner%20feeedback" target="_blank">send us an email</a> to describe
                     <br/> your experience or to suggest improvements !
                     </h4>
-                    <p>- The Odoo Team</p>
+                    <p>- The ERP Team</p>
                     <img src="/web_planner/static/src/img/odoo_logo.png"/>
                 </div>
             </t>

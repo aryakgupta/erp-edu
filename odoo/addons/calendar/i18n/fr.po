@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * calendar
 # 
@@ -9,11 +9,11 @@
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015
 # Nicolas JEUDY <nicolas@sudokeys.com>, 2015
 # Nicolas JEUDY <nicolas@sudokeys.com>, 2015
-# Olivier Dony <odo@odoo.com>, 2016
+# Olivier Dony <odo@erp.com>, 2016
 # Olivier Lenoir <olivier.lenoir@free.fr>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-20 13:58+0000\n"
 "PO-Revision-Date: 2016-02-12 09:50+0000\n"

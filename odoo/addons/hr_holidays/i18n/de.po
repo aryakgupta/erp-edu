@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_holidays
 # 
@@ -11,7 +11,7 @@
 # Wolfgang Taferner, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:10+0000\n"
 "PO-Revision-Date: 2016-06-02 09:44+0000\n"
@@ -947,9 +947,9 @@ msgstr "Anzahl ungelesene Nachrichten"
 #. module: hr_holidays
 #: model:ir.model.fields,help:hr_holidays.field_hr_holidays_status_categ_id
 msgid ""
-"Once a leave is validated, Odoo will create a corresponding meeting of this "
+"Once a leave is validated, ERP will create a corresponding meeting of this "
 "type in the calendar."
-msgstr "Sobald eine Urlaubsantrag genehmigt wurde, erstellt Odoo ein Meeting in diesem Kalender"
+msgstr "Sobald eine Urlaubsantrag genehmigt wurde, erstellt ERP ein Meeting in diesem Kalender"
 
 #. module: hr_holidays
 #: model:ir.actions.act_window,help:hr_holidays.open_ask_holidays
@@ -1328,9 +1328,9 @@ msgstr "Jahr"
 #. module: hr_holidays
 #: model:ir.actions.act_window,help:hr_holidays.hr_holidays_leaves_assign_legal
 msgid ""
-"You can assign remaining Legal Leaves for each employee, Odoo\n"
+"You can assign remaining Legal Leaves for each employee, ERP\n"
 "               will automatically create and validate allocation requests."
-msgstr "Sie können den offiziell verfügbaren Urlaubsanspruch für jeden \nMitarbeiter eingeben, die freien Tage werden in Odoo automatisch \nerstellt und bestätigt."
+msgstr "Sie können den offiziell verfügbaren Urlaubsanspruch für jeden \nMitarbeiter eingeben, die freien Tage werden in ERP automatisch \nerstellt und bestätigt."
 
 #. module: hr_holidays
 #: constraint:hr.holidays:0

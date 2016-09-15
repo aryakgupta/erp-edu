@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -13,7 +13,7 @@ This module aims to manage employee's attendances.
 Keeps account of the attendances of the employees on the basis of the
 actions(Sign in/Sign out) performed by them.
        """,
-    'website': 'https://www.odoo.com/page/employees',
+    'website': 'https://www.erp.com/page/employees',
     'depends': ['hr', 'report'],
     'data': [
         'security/ir_rule.xml',

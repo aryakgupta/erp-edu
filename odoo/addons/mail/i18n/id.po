@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * mail
 # 
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-22 13:00+0000\n"
 "PO-Revision-Date: 2016-07-23 09:04+0000\n"
@@ -74,7 +74,7 @@ msgid ""
 "                </a>\n"
 "                % endif\n"
 "                <strong>using</strong>\n"
-"                <a href=\"https://www.odoo.com\" style=\"text-decoration:none; color: #a24689;\"><strong>Odoo</strong></a>\n"
+"                <a href=\"https://www.erp.com\" style=\"text-decoration:none; color: #a24689;\"><strong>ERP</strong></a>\n"
 "                % endif\n"
 "                </p>\n"
 "            </td>\n"
@@ -1452,9 +1452,9 @@ msgstr ""
 #. module: mail
 #: model:ir.model.fields,help:mail.field_base_config_settings_alias_domain
 msgid ""
-"If you have setup a catch-all email domain redirected to the Odoo server, "
+"If you have setup a catch-all email domain redirected to the ERP server, "
 "enter the domain name here."
-msgstr "Jika Anda memiliki setup domain catch-semua email yang dialihkan ke Odoo server, masukkan nama domain di sini."
+msgstr "Jika Anda memiliki setup domain catch-semua email yang dialihkan ke ERP server, masukkan nama domain di sini."
 
 #. module: mail
 #: code:addons/mail/models/mail_alias.py:141
@@ -2139,7 +2139,7 @@ msgstr "Jumlah pesan yang belum dibaca"
 #. module: mail
 #: model:ir.actions.act_window,help:mail.action_contacts
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "            a customer; discussions, history of business opportunities,\n"
 "            documents, etc."
 msgstr ""
@@ -2148,7 +2148,7 @@ msgstr ""
 #. openerp-web
 #: code:addons/mail/static/src/xml/client_action.xml:11
 #, python-format
-msgid "Odoo needs your permission to"
+msgid "ERP needs your permission to"
 msgstr ""
 
 #. module: mail
@@ -2940,10 +2940,10 @@ msgstr ""
 #: model:ir.model.fields,help:mail.field_mail_channel_alias_model_id
 #: model:ir.model.fields,help:mail.field_res_users_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
-msgstr "Model (Odoo dokumen jenis) yang alias ini sesuai. Email masuk yang tidak menjawab catatan yang ada akan menyebabkan pembentukan rekor baru model ini (misalnya tugas proyek)"
+msgstr "Model (ERP dokumen jenis) yang alias ini sesuai. Email masuk yang tidak menjawab catatan yang ada akan menyebabkan pembentukan rekor baru model ini (misalnya tugas proyek)"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias_alias_name
@@ -2951,8 +2951,8 @@ msgstr "Model (Odoo dokumen jenis) yang alias ini sesuai. Email masuk yang tidak
 #: model:ir.model.fields,help:mail.field_res_users_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
-msgstr "Nama email alias, misalnya 'pekerjaan' jika Anda ingin menangkap email untuk<jobs@example.odoo.com></jobs@example.odoo.com>"
+"<jobs@example.erp.com>"
+msgstr "Nama email alias, misalnya 'pekerjaan' jika Anda ingin menangkap email untuk<jobs@example.erp.com></jobs@example.erp.com>"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias_alias_user_id
@@ -3425,8 +3425,8 @@ msgstr ""
 
 #. module: mail
 #: model:ir.ui.view,arch_db:mail.view_general_configuration_mail_alias_domain
-msgid "mycompany.odoo.com"
-msgstr "mycompany.odoo.com"
+msgid "mycompany.erp.com"
+msgstr "mycompany.erp.com"
 
 #. module: mail
 #. openerp-web

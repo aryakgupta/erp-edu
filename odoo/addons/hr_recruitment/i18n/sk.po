@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_recruitment
 # 
@@ -7,7 +7,7 @@
 # Pavol Krnáč <pavol.krnac@ekoenergo.sk>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:11+0000\n"
 "PO-Revision-Date: 2016-03-25 17:38+0000\n"
@@ -1284,16 +1284,16 @@ msgstr "Počet neprečítaných správ"
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_applications
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"ERP helps you track applicants in the recruitment\n"
 "                process and follow up all operations: meetings, interviews, etc."
-msgstr "Odoo vám pomáha sledovať uchádzačov v náborovom\nprocese a spracovať alebo sledovať všetky aktivity: stretnutia, pohovory, atď."
+msgstr "ERP vám pomáha sledovať uchádzačov v náborovom\nprocese a spracovať alebo sledovať všetky aktivity: stretnutia, pohovory, atď."
 
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.crm_case_categ0_act_job
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"ERP helps you track applicants in the recruitment\n"
 "            process and follow up all operations: meetings, interviews, etc."
-msgstr "Odoo vám pomáha sledovať uchádzačov v náborovom\nprocese a spracovať alebo sledovať všetky aktivity: stretnutia, pohovory, atď."
+msgstr "ERP vám pomáha sledovať uchádzačov v náborovom\nprocese a spracovať alebo sledovať všetky aktivity: stretnutia, pohovory, atď."
 
 #. module: hr_recruitment
 #: model:survey.label,value:hr_recruitment.rrow_2_1_3
@@ -1700,10 +1700,10 @@ msgstr "Dátum kedy bude uchádzač schopný začať pracovať."
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
-msgstr "Model (Odoo druh dokumentu), ktorému odpovedá toto alias. Každý prichádzajúci email ktorý neodpovie na existujúci záznam spôsobí vytvorenie nového záznamu tohto modelu (napr úlohy projektu)"
+msgstr "Model (ERP druh dokumentu), ktorému odpovedá toto alias. Každý prichádzajúci email ktorý neodpovie na existujúci záznam spôsobí vytvorenie nového záznamu tohto modelu (napr úlohy projektu)"
 
 #. module: hr_recruitment
 #: sql_constraint:hr.recruitment.degree:0
@@ -1714,8 +1714,8 @@ msgstr "Meno stupňa musí byť jedinečné!"
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
-msgstr "Meno emailového alias, napr. \"práce\", ak chcete zachytiť emaily pre <prace@priklad.odoo.com>"
+"<jobs@example.erp.com>"
+msgstr "Meno emailového alias, napr. \"práce\", ak chcete zachytiť emaily pre <prace@priklad.erp.com>"
 
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_user_id
@@ -1873,10 +1873,10 @@ msgstr "Aké je vaše pohlavie?"
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_no_employee
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the ERP employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
-msgstr "Pri letmom pohľade na Odoo zamestnanckú obrazovku, vy\nmôžet ľahko nájsť všetky informácie, ktoré potrebujete pre každú osobu;\nkontaktné údaje, pracovná pozícia, dostupnosť, atď."
+msgstr "Pri letmom pohľade na ERP zamestnanckú obrazovku, vy\nmôžet ľahko nájsť všetky informácie, ktoré potrebujete pre každú osobu;\nkontaktné údaje, pracovná pozícia, dostupnosť, atď."
 
 #. module: hr_recruitment
 #: code:addons/hr_recruitment/models/hr_recruitment.py:432

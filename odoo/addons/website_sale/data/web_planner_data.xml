@@ -89,7 +89,7 @@
                             <div class="well well-lg">
                                 <strong>Contact us now:</strong><br/>
                                 <a href="#" target="_blank" ><i class="fa fa-comment-o"/> Website Live Chat on</a><br/>
-                                <a href="https://www.odoo.com/help" target="_blank"><i class="fa fa-envelope-o"/> Email Our Website Expert</a>
+                                <a href="https://www.erp.com/help" target="_blank"><i class="fa fa-envelope-o"/> Email Our Website Expert</a>
                             </div>
                         </div>
                     </div>
@@ -118,10 +118,10 @@
                                 </div>
                                 <div class="panel-body">
                                     <p>
-                                        Odoo's web-services allows developers to create scripts that will load data automatically into the system.
+                                        ERP's web-services allows developers to create scripts that will load data automatically into the system.
                                     </p>
                                     <p>
-                                        Read the <a href="https://www.odoo.com/documentation/8.0/api_integration.html" target="_blank">Web Service technical documentation.</a>
+                                        Read the <a href="https://www.erp.com/documentation/8.0/api_integration.html" target="_blank">Web Service technical documentation.</a>
                                     </p>
                                 </div>
                             </div>
@@ -132,14 +132,14 @@
                             <div class="col-md-7 col-xs-12">
                                 <div class="well well-lg">
                                     <strong>Need help to import your products?</strong>
-                                    <p>Odoo offers an importation service to handle the whole process for you!</p>
+                                    <p>ERP offers an importation service to handle the whole process for you!</p>
                                 </div>
                             </div>
                             <div class="col-md-5 col-xs-12">
                                 <div class="well well-lg">
                                     <strong>Contact us now:</strong><br/>
                                     <a href="#" target="_blank" style="margin-right:10px"><span class="fa fa-comment-o"/> Website Live Chat on</a><br/>
-                                    <a href="https://www.odoo.com/help" target="_blank"><i class="fa fa-envelope-o"/> Email Our Website Expert</a>
+                                    <a href="https://www.erp.com/help" target="_blank"><i class="fa fa-envelope-o"/> Email Our Website Expert</a>
                                 </div>
                             </div>
                         </div>
@@ -152,7 +152,7 @@
                         That's what a payment gateway is for: it helps you make money, but that does cost money.<br/>
                         That why it's important to choose the right provider for your online payments.
                     </p>
-                    <h4>You can setup 3 types of <strong>payment methods in Odoo:</strong></h4>
+                    <h4>You can setup 3 types of <strong>payment methods in ERP:</strong></h4>
                     <div class="row">
                         <div class="col-md-12">
                             <div class="panel panel-success">
@@ -282,7 +282,7 @@
                 <t t-set="page_title">Sell More</t>
                 <p class="text-muted">
                     If you have an eCommerce, one of your objectives is of course to grow your revenues by
-                    selling more and pricier products. Luckily for you, Odoo integrates three powerful
+                    selling more and pricier products. Luckily for you, ERP integrates three powerful
                     customizations for that.
                 </p>
                 <div class="text-center mb16">

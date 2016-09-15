@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_quote
 # 
@@ -13,7 +13,7 @@
 # liAnGjiA <liangjia@qq.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-18 12:33+0000\n"
 "PO-Revision-Date: 2016-07-22 06:34+0000\n"
@@ -407,8 +407,8 @@ msgstr "返回销售订单"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Become an Odoo Consultant."
-msgstr "成为Odoo顾问。"
+msgid "Become an ERP Consultant."
+msgstr "成为ERP顾问。"
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
@@ -419,8 +419,8 @@ msgstr "从OpenERP的品牌受益"
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Benefit from the growing customer demand\n"
-"                                    and our Odoo brand."
-msgstr "从不断增长的客户需求和我们Odoo品牌收到效益。"
+"                                    and our ERP brand."
+msgstr "从不断增长的客户需求和我们ERP品牌收到效益。"
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_1
@@ -482,8 +482,8 @@ msgstr "公司配置和多公司管理"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Configure Odoo using the standard modules."
-msgstr "使用标准的模块配置Odoo。"
+msgid "Configure ERP using the standard modules."
+msgstr "使用标准的模块配置ERP。"
 
 #. module: website_quote
 #: model:ir.ui.view,arch_db:website_quote.so_quotation
@@ -641,22 +641,22 @@ msgstr "享受<strong>世界上成长最快的管理软件</STRONG>的牵引。"
 msgid ""
 "Every year, we redirect more than 100,000 customer\n"
 "                                requests to our official partners. These are prospects\n"
-"                                that filled a form on the Odoo website and wanted to\n"
-"                                use Odoo. The right partner to fulfill the customer\n"
+"                                that filled a form on the ERP website and wanted to\n"
+"                                use ERP. The right partner to fulfill the customer\n"
 "                                request is selected based on the customer localization\n"
 "                                (nearest partner) and the grade of the partner."
-msgstr "每年，我们重定向超过100,000客户的需求，通过我们的官方合作伙伴。这些想用Odoo的愿望，填一个Odoo网站上的表格。选择合适的合作伙伴，以满足客户的要求是基于客户定位(最近的合伙人)和合作伙伴的等级。"
+msgstr "每年，我们重定向超过100,000客户的需求，通过我们的官方合作伙伴。这些想用ERP的愿望，填一个ERP网站上的表格。选择合适的合作伙伴，以满足客户的要求是基于客户定位(最近的合伙人)和合作伙伴的等级。"
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Every year, we redirect more than 100,000 customer\n"
 "                        requests to our official partners. These are prospects\n"
-"                        that filled a form on the Odoo website and wanted to\n"
-"                        use Odoo. The right partner to fulfill the customer\n"
+"                        that filled a form on the ERP website and wanted to\n"
+"                        use ERP. The right partner to fulfill the customer\n"
 "                        request is selected based on the customer localization\n"
 "                        (nearest partner) and the grade of the partner."
-msgstr "每年，我们重定向超过100,000客户的需求，通过我们的官方合作伙伴。这些想用Odoo的愿望，填一个Odoo网站上的表格。选择合适的合作伙伴，以满足客户的要求是基于客户定位(最近的合伙人)和合作伙伴的等级。"
+msgstr "每年，我们重定向超过100,000客户的需求，通过我们的官方合作伙伴。这些想用ERP的愿望，填一个ERP网站上的表格。选择合适的合作伙伴，以满足客户的要求是基于客户定位(最近的合伙人)和合作伙伴的等级。"
 
 #. module: website_quote
 #: model:ir.ui.view,arch_db:website_quote.so_quotation_content
@@ -671,12 +671,12 @@ msgstr "fetchmail的配置"
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
-"For an extra fee, partners can get access to Odoo's\n"
+"For an extra fee, partners can get access to ERP's\n"
 "                                core developers and functional experts. This can help\n"
 "                                you succeed in delivering more complex or bigger\n"
 "                                projects by getting the support of highly experienced\n"
 "                                consultants on demand."
-msgstr "支付额外费用，合作伙伴可以访问Odoo的核心开发人员和职能专家。这可以帮助您通过获取的需求具有丰富经验的顾问的支持下提供更复杂或更大的项目取得成功。"
+msgstr "支付额外费用，合作伙伴可以访问ERP的核心开发人员和职能专家。这可以帮助您通过获取的需求具有丰富经验的顾问的支持下提供更复杂或更大的项目取得成功。"
 
 #. module: website_quote
 #: model:product.product,name:website_quote.product_product_quote_1
@@ -710,9 +710,9 @@ msgstr "给出销售报价行名单时的排列顺序"
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Grow by developing a <strong>recurring\n"
-"                                     revenue flow</strong> from Odoo\n"
+"                                     revenue flow</strong> from ERP\n"
 "                                     Enterprise's commission system."
-msgstr "通过制定<STRONG>Odoo企业的佣金制度经常性收入流程</STRONG>成长。"
+msgstr "通过制定<STRONG>ERP企业的佣金制度经常性收入流程</STRONG>成长。"
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_1
@@ -768,8 +768,8 @@ msgstr "Incl. tax)"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Install and administer Odoo."
-msgstr "安装和管理Odoo。"
+msgid "Install and administer ERP."
+msgstr "安装和管理ERP。"
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
@@ -810,7 +810,7 @@ msgstr "Qweb介绍"
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
-"It includes <strong>discounts on Odoo\n"
+"It includes <strong>discounts on ERP\n"
 "                                Enterprise</strong>, technical and/or functional\n"
 "                                <strong>trainings</strong>,\n"
 "                                <strong>support</strong> services,\n"
@@ -818,7 +818,7 @@ msgid ""
 "                                the <strong>partner portal</strong>, rights to\n"
 "                                <strong>use the trademark</strong>, sales support\n"
 "                                from a <strong>dedicated account manager</strong>."
-msgstr "它包括Odoo企业</STRONG>，技术和/或功能的<strong>培训</STRONG><STRONG>支持</STRONG>服务，<STRONG>营销文件</STRONG>，进入<STRONG>折扣在<strong>合作伙伴门户网站</STRONG>，权限<strong>使用该商标</STRONG>，销售支持从<STRONG>专门的客户经理</STRONG>。"
+msgstr "它包括ERP企业</STRONG>，技术和/或功能的<strong>培训</STRONG><STRONG>支持</STRONG>服务，<STRONG>营销文件</STRONG>，进入<STRONG>折扣在<strong>合作伙伴门户网站</STRONG>，权限<strong>使用该商标</STRONG>，销售支持从<STRONG>专门的客户经理</STRONG>。"
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_order_option___last_update
@@ -852,18 +852,18 @@ msgstr "最后更新时间"
 #: model:product.template,description_sale:website_quote.product_template_quote_1
 #: model:product.template,description_sale:website_quote.product_template_quote_3
 msgid ""
-"Learn directly from our team and network of Odoo experts. Choose from the "
-"available training sessions for a better functional understanding of Odoo"
-msgstr "从我们的团队和Odoo专家网络直接了解。为更好的理解Odoo技术，选择可用的培训课程"
+"Learn directly from our team and network of ERP experts. Choose from the "
+"available training sessions for a better functional understanding of ERP"
+msgstr "从我们的团队和ERP专家网络直接了解。为更好的理解ERP技术，选择可用的培训课程"
 
 #. module: website_quote
 #: model:product.product,description_sale:website_quote.product_product_quote_2
 #: model:product.template,description_sale:website_quote.product_product_quote_2_product_template
 #: model:product.template,description_sale:website_quote.product_template_quote_2
 msgid ""
-"Learn directly from our team and network of Odoo experts. Choose from the "
-"available training sessions for a better technical understanding of Odoo"
-msgstr "从我们的团队和Odoo专家网络直接了解。为更好的理解Odoo功能，选择可用的培训课程"
+"Learn directly from our team and network of ERP experts. Choose from the "
+"available training sessions for a better technical understanding of ERP"
+msgstr "从我们的团队和ERP专家网络直接了解。为更好的理解ERP功能，选择可用的培训课程"
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_order_line_website_description
@@ -946,24 +946,24 @@ msgstr "目标"
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Odoo Official Website"
-msgstr "官方Odoo网站"
+msgid "ERP Official Website"
+msgstr "官方ERP网站"
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
-msgid "Odoo Web Client"
+msgid "ERP Web Client"
 msgstr "ODoo 的Web客户端"
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
-"Odoo promotes its partners through various ways:\n"
+"ERP promotes its partners through various ways:\n"
 "                                publication on our website, official communication,\n"
 "                                publication of your success stories, etc. As soon as\n"
-"                                you become an Odoo partner and have followed the\n"
+"                                you become an ERP partner and have followed the\n"
 "                                official trainings, you will be visible on the partner\n"
 "                                directory listing."
-msgstr "Odoo促进通过各种方式与其合作伙伴：只要你成为一个Odoo的合作伙伴，并已按照官方公布的培训我们的网站上，正式沟通，发表您的成功案例，等等，你将在合作伙伴目录列表可见。"
+msgstr "ERP促进通过各种方式与其合作伙伴：只要你成为一个ERP的合作伙伴，并已按照官方公布的培训我们的网站上，正式沟通，发表您的成功案例，等等，你将在合作伙伴目录列表可见。"
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
@@ -987,8 +987,8 @@ msgstr "开张库存以及库存盘点"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Operate/Work with Odoo Smoothly on regular basis."
-msgstr "操作/与Odoo定期工作的顺利开展。"
+msgid "Operate/Work with ERP Smoothly on regular basis."
+msgstr "操作/与ERP定期工作的顺利开展。"
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_quote_option_website_description
@@ -1028,10 +1028,10 @@ msgstr "我们的合作伙伴提供"
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Our automated testing server software is called Runbot,\n"
-"                                and you can try it out here: http://runbot.odoo.com.\n"
+"                                and you can try it out here: http://runbot.erp.com.\n"
 "                                A dedicated runbot server is available for every\n"
 "                                partner."
-msgstr "我们的自动化测试服务器软件被称为Runbot，你可以尝试一下在这里 http://runbot.odoo.com. 一个专用runbot服务器可用于每一个合作伙伴。"
+msgstr "我们的自动化测试服务器软件被称为Runbot，你可以尝试一下在这里 http://runbot.erp.com. 一个专用runbot服务器可用于每一个合作伙伴。"
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_default
@@ -1050,15 +1050,15 @@ msgstr "我们的报价是基于3个承诺，这推动我们的业务和我们�
 msgid ""
 "Our partnership offer includes all you need to\n"
 "                                grow your business and deliver quality services\n"
-"                                with the Odoo Partner Program."
-msgstr "我们的合作伙伴提供，包括所有你需要拓展您的业务，并与Odoo合作伙伴计划提供高质量的服务。"
+"                                with the ERP Partner Program."
+msgstr "我们的合作伙伴提供，包括所有你需要拓展您的业务，并与ERP合作伙伴计划提供高质量的服务。"
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_default
 msgid ""
 "Our prices are the lowest in the region, if you find cheaper elsewhere, we "
 "will refund the difference"
-msgstr "我们的合作伙伴提供，包括所有你需要拓展您的业务，并与Odoo合作伙伴计划提供高质量的服务。"
+msgstr "我们的合作伙伴提供，包括所有你需要拓展您的业务，并与ERP合作伙伴计划提供高质量的服务。"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
@@ -1323,11 +1323,11 @@ msgstr "销售报价单模板行"
 msgid ""
 "Save time in your implementation project by having your\n"
 "                                developments tested automatically by our automated test\n"
-"                                servers. At every code commit, you get a full Odoo\n"
+"                                servers. At every code commit, you get a full ERP\n"
 "                                instance that you can try out online. When this\n"
 "                                instance is deployed, your code is automatically put\n"
 "                                through our 2000+ automated unit tests."
-msgstr "通过让我们的自动化测试的服务器会自动检测你的开发节省时间的实施项目。在每一个代码提交，你会得到一个完整的Odoo实例，你可以尝试在网上。在这种情况下部署，你的代码是通过我们的2000多个自动单元测试自动放。"
+msgstr "通过让我们的自动化测试的服务器会自动检测你的开发节省时间的实施项目。在每一个代码提交，你会得到一个完整的ERP实例，你可以尝试在网上。在这种情况下部署，你的代码是通过我们的2000多个自动单元测试自动放。"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
@@ -1437,9 +1437,9 @@ msgid ""
 "traditional classroom trainings, supplemented with modular sessions and "
 "cloud-based labs. Many of our online learning courses also include dozens of"
 " recorded webinars and live sessions by our senior instructors. At the end "
-"of the training, you can pass the Odoo Certification exam in one of the "
+"of the training, you can pass the ERP Certification exam in one of the "
 "5000+ Pearson VUE test centers worldwide."
-msgstr "这些课程特点在我们传统的课堂培训，发现相同的高品质课程内容，辅以模块化会议和基于云的实验室。我们的许多在线学习课程，还包括几十个记录的网络研讨会和活动的会话由我们的资深讲师。在训练结束后，你可以通过Odoo认证考试在全球范围内5000+的Pearson VUE考试中心之一。"
+msgstr "这些课程特点在我们传统的课堂培训，发现相同的高品质课程内容，辅以模块化会议和基于云的实验室。我们的许多在线学习课程，还包括几十个记录的网络研讨会和活动的会话由我们的资深讲师。在训练结束后，你可以通过ERP认证考试在全球范围内5000+的Pearson VUE考试中心之一。"
 
 #. module: website_quote
 #: model:ir.ui.view,arch_db:website_quote.so_quotation
@@ -1489,8 +1489,8 @@ msgstr "了解开发概念和结构"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Understand the functional concepts, business processes by Odoo."
-msgstr "了解功能性的概念，通过Odoo业务流程。"
+msgid "Understand the functional concepts, business processes by ERP."
+msgstr "了解功能性的概念，通过ERP业务流程。"
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_order_option_price_unit
@@ -1553,11 +1553,11 @@ msgstr "我们总是能帮你，不要犹豫，随时联系我们。"
 msgid ""
 "We will assign you a dedicated account manager, an\n"
 "                        experienced sales person, to help you develop your\n"
-"                        Odoo business. The account manager helps you get\n"
+"                        ERP business. The account manager helps you get\n"
 "                        leads, close deals, gives you feedback and best\n"
 "                        practices, delivers sales training and is your direct\n"
 "                        point of contact for any request you may have."
-msgstr "我们会为您指定专门的客户经理，有经验的销售人员，以帮助您开发Odoo业务。该客户经理可以帮助你得到的线索，完成交易，给你的反馈和最佳实践，提供销售培训，是您的直接联系点，您的任何要求。"
+msgstr "我们会为您指定专门的客户经理，有经验的销售人员，以帮助您开发ERP业务。该客户经理可以帮助你得到的线索，完成交易，给你的反馈和最佳实践，提供销售培训，是您的直接联系点，您的任何要求。"
 
 #. module: website_quote
 #: model:ir.actions.report.xml,name:website_quote.report_web_quote

@@ -43,14 +43,14 @@ Changelog
 
 `8.0.0`
 -------
-- OpenEduCat Now compatible with Odoo v8.
+- ERP Now compatible with Odoo v8.
 - Added demo portal
 
 
 `7.1.3.1`
 ---------
 
-- Added Annoucement Bar on the top to keep users updated with latest news about OpenEduCat
+- Added Annoucement Bar on the top to keep users updated with latest news about ERP
 - minor bug fixes
 
 `7.1.3`

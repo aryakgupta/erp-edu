@@ -1,21 +1,21 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * purchase
 # 
 # Translators:
-# Clo <clo@odoo.com>, 2015
+# Clo <clo@erp.com>, 2015
 # Fabrice Henrion, 2016
 # Loic <loic.richard2@gmail.com>, 2015
-# Lucas Deliege <lud@odoo.com>, 2015
+# Lucas Deliege <lud@erp.com>, 2015
 # Martin Trigaux, 2015-2016
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015-2016
 # Sébastien LANGE (SYLEAM) <sebastien.lange@syleam.fr>, 2016
 # Shark McGnark <peculiarcheese@gmail.com>, 2016
-# TDU <tdu@odoo.com>, 2016
+# TDU <tdu@erp.com>, 2016
 # zoe <yann.hoareau@migs.re>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-06-22 09:11+0000\n"
@@ -925,8 +925,8 @@ msgstr "Achats Mensuels"
 #: model:ir.actions.act_window,help:purchase.purchase_rfq
 msgid ""
 "Most propositions of purchase orders are created automatically\n"
-"                by Odoo based on inventory needs."
-msgstr "La plupart des propositions d'ordres d'achat sont crées automatiquement\npar Odoo, basé sur les besoins de l'inventaire."
+"                by ERP based on inventory needs."
+msgstr "La plupart des propositions d'ordres d'achat sont crées automatiquement\npar ERP, basé sur les besoins de l'inventaire."
 
 #. module: purchase
 #: model:ir.ui.view,arch_db:purchase.view_purchase_order_filter
@@ -1701,9 +1701,9 @@ msgstr "Utilisez une méthode de prix coutant: 'Fixe', 'Réel', 'Moyen'."
 msgid ""
 "Use this menu to control the invoices to be received from your\n"
 "            vendor. When registering a new bill, set the purchase order\n"
-"            and Odoo will fill the bill automatically according to ordered\n"
+"            and ERP will fill the bill automatically according to ordered\n"
 "            or received quantities."
-msgstr "Utilisez ce menu pour contrôler les factures à recevoir de la part de votre\nfournisseur. Lors de l'enregistrement d'une nouvelle note, paramétrez l'ordre d'achat\net Odoo remplira automatiquement la note en fonction des quantités commandées ou reçues."
+msgstr "Utilisez ce menu pour contrôler les factures à recevoir de la part de votre\nfournisseur. Lors de l'enregistrement d'une nouvelle note, paramétrez l'ordre d'achat\net ERP remplira automatiquement la note en fonction des quantités commandées ou reçues."
 
 #. module: purchase
 #: model:ir.actions.act_window,help:purchase.purchase_form_action
@@ -1765,8 +1765,8 @@ msgid ""
 "Vendors bills can be pre-generated based on purchase\n"
 "                    orders or receipts. This allows you to control bills\n"
 "                    you receive from your vendor according to the draft\n"
-"                    document in Odoo."
-msgstr "Les notes des fournisseurs peuvent être pré-générées et basées sur les ordres\nd'achat ou les reçus. Ceci vous permet de contrôler les notes\nque vous recevez de votre fournisseur en fonction du document \nbrouillon dans Odoo."
+"                    document in ERP."
+msgstr "Les notes des fournisseurs peuvent être pré-générées et basées sur les ordres\nd'achat ou les reçus. Ceci vous permet de contrôler les notes\nque vous recevez de votre fournisseur en fonction du document \nbrouillon dans ERP."
 
 #. module: purchase
 #: model:ir.model.fields,help:purchase.field_mail_mail_website_published

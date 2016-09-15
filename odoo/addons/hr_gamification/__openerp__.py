@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 {
     'name': 'HR Gamification',
     'version': '1.0',
     'category': 'Human Resources',
-    'website': 'https://www.odoo.com/page/employees',
+    'website': 'https://www.erp.com/page/employees',
     'depends': ['gamification', 'hr'],
     'description': """Use the HR ressources for the gamification process.
 

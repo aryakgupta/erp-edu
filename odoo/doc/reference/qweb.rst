@@ -8,7 +8,7 @@
 QWeb
 ====
 
-QWeb is the primary templating_ engine used by Odoo\ [#othertemplates]_. It
+QWeb is the primary templating_ engine used by ERP\ [#othertemplates]_. It
 is an XML templating engine\ [#genshif]_ and used mostly to generate HTML_
 fragments and pages.
 
@@ -399,7 +399,7 @@ At a deeper level than the previous helper is the ``render`` method on
         the ``keep_query`` helper function
 
     :param values: context values to pass to QWeb for rendering
-    :param str engine: name of the Odoo model to use for rendering, can be
+    :param str engine: name of the ERP model to use for rendering, can be
                        used to expand or customize QWeb locally (by creating
                        a "new" qweb based on ``ir.qweb`` with alterations)
 
@@ -610,7 +610,7 @@ API
 
 .. [#othertemplates] although it uses a few others, either for historical
                      reasons or because they remain better fits for the
-                     use case. Odoo 9.0 still depends on Jinja_ and Mako_.
+                     use case. ERP 9.0 still depends on Jinja_ and Mako_.
 
 .. _templating:
     http://en.wikipedia.org/wiki/Template_processor

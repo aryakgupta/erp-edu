@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * mail
 # 
@@ -8,7 +8,7 @@
 # krnkris, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-22 13:00+0000\n"
 "PO-Revision-Date: 2016-08-02 08:32+0000\n"
@@ -77,7 +77,7 @@ msgid ""
 "                </a>\n"
 "                % endif\n"
 "                <strong>using</strong>\n"
-"                <a href=\"https://www.odoo.com\" style=\"text-decoration:none; color: #a24689;\"><strong>Odoo</strong></a>\n"
+"                <a href=\"https://www.erp.com\" style=\"text-decoration:none; color: #a24689;\"><strong>ERP</strong></a>\n"
 "                % endif\n"
 "                </p>\n"
 "            </td>\n"
@@ -1455,9 +1455,9 @@ msgstr "Ha az elutasít be van jelölve, akkor ez a kapcsolat ki lesz iktatva az
 #. module: mail
 #: model:ir.model.fields,help:mail.field_base_config_settings_alias_domain
 msgid ""
-"If you have setup a catch-all email domain redirected to the Odoo server, "
+"If you have setup a catch-all email domain redirected to the ERP server, "
 "enter the domain name here."
-msgstr "Ha beállított egy domaint, mely minden Odoo rendszer irányába beérkező emailt megkap, akkor ide írja be ezt a domaint."
+msgstr "Ha beállított egy domaint, mely minden ERP rendszer irányába beérkező emailt megkap, akkor ide írja be ezt a domaint."
 
 #. module: mail
 #: code:addons/mail/models/mail_alias.py:141
@@ -2142,17 +2142,17 @@ msgstr "Olvasatlan üzenetek száma"
 #. module: mail
 #: model:ir.actions.act_window,help:mail.action_contacts
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "            a customer; discussions, history of business opportunities,\n"
 "            documents, etc."
-msgstr " Odoo rendszer segít, hogy könnyen nyomon követhesse az ügyfelekkel, megbeszélésekkel, üzleti lehetőségek történeteivel, dokumentumokkal , stb. kapcsolatos tevékenységeket."
+msgstr " ERP rendszer segít, hogy könnyen nyomon követhesse az ügyfelekkel, megbeszélésekkel, üzleti lehetőségek történeteivel, dokumentumokkal , stb. kapcsolatos tevékenységeket."
 
 #. module: mail
 #. openerp-web
 #: code:addons/mail/static/src/xml/client_action.xml:11
 #, python-format
-msgid "Odoo needs your permission to"
-msgstr "Odoo rendszernek szüksége van a felhatalmazására ehhez"
+msgid "ERP needs your permission to"
+msgstr "ERP rendszernek szüksége van a felhatalmazására ehhez"
 
 #. module: mail
 #. openerp-web
@@ -2943,10 +2943,10 @@ msgstr "A dokumentum típusa amit ezzel a sablonnal használni lehet"
 #: model:ir.model.fields,help:mail.field_mail_channel_alias_model_id
 #: model:ir.model.fields,help:mail.field_res_users_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
-msgstr "a modell (Odoo rendszer Dokumentum féle), amelyhez ez az álnév tartozik. Bármely bejövő email, mely nem válaszol egy meglévő feljegyzésre egy új feljegyzést fog létrehozni ehhez a modellhez (pl. egy projekt ügyet)"
+msgstr "a modell (ERP rendszer Dokumentum féle), amelyhez ez az álnév tartozik. Bármely bejövő email, mely nem válaszol egy meglévő feljegyzésre egy új feljegyzést fog létrehozni ehhez a modellhez (pl. egy projekt ügyet)"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias_alias_name
@@ -2954,8 +2954,8 @@ msgstr "a modell (Odoo rendszer Dokumentum féle), amelyhez ez az álnév tartoz
 #: model:ir.model.fields,help:mail.field_res_users_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
-msgstr "Az email álnév neve, pl. 'állások' ha erre az emailcímre szeretné kapni <allasok@pelda.odoo.com>"
+"<jobs@example.erp.com>"
+msgstr "Az email álnév neve, pl. 'állások' ha erre az emailcímre szeretné kapni <allasok@pelda.erp.com>"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias_alias_user_id
@@ -3428,8 +3428,8 @@ msgstr "megemlítés(ek) elolvasottként jelölve."
 
 #. module: mail
 #: model:ir.ui.view,arch_db:mail.view_general_configuration_mail_alias_domain
-msgid "mycompany.odoo.com"
-msgstr "envallalatom.odoo.com"
+msgid "mycompany.erp.com"
+msgstr "envallalatom.erp.com"
 
 #. module: mail
 #. openerp-web

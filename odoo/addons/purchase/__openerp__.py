@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -13,9 +13,9 @@ Manage goods requirement by Purchase Orders easily
 ==================================================
 
 Purchase management enables you to track your vendors' price quotations and convert them into purchase orders if necessary.
-Odoo has several methods of monitoring invoices and tracking the receipt of ordered goods. You can handle partial deliveries in Odoo, so you can keep track of items that are still to be delivered in your orders, and you can issue reminders automatically.
+ERP has several methods of monitoring invoices and tracking the receipt of ordered goods. You can handle partial deliveries in ERP, so you can keep track of items that are still to be delivered in your orders, and you can issue reminders automatically.
 
-Odoo's replenishment management rules enable the system to generate draft purchase orders automatically, or you can configure it to run a lean process driven entirely by current production needs.
+ERP's replenishment management rules enable the system to generate draft purchase orders automatically, or you can configure it to run a lean process driven entirely by current production needs.
 
 Dashboard / Reports for Purchase Management will include:
 ---------------------------------------------------------
@@ -25,7 +25,7 @@ Dashboard / Reports for Purchase Management will include:
 * Receipt Analysis
 * Purchase Analysis
     """,
-    'website': 'https://www.odoo.com/page/purchase',
+    'website': 'https://www.erp.com/page/purchase',
     'depends': ['stock_account', 'report', 'web_tip'],
     'data': [
         'security/purchase_security.xml',

@@ -163,7 +163,7 @@ def redirect_with_hash(url, code=303):
     return "<html><head><script>window.location = '%s' + location.hash;</script></head></html>" % url
 
 class WebRequest(object):
-    """ Parent class for all Odoo Web request types, mostly deals with
+    """ Parent class for all ERP Web request types, mostly deals with
     initialization and setup of the request object (the dispatching itself has
     to be handled by the subclasses)
 
@@ -459,7 +459,7 @@ def route(route=None, **kw):
 
         .. versionadded:: 9.0
 
-        Odoo implements token-based `CSRF protection
+        ERP implements token-based `CSRF protection
         <https://en.wikipedia.org/wiki/CSRF>`_.
 
         CSRF protection is enabled by default and applies to *UNSAFE*
@@ -492,7 +492,7 @@ def route(route=None, **kw):
               require('web.core').csrf_token
 
         * if the endpoint can be called by external parties (not from
-          Odoo) as e.g. it is a REST API or a `webhook
+          ERP) as e.g. it is a REST API or a `webhook
           <https://en.wikipedia.org/wiki/Webhook>`_, CSRF protection
           must be disabled on the endpoint. If possible, you may want
           to implement other methods of request validation (to ensure
@@ -650,15 +650,15 @@ class JsonRequest(WebRequest):
                 _logger.exception("Exception during JSON request handling.")
             error = {
                     'code': 200,
-                    'message': "Odoo Server Error",
+                    'message': "ERP Server Error",
                     'data': serialize_exception(exception)
             }
             if isinstance(exception, AuthenticationError):
                 error['code'] = 100
-                error['message'] = "Odoo Session Invalid"
+                error['message'] = "ERP Session Invalid"
             if isinstance(exception, SessionExpiredException):
                 error['code'] = 100
-                error['message'] = "Odoo Session Expired"
+                error['message'] = "ERP Session Expired"
             return self._json_response(error=error)
 
     def dispatch(self):
@@ -817,12 +817,12 @@ class HttpRequest(WebRequest):
                 else:
                     _logger.warn("""No CSRF validation token provided for path '%s'
 
-Odoo URLs are CSRF-protected by default (when accessed with unsafe
+ERP URLs are CSRF-protected by default (when accessed with unsafe
 HTTP methods). See
-https://www.odoo.com/documentation/9.0/reference/http.html#csrf for
+https://www.erp.com/documentation/9.0/reference/http.html#csrf for
 more details.
 
-* if this endpoint is accessed through Odoo via py-QWeb form, embed a CSRF
+* if this endpoint is accessed through ERP via py-QWeb form, embed a CSRF
   token in the form, Tokens are available via `request.csrf_token()`
   can be provided through a hidden input and must be POST-ed named
   `csrf_token` e.g. in your form add:

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Sales Expense',
@@ -14,7 +14,7 @@ Create some products for which you can re-invoice the costs.
 This module does not add any feature, despite a few demo data to
 test the features easily.
 """,
-    'website': 'https://www.odoo.com/page/warehouse',
+    'website': 'https://www.erp.com/page/warehouse',
     'depends': ['sale', 'hr_expense'],
     'data': [
         'views/product_view.xml',

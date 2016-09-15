@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * google_drive
 # 
@@ -6,7 +6,7 @@
 # AYHAN KIZILTAN <akiziltan76@hotmail.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2016-04-23 18:26+0000\n"
@@ -22,12 +22,12 @@ msgstr ""
 #: model:ir.ui.view,arch_db:google_drive.view_google_drive_config_form
 msgid ""
 "<b>To create a new filter:</b><br/>\n"
-"                                - Go to the Odoo document you want to filter. For instance, go to Opportunities and search on Sales Department.<br/>\n"
+"                                - Go to the ERP document you want to filter. For instance, go to Opportunities and search on Sales Department.<br/>\n"
 "                                - In this \"Search\" view, select the option \"Save Current Filter\", enter the name (Ex: Sales Department)<br/>\n"
 "                                - If you select \"Share with all users\", link of google document in \"More\" options will appear for all users in opportunities of Sales Department.<br/>\n"
 "                                - If you don't select \"Share with all users\", link of google document in \"More\" options will not appear for other users in opportunities of Sales Department.<br/>\n"
 "                                - If filter is not specified, link of google document will appear in \"More\" option for all users for all opportunities."
-msgstr "<b>yeni bir süzgeç oluşturmak için:</b><br/>\n                                - Süzgeç oluşturmak istediğiniz Odoo belgesine gidin. Örneğin, Fırsatlara gidin ve Satış Bölümünde arayın.<br/>\n                                - Bu \"Arama\" görünümünde \"Geçerli Süzgeçi Kaydet\"i seçin, adını girin (Örn: Satış Bölümü)<br/>\n                                - Eğer \"Bütün kullanıcılarla paylaş\"ı seçerseniz, \"Fazlası\" seçeneğinde google belgeleri bağlantısı Satış Bölümündeki fırsatlardaki tüm kullanıcılarda görünecektir.<br/>\n                                - Eğer \"Bütün kullanıcılarla paylaş\"ı seçmezseniz, \"Fazlası\" seçeneğinde google belgeleri bağlantısı fırsatlardaki tüm kullanıcılarda görünmeyecektir.<br/>\n                                - Eğer süzgeç belirtilmemişse,  \"Fazlası\" seçeneğinde google belgeleri bağlantısı fırsatlardaki tüm kullanıcılarda görünecektir."
+msgstr "<b>yeni bir süzgeç oluşturmak için:</b><br/>\n                                - Süzgeç oluşturmak istediğiniz ERP belgesine gidin. Örneğin, Fırsatlara gidin ve Satış Bölümünde arayın.<br/>\n                                - Bu \"Arama\" görünümünde \"Geçerli Süzgeçi Kaydet\"i seçin, adını girin (Örn: Satış Bölümü)<br/>\n                                - Eğer \"Bütün kullanıcılarla paylaş\"ı seçerseniz, \"Fazlası\" seçeneğinde google belgeleri bağlantısı Satış Bölümündeki fırsatlardaki tüm kullanıcılarda görünecektir.<br/>\n                                - Eğer \"Bütün kullanıcılarla paylaş\"ı seçmezseniz, \"Fazlası\" seçeneğinde google belgeleri bağlantısı fırsatlardaki tüm kullanıcılarda görünmeyecektir.<br/>\n                                - Eğer süzgeç belirtilmemişse,  \"Fazlası\" seçeneğinde google belgeleri bağlantısı fırsatlardaki tüm kullanıcılarda görünecektir."
 
 #. module: google_drive
 #: model:ir.model.fields,field_description:google_drive.field_google_drive_config_active
@@ -156,12 +156,12 @@ msgstr "Son Güncellenen"
 #. module: google_drive
 #: model:ir.actions.act_window,help:google_drive.action_google_drive_users_config
 msgid ""
-"Link your own google drive templates to any record of Odoo. If you have "
+"Link your own google drive templates to any record of ERP. If you have "
 "really specific documents you want your collaborator fill in, e.g. Use a "
 "spreadsheet to control the quality of your product or review the delivery "
 "checklist for each order in a foreign country, ... Its very easy to manage "
-"them, link them to Odoo and use them to collaborate with your employees."
-msgstr "Kendi google drive şablonlarınızı herhangi bir Odoo kaydına bağlantılayın. Örn. gerçekten işbirliği yaptığınız kimsenin doldurmasını istediğiniz özel belgeler varsa. Ürününüzün kalitesini kontrol etmek için bir çalışma tablosu kullanın veya yabancı bir ülkeye olan her sipariş için teslimat denetim listesini inceleyin, ... Onları yönetmek çok kolaydır, Odoo'ya bağlantılayın ve çalışanlarınızla işbirliği için kullanın."
+"them, link them to ERP and use them to collaborate with your employees."
+msgstr "Kendi google drive şablonlarınızı herhangi bir ERP kaydına bağlantılayın. Örn. gerçekten işbirliği yaptığınız kimsenin doldurmasını istediğiniz özel belgeler varsa. Ürününüzün kalitesini kontrol etmek için bir çalışma tablosu kullanın veya yabancı bir ülkeye olan her sipariş için teslimat denetim listesini inceleyin, ... Onları yönetmek çok kolaydır, ERP'ya bağlantılayın ve çalışanlarınızla işbirliği için kullanın."
 
 #. module: google_drive
 #: model:ir.model.fields,field_description:google_drive.field_google_drive_config_model
@@ -226,7 +226,7 @@ msgstr "Google'dan yetkilendirme kodu oluşturmak için URL"
 msgid ""
 "The name of the attached document can use fixed or variable data. To distinguish between documents in\n"
 "                                Google Drive, use fixed words and fields. For instance, in the example above, if you wrote Agrolait_%(name)s_Sales\n"
-"                                in the Google Drive name field, the document in your Google Drive and in Odoo attachment will be named\n"
+"                                in the Google Drive name field, the document in your Google Drive and in ERP attachment will be named\n"
 "                                'Agrolait_SO0001_Sales'."
 msgstr "Eklenen dosyanın adı sabit ya da değişken bir data kullanabilir. Google drive'da verileri birbirinden ayırmak için, sabit kelimeler ve alanlar kullanın.Örnekte olduğu gibi eğer  Agrolait_%(name)s_Sales yazarsanız\n                               , Google drivedaki dokumanın adı\n                                'Agrolait_SO0001_Sales' olarak kaydedilecektir."
 

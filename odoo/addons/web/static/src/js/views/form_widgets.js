@@ -962,7 +962,7 @@ var TimezoneMismatch = FieldSelection.extend({
             this.$label.find('.oe_tz_warning').remove();
             var options = _.extend({
                 delay: { show: 501, hide: 0 },
-                title: _t("Timezone Mismatch : The timezone of your browser doesn't match the selected one. The time in Odoo is displayed according to your field timezone."),
+                title: _t("Timezone Mismatch : The timezone of your browser doesn't match the selected one. The time in ERP is displayed according to your field timezone."),
             });
             this.$label.css('white-space', 'normal');
             $(QWeb.render('WebClient.timezone_warning')).appendTo(this.$label);
@@ -1708,13 +1708,13 @@ var AbstractFieldUpgrade = {
             $content: $('<div>', {
                 html: message,
             }),
-            title: _t("Odoo Enterprise"),
+            title: _t("ERP Enterprise"),
         }).open();
     },
   
     confirm_upgrade: function() {
         new Model("res.users").call("search_count", [[["share", "=", false]]]).then(function(data) {
-            framework.redirect("https://www.odoo.com/odoo-enterprise/upgrade?num_users=" + data);
+            framework.redirect("https://www.erp.com/odoo-enterprise/upgrade?num_users=" + data);
         });
     },
     

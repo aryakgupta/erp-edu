@@ -5,7 +5,7 @@
         <record id="website.default_website" model="website">
             <field name="social_twitter">https://twitter.com/openeducat</field>
             <field name="social_facebook">https://facebook.com/openeducat</field>
-            <field name="social_googleplus">https://plus.google.com/+OpenEduCat</field>
+            <field name="social_googleplus">https://plus.google.com/+ERP</field>
             <field name="social_github">https://github.com/openeducat</field>
             <field name="social_youtube">https://youtube.com/channel/UC7HLHTgfsOTE-ueRVNZ4Avg</field>
             <field name="social_linkedin"></field>
@@ -15,7 +15,7 @@
             <xpath expr="//div[@class='col-md-4 col-lg-5 col-lg-offset-1']/div" position="replace">
                 <div>
                     <p>
-                        OpenEduCat is a product developed by Tech-Receptives
+                        ERP is a product developed by ERP
                         Solutions Pvt. Ltd., an expert company focusing in providing
                         unique open source solutions.
                         <br />
@@ -38,7 +38,7 @@
             <xpath expr="//div[@class='col-md-6 mt32']" position="replace">
                 <div class="col-md-6 mt32">
                     <p>
-                        OpenEduCat is a product developed by Tech-Receptives
+                        ERP is a product developed by ERP
                         Solutions Pvt. Ltd., an expert company focusing in providing
                         unique open source solutions.
                         <br />

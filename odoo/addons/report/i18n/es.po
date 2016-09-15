@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * report
 # 
@@ -9,7 +9,7 @@
 # Oihane Crucelaegui <oihanecruce@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-29 10:26+0000\n"
 "PO-Revision-Date: 2015-12-02 13:59+0000\n"
@@ -483,7 +483,7 @@ msgstr "Wkhtmltopdf falló (error code: %s). Mensaje: %s"
 msgid ""
 "You need to start OpenERP with at least two \n"
 "workers to print a pdf version of the reports."
-msgstr "Necesita iniciar Odoo con al menos dos hilos para poder imprimir una versión PDF de los informes."
+msgstr "Necesita iniciar ERP con al menos dos hilos para poder imprimir una versión PDF de los informes."
 
 #. module: report
 #. openerp-web

@@ -9,7 +9,7 @@
             <field name="type">service</field>
             <field name="uom_id" ref="product.product_uom_unit"/>
             <field name="uom_po_id" ref="product.product_uom_unit"/>
-            <field name="description_sale">Learn directly from our team and network of Odoo experts. Choose from the available training sessions for a better functional understanding of Odoo</field>
+            <field name="description_sale">Learn directly from our team and network of ERP experts. Choose from the available training sessions for a better functional understanding of ERP</field>
         </record>
 
         <record id="product_product_quote_1" model="product.product">
@@ -25,7 +25,7 @@
             <field name="type">service</field>
             <field name="uom_id" ref="product.product_uom_unit"/>
             <field name="uom_po_id" ref="product.product_uom_unit"/>
-            <field name="description_sale">Learn directly from our team and network of Odoo experts. Choose from the available training sessions for a better technical understanding of Odoo</field>
+            <field name="description_sale">Learn directly from our team and network of ERP experts. Choose from the available training sessions for a better technical understanding of ERP</field>
         </record>
 
         <record id="product_product_quote_2" model="product.product">
@@ -41,7 +41,7 @@
             <field name="type">service</field>
             <field name="uom_id" ref="product.product_uom_unit"/>
             <field name="uom_po_id" ref="product.product_uom_unit"/>
-            <field name="description_sale">Learn directly from our team and network of Odoo experts. Choose from the available training sessions for a better functional understanding of Odoo</field>
+            <field name="description_sale">Learn directly from our team and network of ERP experts. Choose from the available training sessions for a better functional understanding of ERP</field>
         </record>
 
         <record id="product_product_quote_3" model="product.product">
@@ -63,9 +63,9 @@
                             <p>
                                 Our partnership offer includes all you need to
                                 grow your business and deliver quality services
-                                with the Odoo Partner Program.
+                                with the ERP Partner Program.
                             </p><p>
-                                It includes <strong>discounts on Odoo
+                                It includes <strong>discounts on ERP
                                 Enterprise</strong>, technical and/or functional
                                 <strong>trainings</strong>,
                                 <strong>support</strong> services,
@@ -109,7 +109,7 @@
                                     management software</strong> in the world.
                                    </p><p>
                                     Benefit from the growing customer demand
-                                    and our Odoo brand.
+                                    and our ERP brand.
                                    </p>
                                 </div>
                             </div>
@@ -125,7 +125,7 @@
                                      highly valuable software.
                                    </p><p>
                                      Grow by developing a <strong>recurring
-                                     revenue flow</strong> from Odoo
+                                     revenue flow</strong> from ERP
                                      Enterprise's commission system. 
                                    </p>
                                 </div>
@@ -139,7 +139,7 @@
                     <p>
                         We will assign you a dedicated account manager, an
                         experienced sales person, to help you develop your
-                        Odoo business. The account manager helps you get
+                        ERP business. The account manager helps you get
                         leads, close deals, gives you feedback and best
                         practices, delivers sales training and is your direct
                         point of contact for any request you may have.
@@ -153,7 +153,7 @@
                         </div>
                         <div class="col-md-7">
                             <p>
-                                For an extra fee, partners can get access to Odoo's
+                                For an extra fee, partners can get access to ERP's
                                 core developers and functional experts. This can help
                                 you succeed in delivering more complex or bigger
                                 projects by getting the support of highly experienced
@@ -173,10 +173,10 @@
                         </div>
                         <div class="col-md-7">
                             <p>
-                                Odoo promotes its partners through various ways:
+                                ERP promotes its partners through various ways:
                                 publication on our website, official communication,
                                 publication of your success stories, etc. As soon as
-                                you become an Odoo partner and have followed the
+                                you become an ERP partner and have followed the
                                 official trainings, you will be visible on the partner
                                 directory listing.
                             </p>
@@ -196,8 +196,8 @@
                             <p>
                                 Every year, we redirect more than 100,000 customer
                                 requests to our official partners. These are prospects
-                                that filled a form on the Odoo website and wanted to
-                                use Odoo. The right partner to fulfill the customer
+                                that filled a form on the ERP website and wanted to
+                                use ERP. The right partner to fulfill the customer
                                 request is selected based on the customer localization
                                 (nearest partner) and the grade of the partner.
                             </p>
@@ -213,8 +213,8 @@
                     <p>
                         Every year, we redirect more than 100,000 customer
                         requests to our official partners. These are prospects
-                        that filled a form on the Odoo website and wanted to
-                        use Odoo. The right partner to fulfill the customer
+                        that filled a form on the ERP website and wanted to
+                        use ERP. The right partner to fulfill the customer
                         request is selected based on the customer localization
                         (nearest partner) and the grade of the partner.
                     </p>
@@ -230,13 +230,13 @@
                             <p class="mt23">
                                 Save time in your implementation project by having your
                                 developments tested automatically by our automated test
-                                servers. At every code commit, you get a full Odoo
+                                servers. At every code commit, you get a full ERP
                                 instance that you can try out online. When this
                                 instance is deployed, your code is automatically put
                                 through our 2000+ automated unit tests.
                             </p><p>
                                 Our automated testing server software is called Runbot,
-                                and you can try it out here: http://runbot.odoo.com.
+                                and you can try it out here: http://runbot.erp.com.
                                 A dedicated runbot server is available for every
                                 partner.
                             </p>
@@ -261,7 +261,7 @@
                 <section>
                     <div class="row">
                         <div class="col-md-12 mb32">
-                            <p>These courses feature the same high quality course content found in our traditional classroom trainings, supplemented with modular sessions and cloud-based labs. Many of our online learning courses also include dozens of recorded webinars and live sessions by our senior instructors. At the end of the training, you can pass the Odoo Certification exam in one of the 5000+ Pearson VUE test centers worldwide.</p>
+                            <p>These courses feature the same high quality course content found in our traditional classroom trainings, supplemented with modular sessions and cloud-based labs. Many of our online learning courses also include dozens of recorded webinars and live sessions by our senior instructors. At the end of the training, you can pass the ERP Certification exam in one of the 5000+ Pearson VUE test centers worldwide.</p>
                         </div>
                         <div class="col-md-offset-1">
                             <h3>Your advantages</h3>
@@ -342,7 +342,7 @@
                                     <div class="panel-heading text-center">
                                         <h3 style="margin: 0">Day 2</h3>
 
-                                        <p class="text-muted" style="margin: 0">Odoo Web Client</p>
+                                        <p class="text-muted" style="margin: 0">ERP Web Client</p>
                                     </div>
                                     <ul class="list-group">
                                         <li class="list-group-item">Introduction to JQuery</li>
@@ -411,7 +411,7 @@
                                     <li>Participants preferably have a functional knowledge of our software (see Functional Training).</li>
                                 </ul><p>&amp;nbsp;</p>
 
-                                <p>To get more information, visit the <a href="https://www.odoo.com/">Odoo Official Website</a>.</p>
+                                <p>To get more information, visit the <a href="https://www.erp.com/">ERP Official Website</a>.</p>
                             </div>
                         </div>
                     </div>
@@ -440,12 +440,12 @@
                             <div class="col-md-12 mt16 mb0">
                                 <p><span style="text-align: -webkit-center; ">Upon completion of the training, the participant will be able to:</span></p>
                                 <ul class="list-group">
-                                    <li class="list-group-item"> Install and administer Odoo.</li>
-                                    <li class="list-group-item"> Become an Odoo Consultant.</li>
+                                    <li class="list-group-item"> Install and administer ERP.</li>
+                                    <li class="list-group-item"> Become an ERP Consultant.</li>
                                     <li class="list-group-item"> Do the GAP analysis of any Business Process.</li>
-                                    <li class="list-group-item"> Understand the functional concepts, business processes by Odoo.</li>
-                                    <li class="list-group-item"> Operate/Work with Odoo Smoothly on regular basis.</li>
-                                    <li class="list-group-item"> Configure Odoo using the standard modules.</li>
+                                    <li class="list-group-item"> Understand the functional concepts, business processes by ERP.</li>
+                                    <li class="list-group-item"> Operate/Work with ERP Smoothly on regular basis.</li>
+                                    <li class="list-group-item"> Configure ERP using the standard modules.</li>
                                     <li class="list-group-item"> Change the look and feel from the front-end(GUI) rather than aneed of technical knowledge.</li>
                                 </ul>
 
@@ -516,7 +516,7 @@
                                     <li>Participants preferably have a functional knowledge of our software (see Functional Training).</li>
                                 </ul><p></p>
 
-                                <p>To get more information, visit the <a href="http://openerp.com/">Odoo Official Website</a>.</p>
+                                <p>To get more information, visit the <a href="http://openerp.com/">ERP Official Website</a>.</p>
                             </div>
                         </div>
                     </div>

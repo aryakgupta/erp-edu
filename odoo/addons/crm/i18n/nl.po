@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * crm
 # 
@@ -11,7 +11,7 @@
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:17+0000\n"
 "PO-Revision-Date: 2016-08-06 10:39+0000\n"
@@ -349,11 +349,11 @@ msgstr "<strong>Evenementen</strong>"
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"<strong>Every business is different.</strong> Odoo allows to\n"
+"<strong>Every business is different.</strong> ERP allows to\n"
 "                        customize every application and it's usually a good\n"
 "                        advice to customize screens to fit your sales process.\n"
-"                        <strong>Customizations are done by Odoo experts.</strong>"
-msgstr "<strong>Elke organisatie is anders.</strong> U kan met Odoo\n                        elke applicatie aanpassen, en het is zelfs aanbevolen om\n                        schermen aan te passen op maat van uw verkoopproces.\n                        <strong>Aanpassingen worden uitgevoerd door Odoo experten.</strong>"
+"                        <strong>Customizations are done by ERP experts.</strong>"
+msgstr "<strong>Elke organisatie is anders.</strong> U kan met ERP\n                        elke applicatie aanpassen, en het is zelfs aanbevolen om\n                        schermen aan te passen op maat van uw verkoopproces.\n                        <strong>Aanpassingen worden uitgevoerd door ERP experten.</strong>"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -511,8 +511,8 @@ msgstr "<strong>Om sneller en meer leads op te sporen</strong> moet u eens een k
 msgid ""
 "<strong>Trainings</strong><br/>\n"
 "                                To build a strong sales training program, you can use the following\n"
-"                                apps of Odoo:"
-msgstr "<strong>Opleidingen</strong><br/>\n                                Om een sterk verkooptrainingsprogramma uit te bouwen,\n                                kan u volgende Odoo-toepassingen gebruiken:"
+"                                apps of ERP:"
+msgstr "<strong>Opleidingen</strong><br/>\n                                Om een sterk verkooptrainingsprogramma uit te bouwen,\n                                kan u volgende ERP-toepassingen gebruiken:"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -556,10 +556,10 @@ msgstr "Een goede pijplijn heeft tussen 5 en 7 fases"
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"A product in Odoo is something you sell or buy. It could\n"
+"A product in ERP is something you sell or buy. It could\n"
 "                    be a goods, consumable or services. Choose how you want to\n"
 "                    create your products:"
-msgstr "Een product in Odoo is iets dat u koopt of verkoopt. Het kan\neen goed zijn, een verbruiksgoed of een dienst. Kies hoe u\nuw producten wenst aan te maken:"
+msgstr "Een product in ERP is iets dat u koopt of verkoopt. Het kan\neen goed zijn, een verbruiksgoed of een dienst. Kies hoe u\nuw producten wenst aan te maken:"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -1675,9 +1675,9 @@ msgstr "Uit veiligheidsoverwegingen kunt u niet meer dan 3 contacten samenvoegen
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the ERP Team,<br/>\n"
 "                          Fabien Pinckaers, Founder"
-msgstr "In naam van het hele Odoo Team,<br/>\nFabien Pinckaers, oprichter"
+msgstr "In naam van het hele ERP Team,<br/>\nFabien Pinckaers, oprichter"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_lead2opportunity_partner_mass_force_assignation
@@ -1753,8 +1753,8 @@ msgstr "Beheer relatie- koppelingen of generatie in CRM wizards."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
-msgid "Happy Selling!<br/>- The Odoo Team"
-msgstr "Alle succes bij het verkopen!<br/>- Het Odoo Team"
+msgid "Happy Selling!<br/>- The ERP Team"
+msgstr "Alle succes bij het verkopen!<br/>- Het ERP Team"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -1893,8 +1893,8 @@ msgstr "Verbeter de gemiddelde opbrengst per verkoper"
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"In Odoo, there are 3 different ways to manage your products prices.<br/>"
-msgstr "In Odoo zijn er 3 manieren om uw productprijzen te beheren.<br/>"
+"In ERP, there are 3 different ways to manage your products prices.<br/>"
+msgstr "In ERP zijn er 3 manieren om uw productprijzen te beheren.<br/>"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_lost_reason_view_search
@@ -1916,8 +1916,8 @@ msgstr "Inkomende e-mails"
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
 "Incoming email create leads automatically when a new prospect contacts you.\n"
-"                        That's the easiest way to integrate Odoo with third party apps."
-msgstr "Wanneer een prospect per e-mail contact met u opneemt zal er automatisch een lead\naangemaakt worden. Dat is de eenvoudigste manier om Odoo te integreren met andere apps."
+"                        That's the easiest way to integrate ERP with third party apps."
+msgstr "Wanneer een prospect per e-mail contact met u opneemt zal er automatisch een lead\naangemaakt worden. Dat is de eenvoudigste manier om ERP te integreren met andere apps."
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_sale_config_settings_module_crm_voip
@@ -2630,49 +2630,49 @@ msgstr "Aantal ongelezen berichten"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
-msgid "Odoo Default"
-msgstr "Odoo standaard"
+msgid "ERP Default"
+msgstr "ERP standaard"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_sale_config_settings_module_website_sign
 #: model:ir.ui.view,arch_db:crm.view_sale_config_settings
-msgid "Odoo Sign"
-msgstr "Odoo ondertekenen"
+msgid "ERP Sign"
+msgstr "ERP ondertekenen"
 
 #. module: crm
 #: model:ir.actions.act_window,help:crm.crm_case_form_view_salesteams_opportunity
 msgid ""
-"Odoo helps you keep track of your sales pipeline to follow\n"
+"ERP helps you keep track of your sales pipeline to follow\n"
 "                    up potential sales and better forecast your future revenues."
-msgstr "Odoo helpt u bij het opvolgen van uw verkooppijplijn om mogelijke verkopen te\nontdekken en betere inschattingen te kunnen maken van toekomstige opbrengsten."
+msgstr "ERP helpt u bij het opvolgen van uw verkooppijplijn om mogelijke verkopen te\nontdekken en betere inschattingen te kunnen maken van toekomstige opbrengsten."
 
 #. module: crm
 #: model:ir.actions.act_window,help:crm.crm_lead_opportunities
 #: model:ir.actions.act_window,help:crm.crm_lead_opportunities_tree_view
 msgid ""
-"Odoo helps you keep track of your sales pipeline to follow\n"
+"ERP helps you keep track of your sales pipeline to follow\n"
 "                up potential sales and better forecast your future revenues."
-msgstr "Odoo helpt u bij het opvolgen van uw verkooppijplijn om mogelijke verkopen te\nontdekken en betere inschattingen te kunnen maken van toekomstige opbrengsten."
+msgstr "ERP helpt u bij het opvolgen van uw verkooppijplijn om mogelijke verkopen te\nontdekken en betere inschattingen te kunnen maken van toekomstige opbrengsten."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"Odoo is the world's only software to have a full integration of Marketing "
+"ERP is the world's only software to have a full integration of Marketing "
 "Apps for your sales channel: insight sales, point of sale, ecommerce."
-msgstr "Odoo is wereldwijd de enige toepassing met een volledige integratie met marketing-toepassingen voor uw verkoopkanalen : interne verkoopmedewerkers, kassa en e-commerce."
+msgstr "ERP is wereldwijd de enige toepassing met een volledige integratie met marketing-toepassingen voor uw verkoopkanalen : interne verkoopmedewerkers, kassa en e-commerce."
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_sale_config_settings_generate_sales_team_alias
-msgid "Odoo will generate an email alias based on the sales team name"
-msgstr "Odoo genereert een e-mail alias gebaseerd op de naam van het verkoopteam"
+msgid "ERP will generate an email alias based on the sales team name"
+msgstr "ERP genereert een e-mail alias gebaseerd op de naam van het verkoopteam"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"Odoo will help you create polished, professional quotations and contracts in minutes.\n"
+"ERP will help you create polished, professional quotations and contracts in minutes.\n"
 "                        Tell us how you sell and we will tell you what\n"
 "                        configuration will best fit your quotation process."
-msgstr "Odoo helpt u bij het maken van mooie en professionele offertes en contracten in slechts enkele minuten.\nVertel ons hoe u verkoopt en wij zullen voor u een\nconfiguratie uitdenken die haarfijn aansluit bij uw offerteproces."
+msgstr "ERP helpt u bij het maken van mooie en professionele offertes en contracten in slechts enkele minuten.\nVertel ons hoe u verkoopt en wij zullen voor u een\nconfiguratie uitdenken die haarfijn aansluit bij uw offerteproces."
 
 #. module: crm
 #: model:ir.actions.act_window,help:crm.crm_case_form_view_salesteams_lead
@@ -3211,9 +3211,9 @@ msgstr "Selecteer de fases voor dit verkoopteam"
 msgid ""
 "Select the list of fields used to search for\n"
 "                            duplicated records. If you select several fields,\n"
-"                            Odoo will propose you to merge only those having\n"
+"                            ERP will propose you to merge only those having\n"
 "                            all these fields in common. (not one of the fields)."
-msgstr "Selecteer de lijst van velden welke worden gebruikt voor het zoeken naar\n                            dubbele regels. Indien u meerdere velden selecteert,\n                            zal Odoo voorstellen om alleen de regels samen te voegen\n                            waarvan ieder veld gelijk is (en niet 1 van de velden)."
+msgstr "Selecteer de lijst van velden welke worden gebruikt voor het zoeken naar\n                            dubbele regels. Indien u meerdere velden selecteert,\n                            zal ERP voorstellen om alleen de regels samen te voegen\n                            waarvan ieder veld gelijk is (en niet 1 van de velden)."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.base_partner_merge_automatic_wizard_form
@@ -3270,9 +3270,9 @@ msgstr "Door deze fase in te stellen wordt de kans op de prospect automatisch ge
 msgid ""
 "Setting up your sales funnel is just the first step. To achieve a\n"
 "                      significant boost, we will help you get the most out of\n"
-"                      Odoo CRM to transform how your salespeople work.\n"
+"                      ERP CRM to transform how your salespeople work.\n"
 "                      That's the purpose of this guide."
-msgstr "Uw verkooppijplijn instellen is slechts een eerste stap. Om een \ndaadwerkelijke boost te bereiken, helpen we u het maximum uit\nOdoo CRM te halen om uw verkoopmensen juist aan te sturen.\nDat is de bedoeling van deze hulp."
+msgstr "Uw verkooppijplijn instellen is slechts een eerste stap. Om een \ndaadwerkelijke boost te bereiken, helpen we u het maximum uit\nERP CRM te halen om uw verkoopmensen juist aan te sturen.\nDat is de bedoeling van deze hulp."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.view_sale_config_settings
@@ -3489,8 +3489,8 @@ msgstr "Sjablonen van e-mails"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
-msgid "Templates of quotations (use Odoo Online Proposals for this)"
-msgstr "Voorbeelden van offertes (gebruik hiervoor Odoo Online Proposals)"
+msgid "Templates of quotations (use ERP Online Proposals for this)"
+msgstr "Voorbeelden van offertes (gebruik hiervoor ERP Online Proposals)"
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_res_users_payment_next_action_date
@@ -3520,7 +3520,7 @@ msgstr "De eerste fase is gewoonlijk \"Nieuw\" en de laatste \"Gewonnen\""
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_team_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
 msgstr "Het model waar deze alias bijhoort. Iedere inkomende e-mail dat niet bij een bestaande regel hoort zal leiden tot het aanmaken van een nieuwe regel in dit model (Bijv. een project taak)."
@@ -3529,7 +3529,7 @@ msgstr "Het model waar deze alias bijhoort. Iedere inkomende e-mail dat niet bij
 #: model:ir.model.fields,help:crm.field_crm_team_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
+"<jobs@example.erp.com>"
 msgstr "De naam van de e-mail alias, bijvoorbeeld: 'vacature' indien u alle e-mails van vacature@uwbedrijf.nl wilt afvangen."
 
 #. module: crm
@@ -3879,19 +3879,19 @@ msgstr "Wij kunnen stappen in uw workflow automatiseren, bijvoorbeeld:"
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
-msgstr "Wij kunnen het hele importproces voor u \nafhandelen: stuur uw Odoo projectbeheerder\neen CSV-bestand met al uw\ndatagegevens."
+msgstr "Wij kunnen het hele importproces voor u \nafhandelen: stuur uw ERP projectbeheerder\neen CSV-bestand met al uw\ndatagegevens."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
-msgstr "Wij kunnen het hele importproces voor u \nafhandelen: stuur uw Odoo projectbeheerder\neenvoudigweg een CSV-bestand met al uw\nproducten."
+msgstr "Wij kunnen het hele importproces voor u \nafhandelen: stuur uw ERP projectbeheerder\neenvoudigweg een CSV-bestand met al uw\nproducten."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -3903,10 +3903,10 @@ msgstr "Wij kunnen aangepaste rapporten maken gebaseerd op uw Word-documenten, b
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"We designed Odoo to help you grow your business. Odoo CRM\n"
+"We designed ERP to help you grow your business. ERP CRM\n"
 "                      is not just a tool, we want it to have a major impact on your\n"
 "                      sales performance. That's our mission, and we are serious about it."
-msgstr "We hebben Odoo ontwikkeld om uw bedrijf te laten groeien. Odoo CRM\nis niet zomaar een toepassing, we willen dat het een echte impact heeft op\nuw verkoopresultaten. Daar gaan we voluit voor."
+msgstr "We hebben ERP ontwikkeld om uw bedrijf te laten groeien. ERP CRM\nis niet zomaar een toepassing, we willen dat het een echte impact heeft op\nuw verkoopresultaten. Daar gaan we voluit voor."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner

@@ -127,7 +127,7 @@
                                 <field name="zip" placeholder="ZIP" class="o_address_zip"/>
                                 <field name="country_id" placeholder="Country" class="o_address_country" options='{"no_open": True, "no_create": True}'/>
                             </div>
-                            <field name="website" widget="url" placeholder="e.g. www.odoo.com"/>
+                            <field name="website" widget="url" placeholder="e.g. www.erp.com"/>
                         </group>
                         <group>
                         </group>
@@ -192,7 +192,7 @@
                                 <field name="country_id" placeholder="Country" class="o_address_country" options='{"no_open": True, "no_create": True}'
                                     attrs="{'readonly': [('type', '=', 'contact'),('parent_id', '!=', False)]}"/>
                             </div>
-                            <field name="website" widget="url" placeholder="e.g. www.odoo.com"/>
+                            <field name="website" widget="url" placeholder="e.g. www.erp.com"/>
                         </group>
                         <group>
                             <field name="function" placeholder="e.g. Sales Director"
@@ -440,7 +440,7 @@
               <p class="oe_view_nocontent_create">
                 Click to add a contact in your address book.
               </p><p>
-                Odoo helps you easily track all activities related to
+                ERP helps you easily track all activities related to
                 a customer; discussions, history of business opportunities,
                 documents, etc.
               </p>
@@ -480,7 +480,7 @@
               <p class="oe_view_nocontent_create">
                 Click to add a contact in your address book.
               </p><p>
-                Odoo helps you easily track all activities related to
+                ERP helps you easily track all activities related to
                 a customer: discussions, history of business opportunities,
                 documents, etc.
               </p>
@@ -500,7 +500,7 @@
               <p class="oe_view_nocontent_create">
                 Click to add a contact in your address book.
               </p><p>
-                Odoo helps you easily track all activities related to
+                ERP helps you easily track all activities related to
                 a supplier: discussions, history of purchases,
                 documents, etc.
               </p>

@@ -7,7 +7,7 @@
 Testing Modules
 ===============
 
-Odoo provides support for testing modules using unittest.
+ERP provides support for testing modules using unittest.
 
 To write tests, simply define a ``tests`` sub-package in your module, it will
 be automatically inspected for test modules. Test modules should have a name
@@ -39,8 +39,8 @@ and ``__init__.py`` contains::
     run all imported modules
 
 The test runner will simply run any test case, as described in the official
-`unittest documentation`_, but Odoo provides a number of utilities and helpers
-related to testing Odoo content (modules, mainly):
+`unittest documentation`_, but ERP provides a number of utilities and helpers
+related to testing ERP content (modules, mainly):
 
 .. autoclass:: openerp.tests.common.TransactionCase
     :members: browse_ref, ref
@@ -75,9 +75,9 @@ Running tests
 
 Tests are automatically run when installing or updating modules if
 :option:`--test-enable <odoo.py --test-enable>` was enabled when starting the
-Odoo server.
+ERP server.
 
-As of Odoo 8, running tests outside of the install/update cycle is not
+As of ERP 8, running tests outside of the install/update cycle is not
 supported.
 
 .. _unittest documentation: https://docs.python.org/2/library/unittest.html

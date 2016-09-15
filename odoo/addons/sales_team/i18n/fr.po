@@ -1,16 +1,16 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * sales_team
 # 
 # Translators:
-# Lucas Deliege <lud@odoo.com>, 2015
+# Lucas Deliege <lud@erp.com>, 2015
 # Martin Trigaux, 2015
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015
 # Nancy Bolognesi <nb@microcom.ca>, 2015
 # Nicolas JEUDY <nicolas@sudokeys.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:11+0000\n"
 "PO-Revision-Date: 2015-12-29 15:05+0000\n"
@@ -420,9 +420,9 @@ msgstr "Le code de l'équipe de vente doit être unique !"
 #. module: sales_team
 #: model:ir.model.fields,help:sales_team.field_crm_team_reply_to
 msgid ""
-"The email address put in the 'Reply-To' of all emails sent by Odoo about "
+"The email address put in the 'Reply-To' of all emails sent by ERP about "
 "cases in this sales team"
-msgstr "Adresse électronique indiquée dans le champ 'Répondre à' pour les courriels envoyés par Odoo concernant cette équipe"
+msgstr "Adresse électronique indiquée dans le champ 'Répondre à' pour les courriels envoyés par ERP concernant cette équipe"
 
 #. module: sales_team
 #. openerp-web

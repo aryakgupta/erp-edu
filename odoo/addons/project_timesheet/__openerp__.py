@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Bill Time on Tasks',
@@ -13,7 +13,7 @@ This module lets you transfer the entries under tasks defined for Project
 Management to the Timesheet line entries for particular date and particular user
 with the effect of creating, editing and deleting either ways.
     """,
-    'website': 'https://www.odoo.com/page/project-management',
+    'website': 'https://www.erp.com/page/project-management',
     'images': ['images/invoice_task_work.jpeg', 'images/my_timesheet.jpeg', 'images/working_hour.jpeg'],
     'depends': ['resource', 'project', 'sale_timesheet'],
     'data': [

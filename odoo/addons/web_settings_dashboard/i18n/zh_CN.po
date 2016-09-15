@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * web_settings_dashboard
 # 
@@ -10,7 +10,7 @@
 # Xia Fajin <xia.fajin@elico-corp.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-06-17 08:01+0000\n"
 "PO-Revision-Date: 2016-07-05 03:49+0000\n"
@@ -83,8 +83,8 @@ msgstr "输入邮件地址(每行一个)"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:92
 #, python-format
-msgid "Follow these implementation guides to get the most out of Odoo."
-msgstr "按照这些实施指导来有效利用Odoo."
+msgid "Follow these implementation guides to get the most out of ERP."
+msgstr "按照这些实施指导来有效利用ERP."
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -97,8 +97,8 @@ msgstr "通过企业版获得更多的功能！"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:131
 #, python-format
-msgid "Help us spread the word: Share Odoo's awesomeness with your friends!"
-msgstr "帮助我们传播:和你的朋友们分享Odoo的精彩!"
+msgid "Help us spread the word: Share ERP's awesomeness with your friends!"
+msgstr "帮助我们传播:和你的朋友们分享ERP的精彩!"
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -153,8 +153,8 @@ msgstr "没有已安装的应用"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:148
 #, python-format
-msgid "Odoo Enterprise"
-msgstr "Odoo 企业版"
+msgid "ERP Enterprise"
+msgstr "ERP 企业版"
 
 #. module: web_settings_dashboard
 #. openerp-web

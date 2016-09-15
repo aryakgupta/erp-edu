@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * auth_signup
 # 
@@ -6,7 +6,7 @@
 # Jaroslav Bosansky <jaro.bosansky@ekoenergo.sk>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-06 07:13+0000\n"
 "PO-Revision-Date: 2016-02-06 07:47+0000\n"
@@ -27,7 +27,7 @@ msgid ""
 "                        ${object.name},\n"
 "                    </p>\n"
 "                    <p>\n"
-"                        You have been invited to connect to \"${object.company_id.name}\" in order to get access to your documents in Odoo.\n"
+"                        You have been invited to connect to \"${object.company_id.name}\" in order to get access to your documents in ERP.\n"
 "                    </p>\n"
 "                    <p>\n"
 "                        To accept the invitation, click on the following link:\n"
@@ -46,23 +46,23 @@ msgid ""
 "                    </pre>\n"
 "                \n"
 "            "
-msgstr "\n\n<p>\n${object.name},\n</p>\n<p>\nBoli ste pozvaní na pripojenie sa k \"${object.company_id.name}\" s cieľom získať prístup k Vašim dokumentom v Odoo.\n</p>\n<p>\nPre prijatie pozvánky, kliknite na nasledovný odkaz:\n</p>\n<ul>\n<li><a href=\"${object.signup_url}\">Prijať pozvánku do \"${object.company_id.name}\"</a></li>\n</ul>\n<p>\nVďaka,\n</p>\n<pre>\n--\n${object.company_id.name or ''}\n${object.company_id.email or ''}\n${object.company_id.phone or ''}\n</pre>"
+msgstr "\n\n<p>\n${object.name},\n</p>\n<p>\nBoli ste pozvaní na pripojenie sa k \"${object.company_id.name}\" s cieľom získať prístup k Vašim dokumentom v ERP.\n</p>\n<p>\nPre prijatie pozvánky, kliknite na nasledovný odkaz:\n</p>\n<ul>\n<li><a href=\"${object.signup_url}\">Prijať pozvánku do \"${object.company_id.name}\"</a></li>\n</ul>\n<p>\nVďaka,\n</p>\n<pre>\n--\n${object.company_id.name or ''}\n${object.company_id.email or ''}\n${object.company_id.phone or ''}\n</pre>"
 
 #. module: auth_signup
 #: model:mail.template,body_html:auth_signup.reset_password_email
 msgid ""
 "\n"
-"<p>A password reset was requested for the Odoo account linked to this email.</p>\n"
+"<p>A password reset was requested for the ERP account linked to this email.</p>\n"
 "\n"
 "<p>You may change your password by following <a href=\"${object.signup_url}\">this link</a>, which will remain valid during 24 hours.</p>\n"
 "\n"
 "<p>Note: If you do not expect this, you can safely ignore this email.</p>"
-msgstr "\n<p>Bolo požiadané o resetovanie hesla pre Odoo účet spojený s týmto emailom.</p>\n\n<p>Môžete zmeniť svoje heslo kliknutím na <a href=\"${object.signup_url}\">tento odkaz</a>, ktorý bude platný po dobu 24 hodín.</p>\n\n<p>Poznámka: Ak toto neočakávate, môžete bez obáv tento email ignorovať.</p>"
+msgstr "\n<p>Bolo požiadané o resetovanie hesla pre ERP účet spojený s týmto emailom.</p>\n\n<p>Môžete zmeniť svoje heslo kliknutím na <a href=\"${object.signup_url}\">tento odkaz</a>, ktorý bude platný po dobu 24 hodín.</p>\n\n<p>Poznámka: Ak toto neočakávate, môžete bez obáv tento email ignorovať.</p>"
 
 #. module: auth_signup
 #: model:mail.template,subject:auth_signup.set_password_email
-msgid "${object.company_id.name} invitation to connect on Odoo"
-msgstr "${object.company_id.name} pozvánka na pripojenie sa k Odoo"
+msgid "${object.company_id.name} invitation to connect on ERP"
+msgstr "${object.company_id.name} pozvánka na pripojenie sa k ERP"
 
 #. module: auth_signup
 #: model:ir.ui.view,arch_db:auth_signup.res_users_form_view

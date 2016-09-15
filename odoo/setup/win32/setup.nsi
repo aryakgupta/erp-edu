@@ -1,4 +1,4 @@
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 # TODO: Avoid to uninstall the database
 # TODO: We can update the server or the clients without to uninstall the all-in-one
@@ -38,7 +38,7 @@
     Exch $R2
 !macroend
 
-!define PUBLISHER 'Odoo S.A.'
+!define PUBLISHER 'ERP S.A.'
 
 !ifndef MAJOR_VERSION
     !define MAJOR_VERSION '9'
@@ -57,14 +57,14 @@
 #!define VERSION "${MAJOR_VERSION}.${MINOR_VERSION}-r${REVISION_VERSION}"
 !endif
 
-!define PRODUCT_NAME "Odoo"
+!define PRODUCT_NAME "ERP"
 !define DISPLAY_NAME "${PRODUCT_NAME} ${MAJOR_VERSION}.${MINOR_VERSION}"
 
 !define REGISTRY_ROOT HKLM
 !define UNINSTALL_BASE_REGISTRY_KEY "Software\Microsoft\Windows\CurrentVersion\Uninstall"
 !define UNINSTALL_REGISTRY_KEY "${UNINSTALL_BASE_REGISTRY_KEY}\${DISPLAY_NAME}"
 
-!define UNINSTALL_REGISTRY_KEY_SERVER "${UNINSTALL_BASE_REGISTRY_KEY}\Odoo Server ${VERSION}"
+!define UNINSTALL_REGISTRY_KEY_SERVER "${UNINSTALL_BASE_REGISTRY_KEY}\ERP Server ${VERSION}"
 
 !define REGISTRY_KEY "Software\${DISPLAY_NAME}"
 
@@ -82,7 +82,7 @@ ShowInstDetails show
 
 XPStyle on
 
-InstallDir "$PROGRAMFILES\Odoo ${VERSION}"
+InstallDir "$PROGRAMFILES\ERP ${VERSION}"
 InstallDirRegKey HKCU "${REGISTRY_KEY}" ""
 
 BrandingText '${PRODUCT_NAME} ${VERSION}'
@@ -144,7 +144,7 @@ Page Custom ShowPostgreSQL LeavePostgreSQL
 !define MUI_FINISHPAGE_RUN_TEXT "$(DESC_FinishPageText)"
 !define MUI_FINISHPAGE_RUN_FUNCTION "LaunchLink"
 !define MUI_FINISHPAGE_LINK $(DESC_FinishPage_Link) 
-!define MUI_FINISHPAGE_LINK_LOCATION "https://www.odoo.com/page/contactus"
+!define MUI_FINISHPAGE_LINK_LOCATION "https://www.erp.com/page/contactus"
 !insertmacro MUI_PAGE_FINISH
 
 !insertmacro MUI_UNPAGE_WELCOME
@@ -157,11 +157,11 @@ Page Custom ShowPostgreSQL LeavePostgreSQL
 !insertmacro MUI_RESERVEFILE_LANGDLL
 
 ; English
-LangString DESC_OpenERP_Server ${LANG_ENGLISH} "Install the Odoo Server with all the Odoo standard modules."
-LangString DESC_PostgreSQL ${LANG_ENGLISH} "Install the PostgreSQL RDBMS used by Odoo."
-LangString DESC_FinishPage_Link ${LANG_ENGLISH} "Contact Odoo for Partnership and/or Support"
+LangString DESC_OpenERP_Server ${LANG_ENGLISH} "Install the ERP Server with all the ERP standard modules."
+LangString DESC_PostgreSQL ${LANG_ENGLISH} "Install the PostgreSQL RDBMS used by ERP."
+LangString DESC_FinishPage_Link ${LANG_ENGLISH} "Contact ERP for Partnership and/or Support"
 LangString DESC_AtLeastOneComponent ${LANG_ENGLISH} "You have to choose at least one component"
-LangString DESC_CanNotInstallPostgreSQL ${LANG_ENGLISH} "You can not install the PostgreSQL database without the Odoo Server"
+LangString DESC_CanNotInstallPostgreSQL ${LANG_ENGLISH} "You can not install the PostgreSQL database without the ERP Server"
 LangString WARNING_HostNameIsEmpty ${LANG_ENGLISH} "The hostname for the connection to the PostgreSQL Server is empty"
 LangString WARNING_UserNameIsEmpty ${LANG_ENGLISH} "The username for the connection to the PostgreSQL Server is empty"
 LangString WARNING_PasswordIsEmpty ${LANG_ENGLISH} "The password for the connection to the PostgreSQL Server is empty"
@@ -173,16 +173,16 @@ LangString DESC_PostgreSQL_Username ${LANG_ENGLISH} "Username"
 LangString DESC_PostgreSQL_Password ${LANG_ENGLISH} "Password"
 LangString Profile_AllInOne ${LANG_ENGLISH} "All In One"
 LangString Profile_Server ${LANG_ENGLISH} "Server only"
-LangString TITLE_OpenERP_Server ${LANG_ENGLISH} "Odoo Server"
+LangString TITLE_OpenERP_Server ${LANG_ENGLISH} "ERP Server"
 LangString TITLE_PostgreSQL ${LANG_ENGLISH} "PostgreSQL Database"
-LangString DESC_FinishPageText ${LANG_ENGLISH} "Start Odoo"
+LangString DESC_FinishPageText ${LANG_ENGLISH} "Start ERP"
 
 ; French
-LangString DESC_OpenERP_Server ${LANG_FRENCH} "Installation du Serveur Odoo avec tous les modules Odoo standards."
-LangString DESC_PostgreSQL ${LANG_FRENCH} "Installation de la base de données PostgreSQL utilisée par Odoo."
-LangString DESC_FinishPage_Link ${LANG_FRENCH} "Contactez Odoo pour un Partenariat et/ou du Support"
+LangString DESC_OpenERP_Server ${LANG_FRENCH} "Installation du Serveur ERP avec tous les modules ERP standards."
+LangString DESC_PostgreSQL ${LANG_FRENCH} "Installation de la base de données PostgreSQL utilisée par ERP."
+LangString DESC_FinishPage_Link ${LANG_FRENCH} "Contactez ERP pour un Partenariat et/ou du Support"
 LangString DESC_AtLeastOneComponent ${LANG_FRENCH} "Vous devez choisir au moins un composant"
-LangString DESC_CanNotInstallPostgreSQL ${LANG_FRENCH} "Vous ne pouvez pas installer la base de données PostgreSQL sans le serveur Odoo"
+LangString DESC_CanNotInstallPostgreSQL ${LANG_FRENCH} "Vous ne pouvez pas installer la base de données PostgreSQL sans le serveur ERP"
 LangString WARNING_HostNameIsEmpty ${LANG_FRENCH} "L'adresse pour la connection au serveur PostgreSQL est vide"
 LangString WARNING_UserNameIsEmpty ${LANG_FRENCH} "Le nom d'utilisateur pour la connection au serveur PostgreSQL est vide"
 LangString WARNING_PasswordIsEmpty ${LANG_FRENCH} "Le mot de passe pour la connection au serveur PostgreSQL est vide"
@@ -194,9 +194,9 @@ LangString DESC_PostgreSQL_Username ${LANG_FRENCH} "Utilisateur"
 LangString DESC_PostgreSQL_Password ${LANG_FRENCH} "Mot de passe"
 LangString Profile_AllInOne ${LANG_FRENCH} "All In One"
 LangString Profile_Server ${LANG_FRENCH} "Seulement le serveur"
-LangString TITLE_OpenERP_Server ${LANG_FRENCH} "Serveur Odoo"
+LangString TITLE_OpenERP_Server ${LANG_FRENCH} "Serveur ERP"
 LangString TITLE_PostgreSQL ${LANG_FRENCH} "Installation du serveur de base de données PostgreSQL"
-LangString DESC_FinishPageText ${LANG_FRENCH} "Démarrer Odoo"
+LangString DESC_FinishPageText ${LANG_FRENCH} "Démarrer ERP"
 
 InstType $(Profile_AllInOne)
 InstType $(Profile_Server)
@@ -263,7 +263,7 @@ Section $(TITLE_PostgreSQL) SectionPostgreSQL
         --mode unattended \
         --prefix "$INSTDIR\PostgreSQL" \
         --datadir "$INSTDIR\PostgreSQL\data" \
-        --servicename "PostgreSQL_For_Odoo" \
+        --servicename "PostgreSQL_For_ERP" \
         --serviceaccount "openpgsvc" --servicepassword "0p3npgsvcPWD" \
         --superaccount "$TextPostgreSQLUsername" --superpassword "$TextPostgreSQLPassword" \
         --serverport $TextPostgreSQLPort'
@@ -278,10 +278,10 @@ Section -Post
 ;    WriteRegDWORD HKLM     "${UNINSTALL_REGISTRY_KEY}" "Version" "${VERSION}"
 ;    WriteRegDWORD HKLM     "${UNINSTALL_REGISTRY_KEY}" "VersionMajor" "${MAJOR_VERSION}.${MINOR_VERSION}"
 ;    WriteRegDWORD HKLM     "${UNINSTALL_REGISTRY_KEY}" "VersionMinor" "${REVISION_VERSION}"
-    WriteRegStr HKLM       "${UNINSTALL_REGISTRY_KEY}" "HelpLink" "support@odoo.com"
+    WriteRegStr HKLM       "${UNINSTALL_REGISTRY_KEY}" "HelpLink" "support@erp.com"
     WriteRegStr HKLM       "${UNINSTALL_REGISTRY_KEY}" "HelpTelephone" "+32.81.81.37.00"
-    WriteRegStr HKLM       "${UNINSTALL_REGISTRY_KEY}" "URLInfoAbout" "https://www.odoo.com"
-    WriteRegStr HKLM       "${UNINSTALL_REGISTRY_KEY}" "Contact" "sales@odoo.com"
+    WriteRegStr HKLM       "${UNINSTALL_REGISTRY_KEY}" "URLInfoAbout" "https://www.erp.com"
+    WriteRegStr HKLM       "${UNINSTALL_REGISTRY_KEY}" "Contact" "sales@erp.com"
     WriteRegDWORD HKLM     "${UNINSTALL_REGISTRY_KEY}" "NoModify" "1"
     WriteRegDWORD HKLM     "${UNINSTALL_REGISTRY_KEY}" "NoRepair" "1"
     WriteUninstaller "$INSTDIR\Uninstall.exe"

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_forum
 # 
@@ -8,7 +8,7 @@
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-11-26 14:10+0000\n"
 "PO-Revision-Date: 2016-08-06 10:39+0000\n"
@@ -2528,8 +2528,8 @@ msgstr "De wachtrij met gevlagde reacties is leeg."
 #: model:forum.forum,faq:website_forum.forum_help
 msgid ""
 "The goal of this site is create a relevant knowledge base that would answer\n"
-"    questions related to Odoo."
-msgstr "Het doel van deze website is om een relevante kennisbasis te maken die vragen\nkan beantwoorden gerelateerd aan Odoo."
+"    questions related to ERP."
+msgstr "Het doel van deze website is om een relevante kennisbasis te maken die vragen\nkan beantwoorden gerelateerd aan ERP."
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.moderation_queue
@@ -3022,8 +3022,8 @@ msgstr "dupliceer post"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.new_link
-msgid "e.g. https://www.odoo.com"
-msgstr "bijvoorbeeld https://www.odoo.com"
+msgid "e.g. https://www.erp.com"
+msgstr "bijvoorbeeld https://www.erp.com"
 
 #. module: website_forum
 #: model:ir.ui.view,arch_db:website_forum.faq
@@ -3079,8 +3079,8 @@ msgstr "hier"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "how to configure or customize Odoo to specific business needs,"
-msgstr "Hoe Odoo te configureren of personaliseren naar specifieke zakelijke noden,"
+msgid "how to configure or customize ERP to specific business needs,"
+msgstr "Hoe ERP te configureren of personaliseren naar specifieke zakelijke noden,"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
@@ -3089,8 +3089,8 @@ msgstr "Hoe modules te ontwikkelen voor uw eigen noden,"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "how to install Odoo on a specific infrastructure,"
-msgstr "Hoe Odoo te installeren op een specifieke infrastructuur,"
+msgid "how to install ERP on a specific infrastructure,"
+msgstr "Hoe ERP te installeren op een specifieke infrastructuur,"
 
 #. module: website_forum
 #. openerp-web
@@ -3205,8 +3205,8 @@ msgstr "spam of advertenties"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "specific questions about Odoo service offers, etc."
-msgstr "specifieke vragen over Odoo dienstaanbiedingen, enz."
+msgid "specific questions about ERP service offers, etc."
+msgstr "specifieke vragen over ERP dienstaanbiedingen, enz."
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
@@ -3289,8 +3289,8 @@ msgstr "website"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help
-msgid "what's the best way to use Odoo for a specific business need,"
-msgstr "Wat is de beste manier om Odoo te gebruiken voor een specifieke bedrjifsbehoefte,"
+msgid "what's the best way to use ERP for a specific business need,"
+msgstr "Wat is de beste manier om ERP te gebruiken voor een specifieke bedrjifsbehoefte,"
 
 #. module: website_forum
 #: model:forum.forum,faq:website_forum.forum_help

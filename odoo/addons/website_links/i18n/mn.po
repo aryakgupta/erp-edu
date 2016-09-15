@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_links
 # 
@@ -6,7 +6,7 @@
 # Otgonbayar Agvaan <gobi.mn@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:41+0000\n"
 "PO-Revision-Date: 2015-11-18 13:55+0000\n"
@@ -155,8 +155,8 @@ msgstr "Статистик"
 #: model:ir.ui.view,arch_db:website_links.create_shorten_url
 msgid ""
 "Thoses trackers can be used in Google Analytics to track clicks and "
-"visitors, or in Odoo reports to track opportunities and related revenues."
-msgstr "Энэ хөтлөгчид нь Google Analytics-д зочлогчдийн даралтыг хөтлөхөд ашиглаж болно, эсвэл Odoo-д боломж болон холбогдох орлогыг хөтлөх тухай мэдэгдэнэ."
+"visitors, or in ERP reports to track opportunities and related revenues."
+msgstr "Энэ хөтлөгчид нь Google Analytics-д зочлогчдийн даралтыг хөтлөхөд ашиглаж болно, эсвэл ERP-д боломж болон холбогдох орлогыг хөтлөх тухай мэдэгдэнэ."
 
 #. module: website_links
 #: model:ir.ui.view,arch_db:website_links.create_shorten_url
@@ -225,8 +225,8 @@ msgstr "ж. Хайлтын систем, Веб хуудас, .."
 
 #. module: website_links
 #: model:ir.ui.view,arch_db:website_links.create_shorten_url
-msgid "e.g. https://www.odoo.com/page/contactus"
-msgstr "ж. https://www.odoo.com/page/contactus"
+msgid "e.g. https://www.erp.com/page/contactus"
+msgstr "ж. https://www.erp.com/page/contactus"
 
 #. module: website_links
 #. openerp-web

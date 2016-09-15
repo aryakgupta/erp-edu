@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * account_extra_reports
 # 
@@ -7,7 +7,7 @@
 # Shark McGnark <peculiarcheese@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-22 13:12+0000\n"
 "PO-Revision-Date: 2016-05-27 15:52+0000\n"

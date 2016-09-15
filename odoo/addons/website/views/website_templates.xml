@@ -108,7 +108,7 @@
                 and main_object.website_meta_description or website_meta_description"/>
             <meta name="keywords" t-att-content="main_object and 'website_meta_keywords' in main_object
                 and main_object.website_meta_keywords or website_meta_keywords"/>
-            <meta name="generator" content="Odoo"/>
+            <meta name="generator" content="ERP"/>
 
             <!-- OpenGraph tags for Facebook sharing -->
             <meta property="og:title" t-att-content="additional_title" />
@@ -214,8 +214,8 @@
     <xpath expr="//div[contains(@id, 'footer')]" position="inside">
         <div class="container mt16 mb8">
             <div class="pull-right" t-ignore="true" t-if="not editable">
-                Create a <a href="http://www.odoo.com/page/website-builder">free website</a> with
-                <a class="label label-danger" href="http://www.odoo.com/page/website-builder">Odoo</a>
+                Create a <a href="http://www.erp.com/page/website-builder">free website</a> with
+                <a class="label label-danger" href="http://www.erp.com/page/website-builder">ERP</a>
             </div>
             <div class="pull-left text-muted" itemscope="itemscope" itemtype="http://schema.org/Organization">
                 Copyright &amp;copy; <span t-field="res_company.name" itemprop="name">Company name</span>
@@ -284,7 +284,7 @@
     -->
     <t t-if="not debug">
         <script>
-            // Use Odoo PDFJS Loader, to avoid dynamic assets loading
+            // Use ERP PDFJS Loader, to avoid dynamic assets loading
             PDFJS.workerSrc = '/website/static/lib/pdfjs/worker_loader_by_odoo.js';
             PDFJS.disableWorker = true;
         </script>
@@ -565,24 +565,24 @@
 
 <!-- Error and special pages -->
 
-<template id="info" name="Odoo Information">
+<template id="info" name="ERP Information">
     <t t-call="website.layout">
       <div id="wrap">
       </div>
     </t>
 </template>
 
-<template id="show_website_info" inherit_id="website.info" customize_show="True" name="Show Odoo Information">
+<template id="show_website_info" inherit_id="website.info" customize_show="True" name="Show ERP Information">
     <xpath expr="//div[@id='wrap']" position="inside">
 
         <div class="oe_structure">
 
             <section class="container">
                 <h1><t t-esc="res_company.name"/>
-                    <small>Odoo Version <t t-raw="version.get('server_version')"/></small>
+                    <small>ERP Version <t t-raw="version.get('server_version')"/></small>
                 </h1>
                 <p>
-                    Information about the <t t-esc="res_company.name"/> instance of Odoo, the <a href="https://www.odoo.com">Open Source ERP</a>.
+                    Information about the <t t-esc="res_company.name"/> instance of ERP, the <a href="https://www.erp.com">Open Source ERP</a>.
                 </p>
 
                 <div class="alert alert-warning alert-dismissable mt16" groups="base.group_website_publisher">

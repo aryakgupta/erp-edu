@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr
 # 
@@ -6,7 +6,7 @@
 # Ricardo Martins <ricardo.nbs.martins@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-15 10:41+0000\n"
 "PO-Revision-Date: 2016-05-25 12:07+0000\n"
@@ -338,8 +338,8 @@ msgstr "Defina o calendário de recursos"
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_consultant
-msgid "Deliver generic Odoo functional training sessions"
-msgstr "Forneça sessões de formação em Odoo genéricas e funcionais"
+msgid "Deliver generic ERP functional training sessions"
+msgstr "Forneça sessões de formação em ERP genéricas e funcionais"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee_department_id
@@ -945,7 +945,7 @@ msgstr "Número de mensagens por ler"
 #. module: hr
 #: model:ir.actions.act_window,help:hr.open_module_tree_department
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"ERP's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                leaves and holidays, recruitments, etc."
 msgstr "Estrutura do departamento de Openerp é usado para gerenciar todos os documents\nrelacionada aos empregados por departamentos: despesas, quadros de horários, \nfolhas e feriados, recrutamentos, etc."
@@ -1350,7 +1350,7 @@ msgstr "Irá reportar ao director dos serviços profissionais"
 #: model:ir.actions.act_window,help:hr.act_employee_from_department
 #: model:ir.actions.act_window,help:hr.open_view_employee_list_my
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the ERP employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
 msgstr "Com apenas uma rápida olhada na tela empregado a Openerp, you\npode facilmente encontrar todas as informações que você precisa para cada pessoa; \ndados de contato, cargo, disponibilidade, etc."

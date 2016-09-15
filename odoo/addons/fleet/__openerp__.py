@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 {
     'name' : 'Fleet Management',
     'version' : '0.1',
     'sequence': 165,
     'category': 'Human Resources',
-    'website' : 'https://www.odoo.com/page/fleet',
+    'website' : 'https://www.erp.com/page/fleet',
     'summary' : 'Vehicle, leasing, insurances, costs',
     'description' : """
 Vehicle, leasing, insurances, cost
 ==================================
-With this module, Odoo helps you managing all your vehicles, the
+With this module, ERP helps you managing all your vehicles, the
 contracts associated to those vehicle as well as services, fuel log
 entries, costs and many other features necessary to the management 
 of your fleet of vehicle(s)

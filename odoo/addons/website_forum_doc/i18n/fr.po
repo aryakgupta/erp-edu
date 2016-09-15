@@ -1,16 +1,16 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_forum_doc
 # 
 # Translators:
 # Fabien Pinckaers <fp@openerp.com>, 2015
-# Lucas Deliege <lud@odoo.com>, 2015
+# Lucas Deliege <lud@erp.com>, 2015
 # Martin Trigaux, 2016
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015-2016
-# Melanie Bernard <mbe@odoo.com>, 2015
+# Melanie Bernard <mbe@erp.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:41+0000\n"
 "PO-Revision-Date: 2016-01-26 11:41+0000\n"
@@ -170,13 +170,13 @@ msgstr "Erreur ! Vous ne pouvez pas créer de catégories récursives."
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to configure in Odoo"
-msgstr "Expliquer comment configurer Odoo"
+msgid "Explain how to configure in ERP"
+msgstr "Expliquer comment configurer ERP"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to implement it in Odoo"
-msgstr "Expliquer comment implémenter Odoo"
+msgid "Explain how to implement it in ERP"
+msgstr "Expliquer comment implémenter ERP"
 
 #. module: website_forum_doc
 #: model:ir.model.fields,field_description:website_forum_doc.field_forum_documentation_toc_forum_id
@@ -387,8 +387,8 @@ msgstr "Nom de l'étape"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "The answer is understandable for someone who does not know Odoo"
-msgstr "La réponse est compréhensible pour quelqu'un qui ne connait pas Odoo"
+msgid "The answer is understandable for someone who does not know ERP"
+msgstr "La réponse est compréhensible pour quelqu'un qui ne connait pas ERP"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question

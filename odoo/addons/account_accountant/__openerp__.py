@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 {
     'name': 'Accounting and Finance',
     'version': '1.1',
@@ -13,7 +13,7 @@ It gives the Administrator user access to all accounting features such as journa
 
 It assigns manager and user access rights to the Administrator for the accounting application and only user rights to the Demo user.
 """,
-    'website': 'https://www.odoo.com/page/accounting',
+    'website': 'https://www.erp.com/page/accounting',
     'depends': ['account'],
     'data': [
         'security/account_security.xml',

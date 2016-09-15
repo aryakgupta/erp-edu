@@ -33,7 +33,7 @@ Tour.register({
             element:   'button[value="next"]',
         },
         // Page-2
-        // Question: What do you think about the documentation available on doc.odoo.com?
+        // Question: What do you think about the documentation available on doc.erp.com?
         {
             title:     "For 'It is up-to-date' checking 'Totally disagree'",
             element:   'input[name="1_2_3_15"][value="11"]',
@@ -45,7 +45,7 @@ Tour.register({
             sampleText:'12',
         },
         {
-            title:     "For 'I use the contextual help in Odoo' checking 'Agree'",
+            title:     "For 'I use the contextual help in ERP' checking 'Agree'",
             element:   'input[name="1_2_3_17"][value="13"]',
             sampleText:'13',
         },
@@ -59,9 +59,9 @@ Tour.register({
             element:   'input[name="1_2_3_19"][value="12"]',
             sampleText:'12',
         },
-        // Question: What do you think about the process views of Odoo, available in the web client ?
+        // Question: What do you think about the process views of ERP, available in the web client ?
         {
-            title:     "For 'They help new users to understand Odoo' checking 'Totally disagree'",
+            title:     "For 'They help new users to understand ERP' checking 'Totally disagree'",
             element:   'input[name="1_2_4_24"][value="20"]',
             sampleText:'20',
         },
@@ -155,7 +155,7 @@ Tour.register({
             element:   'button[value="next"]',
         },
         // Page-3
-        // Question: How do you contribute or plan to contribute to Odoo?
+        // Question: How do you contribute or plan to contribute to ERP?
         {
             title:     "Checking 'I would like to contribute but I don not know how?'",
             element:   'input[name="1_3_10_53"][value="53"]',

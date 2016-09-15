@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 """
     openerp_mailgate.py
 """
@@ -101,13 +101,13 @@ def configure_parser():
     parser = optparse.OptionParser(usage='usage: %prog [options]', version='%prog v1.1')
     group = optparse.OptionGroup(parser, "Note",
         "This program parse a mail from standard input and communicate "
-        "with the Odoo server for case management in the CRM module.")
+        "with the ERP server for case management in the CRM module.")
     parser.add_option_group(group)
     parser.add_option("-u", "--user", dest="userid",
-                      help="Odoo user id to connect with",
+                      help="ERP user id to connect with",
                       default=config.OPENERP_DEFAULT_USER_ID, type='int')
     parser.add_option("-p", "--password", dest="password",
-                      help="Odoo user password",
+                      help="ERP user password",
                       default=config.OPENERP_DEFAULT_PASSWORD)
     parser.add_option("-o", "--model", dest="model",
                       help="Name or ID of destination model",
@@ -116,13 +116,13 @@ def configure_parser():
                       help="Admin email for error notifications.",
                       default=None)
     parser.add_option("-d", "--dbname", dest="dbname",
-                      help="Odoo database name (default: %default)",
+                      help="ERP database name (default: %default)",
                       default=config.OPENERP_DEFAULT_DATABASE)
     parser.add_option("--host", dest="host",
-                      help="Odoo Server hostname",
+                      help="ERP Server hostname",
                       default=config.OPENERP_HOSTNAME)
     parser.add_option("--port", dest="port",
-                      help="Odoo Server XML-RPC port number",
+                      help="ERP Server XML-RPC port number",
                       default=config.OPENERP_PORT)
     parser.add_option("--custom-values", dest="custom_values",
                       help="Dictionary of extra values to pass when creating records",
@@ -168,13 +168,13 @@ def main():
             '%s' % (cgitb.text(sys.exc_info())),
         ])
 
-        subject = '[Odoo]:ERROR: Mailgateway - %s' % time.strftime('%Y-%m-%d %H:%M:%S')
+        subject = '[ERP]:ERROR: Mailgateway - %s' % time.strftime('%Y-%m-%d %H:%M:%S')
         send_mail(
             config.MAIL_ERROR,
             config.MAIL_ADMINS,
             subject, msg, files=[('message.txt', msg_txt)]
         )
-        sys.stderr.write("Failed to deliver email to Odoo Server, sending error notification to %s\n" % config.MAIL_ADMINS)
+        sys.stderr.write("Failed to deliver email to ERP Server, sending error notification to %s\n" % config.MAIL_ADMINS)
 
 if __name__ == '__main__':
     main()

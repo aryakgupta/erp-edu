@@ -166,7 +166,7 @@ class calendar_attendee(osv.Model):
                 elif interval == 'minutes':
                     delta = timedelta(minutes=duration)
                 trigger.value = delta
-                valarm.add('DESCRIPTION').value = alarm.name or 'Odoo'
+                valarm.add('DESCRIPTION').value = alarm.name or 'ERP'
         for attendee in event_obj.attendee_ids:
             attendee_add = event.add('attendee')
             attendee_add.value = 'MAILTO:' + (attendee.email or '')

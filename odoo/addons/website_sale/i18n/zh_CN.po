@@ -1,9 +1,9 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_sale
 # 
 # Translators:
-# Denis Ledoux <dle@odoo.com>, 2016
+# Denis Ledoux <dle@erp.com>, 2016
 # fausthuang, 2015
 # fausthuang, 2015
 # Gary Wei <Gary.wei@elico-corp.com>, 2015
@@ -15,7 +15,7 @@
 # liAnGjiA <liangjia@qq.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-07-22 05:53+0000\n"
@@ -1087,9 +1087,9 @@ msgstr "ID"
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
 "If you have an eCommerce, one of your objectives is of course to grow your revenues by\n"
-"                    selling more and pricier products. Luckily for you, Odoo integrates three powerful\n"
+"                    selling more and pricier products. Luckily for you, ERP integrates three powerful\n"
 "                    customizations for that."
-msgstr "如果你有一个电子商务，你的目标之一当然是通过销售更多，价格更高的产品，以增加你的收入。幸运的是，Odoo集成了三个功能强大的自定义设置的。"
+msgstr "如果你有一个电子商务，你的目标之一当然是通过销售更多，价格更高的产品，以增加你的收入。幸运的是，ERP集成了三个功能强大的自定义设置的。"
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_product_public_category_image
@@ -1266,15 +1266,15 @@ msgstr "Ok"
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
-"Odoo offers an importation service to handle the whole process for you!"
-msgstr "Odoo提供进口服务，处理的全过程为您服务！"
+"ERP offers an importation service to handle the whole process for you!"
+msgstr "ERP提供进口服务，处理的全过程为您服务！"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
 msgid ""
-"Odoo's web-services allows developers to create scripts that will load data "
+"ERP's web-services allows developers to create scripts that will load data "
 "automatically into the system."
-msgstr "Odoo的网络服务，允许开发人员创建脚本，它会自动将数据加载到系统中。"
+msgstr "ERP的网络服务，允许开发人员创建脚本，它会自动将数据加载到系统中。"
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
@@ -2130,8 +2130,8 @@ msgstr "您也可以定义不同的价格为您激活“使用价格表，以适
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner
-msgid "You can setup 3 types of <strong>payment methods in Odoo:</strong>"
-msgstr "您可以设置3种类型的付款方式在Odoo里："
+msgid "You can setup 3 types of <strong>payment methods in ERP:</strong>"
+msgstr "您可以设置3种类型的付款方式在ERP里："
 
 #. module: website_sale
 #: model:ir.ui.view,arch_db:website_sale.website_planner

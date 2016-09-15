@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * base
 # 
@@ -9,7 +9,7 @@
 # Mateus Lopes <mateus1@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-07-15 20:47+0000\n"
@@ -1099,7 +1099,7 @@ msgid ""
 "\n"
 "Main Features\n"
 "-------------\n"
-"* Clean and renewed communication history for any Odoo document that can act as a discussion topic\n"
+"* Clean and renewed communication history for any ERP document that can act as a discussion topic\n"
 "* Subscription mechanism to be updated about new messages on interesting documents\n"
 "* Unified feeds page to see recent messages and activity on followed documents\n"
 "* User communication through the feeds page\n"
@@ -1308,7 +1308,7 @@ msgid ""
 "the portal automatically adds it to the portal users, etc).  That feature is\n"
 "very handy when used in combination with the module 'share'.\n"
 "    "
-msgstr "\nPersonalize o acesso a seu banco de dados Odoo usuários externos através da criação de portais.\n================================================== ==============================\nUm portal define um direito do menu de utilizador e de acesso específicos para os seus membros . Este menu pode ser visto pelos membros do portal , os usuários públicos e qualquer outro usuário que têm o acesso a recursos técnicos (por exemplo, o administrador ) .\nAlém disso, cada membro do portal está ligado a um parceiro específico .\n\nO módulo também associa grupos de usuários aos usuários do portal (adicionando um grupo em o portal adiciona automaticamente para os usuários do portal , etc). Esse recurso é muito útil quando usado em combinação com o módulo de 'share' .\n    "
+msgstr "\nPersonalize o acesso a seu banco de dados ERP usuários externos através da criação de portais.\n================================================== ==============================\nUm portal define um direito do menu de utilizador e de acesso específicos para os seus membros . Este menu pode ser visto pelos membros do portal , os usuários públicos e qualquer outro usuário que têm o acesso a recursos técnicos (por exemplo, o administrador ) .\nAlém disso, cada membro do portal está ligado a um parceiro específico .\n\nO módulo também associa grupos de usuários aos usuários do portal (adicionando um grupo em o portal adiciona automaticamente para os usuários do portal , etc). Esse recurso é muito útil quando usado em combinação com o módulo de 'share' .\n    "
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_sale_delivery
@@ -1389,7 +1389,7 @@ msgid ""
 "to open ESC/POS controlled cashdrawers in the point of sale and other modules\n"
 "that would need such functionality.\n"
 "\n"
-msgstr "\nESC / POS Hardware driver\n=======================\n\nEste módulo permite Odoo para imprimir com impressoras compatíveis ESC / POS e\npara abrir ESC / POS cashdrawers controlados no ponto de venda e outros módulos\nque precisaria de tal funcionalidade .\n"
+msgstr "\nESC / POS Hardware driver\n=======================\n\nEste módulo permite ERP para imprimir com impressoras compatíveis ESC / POS e\npara abrir ESC / POS cashdrawers controlados no ponto de venda e outros módulos\nque precisaria de tal funcionalidade .\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_eu_service
@@ -1654,7 +1654,7 @@ msgid ""
 "31st March, 2011. The Format has done away with earlier two options of format of Balance\n"
 "Sheet, now only Vertical format has been permitted Which is Supported By OpenERP.\n"
 "  "
-msgstr "\nContabilidade indiano: Plano de Contas.\n====================================\n\nPlano Contábil indiano e localização.\n\nOpenERP permite gerir Contabilidade indiano, fornecendo dois formatos Of Plano de Contas, ou seja Gráfico indiano de Contas - Standard and Gráfico indiano de Contas - Cronograma VI.\n\nNota: A programação VI foi revista pelo MCA e é aplicável para todos os Balanço feita após\n31 de março de 2011. O formato acabou com duas opções anteriores de formato de Balanço\nFolha, já foi permitida somente formato vertical que é apoiado pelo Odoo.\n  "
+msgstr "\nContabilidade indiano: Plano de Contas.\n====================================\n\nPlano Contábil indiano e localização.\n\nOpenERP permite gerir Contabilidade indiano, fornecendo dois formatos Of Plano de Contas, ou seja Gráfico indiano de Contas - Standard and Gráfico indiano de Contas - Cronograma VI.\n\nNota: A programação VI foi revista pelo MCA e é aplicável para todos os Balanço feita após\n31 de março de 2011. O formato acabou com duas opções anteriores de formato de Balanço\nFolha, já foi permitida somente formato vertical que é apoiado pelo ERP.\n  "
 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_in_hr_payroll
@@ -1694,11 +1694,11 @@ msgid ""
 "\n"
 "Invoicing & Payments\n"
 "====================\n"
-"The specific and easy-to-use Invoicing system in Odoo allows you to keep track of your accounting, even when you are not an accountant. It provides an easy way to follow up on your vendors and customers.\n"
+"The specific and easy-to-use Invoicing system in ERP allows you to keep track of your accounting, even when you are not an accountant. It provides an easy way to follow up on your vendors and customers.\n"
 "\n"
 "You could use this simplified accounting in case you work with an (external) account to keep your books, and you still want to keep track of payments. This module also offers you an easy method of registering payments, without having to encode complete abstracts of account.\n"
 "    "
-msgstr "\nFaturamento & Pagamentos\n====================\nO sistema Faturamento específico e fácil de usar em Odoo lhe permite manter o controle de sua contabilidade, mesmo quando você não é um contador. Ele fornece uma maneira fácil de dar acompanhamento a seus fornecedores e clientes.\n\nVocê poderia usar esta contabilidade simplificada no caso de você trabalhar com uma conta (externa) para manter seus livros, e você ainda querer manter o controle de pagamentos. Este módulo também oferece um método fácil de registrar os pagamentos, sem ter que codificar resumos completos de conta.\n    "
+msgstr "\nFaturamento & Pagamentos\n====================\nO sistema Faturamento específico e fácil de usar em ERP lhe permite manter o controle de sua contabilidade, mesmo quando você não é um contador. Ele fornece uma maneira fácil de dar acompanhamento a seus fornecedores e clientes.\n\nVocê poderia usar esta contabilidade simplificada no caso de você trabalhar com uma conta (externa) para manter seus livros, e você ainda querer manter o controle de pagamentos. Este módulo também oferece um método fácil de registrar os pagamentos, sem ter que codificar resumos completos de conta.\n    "
 
 #. module: base
 #: model:ir.module.module,description:base.module_stock_landed_costs
@@ -1780,9 +1780,9 @@ msgid ""
 "==================================================\n"
 "\n"
 "Purchase management enables you to track your vendors' price quotations and convert them into purchase orders if necessary.\n"
-"Odoo has several methods of monitoring invoices and tracking the receipt of ordered goods. You can handle partial deliveries in Odoo, so you can keep track of items that are still to be delivered in your orders, and you can issue reminders automatically.\n"
+"ERP has several methods of monitoring invoices and tracking the receipt of ordered goods. You can handle partial deliveries in ERP, so you can keep track of items that are still to be delivered in your orders, and you can issue reminders automatically.\n"
 "\n"
-"Odoo's replenishment management rules enable the system to generate draft purchase orders automatically, or you can configure it to run a lean process driven entirely by current production needs.\n"
+"ERP's replenishment management rules enable the system to generate draft purchase orders automatically, or you can configure it to run a lean process driven entirely by current production needs.\n"
 "\n"
 "Dashboard / Reports for Purchase Management will include:\n"
 "---------------------------------------------------------\n"
@@ -1932,7 +1932,7 @@ msgstr "\nGerencie unidades secundárias de venda\n=============================
 #: model:ir.module.module,description:base.module_mrp
 msgid ""
 "\n"
-"Manage the Manufacturing process in Odoo\n"
+"Manage the Manufacturing process in ERP\n"
 "===========================================\n"
 "\n"
 "The manufacturing module allows you to cover planning, ordering, stocks and the manufacturing or assembly of products from raw materials and components. It handles the consumption and production of products according to a bill of materials and the necessary operations on machinery, tools or human resources according to routings.\n"
@@ -2110,13 +2110,13 @@ msgid ""
 "Module to import OFX bank statements.\n"
 "======================================\n"
 "\n"
-"This module allows you to import the machine readable OFX Files in Odoo: they are parsed and stored in human readable format in\n"
+"This module allows you to import the machine readable OFX Files in ERP: they are parsed and stored in human readable format in\n"
 "Accounting \\ Bank and Cash \\ Bank Statements.\n"
 "\n"
 "Bank Statements may be generated containing a subset of the OFX information (only those transaction lines that are required for the\n"
 "creation of the Financial Accounting records).\n"
 "    "
-msgstr "\nMódulo para importar extratos bancários OFX.\n==========================================\n\nEste módulo permite-lhe importar arquivos OFX no Odoo: eles são analisados e armazenados em formato legível em\nContabilidade \\ Banco e Caixa \\ Extratos Bancários.\n\nExtratos bancários podem ser gerados contendo um subconjunto das informações OFX (apenas as linhas de transação que são necessárias para a\ncriação dos registros de Contabilidade Financeira).\n    "
+msgstr "\nMódulo para importar extratos bancários OFX.\n==========================================\n\nEste módulo permite-lhe importar arquivos OFX no ERP: eles são analisados e armazenados em formato legível em\nContabilidade \\ Banco e Caixa \\ Extratos Bancários.\n\nExtratos bancários podem ser gerados contendo um subconjunto das informações OFX (apenas as linhas de transação que são necessárias para a\ncriação dos registros de Contabilidade Financeira).\n    "
 
 #. module: base
 #: model:ir.module.module,description:base.module_account_bank_statement_import_qif
@@ -2125,14 +2125,14 @@ msgid ""
 "Module to import QIF bank statements.\n"
 "======================================\n"
 "\n"
-"This module allows you to import the machine readable QIF Files in Odoo: they are parsed and stored in human readable format in\n"
+"This module allows you to import the machine readable QIF Files in ERP: they are parsed and stored in human readable format in\n"
 "Accounting \\ Bank and Cash \\ Bank Statements.\n"
 "\n"
 "Important Note\n"
 "---------------------------------------------\n"
 "Because of the QIF format limitation, we cannot ensure the same transactions aren't imported several times or handle multicurrency.\n"
 "Whenever possible, you should use a more appropriate file format like OFX.\n"
-msgstr "\nMódulo para importar extratos bancários QIF.\n==========================================\n\nEste módulo permite-lhe importar arquivos QIF no Odoo: eles são analisados e armazenados em formato legível em\nContabilidade \\ Banco e Caixa \\ Extratos Bancários.\n\nNota importante\n---------------------------------------------\nDevido a limitação de formato QIF, não podemos garantir que as mesmas operações não são importadas várias vezes ou lidar com várias moedas.\nSempre que possível, você deve usar um formato de arquivo mais adequado como OFX.\n"
+msgstr "\nMódulo para importar extratos bancários QIF.\n==========================================\n\nEste módulo permite-lhe importar arquivos QIF no ERP: eles são analisados e armazenados em formato legível em\nContabilidade \\ Banco e Caixa \\ Extratos Bancários.\n\nNota importante\n---------------------------------------------\nDevido a limitação de formato QIF, não podemos garantir que as mesmas operações não são importadas várias vezes ou lidar com várias moedas.\nSempre que possível, você deve usar um formato de arquivo mais adequado como OFX.\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_warning
@@ -2187,7 +2187,7 @@ msgstr "\nNova Importação de arquivo extensível para OpenERP\n===============
 #: model:ir.module.module,description:base.module_l10n_sa
 msgid ""
 "\n"
-"Odoo Arabic localization for most arabic countries and Saudi Arabia.\n"
+"ERP Arabic localization for most arabic countries and Saudi Arabia.\n"
 "\n"
 "This initially includes chart of accounts of USA translated to Arabic.\n"
 "\n"
@@ -2198,50 +2198,50 @@ msgstr "\nLocalização Openerp Árabe para a maioria dos países árabes e Ará
 #: model:ir.module.module,description:base.module_website_form_editor
 msgid ""
 "\n"
-"Odoo Form Editor\n"
+"ERP Form Editor\n"
 "====================\n"
 "\n"
 "Allows you to build web forms on the website using the website builder.\n"
 "        "
-msgstr "\nEditor de Formulário Odoo\n=========================\n\nPermite que você construa formulários da web no site usando o construtor de site.\n        "
+msgstr "\nEditor de Formulário ERP\n=========================\n\nPermite que você construa formulários da web no site usando o construtor de site.\n        "
 
 #. module: base
 #: model:ir.module.module,description:base.module_im_odoo_support
 msgid ""
 "\n"
-"Odoo Live Support\n"
+"ERP Live Support\n"
 "=================\n"
 "\n"
-"Ask your functional question directly to the Odoo Operators with the livechat support.\n"
+"Ask your functional question directly to the ERP Operators with the livechat support.\n"
 "\n"
 "        "
-msgstr "\nOpenerp Suporte ao Vivo\n=================\n\nFaça sua pergunta funcional diretamente para os operadores Odoo com o apoio livechat.\n        "
+msgstr "\nOpenerp Suporte ao Vivo\n=================\n\nFaça sua pergunta funcional diretamente para os operadores ERP com o apoio livechat.\n        "
 
 #. module: base
 #: model:ir.module.module,description:base.module_web_editor
 msgid ""
 "\n"
-"Odoo Web Editor widget.\n"
+"ERP Web Editor widget.\n"
 "==========================\n"
 "\n"
-msgstr "\nFerramenta de Editor de Site Odoo.\n===============================\n\n"
+msgstr "\nFerramenta de Editor de Site ERP.\n===============================\n\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_livechat
 msgid ""
 "\n"
-"Odoo Website LiveChat\n"
+"ERP Website LiveChat\n"
 "========================\n"
-"For website built with Odoo CMS, this module include a chat button on your Website, and allow your visitors to chat with your collabarators.\n"
+"For website built with ERP CMS, this module include a chat button on your Website, and allow your visitors to chat with your collabarators.\n"
 "It also will include the feedback tool for the livechat, and web pages to display your channel and its ratings on the website.\n"
 "        "
-msgstr "\nSite Chat Odoo\n================\nPara site construído com CMS Odoo, este módulo inclue um botão de chat em seu site, e permite que seus visitantes conversem com seus colaboradores.\nEle também irá incluir a ferramenta de feedback para o chat, e páginas da web para exibir o seu canal e suas classificações no site."
+msgstr "\nSite Chat ERP\n================\nPara site construído com CMS ERP, este módulo inclue um botão de chat em seu site, e permite que seus visitantes conversem com seus colaboradores.\nEle também irá incluir a ferramenta de feedback para o chat, e páginas da web para exibir o seu canal e suas classificações no site."
 
 #. module: base
 #: model:ir.module.module,description:base.module_web_settings_dashboard
 msgid ""
 "\n"
-"Odoo dashboard\n"
+"ERP dashboard\n"
 "==============\n"
 "* Quick access to install apps\n"
 "* Quick users add\n"
@@ -2249,7 +2249,7 @@ msgid ""
 "* Quick access to the `App Store` and `Theme Store`\n"
 "\n"
 "        "
-msgstr "\nDashboard Odoo\n=================\n* Acesso rápido para instalar aplicativos\n* Adição rápida de Usuários\n* Acesso a todos os planejadores em um só lugar\n* Acesso rápido à `App Store` e `Theme Store`\n\n        "
+msgstr "\nDashboard ERP\n=================\n* Acesso rápido para instalar aplicativos\n* Adição rápida de Usuários\n* Acesso a todos os planejadores em um só lugar\n* Acesso rápido à `App Store` e `Theme Store`\n\n        "
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_event_track
@@ -2294,7 +2294,7 @@ msgid ""
 "============\n"
 "\n"
 "        "
-msgstr "\nOdoo ERP Blog\n============"
+msgstr "\nERP ERP Blog\n============"
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_crm
@@ -2306,7 +2306,7 @@ msgid ""
 "====================\n"
 "\n"
 "        "
-msgstr "\nFormulário de Contato Odoo \n===================="
+msgstr "\nFormulário de Contato ERP \n===================="
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_customer
@@ -2314,7 +2314,7 @@ msgid ""
 "\n"
 "OpenERP Customer References\n"
 "===========================\n"
-msgstr "\nPreferência dos Clientes Odoo\n===========================\n"
+msgstr "\nPreferência dos Clientes ERP\n===========================\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_sale
@@ -2325,7 +2325,7 @@ msgid ""
 "==================\n"
 "\n"
 "        "
-msgstr "\nOdoo E-Commerce\n=================="
+msgstr "\nERP E-Commerce\n=================="
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_mail_channel
@@ -2335,7 +2335,7 @@ msgid ""
 "==========================================\n"
 "\n"
 "        "
-msgstr "\nGrupo de E-mail Odoo  : Lista de Arquivos de Email\n=========================================="
+msgstr "\nGrupo de E-mail ERP  : Lista de Arquivos de Email\n=========================================="
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_quote
@@ -2345,7 +2345,7 @@ msgid ""
 "=========================\n"
 "\n"
 "        "
-msgstr "\nOdoo Venda Citar Rolo\n=========================\n        "
+msgstr "\nERP Venda Citar Rolo\n=========================\n        "
 
 #. module: base
 #: model:ir.module.module,description:base.module_web_calendar
@@ -2392,7 +2392,7 @@ msgid ""
 "OpenERP Web tips.\n"
 "========================\n"
 "\n"
-msgstr "\nDicas Web Odoo.\n========================\n\n"
+msgstr "\nDicas Web ERP.\n========================\n\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_web_view_editor
@@ -2413,7 +2413,7 @@ msgid ""
 "===================\n"
 "\n"
 "        "
-msgstr "\nOdoo Website CMS\n==================="
+msgstr "\nERP Website CMS\n==================="
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_google_map
@@ -2423,7 +2423,7 @@ msgid ""
 "==========================\n"
 "\n"
 "        "
-msgstr "\nOdoo Website Google Map\n=========================="
+msgstr "\nERP Website Google Map\n=========================="
 
 #. module: base
 #: model:ir.module.module,description:base.module_mail_tip
@@ -2432,7 +2432,7 @@ msgid ""
 "OpenERP link module for web tips.\n"
 "=================================\n"
 "\n"
-msgstr "\nMódulo de ligação Odoo para dicas web\n=====================================\n"
+msgstr "\nMódulo de ligação ERP para dicas web\n=====================================\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_web_diagram
@@ -2599,7 +2599,7 @@ msgid ""
 "Publish your products on eBay\n"
 "==============================================================\n"
 "\n"
-"The eBay integrator gives you the opportunity to manage your Odoo's products on eBay.\n"
+"The eBay integrator gives you the opportunity to manage your ERP's products on eBay.\n"
 "\n"
 "Key Features\n"
 "------------\n"
@@ -2609,7 +2609,7 @@ msgid ""
 "* Automatic creation of sales order and invoices\n"
 "\n"
 "  "
-msgstr "\nPublicar seus produtos no eBay\n==============================================================\n\nO integrador eBay dá-lhe a oportunidade de gerenciar os produtos do seu Odoo no eBay.\n\nPrincipais Características\n---------------------------------------\n* Publicar produtos no eBay\n* Rever, listar novamente, finalizar itens no eBay\n* Integração com a movimentação de estoque\n* Criação automática de pedidos de vendas e faturas\n\n  "
+msgstr "\nPublicar seus produtos no eBay\n==============================================================\n\nO integrador eBay dá-lhe a oportunidade de gerenciar os produtos do seu ERP no eBay.\n\nPrincipais Características\n---------------------------------------\n* Publicar produtos no eBay\n* Rever, listar novamente, finalizar itens no eBay\n* Integração com a movimentação de estoque\n* Criação automática de pedidos de vendas e faturas\n\n  "
 
 #. module: base
 #: model:ir.module.module,description:base.module_point_of_sale
@@ -2827,7 +2827,7 @@ msgid ""
 "``l10n_ch_payment_slip``\n"
 "  Support of ESR/BVR payment slip report and reconciliation.\n"
 "\n"
-"``l10n_ch`` is located in the core Odoo modules. The other modules are in:\n"
+"``l10n_ch`` is located in the core ERP modules. The other modules are in:\n"
 "https://github.com/OCA/l10n-switzerland\n"
 msgstr "\nlocalização suíço\n==================\n\n** Multilang Swiss PME / KMU 2015 conta gráfico e impostos **\n\n** Autor: ** Camptocamp SA\n\n** Contribuidores financeiros: ** Prisme Solutions SA Informatique, SA Quod\n\n** Contribuintes Tradução: ** cérebro-tec AG, Agile Business Group\n\nOs addons localização suíços estão organizados desta forma:\n\n`` l10n_ch``\n   Multilang Swiss PME / KMU 2015 gráfico de conta e impostos (addon oficial)\n`` l10n_ch_base_bank``\n   Módulo técnico que apresenta uma versão nova e simplificada do banco\n   tipo de gestão\n`` l10n_ch_bank``\n   Lista de bancos suíços\n`` l10n_ch_zip``\n   Lista de zip postal suíço\n`` l10n_ch_dta``\n   Suporte do protocolo de pagamento DTA (será preterido até o final de 2014)\n`` l10n_ch_payment_slip``\n   Apoio do ESR / BVR relatório recibo de pagamento e reconciliação.\n\n`` l10n_ch`` está localizado nos módulos Openerp núcleo. Os outros módulos estão em:\nhttps://github.com/OCA/l10n-switzerland\n"
 
@@ -2861,9 +2861,9 @@ msgid ""
 "Synchronization of timesheet entries with the external timesheet application.\n"
 "====================================================================\n"
 "\n"
-"If you use the external timesheet application, this module alows you to synchronize timesheet entries between Odoo and the application.\n"
+"If you use the external timesheet application, this module alows you to synchronize timesheet entries between ERP and the application.\n"
 "    "
-msgstr "\nSincronização de entradas do quadro de horários com aplicação de quadro de horários externa.\n====================================================================================\n\nSe você usa aplicação de quadro de horários externa, este módulo permite sincronizar as entradas do quadro de horários entre o Odoo e a aplicação.\n    "
+msgstr "\nSincronização de entradas do quadro de horários com aplicação de quadro de horários externa.\n====================================================================================\n\nSe você usa aplicação de quadro de horários externa, este módulo permite sincronizar as entradas do quadro de horários entre o ERP e a aplicação.\n    "
 
 #. module: base
 #: model:ir.module.module,description:base.module_account_voucher
@@ -2874,7 +2874,7 @@ msgid ""
 "old description:\n"
 "Invoicing & Payments by Accounting Voucher & Receipts\n"
 "=====================================================\n"
-"The specific and easy-to-use Invoicing system in Odoo allows you to keep track of your accounting, even when you are not an accountant. It provides an easy way to follow up on your vendors and customers. \n"
+"The specific and easy-to-use Invoicing system in ERP allows you to keep track of your accounting, even when you are not an accountant. It provides an easy way to follow up on your vendors and customers. \n"
 "\n"
 "You could use this simplified accounting in case you work with an (external) account to keep your books, and you still want to keep track of payments. \n"
 "\n"
@@ -3143,12 +3143,12 @@ msgstr "\nMódulo base para o plano de contas Marrocos.\n=======================
 #: model:ir.module.module,description:base.module_l10n_generic_coa
 msgid ""
 "\n"
-"This is the base module to manage the generic accounting chart in Odoo.\n"
+"This is the base module to manage the generic accounting chart in ERP.\n"
 "==============================================================================\n"
 "\n"
 "Install some generic chart of accounts.\n"
 "    "
-msgstr "\nEste é o módulo base para gerenciar o Plano Contábil genérico no Odoo.\n==============================================================================\n\nInstalar algum gráfico genérico de contas.\n    "
+msgstr "\nEste é o módulo base para gerenciar o Plano Contábil genérico no ERP.\n==============================================================================\n\nInstalar algum gráfico genérico de contas.\n    "
 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_uk
@@ -3246,7 +3246,7 @@ msgid ""
 "Niniejszy moduł jest przeznaczony dla odoo 8.0.\n"
 "Wewnętrzny numer wersji OpenGLOBE 1.02\n"
 "    "
-msgstr "\nEste é o módulo para gerenciar a tabela de contabilidade e impostos para a Polónia em Odoo.\n================================================== ================================\n\nJest Modul fazer tworzenia wzorcowego planu kont, podatków, podatkowych obszarów i\npodatkowych rejestrów. Modul ustawia też konta fazer kupna i SPRZEDAZY towarów\nzakładając, że wszystkie Towary są w obrocie hurtowym.\n\nNiniejszy Modul jest przeznaczony dla Openerp 8.0.\nNumer Wewnętrzny wersji OpenGLOBE 1,02"
+msgstr "\nEste é o módulo para gerenciar a tabela de contabilidade e impostos para a Polónia em ERP.\n================================================== ================================\n\nJest Modul fazer tworzenia wzorcowego planu kont, podatków, podatkowych obszarów i\npodatkowych rejestrów. Modul ustawia też konta fazer kupna i SPRZEDAZY towarów\nzakładając, że wszystkie Towary są w obrocie hurtowym.\n\nNiniejszy Modul jest przeznaczony dla Openerp 8.0.\nNumer Wewnętrzny wersji OpenGLOBE 1,02"
 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_fr
@@ -3321,7 +3321,7 @@ msgstr "\nEste é o módulo para gerenciar o Plano Contábil das Vietnã em Open
 #: model:ir.module.module,description:base.module_l10n_vn_reports
 msgid ""
 "\n"
-"This is the module to manage the accounting reports for Vietnam in Odoo.\n"
+"This is the module to manage the accounting reports for Vietnam in ERP.\n"
 "=========================================================================\n"
 "\n"
 "This module applies to companies based in Vietnamese Accounting Standard (VAS).\n"
@@ -3341,7 +3341,7 @@ msgid ""
 "Once the coordinates of the Lead/Opportunity is known, they can be automatically assigned\n"
 "to an appropriate local partner, based on the distance and the weight that was assigned to the partner.\n"
 "    "
-msgstr "\nEste é o módulo usado pelo Odoo SA para redirecionar os clientes para os seus parceiros, com base na geolocalização.\n======================================================================================================\n\nEste módulo permite localizar geograficamente Leads, Oportunidades e Parcerias com base em seu endereço.\n\nUma vez que as coordenadas do chumbo / Oportunidade é conhecido, que pode ser atribuído automaticamente\na um parceiro local apropriado, em função da distância e do peso que foi atribuído ao parceiro.\n    "
+msgstr "\nEste é o módulo usado pelo ERP SA para redirecionar os clientes para os seus parceiros, com base na geolocalização.\n======================================================================================================\n\nEste módulo permite localizar geograficamente Leads, Oportunidades e Parcerias com base em seu endereço.\n\nUma vez que as coordenadas do chumbo / Oportunidade é conhecido, que pode ser atribuído automaticamente\na um parceiro local apropriado, em função da distância e do peso que foi atribuído ao parceiro.\n    "
 
 #. module: base
 #: model:ir.module.module,description:base.module_rating_project
@@ -3535,7 +3535,7 @@ msgid ""
 "\n"
 "Scanning\n"
 "--------\n"
-"Use a USB scanner (that mimics keyboard inputs) in order to work with barcodes in Odoo.\n"
+"Use a USB scanner (that mimics keyboard inputs) in order to work with barcodes in ERP.\n"
 "The scanner must be configured to use no prefix and a carriage return or tab as suffix.\n"
 "The delay between each character input must be less than or equal to 50 milliseconds.\n"
 "Most barcode scanners will work out of the box.\n"
@@ -4119,7 +4119,7 @@ msgid ""
 "\n"
 "Vehicle, leasing, insurances, cost\n"
 "==================================\n"
-"With this module, Odoo helps you managing all your vehicles, the\n"
+"With this module, ERP helps you managing all your vehicles, the\n"
 "contracts associated to those vehicle as well as services, fuel log\n"
 "entries, costs and many other features necessary to the management \n"
 "of your fleet of vehicle(s)\n"
@@ -5202,7 +5202,7 @@ msgid ""
 "         login once with a valid LDAP user, let OpenERP create a blank local\n"
 "         user with the same login (and a blank password), then rename this new\n"
 "         user to a username that does not exist in LDAP, and setup its groups\n"
-msgstr "Adiciona suporte para autenticação por servidor LDAP.\n===============================================\nEste módulo permite aos usuários fazer o login com seu nome de usuário e senha LDAP, e\ncriará automaticamente os usuários Odoo para eles em tempo real.\n\n** Nota: ** Este módulo só funciona em servidores que têm `` módulo ldap`` do Python instalado.\n\nConfiguração:\n--------------\nDepois de instalar este módulo, você precisa configurar os parâmetros LDAP no\nGuia Configuração dos detalhes Companhia. Diferentes empresas podem ter diferentes\nServidores LDAP, contanto que eles têm nomes originais (nomes de utilizador precisa de ser única\nno OpenERP, mesmo em múltiplas empresas).\n\nLigação anônima LDAP também é suportado (para servidores LDAP que permitem que ele), por\nsimplesmente manter o usuário e senha LDAP vazio na configuração LDAP.\nIsso não permite que a autenticação anônima para os usuários, é apenas para o mestre\nConta LDAP que é usado para verificar se um usuário existe antes de tentar\nautenticá-lo.\n\nProtegendo a conexão com STARTTLS está disponível para servidores LDAP de apoio\n-lo, ativando a opção TLS na configuração LDAP.\n\nPara mais opções de configuração as configurações de LDAP, consulte o ldap.conf\nmanpage: manpage: `ldap.conf (5)`.\n\nConsiderações de segurança:\n------------------------\nSenhas LDAP dos usuários nunca são armazenados no banco de dados OpenERP, o servidor LDAP\né consultado sempre que um usuário precisa ser autenticado. Sem duplicação da\nsenha ocorre, e as senhas são gerenciadas em um só lugar.\n\nO Odoo não gerenciar as mudanças de senha no LDAP, portanto, qualquer mudança de senha\ndeve ser conduzida por outros meios no diretório LDAP diretamente (para usuários LDAP).\n\nÉ também possível ter os utilizadores OpenERP locais na base de dados juntamente com\nLDAP autenticado usuários (a conta de administrador é um exemplo óbvio).\n\nAqui está como ele funciona:\n---------------------\n    * O sistema primeiro tenta autenticar os usuários contra o OpenERP locais\n      base de dados;\n    * Se essa autenticação falhar (por exemplo, porque o usuário não tem locais\n      password), o sistema tenta autenticar contra LDAP;\n\nComo os usuários LDAP tem senhas em branco por padrão no banco de dados local, OpenERP\n(O que significa nenhum acesso), o primeiro passo sempre falha eo servidor LDAP é\nconsultado para fazer a autenticação.\n\nAtivando STARTTLS assegura que a consulta autenticação no servidor LDAP é\nencriptada.\n\nModelo de Usuário:\n--------------\nNa configuração LDAP no formulário Company, é possível selecionar um usuário *\nTemplate *. Se definido, este usuário será usado como modelo para criar os usuários locais\nsempre que alguém autentica pela primeira vez através da autenticação LDAP. Este\npermite pré-definir os grupos padrão e menus dos usuários de primeira viagem.\n\n** Atenção: ** se você definir uma senha para o modelo de usuário, essa senha será\n         atribuído como senha local para cada novo usuário LDAP, definindo de forma eficaz\n         uma senha * * mestre para esses usuários (até manualmente alterado). Vocês\n         geralmente não querem isso. Uma maneira fácil de configurar um usuário do modelo é\n         Identifique-se uma vez com um usuário LDAP válido, vamos criar um local de OpenERP em branco\n         usuário com o mesmo login (e uma senha em branco), em seguida, mudar o nome deste novo\n         usuário para um nome de usuário que não existe no LDAP, e configuração dos seus grupos\n"
+msgstr "Adiciona suporte para autenticação por servidor LDAP.\n===============================================\nEste módulo permite aos usuários fazer o login com seu nome de usuário e senha LDAP, e\ncriará automaticamente os usuários ERP para eles em tempo real.\n\n** Nota: ** Este módulo só funciona em servidores que têm `` módulo ldap`` do Python instalado.\n\nConfiguração:\n--------------\nDepois de instalar este módulo, você precisa configurar os parâmetros LDAP no\nGuia Configuração dos detalhes Companhia. Diferentes empresas podem ter diferentes\nServidores LDAP, contanto que eles têm nomes originais (nomes de utilizador precisa de ser única\nno OpenERP, mesmo em múltiplas empresas).\n\nLigação anônima LDAP também é suportado (para servidores LDAP que permitem que ele), por\nsimplesmente manter o usuário e senha LDAP vazio na configuração LDAP.\nIsso não permite que a autenticação anônima para os usuários, é apenas para o mestre\nConta LDAP que é usado para verificar se um usuário existe antes de tentar\nautenticá-lo.\n\nProtegendo a conexão com STARTTLS está disponível para servidores LDAP de apoio\n-lo, ativando a opção TLS na configuração LDAP.\n\nPara mais opções de configuração as configurações de LDAP, consulte o ldap.conf\nmanpage: manpage: `ldap.conf (5)`.\n\nConsiderações de segurança:\n------------------------\nSenhas LDAP dos usuários nunca são armazenados no banco de dados OpenERP, o servidor LDAP\né consultado sempre que um usuário precisa ser autenticado. Sem duplicação da\nsenha ocorre, e as senhas são gerenciadas em um só lugar.\n\nO ERP não gerenciar as mudanças de senha no LDAP, portanto, qualquer mudança de senha\ndeve ser conduzida por outros meios no diretório LDAP diretamente (para usuários LDAP).\n\nÉ também possível ter os utilizadores OpenERP locais na base de dados juntamente com\nLDAP autenticado usuários (a conta de administrador é um exemplo óbvio).\n\nAqui está como ele funciona:\n---------------------\n    * O sistema primeiro tenta autenticar os usuários contra o OpenERP locais\n      base de dados;\n    * Se essa autenticação falhar (por exemplo, porque o usuário não tem locais\n      password), o sistema tenta autenticar contra LDAP;\n\nComo os usuários LDAP tem senhas em branco por padrão no banco de dados local, OpenERP\n(O que significa nenhum acesso), o primeiro passo sempre falha eo servidor LDAP é\nconsultado para fazer a autenticação.\n\nAtivando STARTTLS assegura que a consulta autenticação no servidor LDAP é\nencriptada.\n\nModelo de Usuário:\n--------------\nNa configuração LDAP no formulário Company, é possível selecionar um usuário *\nTemplate *. Se definido, este usuário será usado como modelo para criar os usuários locais\nsempre que alguém autentica pela primeira vez através da autenticação LDAP. Este\npermite pré-definir os grupos padrão e menus dos usuários de primeira viagem.\n\n** Atenção: ** se você definir uma senha para o modelo de usuário, essa senha será\n         atribuído como senha local para cada novo usuário LDAP, definindo de forma eficaz\n         uma senha * * mestre para esses usuários (até manualmente alterado). Vocês\n         geralmente não querem isso. Uma maneira fácil de configurar um usuário do modelo é\n         Identifique-se uma vez com um usuário LDAP válido, vamos criar um local de OpenERP em branco\n         usuário com o mesmo login (e uma senha em branco), em seguida, mudar o nome deste novo\n         usuário para um nome de usuário que não existe no LDAP, e configuração dos seus grupos\n"
 
 #. module: base
 #: model:ir.module.category,name:base.module_category_administration
@@ -6347,8 +6347,8 @@ msgstr "Converse com seus visitantes do site"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_im_odoo_support
-msgid "Chat with the Odoo collaborators"
-msgstr "Converse com os colaboradores da Odoo"
+msgid "Chat with the ERP collaborators"
+msgstr "Converse com os colaboradores da ERP"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_account_check_printing
@@ -7175,7 +7175,7 @@ msgstr "Criar um novo registro no modelo base"
 #. module: base
 #: model:ir.actions.act_window,help:base.action_res_company_form
 msgid ""
-"Create and manage the companies that will be managed by Odoo from here. "
+"Create and manage the companies that will be managed by ERP from here. "
 "Shops or subsidiaries can be created and maintained from here."
 msgstr "Criar e gerenciar as empresas que serão gerenciados pelo Openerp a partir daqui. Lojas ou subsidiárias podem ser criados e mantidos a partir daqui."
 
@@ -8908,7 +8908,7 @@ msgstr "Para utilizar ações, use uma das possíveis ações abaixo: \n  - clie
 #. module: base
 #: model:ir.ui.view,arch_db:base.wizard_lang_export
 msgid ""
-"For more details about translating Odoo in your language, please refer to "
+"For more details about translating ERP in your language, please refer to "
 "the"
 msgstr "Para mais detalhes sobre a tradução Openerp em seu idioma, por favor consulte o"
 
@@ -9941,9 +9941,9 @@ msgstr "Se você habilitar esta opção, traduções existentes (inclusive perso
 #: model:ir.model.fields,help:base.field_ir_ui_menu_groups_id
 msgid ""
 "If you have groups, the visibility of this menu will be based on these "
-"groups. If this field is empty, Odoo will compute visibility based on the "
+"groups. If this field is empty, ERP will compute visibility based on the "
 "related object's read access."
-msgstr "Se você tiver grupos, a visibilidade deste menu será com base nesses grupos. Se este campo estiver vazio, Odoo irá calcular a visibilidade com base no objeto relacionado de acesso de leitura."
+msgstr "Se você tiver grupos, a visibilidade deste menu será com base nesses grupos. Se este campo estiver vazio, ERP irá calcular a visibilidade com base no objeto relacionado de acesso de leitura."
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_model_access_active
@@ -11339,7 +11339,7 @@ msgstr "Malta"
 #. module: base
 #: model:ir.actions.act_window,help:base.grant_menu_access
 msgid ""
-"Manage and customize the items available and displayed in your Odoo system "
+"Manage and customize the items available and displayed in your ERP system "
 "menu. You can delete an item by clicking on the box at the beginning of each"
 " line and then delete it through the button that appeared. Items can be "
 "assigned to specific groups in order to make them accessible to some users "
@@ -12321,54 +12321,54 @@ msgstr "Objeto:"
 
 #. module: base
 #: selection:ir.module.module,license:0
-msgid "Odoo Enterprise Edition License v1.0"
-msgstr "Odoo Enterprise Edition Licença v1.0"
+msgid "ERP Enterprise Edition License v1.0"
+msgstr "ERP Enterprise Edition Licença v1.0"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_im_odoo_support
-msgid "Odoo Live Support"
-msgstr "Odoo Suporte ao Vivo"
+msgid "ERP Live Support"
+msgstr "ERP Suporte ao Vivo"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_web_settings_dashboard
-msgid "Odoo Settings Dashboard"
-msgstr "Dashboard de Ajustes do Odoo"
+msgid "ERP Settings Dashboard"
+msgstr "Dashboard de Ajustes do ERP"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_crm_voip
-msgid "Odoo VOIP"
-msgstr "Odoo VOIP"
+msgid "ERP VOIP"
+msgstr "ERP VOIP"
 
 #. module: base
 #: model:ir.actions.act_window,help:base.action_partner_customer_form
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "                a customer: discussions, history of business opportunities,\n"
 "                documents, etc."
-msgstr "Odoo ajuda você a facilmente controlar todas as atividades relacionadas a\num cliente: discussões, história de oportunidades de negócio,\ndocumentos, etc."
+msgstr "ERP ajuda você a facilmente controlar todas as atividades relacionadas a\num cliente: discussões, história de oportunidades de negócio,\ndocumentos, etc."
 
 #. module: base
 #: model:ir.actions.act_window,help:base.action_partner_form
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "                a customer; discussions, history of business opportunities,\n"
 "                documents, etc."
-msgstr "Odoo ajuda você a facilmente controlar todas as atividades relacionadas a\num cliente: discussões, história de oportunidades de negócio,\ndocumentos, etc."
+msgstr "ERP ajuda você a facilmente controlar todas as atividades relacionadas a\num cliente: discussões, história de oportunidades de negócio,\ndocumentos, etc."
 
 #. module: base
 #: model:ir.actions.act_window,help:base.action_partner_supplier_form
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "                a supplier: discussions, history of purchases,\n"
 "                documents, etc."
-msgstr "Odoo ajuda você a facilmente controlar todas as atividades relacionadas a\num fornecedor: discussões, história de oportunidades de negócio,\ndocumentos, etc."
+msgstr "ERP ajuda você a facilmente controlar todas as atividades relacionadas a\num fornecedor: discussões, história de oportunidades de negócio,\ndocumentos, etc."
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_sequence_padding
 msgid ""
-"Odoo will automatically adds some '0' on the left of the 'Next Number' to "
+"ERP will automatically adds some '0' on the left of the 'Next Number' to "
 "get the required padding size."
-msgstr "O Odoo irá adicionar alguns '0' automaticamente a esquerda do 'Próximo Número' para ficar o tamanho correto do espaço"
+msgstr "O ERP irá adicionar alguns '0' automaticamente a esquerda do 'Próximo Número' para ficar o tamanho correto do espaço"
 
 #. module: base
 #: model:res.partner.category,name:base.res_partner_category_12
@@ -13111,7 +13111,7 @@ msgstr "Portal do Estoque"
 #: model:res.groups,comment:base.group_portal
 msgid ""
 "Portal members have specific access rights (such as record rules and restricted menus).\n"
-"                They usually do not belong to the usual Odoo groups."
+"                They usually do not belong to the usual ERP groups."
 msgstr "Membros do portal têm direitos de acesso específicos (tais como regras de registro e menus restrito).\nEles geralmente não pertencem aos grupos Openerp habituais."
 
 #. module: base
@@ -13365,7 +13365,7 @@ msgstr "Público"
 #: model:res.groups,comment:base.group_public
 msgid ""
 "Public users have specific access rights (such as record rules and restricted menus).\n"
-"                They usually do not belong to the usual Odoo groups."
+"                They usually do not belong to the usual ERP groups."
 msgstr "Os utilizadores públicos têm direitos de acesso específicos (tais como regras de registro e menus restrito).\nEles geralmente não pertencem aos grupos Openerp habituais."
 
 #. module: base
@@ -15263,8 +15263,8 @@ msgstr "arquivo TGZ"
 #: model:ir.ui.view,arch_db:base.wizard_lang_export
 msgid ""
 "TGZ format: this is a compressed archive containing a PO file, directly suitable\n"
-"                                for uploading to Odoo's translation platform,"
-msgstr "Formato TGZ: este é um arquivo compactado que contém um arquivo PO, diretamente adequado   \npara fazer o upload para a plataforma de tradução de Odoo,"
+"                                for uploading to ERP's translation platform,"
+msgstr "Formato TGZ: este é um arquivo compactado que contém um arquivo PO, diretamente adequado   \npara fazer o upload para a plataforma de tradução de ERP,"
 
 #. module: base
 #: code:addons/base/res/res_company.py:107
@@ -15380,11 +15380,11 @@ msgstr "Configurações Técnicas"
 #: model:ir.model.fields,help:base.field_res_users_company_type
 msgid ""
 "Technical field, used only to display a boolean using a radio button. As for"
-" Odoo v9 RadioButton cannot be used on boolean fields, this one serves as "
+" ERP v9 RadioButton cannot be used on boolean fields, this one serves as "
 "interface. Due to the old API limitations with interface function field, we "
 "implement it by hand instead of a true function field. When migrating to the"
 " new API the code should be simplified."
-msgstr "Campo técnico, usado apenas para exibir um boolean usando um botão radio. Quanto ao Odoo v9 RadioButton não pode ser usado em campos boolean, este serve como interface. Devido às limitações da API antiga com campos com função de interface, nós implementamos à mão em vez de um campo de função verdade. Ao migrar para a nova API do código deveria ser simplificado."
+msgstr "Campo técnico, usado apenas para exibir um boolean usando um botão radio. Quanto ao ERP v9 RadioButton não pode ser usado em campos boolean, este serve como interface. Devido às limitações da API antiga com campos com função de interface, nós implementamos à mão em vez de um campo de função verdade. Ao migrar para a nova API do código deveria ser simplificado."
 
 #. module: base
 #: model:ir.actions.report.xml,name:base.ir_module_reference_print
@@ -15545,9 +15545,9 @@ msgstr "A empresa onde o usuário está trabalhando."
 #: model:ir.actions.act_window,help:base.act_ir_actions_todo_form
 msgid ""
 "The configuration wizards are used to help you configure a new instance of "
-"Odoo. They are launched during the installation of new modules, but you can "
+"ERP. They are launched during the installation of new modules, but you can "
 "choose to restart some wizards manually from this menu."
-msgstr "Os assistentes de configuração são usados para ajudar a configurar uma nova instância de Odoo. Eles são lançados durante a instalação de novos módulos, mas você pode optar por reiniciar alguns assistentes manualmente a partir deste menu."
+msgstr "Os assistentes de configuração são usados para ajudar a configurar uma nova instância de ERP. Eles são lançados durante a instalação de novos módulos, mas você pode optar por reiniciar alguns assistentes manualmente a partir deste menu."
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_model_fields_related
@@ -15919,10 +15919,10 @@ msgstr "Este é o nome do anexo usado para registrar o resultado da impressão. 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_no
 msgid ""
-"This is the module to manage the accounting chart for Norway in Odoo.\n"
+"This is the module to manage the accounting chart for Norway in ERP.\n"
 "\n"
-"Updated for Odoo 9 by Bringsvor Consulting AS <www.bringsvor.com>\n"
-msgstr "Este é o módulo para gerenciar o Plano Contábil da Noruega no Odoo.\n\nAtualizado para Odoo 9 por Bringsvor Consulting AS <www.bringsvor.com>\n"
+"Updated for ERP 9 by Bringsvor Consulting AS <www.bringsvor.com>\n"
+msgstr "Este é o módulo para gerenciar o Plano Contábil da Noruega no ERP.\n\nAtualizado para ERP 9 por Bringsvor Consulting AS <www.bringsvor.com>\n"
 
 #. module: base
 #: model:ir.ui.view,arch_db:base.view_base_module_upgrade
@@ -16902,9 +16902,9 @@ msgstr "Visões"
 #. module: base
 #: model:ir.actions.act_window,help:base.action_ui_view
 msgid ""
-"Views allows you to personalize each view of Odoo. You can add new fields, "
+"Views allows you to personalize each view of ERP. You can add new fields, "
 "move fields, rename them or delete the ones that you do not need."
-msgstr "Visualizações lhe permite personalizar cada modo de exibição de Odoo. Você pode adicionar novos campos, mover campos, renomeá-los ou apagar as que você não precisa."
+msgstr "Visualizações lhe permite personalizar cada modo de exibição de ERP. Você pode adicionar novos campos, mover campos, renomeá-los ou apagar as que você não precisa."
 
 #. module: base
 #: model:ir.model.fields,field_description:base.field_ir_ui_view_inherit_children_ids
@@ -17197,8 +17197,8 @@ msgid ""
 "arrow, but rather add new nodes or arrows. If you absolutly need to modify a"
 " node or arrow, you can only change fields that are empty or set to the "
 "default value. If you don't do that, your customization will be overwrited "
-"at the next update or upgrade to a future version of Odoo."
-msgstr "Ao personalizar um fluxo de trabalho, certifique-se que você não modificar um nó ou seta existente, mas sim adicionar novos nós ou setas. Se você absolutamente necessário modificar um nó ou seta, só poderá alterar os campos que estão vazias ou definido para o valor padrão. Se você não fizer isso, sua personalização será overwrited na próxima atualização ou atualizar para uma versão futura do Odoo."
+"at the next update or upgrade to a future version of ERP."
+msgstr "Ao personalizar um fluxo de trabalho, certifique-se que você não modificar um nó ou seta existente, mas sim adicionar novos nós ou setas. Se você absolutamente necessário modificar um nó ou seta, só poderá alterar os campos que estão vazias ou definido para o valor padrão. Se você não fizer isso, sua personalização será overwrited na próxima atualização ou atualizar para uma versão futura do ERP."
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_act_server_sequence
@@ -17445,8 +17445,8 @@ msgstr "Você não pode registrar duas fontes com o mesmo nome"
 #, python-format
 msgid ""
 "You can not remove the admin user as it is used internally for resources "
-"created by Odoo (updates, module installation, ...)"
-msgstr "Você não pode remover o usuário admin como ele é usado internamente pelos recursos criados por Odoo (atualizações, a instalação do módulo, ...)"
+"created by ERP (updates, module installation, ...)"
+msgstr "Você não pode remover o usuário admin como ele é usado internamente pelos recursos criados por ERP (atualizações, a instalação do módulo, ...)"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_res_country_address_format
@@ -17713,8 +17713,8 @@ msgstr "ex. pt_BR"
 #: model:ir.ui.view,arch_db:base.view_company_form
 #: model:ir.ui.view,arch_db:base.view_partner_address_form
 #: model:ir.ui.view,arch_db:base.view_partner_form
-msgid "e.g. www.odoo.com"
-msgstr "e.g. www.odoo.com"
+msgid "e.g. www.erp.com"
+msgstr "e.g. www.erp.com"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website_sale

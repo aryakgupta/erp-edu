@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_links
 # 
@@ -7,7 +7,7 @@
 # grazziano <g.negocios@outlook.com.br>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:41+0000\n"
 "PO-Revision-Date: 2016-07-15 20:46+0000\n"
@@ -156,8 +156,8 @@ msgstr "Estatísticas"
 #: model:ir.ui.view,arch_db:website_links.create_shorten_url
 msgid ""
 "Thoses trackers can be used in Google Analytics to track clicks and "
-"visitors, or in Odoo reports to track opportunities and related revenues."
-msgstr "Esses rastreadores podem ser utilizados no Google Analytics para acompanhar cliques e visitantes, ou no Odoo em relatórios para controlar as oportunidades e as receitas correspondentes."
+"visitors, or in ERP reports to track opportunities and related revenues."
+msgstr "Esses rastreadores podem ser utilizados no Google Analytics para acompanhar cliques e visitantes, ou no ERP em relatórios para controlar as oportunidades e as receitas correspondentes."
 
 #. module: website_links
 #: model:ir.ui.view,arch_db:website_links.create_shorten_url
@@ -226,8 +226,8 @@ msgstr "por exemplo, Motor de Busca, Página Web, .."
 
 #. module: website_links
 #: model:ir.ui.view,arch_db:website_links.create_shorten_url
-msgid "e.g. https://www.odoo.com/page/contactus"
-msgstr "por exemplo, https://www.odoo.com/page/contactus"
+msgid "e.g. https://www.erp.com/page/contactus"
+msgstr "por exemplo, https://www.erp.com/page/contactus"
 
 #. module: website_links
 #. openerp-web

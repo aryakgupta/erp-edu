@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 {
     'name': 'Google Analytics',
     'version': '1.0',
@@ -11,7 +11,7 @@ Google Analytics.
 
 Collects web application usage with Google Analytics.
     """,
-    'website': 'https://www.odoo.com/page/website-builder',
+    'website': 'https://www.erp.com/page/website-builder',
     'depends': ['web'],
     'data': [
         'views/web_analytics.xml',

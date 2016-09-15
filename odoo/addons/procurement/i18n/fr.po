@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * procurement
 # 
@@ -9,7 +9,7 @@
 # Olivier Lenoir <olivier.lenoir@free.fr>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:11+0000\n"
 "PO-Revision-Date: 2016-03-10 13:19+0000\n"
@@ -497,8 +497,8 @@ msgstr "Référence"
 #: model:ir.model.fields,help:procurement.field_procurement_order_origin
 msgid ""
 "Reference of the document that created this Procurement.\n"
-"This is automatically completed by Odoo."
-msgstr "Référence du document qui est à l'origine de la création de cet approvisionnement.\nCe champ est alimenté automatiquement par Odoo."
+"This is automatically completed by ERP."
+msgstr "Référence du document qui est à l'origine de la création de cet approvisionnement.\nCe champ est alimenté automatiquement par ERP."
 
 #. module: procurement
 #: model:ir.model.fields,field_description:procurement.field_procurement_order_rule_id

@@ -213,7 +213,7 @@ if(!$('.website_forum').length) {
         var display_error = function(){
             var $warning = $('<div class="alert alert-danger alert-dismissable" style="position:absolute; margin-top: -180px; margin-left: 90px;">'+
                 '<button type="button" class="close notification_close" data-dismiss="alert" aria-hidden="true">&times;</button>'+
-                'Please enter valid URL. Example: http://www.odoo.com'+
+                'Please enter valid URL. Example: http://www.erp.com'+
                 '</div>');
             $link.parent().append($warning);
             $link.parents('form').find('button')[0].disabled = true;

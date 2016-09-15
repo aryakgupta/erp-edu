@@ -33,7 +33,7 @@
                             <p>
                                 It might be possible to edit the relevant items
                                 or fix the issue in <a t-attf-href="#{backend_url}">
-                                the classic Odoo interface</a>.
+                                the classic ERP interface</a>.
                             </p>
                         </section>
                     </div>

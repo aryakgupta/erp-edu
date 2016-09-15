@@ -28,13 +28,13 @@
                             <label for="social_twitter"/>
                             <div name="social_twitter">
                                 <div class="oe_inline">
-                                    <field name="social_twitter" placeholder="https://twitter.com/Odoo"/>
+                                    <field name="social_twitter" placeholder="https://twitter.com/ERP"/>
                                 </div>
                             </div>
                             <label for="social_facebook"/>
                             <div name="social_facebook">
                                 <div class="oe_inline">
-                                    <field name="social_facebook" placeholder="https://www.facebook.com/Odoo"/>
+                                    <field name="social_facebook" placeholder="https://www.facebook.com/ERP"/>
                                 </div>
                             </div>
                             <label for="social_github"/>
@@ -58,7 +58,7 @@
                             <label for="social_googleplus"/>
                             <div name="social_googleplus">
                                 <div class="oe_inline">
-                                    <field name="social_googleplus" placeholder="https://plus.google.com/+Odooapps"/>
+                                    <field name="social_googleplus" placeholder="https://plus.google.com/+ERPapps"/>
                                 </div>
                             </div>
                         </group>

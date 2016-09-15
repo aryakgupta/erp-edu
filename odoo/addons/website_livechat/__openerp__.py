@@ -5,9 +5,9 @@
     'summary': 'Chat With Your Website Visitors',
     'version': '1.0',
     'description': """
-Odoo Website LiveChat
+ERP Website LiveChat
 ========================
-For website built with Odoo CMS, this module include a chat button on your Website, and allow your visitors to chat with your collabarators.
+For website built with ERP CMS, this module include a chat button on your Website, and allow your visitors to chat with your collabarators.
 It also will include the feedback tool for the livechat, and web pages to display your channel and its ratings on the website.
         """,
     'depends': ['website', 'im_livechat'],

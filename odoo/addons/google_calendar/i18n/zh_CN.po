@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * google_calendar
 # 
@@ -13,7 +13,7 @@
 # liAnGjiA <liangjia@qq.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2016-06-22 12:58+0000\n"
@@ -222,8 +222,8 @@ msgstr "在左侧的菜单中，选择子菜单的API(从菜单中的API和身�
 #: model:ir.model.fields,help:google_calendar.field_res_users_google_calendar_cal_id
 msgid ""
 "Last Calendar ID who has been synchronized. If it is changed, we remove all "
-"links between GoogleID and Odoo Google Internal ID"
-msgstr "已经被同步的最后一个日历ID。如果它发生改变， 将清除全部在 GoogleID 和 Odoo Google Internal ID之间的连接"
+"links between GoogleID and ERP Google Internal ID"
+msgstr "已经被同步的最后一个日历ID。如果它发生改变， 将清除全部在 GoogleID 和 ERP Google Internal ID之间的连接"
 
 #. module: google_calendar
 #: model:ir.model.fields,field_description:google_calendar.field_google_calendar___last_update
@@ -237,13 +237,13 @@ msgstr "最后同步的日期"
 
 #. module: google_calendar
 #: model:ir.model.fields,field_description:google_calendar.field_calendar_attendee_oe_synchro_date
-msgid "Odoo Synchro Date"
-msgstr "Odoo 同步日期"
+msgid "ERP Synchro Date"
+msgstr "ERP 同步日期"
 
 #. module: google_calendar
 #: model:ir.model.fields,field_description:google_calendar.field_calendar_event_oe_update_date
-msgid "Odoo Update Date"
-msgstr "Odoo 更新日期"
+msgid "ERP Update Date"
+msgstr "ERP 更新日期"
 
 #. module: google_calendar
 #: model:ir.ui.view,arch_db:google_calendar.view_calendar_config_settings
@@ -331,7 +331,7 @@ msgstr "用户"
 #: code:addons/google_calendar/static/src/js/calendar_sync.js:34
 #, python-format
 msgid "You will be redirected to Google to authorize access to your calendar!"
-msgstr "您将被重定向到Google来授权Odoo访问你的日历!"
+msgstr "您将被重定向到Google来授权ERP访问你的日历!"
 
 #. module: google_calendar
 #: model:ir.model,name:google_calendar.model_base_config_settings

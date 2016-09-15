@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'VAT Number Validation',
@@ -35,7 +35,7 @@ such as Chile, Colombia, Mexico, Norway or Russia. For unsupported countries,
 only the country code will be validated.
     """,
     'depends': ['account'],
-    'website': 'https://www.odoo.com/page/accounting',
+    'website': 'https://www.erp.com/page/accounting',
     'data': ['base_vat_view.xml'],
     'installable': True,
     'auto_install': False,

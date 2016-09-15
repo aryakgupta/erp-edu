@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Blogs',
     'category': 'Website',
     'sequence': 140,
-    'website': 'https://www.odoo.com/page/blog-engine',
+    'website': 'https://www.erp.com/page/blog-engine',
     'summary': 'News, Blogs, Announces, Discussions',
     'version': '1.0',
     'description': """

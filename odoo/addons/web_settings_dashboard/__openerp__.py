@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Odoo Settings Dashboard',
+    'name': 'ERP Settings Dashboard',
     'version': '1.0',
     'summary': 'Quick actions for installing new app, adding users, completing planners, etc.',
     'category': 'Extra Tools',
     'description':
     """
-Odoo dashboard
+ERP dashboard
 ==============
 * Quick access to install apps
 * Quick users add

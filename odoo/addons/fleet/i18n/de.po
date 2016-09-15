@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * fleet
 # 
@@ -10,7 +10,7 @@
 # Wolfgang Taferner, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-29 10:27+0000\n"
 "PO-Revision-Date: 2016-06-13 20:40+0000\n"
@@ -1064,9 +1064,9 @@ msgstr "Marke des Fahrzeugs"
 #: model:ir.actions.act_window,help:fleet.fleet_vehicle_log_contract_act
 msgid ""
 "Manage all your contracts (leasing, insurances, etc.) with\n"
-"                their related services, costs. Odoo will automatically warn\n"
+"                their related services, costs. ERP will automatically warn\n"
 "                you when some contracts have to be renewed."
-msgstr "Verwalten Sie alle Ihre Verträge (Leasing, Versicherungen, usw.) \nmit ihren jeweiligen Dienstleistungen und Kosten. Odoo wird Sie\nauf auslaufende, zu verlängernde Verträge hinweisen."
+msgstr "Verwalten Sie alle Ihre Verträge (Leasing, Versicherungen, usw.) \nmit ihren jeweiligen Dienstleistungen und Kosten. ERP wird Sie\nauf auslaufende, zu verlängernde Verträge hinweisen."
 
 #. module: fleet
 #: model:fleet.service.type,name:fleet.type_service_service_11
@@ -1295,33 +1295,33 @@ msgstr "Kilometerstand zum Zeitpunkt des Protokolls"
 #. module: fleet
 #: model:ir.actions.act_window,help:fleet.fleet_vehicle_log_services_act
 msgid ""
-"Odoo helps you keeping track of all the services done\n"
+"ERP helps you keeping track of all the services done\n"
 "                on your vehicle. Services can be of many type: occasional\n"
 "                repair, fixed maintenance, etc."
-msgstr "Odoo hilft Ihnen beim Überwachen der an Ihrem Fahrzeug\nerbrachten Diensten. Diese können vielfältiger Natur sein:\nGelegentliche Reparatur, Regelwartung, usw."
+msgstr "ERP hilft Ihnen beim Überwachen der an Ihrem Fahrzeug\nerbrachten Diensten. Diese können vielfältiger Natur sein:\nGelegentliche Reparatur, Regelwartung, usw."
 
 #. module: fleet
 #: model:ir.actions.act_window,help:fleet.fleet_vehicle_costs_act
 msgid ""
-"Odoo helps you managing the costs for your different\n"
+"ERP helps you managing the costs for your different\n"
 "                vehicles. Costs are created automatically from services,\n"
 "                contracts (fixed or recurring) and fuel logs."
-msgstr "Odoo hilft Ihnen die Kosten verschiedener Fahrzeuge zu überwachen.\nKosten werden automatisch aus Diensten, Verträgen (Fix od. Wiederkehrend) und Tankbelegen, verursacht"
+msgstr "ERP hilft Ihnen die Kosten verschiedener Fahrzeuge zu überwachen.\nKosten werden automatisch aus Diensten, Verträgen (Fix od. Wiederkehrend) und Tankbelegen, verursacht"
 
 #. module: fleet
 #: model:ir.actions.act_window,help:fleet.action_fleet_reporting_costs
 #: model:ir.actions.act_window,help:fleet.action_fleet_reporting_costs_non_effective
 msgid ""
-"Odoo helps you managing the costs for your different vehicles\n"
+"ERP helps you managing the costs for your different vehicles\n"
 "          Costs are generally created from services and contract and appears here."
-msgstr "Odoo hilft Ihnen die Kosten Ihrer verschiedenen Fahrzeuge zu überwachen.\nKosten werden im Allgemeinen durch Dienste und Verträge verursacht\nund erscheinen hier."
+msgstr "ERP hilft Ihnen die Kosten Ihrer verschiedenen Fahrzeuge zu überwachen.\nKosten werden im Allgemeinen durch Dienste und Verträge verursacht\nund erscheinen hier."
 
 #. module: fleet
 #: model:ir.actions.act_window,help:fleet.fleet_vehicle_act
 msgid ""
-"Odoo will warn you when services or contract have to be\n"
+"ERP will warn you when services or contract have to be\n"
 "                renewed."
-msgstr "Odoo macht Sie darauf aufmerksam, wenn Verträge verlängert\nwerden müssen."
+msgstr "ERP macht Sie darauf aufmerksam, wenn Verträge verlängert\nwerden müssen."
 
 #. module: fleet
 #: model:fleet.service.type,name:fleet.type_service_31
@@ -1667,9 +1667,9 @@ msgstr "Bedingungen und Konditionen"
 #: model:ir.actions.act_window,help:fleet.action_fleet_reporting_costs
 #: model:ir.actions.act_window,help:fleet.action_fleet_reporting_costs_non_effective
 msgid ""
-"Thanks to the different filters, Odoo can only print the effective\n"
+"Thanks to the different filters, ERP can only print the effective\n"
 "          costs, sort them by type and by vehicle."
-msgstr "Dank der verschiedenen Filter kann Odoo die effektiven Kosten\nselektiv drucken, diese nach Art und Fahrzeug sortieren."
+msgstr "Dank der verschiedenen Filter kann ERP die effektiven Kosten\nselektiv drucken, diese nach Art und Fahrzeug sortieren."
 
 #. module: fleet
 #: model:fleet.service.type,name:fleet.type_service_43

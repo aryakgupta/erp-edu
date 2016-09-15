@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 {
     'name': 'Blackbox Hardware Driver',
     'version': '1.0',
     'category': 'Point of Sale',
     'sequence': 6,
     'summary': 'Hardware Driver for Belgian Fiscal Data Modules',
-    'website': 'https://www.odoo.com/page/point-of-sale',
+    'website': 'https://www.erp.com/page/point-of-sale',
     'description': """
 Fiscal Data Module Hardware Driver
 ==================================
@@ -14,7 +14,7 @@ Fiscal Data Module Hardware Driver
 This module allows a Point Of Sale client to communicate with a
 connected Belgian Fiscal Data Module.
 
-This module does **not** turn an Odoo Point Of Sale module into a certified
+This module does **not** turn an ERP Point Of Sale module into a certified
 Belgian cash register. It allows the communication on with a certified Fiscal
 Data Module but will not modify the behaviour of the Point of Sale.
 """,

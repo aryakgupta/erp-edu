@@ -9,7 +9,7 @@
         
         <template id="fav_ico" name="educat Icon" inherit_id="web.layout">
         	<xpath expr="//html/head/title" position="replace">
-        	 <title>OpenEduCat</title>
+        	 <title>ERP</title>
         	</xpath>
         </template>
         

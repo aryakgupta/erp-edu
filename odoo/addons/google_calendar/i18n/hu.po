@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * google_calendar
 # 
@@ -7,7 +7,7 @@
 # krnkris, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2016-04-12 10:04+0000\n"
@@ -216,8 +216,8 @@ msgstr "A baloldali menüben, válassza az almenüt alkalm. (az alkalm. és  eng
 #: model:ir.model.fields,help:google_calendar.field_res_users_google_calendar_cal_id
 msgid ""
 "Last Calendar ID who has been synchronized. If it is changed, we remove all "
-"links between GoogleID and Odoo Google Internal ID"
-msgstr "Utolsó szinkronizált naptár azonosító ID. Ha változott, leválasztjuk az összes GoogleID és Odoo Google belső azonosító ID kapcsolatokat"
+"links between GoogleID and ERP Google Internal ID"
+msgstr "Utolsó szinkronizált naptár azonosító ID. Ha változott, leválasztjuk az összes GoogleID és ERP Google belső azonosító ID kapcsolatokat"
 
 #. module: google_calendar
 #: model:ir.model.fields,field_description:google_calendar.field_google_calendar___last_update
@@ -231,13 +231,13 @@ msgstr "Utolsó szinkronizáció dátuma"
 
 #. module: google_calendar
 #: model:ir.model.fields,field_description:google_calendar.field_calendar_attendee_oe_synchro_date
-msgid "Odoo Synchro Date"
-msgstr "Odoo rendszer szinkronizáció dátuma"
+msgid "ERP Synchro Date"
+msgstr "ERP rendszer szinkronizáció dátuma"
 
 #. module: google_calendar
 #: model:ir.model.fields,field_description:google_calendar.field_calendar_event_oe_update_date
-msgid "Odoo Update Date"
-msgstr "Odoo rendszer frissítés dátuma"
+msgid "ERP Update Date"
+msgstr "ERP rendszer frissítés dátuma"
 
 #. module: google_calendar
 #: model:ir.ui.view,arch_db:google_calendar.view_calendar_config_settings

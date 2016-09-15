@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * crm
 # 
@@ -9,7 +9,7 @@
 # Mateo Tibaquirá Palacios <nestormateo@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:17+0000\n"
 "PO-Revision-Date: 2016-03-31 03:18+0000\n"
@@ -347,11 +347,11 @@ msgstr "<strong>Eventos</strong>"
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"<strong>Every business is different.</strong> Odoo allows to\n"
+"<strong>Every business is different.</strong> ERP allows to\n"
 "                        customize every application and it's usually a good\n"
 "                        advice to customize screens to fit your sales process.\n"
-"                        <strong>Customizations are done by Odoo experts.</strong>"
-msgstr "<strong>Cada negocio es diferente.</strong> Odoo permite personalizar cada aplicación y usualmente es una buena práctica ajustar cada pantalla a su proceso de ventas.\n                        <strong>Las personalizaciones son hechas por expertos en Odoo.</strong>"
+"                        <strong>Customizations are done by ERP experts.</strong>"
+msgstr "<strong>Cada negocio es diferente.</strong> ERP permite personalizar cada aplicación y usualmente es una buena práctica ajustar cada pantalla a su proceso de ventas.\n                        <strong>Las personalizaciones son hechas por expertos en ERP.</strong>"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -509,8 +509,8 @@ msgstr "<strong>Para mejorar su adquisición de iniciativas,</strong> usted debe
 msgid ""
 "<strong>Trainings</strong><br/>\n"
 "                                To build a strong sales training program, you can use the following\n"
-"                                apps of Odoo:"
-msgstr "<strong>Capacitaciones</strong><br/>\n                                Para desarrollar un programa fuerte en entrenamiento de ventas, usted puede usar las siquientes aplicaciones de Odoo:"
+"                                apps of ERP:"
+msgstr "<strong>Capacitaciones</strong><br/>\n                                Para desarrollar un programa fuerte en entrenamiento de ventas, usted puede usar las siquientes aplicaciones de ERP:"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -554,10 +554,10 @@ msgstr "Un buen canal de trabajo tiene entre 5 y 7 etapas"
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"A product in Odoo is something you sell or buy. It could\n"
+"A product in ERP is something you sell or buy. It could\n"
 "                    be a goods, consumable or services. Choose how you want to\n"
 "                    create your products:"
-msgstr "Un producto en Odoo es algo que usted vende o compra. Puede ser un bien, un consumible o un servicio. Escoja cómo quiere crear sus productos:"
+msgstr "Un producto en ERP es algo que usted vende o compra. Puede ser un bien, un consumible o un servicio. Escoja cómo quiere crear sus productos:"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -1673,9 +1673,9 @@ msgstr "Por razones de seguridad, usted no puede unir más de 3 contactos en uno
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the ERP Team,<br/>\n"
 "                          Fabien Pinckaers, Founder"
-msgstr "Para el Equipo Odoo,<br/>\n                          Fabien Pinckaers, Fundador"
+msgstr "Para el Equipo ERP,<br/>\n                          Fabien Pinckaers, Fundador"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_lead2opportunity_partner_mass_force_assignation
@@ -1751,8 +1751,8 @@ msgstr "Manejar el enlace o generación de asociados en los asistentes CRM. "
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
-msgid "Happy Selling!<br/>- The Odoo Team"
-msgstr "Feliz Venta!<br/>- El Equipo Odoo"
+msgid "Happy Selling!<br/>- The ERP Team"
+msgstr "Feliz Venta!<br/>- El Equipo ERP"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -1891,8 +1891,8 @@ msgstr "Mejorar el ingreso promedio por vendedor"
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"In Odoo, there are 3 different ways to manage your products prices.<br/>"
-msgstr "En Odoo, hay 3 diferentes maneras de manejar los precios de sus productos.<br/>"
+"In ERP, there are 3 different ways to manage your products prices.<br/>"
+msgstr "En ERP, hay 3 diferentes maneras de manejar los precios de sus productos.<br/>"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_lost_reason_view_search
@@ -1914,8 +1914,8 @@ msgstr "Correos Entrantes"
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
 "Incoming email create leads automatically when a new prospect contacts you.\n"
-"                        That's the easiest way to integrate Odoo with third party apps."
-msgstr "Correos entrantes crearán iniciativas automáticamente cuando un nuevo cliente potencial lo contacte. Esa es la manera más fácil de integrar Odoo con sus aplicaciones de terceras partes."
+"                        That's the easiest way to integrate ERP with third party apps."
+msgstr "Correos entrantes crearán iniciativas automáticamente cuando un nuevo cliente potencial lo contacte. Esa es la manera más fácil de integrar ERP con sus aplicaciones de terceras partes."
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_sale_config_settings_module_crm_voip
@@ -2628,49 +2628,49 @@ msgstr "Número de mensajes no leidos"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
-msgid "Odoo Default"
-msgstr "Odoo Predeterminado"
+msgid "ERP Default"
+msgstr "ERP Predeterminado"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_sale_config_settings_module_website_sign
 #: model:ir.ui.view,arch_db:crm.view_sale_config_settings
-msgid "Odoo Sign"
-msgstr "Odoo Sign"
+msgid "ERP Sign"
+msgstr "ERP Sign"
 
 #. module: crm
 #: model:ir.actions.act_window,help:crm.crm_case_form_view_salesteams_opportunity
 msgid ""
-"Odoo helps you keep track of your sales pipeline to follow\n"
+"ERP helps you keep track of your sales pipeline to follow\n"
 "                    up potential sales and better forecast your future revenues."
-msgstr "Odoo le ayuda a mantener el seguimiento de su canal de ventas para seguir ventas potenciales y proyectar mejor sus ingresos futuros."
+msgstr "ERP le ayuda a mantener el seguimiento de su canal de ventas para seguir ventas potenciales y proyectar mejor sus ingresos futuros."
 
 #. module: crm
 #: model:ir.actions.act_window,help:crm.crm_lead_opportunities
 #: model:ir.actions.act_window,help:crm.crm_lead_opportunities_tree_view
 msgid ""
-"Odoo helps you keep track of your sales pipeline to follow\n"
+"ERP helps you keep track of your sales pipeline to follow\n"
 "                up potential sales and better forecast your future revenues."
-msgstr "Odoo le ayuda a mantener el seguimiento de su canal de ventas para seguir ventas potenciales y proyectar mejor sus ingresos futuros."
+msgstr "ERP le ayuda a mantener el seguimiento de su canal de ventas para seguir ventas potenciales y proyectar mejor sus ingresos futuros."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"Odoo is the world's only software to have a full integration of Marketing "
+"ERP is the world's only software to have a full integration of Marketing "
 "Apps for your sales channel: insight sales, point of sale, ecommerce."
-msgstr "Odoo es el único software en el mundo que tiene una integración completa de Aplicaciones de Marketing para sus canales de venta: perspectiva de ventas, punto de venta, comercio electrónico "
+msgstr "ERP es el único software en el mundo que tiene una integración completa de Aplicaciones de Marketing para sus canales de venta: perspectiva de ventas, punto de venta, comercio electrónico "
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_sale_config_settings_generate_sales_team_alias
-msgid "Odoo will generate an email alias based on the sales team name"
-msgstr "Odoo generará un alias de correo basado en el nombre del equipo de ventas"
+msgid "ERP will generate an email alias based on the sales team name"
+msgstr "ERP generará un alias de correo basado en el nombre del equipo de ventas"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"Odoo will help you create polished, professional quotations and contracts in minutes.\n"
+"ERP will help you create polished, professional quotations and contracts in minutes.\n"
 "                        Tell us how you sell and we will tell you what\n"
 "                        configuration will best fit your quotation process."
-msgstr "Odoo le ayudará a crear cotizaciones y contratos profesionales y pulidos en cuestión de minutos. Dígamos cómo vende usted y nosotros le diremos qué configuración se ajustará mejor a su proceso de cotización."
+msgstr "ERP le ayudará a crear cotizaciones y contratos profesionales y pulidos en cuestión de minutos. Dígamos cómo vende usted y nosotros le diremos qué configuración se ajustará mejor a su proceso de cotización."
 
 #. module: crm
 #: model:ir.actions.act_window,help:crm.crm_case_form_view_salesteams_lead
@@ -3209,9 +3209,9 @@ msgstr "Seleccione las Etapas para este Equipo de Ventas"
 msgid ""
 "Select the list of fields used to search for\n"
 "                            duplicated records. If you select several fields,\n"
-"                            Odoo will propose you to merge only those having\n"
+"                            ERP will propose you to merge only those having\n"
 "                            all these fields in common. (not one of the fields)."
-msgstr "Seleccione la lista de campos usada para buscar registros duplicados, Si usted selecciona varios campos, Odoo le propondrá combinar sólo aquellos registros que tengan todos esos campos en común (no sólo uno de los campos)."
+msgstr "Seleccione la lista de campos usada para buscar registros duplicados, Si usted selecciona varios campos, ERP le propondrá combinar sólo aquellos registros que tengan todos esos campos en común (no sólo uno de los campos)."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.base_partner_merge_automatic_wizard_form
@@ -3268,9 +3268,9 @@ msgstr "Fijando esta etapa cambiará automáticamente la probabilidad de la opor
 msgid ""
 "Setting up your sales funnel is just the first step. To achieve a\n"
 "                      significant boost, we will help you get the most out of\n"
-"                      Odoo CRM to transform how your salespeople work.\n"
+"                      ERP CRM to transform how your salespeople work.\n"
 "                      That's the purpose of this guide."
-msgstr "Configurar su canal de ventas es sólo el primer paso. Para lograr una mejora significativa, nosotros le ayudaremos a sacar lo mejor del CRM de Odoo para transformar la forma de trabajo de sus vendedores. Ese es el propósito de esta guía."
+msgstr "Configurar su canal de ventas es sólo el primer paso. Para lograr una mejora significativa, nosotros le ayudaremos a sacar lo mejor del CRM de ERP para transformar la forma de trabajo de sus vendedores. Ese es el propósito de esta guía."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.view_sale_config_settings
@@ -3487,8 +3487,8 @@ msgstr "Plantillas de correo"
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
-msgid "Templates of quotations (use Odoo Online Proposals for this)"
-msgstr "Plantillas de cotizaciones (usar Propuestas en Línea de Odoo para esto)"
+msgid "Templates of quotations (use ERP Online Proposals for this)"
+msgstr "Plantillas de cotizaciones (usar Propuestas en Línea de ERP para esto)"
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_res_users_payment_next_action_date
@@ -3518,17 +3518,17 @@ msgstr "La primera etapa es generalmente \"Nueva\" y la última es \"Ganada\""
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_team_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
-msgstr "El modelo (Tipo de Documento de Odoo) al que corresponde este alias. Cualquier correo entrante que no sea respuesta a un registro existente, causará la creación de un nuevo registro de este modelo (ej. una Tarea de Proyecto)"
+msgstr "El modelo (Tipo de Documento de ERP) al que corresponde este alias. Cualquier correo entrante que no sea respuesta a un registro existente, causará la creación de un nuevo registro de este modelo (ej. una Tarea de Proyecto)"
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_team_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
-msgstr "El nombre del alias de correo, ej. 'trabajos' si quiere capturar los correos para <trabajos@demo.odoo.com>"
+"<jobs@example.erp.com>"
+msgstr "El nombre del alias de correo, ej. 'trabajos' si quiere capturar los correos para <trabajos@demo.erp.com>"
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_lead_partner_name
@@ -3877,19 +3877,19 @@ msgstr "Podemos automatizar pasos en su workflow, por ejemplo:"
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
-msgstr "Nosotros podemos realizar todo el proceso de importación por usted:\nsimplemente mande un archivo CSV con todos sus datos a su asesor de Odoo."
+msgstr "Nosotros podemos realizar todo el proceso de importación por usted:\nsimplemente mande un archivo CSV con todos sus datos a su asesor de ERP."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
-msgstr "Nosotros podemos realizar todo el proceso de importación por usted:\nsimplemente mande un archivo CSV con todos sus productos a su asesor de Odoo."
+msgstr "Nosotros podemos realizar todo el proceso de importación por usted:\nsimplemente mande un archivo CSV con todos sus productos a su asesor de ERP."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
@@ -3901,10 +3901,10 @@ msgstr "Podemos implementar informes personalizacos para usted basados en planti
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner
 msgid ""
-"We designed Odoo to help you grow your business. Odoo CRM\n"
+"We designed ERP to help you grow your business. ERP CRM\n"
 "                      is not just a tool, we want it to have a major impact on your\n"
 "                      sales performance. That's our mission, and we are serious about it."
-msgstr "Nosotros diseñamos Odoo para ayudarlo a hacer crecer su negocio. El CRM de Odoo no es sólo una herramienta, nosotros queremos que tenga un gran impacto en su rendimiento de ventas. Esa es nuestra misión, y somos serios a respecto."
+msgstr "Nosotros diseñamos ERP para ayudarlo a hacer crecer su negocio. El CRM de ERP no es sólo una herramienta, nosotros queremos que tenga un gran impacto en su rendimiento de ventas. Esa es nuestra misión, y somos serios a respecto."
 
 #. module: crm
 #: model:ir.ui.view,arch_db:crm.crm_planner

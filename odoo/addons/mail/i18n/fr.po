@@ -1,18 +1,18 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * mail
 # 
 # Translators:
 # Benedicte HANET <hanetb@gmail.com>, 2016
-# Clo <clo@odoo.com>, 2015
+# Clo <clo@erp.com>, 2015
 # Fabien Pinckaers <fp@openerp.com>, 2015
 # Julien Martin <204336@supinfo.com>, 2016
 # Leo Schmitt <inactive+lschmitt@transifex.com>, 2015
 # Martin Malorni <mm@microcom.ca>, 2015
 # Martin Trigaux, 2015-2016
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015
-# Melanie Bernard <mbe@odoo.com>, 2015
-# Nicolas Martinelli <nim@odoo.com>, 2016
+# Melanie Bernard <mbe@erp.com>, 2015
+# Nicolas Martinelli <nim@erp.com>, 2016
 # Quentin THEURET <quentin@theuret.net>, 2016
 # Shark McGnark <peculiarcheese@gmail.com>, 2016
 # ShevAbam, 2016
@@ -20,7 +20,7 @@
 # Sylvain GROS-DESORMEAUX <sylvain.grodes@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-22 13:00+0000\n"
 "PO-Revision-Date: 2016-08-05 08:33+0000\n"
@@ -89,7 +89,7 @@ msgid ""
 "                </a>\n"
 "                % endif\n"
 "                <strong>using</strong>\n"
-"                <a href=\"https://www.odoo.com\" style=\"text-decoration:none; color: #a24689;\"><strong>Odoo</strong></a>\n"
+"                <a href=\"https://www.erp.com\" style=\"text-decoration:none; color: #a24689;\"><strong>ERP</strong></a>\n"
 "                % endif\n"
 "                </p>\n"
 "            </td>\n"
@@ -1467,9 +1467,9 @@ msgstr "Si l’option de retrait est cochée, ce contact a refusé de recevoir d
 #. module: mail
 #: model:ir.model.fields,help:mail.field_base_config_settings_alias_domain
 msgid ""
-"If you have setup a catch-all email domain redirected to the Odoo server, "
+"If you have setup a catch-all email domain redirected to the ERP server, "
 "enter the domain name here."
-msgstr "Si vous avez configuré un domain \"catch-all\" email redirigé vers le serveur d'Odoo, entrez le nom du domaine ici."
+msgstr "Si vous avez configuré un domain \"catch-all\" email redirigé vers le serveur d'ERP, entrez le nom du domaine ici."
 
 #. module: mail
 #: code:addons/mail/models/mail_alias.py:141
@@ -2154,17 +2154,17 @@ msgstr "Nombre de messages non lus"
 #. module: mail
 #: model:ir.actions.act_window,help:mail.action_contacts
 msgid ""
-"Odoo helps you easily track all activities related to\n"
+"ERP helps you easily track all activities related to\n"
 "            a customer; discussions, history of business opportunities,\n"
 "            documents, etc."
-msgstr "Odoo vous aide à faire facilement le suivi de toutes vos activités liées à\nun client; discussions, historique des opportunités d'affaires, \ndocuments, etc."
+msgstr "ERP vous aide à faire facilement le suivi de toutes vos activités liées à\nun client; discussions, historique des opportunités d'affaires, \ndocuments, etc."
 
 #. module: mail
 #. openerp-web
 #: code:addons/mail/static/src/xml/client_action.xml:11
 #, python-format
-msgid "Odoo needs your permission to"
-msgstr "Odoo a besoin de votre autorisation pour"
+msgid "ERP needs your permission to"
+msgstr "ERP a besoin de votre autorisation pour"
 
 #. module: mail
 #. openerp-web
@@ -2955,10 +2955,10 @@ msgstr "Type de document avec lequel ce modèle peut être utilisé"
 #: model:ir.model.fields,help:mail.field_mail_channel_alias_model_id
 #: model:ir.model.fields,help:mail.field_res_users_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
-msgstr "Le modèle (sorte de document Odoo) auquel correspond cet alias. Tout les e-mail entrant ne correspondant pas à un enregistrement existant entraînera la création d'un nouvel enregistrement de ce modèle (Ex. : une tâche d'un projet)"
+msgstr "Le modèle (sorte de document ERP) auquel correspond cet alias. Tout les e-mail entrant ne correspondant pas à un enregistrement existant entraînera la création d'un nouvel enregistrement de ce modèle (Ex. : une tâche d'un projet)"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias_alias_name
@@ -2966,8 +2966,8 @@ msgstr "Le modèle (sorte de document Odoo) auquel correspond cet alias. Tout le
 #: model:ir.model.fields,help:mail.field_res_users_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
-msgstr "Le nom de l'alias de messagerie, par exemple 'carrieres' pour relever les e-mails de <carrieres@example.odoo.com>"
+"<jobs@example.erp.com>"
+msgstr "Le nom de l'alias de messagerie, par exemple 'carrieres' pour relever les e-mails de <carrieres@example.erp.com>"
 
 #. module: mail
 #: model:ir.model.fields,help:mail.field_mail_alias_alias_user_id
@@ -3440,8 +3440,8 @@ msgstr "mentionnée(s) comme lue(s)."
 
 #. module: mail
 #: model:ir.ui.view,arch_db:mail.view_general_configuration_mail_alias_domain
-msgid "mycompany.odoo.com"
-msgstr "masociete.odoo.com"
+msgid "mycompany.erp.com"
+msgstr "masociete.erp.com"
 
 #. module: mail
 #. openerp-web

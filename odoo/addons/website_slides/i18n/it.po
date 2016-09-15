@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_slides
 # 
@@ -6,7 +6,7 @@
 # Francesco Garganese <francesco.garganese@aeromnia.aero>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-21 09:20+0000\n"
 "PO-Revision-Date: 2016-01-10 23:43+0000\n"
@@ -27,7 +27,7 @@ msgid ""
 "    <tbody><tr>\n"
 "        <td style=\"width: 600px; text-align:center\" valign=\"center\">\n"
 "            <a href=\"${user.company_id.website}\" style=\"text-decoration:none\">\n"
-"                <img alt=\"Odoo\" src=\"${ctx['base_url']}/logo.png\" style=\"display:block; border:none; min-height:60px; margin:0 auto;\">\n"
+"                <img alt=\"ERP\" src=\"${ctx['base_url']}/logo.png\" style=\"display:block; border:none; min-height:60px; margin:0 auto;\">\n"
 "            </a>\n"
 "        </td>\n"
 "    </tr></tbody>\n"
@@ -64,7 +64,7 @@ msgid ""
 "    </tr></tbody>\n"
 "</table>\n"
 "</div>"
-msgstr "\n<div style=\"padding:0px; margin:0px;\">\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"width: 600px; margin: 10px 0px 0px 0px; vertical-align: top; padding: 0px; font-family:arial; font-size:12px; background-color:#ffffff\">\n    <tbody><tr>\n        <td style=\"width: 600px; text-align:center\" valign=\"center\">\n            <a href=\"${user.company_id.website}\" style=\"text-decoration:none\">\n                <img alt=\"Odoo\" src=\"${ctx['base_url']}/logo.png\" style=\"display:block; border:none; min-height:60px; margin:0 auto;\">\n            </a>\n        </td>\n    </tr></tbody>\n</table>\n</div>\n<div style=\"padding:0px; margin:0px;\">\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"width: 600px; margin: 10px 0px 0px 0px; vertical-align: top; padding: 0px; font-family:arial; font-size:12px;\">\n    <tbody><tr>\n        <td style=\"width: 600px; text-align:center; color: #ffffff; background-color:#a24689;\" valign=\"center\">\n            <h2 style=\"margin:0px;\">\n                ${user.name} shared the ${object.slide_type} ${object.name} with you!\n            </h2>\n        </td>\n    </tr><tr>\n        <td style=\"width: 600px; vertical-align:top; text-align:center; background-color:#FFFFF; color:#414141\">\n            <a href=\"${object.website_url}\" style=\"color: #a24689;\">\n                <img alt=\"${object.name}\" src=\"${ctx['base_url']}/web/image/slide.slide/${object.id}/image\"\n                    style=\"height:auto; width:500px; background-color: #cccccc; margin: 16px;\">\n            </a>\n            <p style=\"font-size:24px; font-weight:bold\"><a href=\"${object.website_url}\">${object.name}</a></p>\n            <p style=\"color: #ccc;\">Published on ${object.write_date}</p>\n            <p><a href=\"${object.website_url}\">Click here to open the ${object.slide_type}</a></p>\n        </td>\n    </tr></tbody>\n</table>\n</div>\n<div style=\"padding:0px; margin:0px;\">\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"margin: 10px 0px 0px 0px; vertical-align: top;padding: 0px; font-family:arial; font-size:12px; color: #ffffff; background-color:#8f8f8f;\">\n    <tbody><tr>\n        <td style=\"width: 600px; font-size:12px; text-align:center; padding-top:10px; color:#a24689; padding-bottom:5px\">\n            <a href=\"${object.website_url}\" style=\"color:#a24689\">View in browser</a> |\n            <a href=\"/page/contactus\" style=\"color:#a24689\">Contact</a>\n        </td>\n    </tr></tbody>\n</table>\n</div>"
+msgstr "\n<div style=\"padding:0px; margin:0px;\">\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"width: 600px; margin: 10px 0px 0px 0px; vertical-align: top; padding: 0px; font-family:arial; font-size:12px; background-color:#ffffff\">\n    <tbody><tr>\n        <td style=\"width: 600px; text-align:center\" valign=\"center\">\n            <a href=\"${user.company_id.website}\" style=\"text-decoration:none\">\n                <img alt=\"ERP\" src=\"${ctx['base_url']}/logo.png\" style=\"display:block; border:none; min-height:60px; margin:0 auto;\">\n            </a>\n        </td>\n    </tr></tbody>\n</table>\n</div>\n<div style=\"padding:0px; margin:0px;\">\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"width: 600px; margin: 10px 0px 0px 0px; vertical-align: top; padding: 0px; font-family:arial; font-size:12px;\">\n    <tbody><tr>\n        <td style=\"width: 600px; text-align:center; color: #ffffff; background-color:#a24689;\" valign=\"center\">\n            <h2 style=\"margin:0px;\">\n                ${user.name} shared the ${object.slide_type} ${object.name} with you!\n            </h2>\n        </td>\n    </tr><tr>\n        <td style=\"width: 600px; vertical-align:top; text-align:center; background-color:#FFFFF; color:#414141\">\n            <a href=\"${object.website_url}\" style=\"color: #a24689;\">\n                <img alt=\"${object.name}\" src=\"${ctx['base_url']}/web/image/slide.slide/${object.id}/image\"\n                    style=\"height:auto; width:500px; background-color: #cccccc; margin: 16px;\">\n            </a>\n            <p style=\"font-size:24px; font-weight:bold\"><a href=\"${object.website_url}\">${object.name}</a></p>\n            <p style=\"color: #ccc;\">Published on ${object.write_date}</p>\n            <p><a href=\"${object.website_url}\">Click here to open the ${object.slide_type}</a></p>\n        </td>\n    </tr></tbody>\n</table>\n</div>\n<div style=\"padding:0px; margin:0px;\">\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"margin: 10px 0px 0px 0px; vertical-align: top;padding: 0px; font-family:arial; font-size:12px; color: #ffffff; background-color:#8f8f8f;\">\n    <tbody><tr>\n        <td style=\"width: 600px; font-size:12px; text-align:center; padding-top:10px; color:#a24689; padding-bottom:5px\">\n            <a href=\"${object.website_url}\" style=\"color:#a24689\">View in browser</a> |\n            <a href=\"/page/contactus\" style=\"color:#a24689\">Contact</a>\n        </td>\n    </tr></tbody>\n</table>\n</div>"
 
 #. module: website_slides
 #: model:mail.template,body_html:website_slides.slide_template_published
@@ -75,7 +75,7 @@ msgid ""
 "    <tbody><tr>\n"
 "        <td style=\"width: 600px; text-align:center\" valign=\"center\">\n"
 "            <a href=\"${user.company_id.website}\" style=\"text-decoration:none\">\n"
-"                <img alt=\"Odoo\" src=\"${ctx['base_url']}/logo.png\" style=\"display:block; border:none; min-height:60px; margin:0 auto;\">\n"
+"                <img alt=\"ERP\" src=\"${ctx['base_url']}/logo.png\" style=\"display:block; border:none; min-height:60px; margin:0 auto;\">\n"
 "            </a>\n"
 "        </td>\n"
 "    </tr></tbody>\n"
@@ -111,7 +111,7 @@ msgid ""
 "    </tr></tbody>\n"
 "</table>\n"
 "</div>"
-msgstr "\n<div style=\"padding:0px; margin:0px;\">\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"width: 600px; margin: 10px 0px 0px 0px; vertical-align: top; padding: 0px; font-family:arial; font-size:12px; background-color:#ffffff\">\n    <tbody><tr>\n        <td style=\"width: 600px; text-align:center\" valign=\"center\">\n            <a href=\"${user.company_id.website}\" style=\"text-decoration:none\">\n                <img alt=\"Odoo\" src=\"${ctx['base_url']}/logo.png\" style=\"display:block; border:none; min-height:60px; margin:0 auto;\">\n            </a>\n        </td>\n    </tr></tbody>\n</table>\n</div>\n<div style=\"padding:0px; margin:0px;\">\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"width: 600px; margin: 10px 0px 0px 0px; vertical-align: top; padding: 0px; font-family:arial; font-size:12px;\">\n    <tbody><tr>\n        <td style=\"width: 600px; text-align:center; color: #ffffff; background-color:#a24689;\" valign=\"center\">\n            <h2 style=\"margin:0px;\">\n                New ${object.slide_type} published on ${object.channel_id.name}\n            </h2>\n        </td>\n    </tr><tr>\n        <td style=\"width: 600px; vertical-align:top; text-align:center; background-color:#FFFFF; color:#414141\">\n            <a href=\"${object.website_url}\" style=\"color: #a24689;\">\n                <img alt=\"${object.name}\" src=\"${ctx['base_url']}/web/image/slide.slide/${object.id}/image\" style=\"height:auto; width:500px; background-color: #cccccc; margin: 16px;\">\n            </a>\n            <p style=\"font-size:24px; font-weight:bold\"><a href=\"${object.website_url}\">${object.name}</a></p>\n            <p style=\"color: #ccc;\">Published on ${object.write_date}</p>\n            <p><a href=\"${object.website_url}\">Click here to open the ${object.slide_type}</a></p>\n        </td>\n    </tr></tbody>\n</table>\n</div>\n<div style=\"padding:0px; margin:0px;\">\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"margin: 10px 0px 0px 0px; vertical-align: top;padding: 0px; font-family:arial; font-size:12px; color: #ffffff; background-color:#8f8f8f;\">\n    <tbody><tr>\n        <td style=\"width: 600px; font-size:12px; text-align:center; padding-top:10px; color:#a24689; padding-bottom:5px\">\n            <a href=\"${object.website_url}\" style=\"color:#a24689\">View in browser</a> |\n            <a href=\"/page/contactus\" style=\"color:#a24689\">Contact</a>\n        </td>\n    </tr></tbody>\n</table>\n</div>"
+msgstr "\n<div style=\"padding:0px; margin:0px;\">\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"width: 600px; margin: 10px 0px 0px 0px; vertical-align: top; padding: 0px; font-family:arial; font-size:12px; background-color:#ffffff\">\n    <tbody><tr>\n        <td style=\"width: 600px; text-align:center\" valign=\"center\">\n            <a href=\"${user.company_id.website}\" style=\"text-decoration:none\">\n                <img alt=\"ERP\" src=\"${ctx['base_url']}/logo.png\" style=\"display:block; border:none; min-height:60px; margin:0 auto;\">\n            </a>\n        </td>\n    </tr></tbody>\n</table>\n</div>\n<div style=\"padding:0px; margin:0px;\">\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"width: 600px; margin: 10px 0px 0px 0px; vertical-align: top; padding: 0px; font-family:arial; font-size:12px;\">\n    <tbody><tr>\n        <td style=\"width: 600px; text-align:center; color: #ffffff; background-color:#a24689;\" valign=\"center\">\n            <h2 style=\"margin:0px;\">\n                New ${object.slide_type} published on ${object.channel_id.name}\n            </h2>\n        </td>\n    </tr><tr>\n        <td style=\"width: 600px; vertical-align:top; text-align:center; background-color:#FFFFF; color:#414141\">\n            <a href=\"${object.website_url}\" style=\"color: #a24689;\">\n                <img alt=\"${object.name}\" src=\"${ctx['base_url']}/web/image/slide.slide/${object.id}/image\" style=\"height:auto; width:500px; background-color: #cccccc; margin: 16px;\">\n            </a>\n            <p style=\"font-size:24px; font-weight:bold\"><a href=\"${object.website_url}\">${object.name}</a></p>\n            <p style=\"color: #ccc;\">Published on ${object.write_date}</p>\n            <p><a href=\"${object.website_url}\">Click here to open the ${object.slide_type}</a></p>\n        </td>\n    </tr></tbody>\n</table>\n</div>\n<div style=\"padding:0px; margin:0px;\">\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"margin: 10px 0px 0px 0px; vertical-align: top;padding: 0px; font-family:arial; font-size:12px; color: #ffffff; background-color:#8f8f8f;\">\n    <tbody><tr>\n        <td style=\"width: 600px; font-size:12px; text-align:center; padding-top:10px; color:#a24689; padding-bottom:5px\">\n            <a href=\"${object.website_url}\" style=\"color:#a24689\">View in browser</a> |\n            <a href=\"/page/contactus\" style=\"color:#a24689\">Contact</a>\n        </td>\n    </tr></tbody>\n</table>\n</div>"
 
 #. module: website_slides
 #: model:ir.model.fields,field_description:website_slides.field_slide_embed_count_views
@@ -746,9 +746,9 @@ msgstr "errore interno del server, prova ancora più tardi o contatta un amminis
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_3
 msgid ""
-"Interview with Guy Christiaens, Finance Manager at Alpinter, about their use of Odoo.\n"
-"Discover more about Odoo at www.odoo.com"
-msgstr "Intervista con Guy Christiaens, Amministratore Finanziario all'Alpinter, a proposito del suo utilizzo di Odoo.\nScopri di più su www.Odoo.com"
+"Interview with Guy Christiaens, Finance Manager at Alpinter, about their use of ERP.\n"
+"Discover more about ERP at www.erp.com"
+msgstr "Intervista con Guy Christiaens, Amministratore Finanziario all'Alpinter, a proposito del suo utilizzo di ERP.\nScopri di più su www.ERP.com"
 
 #. module: website_slides
 #. openerp-web
@@ -940,68 +940,68 @@ msgstr "Numero di messaggi non letti"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_3
-msgid "Odoo - The Voice of the Customer: Alpinter"
-msgstr "Odoo - La voce dei clienti : Alpinter"
+msgid "ERP - The Voice of the Customer: Alpinter"
+msgstr "ERP - La voce dei clienti : Alpinter"
 
 #. module: website_slides
 #: model:slide.category,name:website_slides.category_2
-msgid "Odoo Days"
-msgstr "Odoo Days"
+msgid "ERP Days"
+msgstr "ERP Days"
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_2
-msgid "Odoo Experience - Register now https://www.odoo.com/event/304/"
-msgstr "Odoo Experience- Registrati ora https://www.odoo.com/event/304/"
+msgid "ERP Experience - Register now https://www.erp.com/event/304/"
+msgstr "ERP Experience- Registrati ora https://www.erp.com/event/304/"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_0
-msgid "Odoo Explained"
-msgstr "Odoo Explained"
+msgid "ERP Explained"
+msgstr "ERP Explained"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_6
-msgid "Odoo Marketing - part 1: ATTRACT"
-msgstr "Odoo Marketing - parte 1: ATTIRARE"
+msgid "ERP Marketing - part 1: ATTRACT"
+msgstr "ERP Marketing - parte 1: ATTIRARE"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_7
-msgid "Odoo Marketing - part 1: ATTRACT_2"
-msgstr "Odoo Marketing - parte 2: ATTIRARE_2"
+msgid "ERP Marketing - part 1: ATTRACT_2"
+msgstr "ERP Marketing - parte 2: ATTIRARE_2"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_8
-msgid "Odoo Marketing - part 1: ATTRACT_3"
-msgstr "Odoo Marketing - parte 1: ATTIRARE_3"
+msgid "ERP Marketing - part 1: ATTRACT_3"
+msgstr "ERP Marketing - parte 1: ATTIRARE_3"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_2
-msgid "Odoo Open Days 2014"
-msgstr "Odoo Open Days 2014"
+msgid "ERP Open Days 2014"
+msgstr "ERP Open Days 2014"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_5
-msgid "Odoo POS Indiegogo Campaign"
-msgstr "Odoo POS Indiegogo Campaign"
+msgid "ERP POS Indiegogo Campaign"
+msgstr "ERP POS Indiegogo Campaign"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_10
-msgid "Odoo Roadmap & Strategy - Fabien Pinckaers"
-msgstr "Odoo Strade & Strategie - Fabien Pinckaers"
+msgid "ERP Roadmap & Strategy - Fabien Pinckaers"
+msgstr "ERP Strade & Strategie - Fabien Pinckaers"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_4
-msgid "Odoo SEO - Boost Your Website Trafic"
-msgstr "Odoo SEO- Incrementa il traffico sul tuo sito web "
+msgid "ERP SEO - Boost Your Website Trafic"
+msgstr "ERP SEO- Incrementa il traffico sul tuo sito web "
 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_6
 #: model:slide.slide,description:website_slides.slide_7
 #: model:slide.slide,description:website_slides.slide_8
 msgid ""
-"Odoo's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.odoo.com\n"
+"ERP's fully-integrated marketing app will help you to attract, convert and close new leads. Check out our three-part video and discover more at www.erp.com\n"
 "\n"
 "Video made by Miroslava Ganzarcikova and Sophia Eribo."
-msgstr "L'applicazione di Odoo Integrata per il marketing , converte e chiude nuovi leads. Guarda le tre parti di video e scopri altro su www-odoo.com\n\nVideo realizzato da Miroslava Ganzarcikova e Sophia Eribo."
+msgstr "L'applicazione di ERP Integrata per il marketing , converte e chiude nuovi leads. Guarda le tre parti di video e scopri altro su www-erp.com\n\nVideo realizzato da Miroslava Ganzarcikova e Sophia Eribo."
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_9
@@ -1010,8 +1010,8 @@ msgstr "Open Days 2'14 Infografica"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_1
-msgid "Open Source Website Builder and eCommerce: Odoo"
-msgstr "Open Source Costruttore di Siti Web e Ecommerce Odoo"
+msgid "Open Source Website Builder and eCommerce: ERP"
+msgstr "Open Source Costruttore di Siti Web e Ecommerce ERP"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_11
@@ -1140,10 +1140,10 @@ msgstr "Riguarda le impostazioni del tuo canale per promuovere le presentazioni 
 #. module: website_slides
 #: model:slide.slide,description:website_slides.slide_0
 msgid ""
-"Run your business with a comprehensive suite of business apps. Do it easily with Odoo! \n"
+"Run your business with a comprehensive suite of business apps. Do it easily with ERP! \n"
 "\n"
-"http://odoo.com/start"
-msgstr "Accresci il tuo business con una raccolta di applicazioni dedicate. Rendilo facile con Odoo!\n\nhttps://odoo.com/start"
+"http://erp.com/start"
+msgstr "Accresci il tuo business con una raccolta di applicazioni dedicate. Rendilo facile con ERP!\n\nhttps://erp.com/start"
 
 #. module: website_slides
 #. openerp-web

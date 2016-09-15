@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * procurement
 # 
@@ -8,7 +8,7 @@
 # liAnGjiA <liangjia@qq.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:11+0000\n"
 "PO-Revision-Date: 2016-07-22 06:34+0000\n"
@@ -496,8 +496,8 @@ msgstr "引用"
 #: model:ir.model.fields,help:procurement.field_procurement_order_origin
 msgid ""
 "Reference of the document that created this Procurement.\n"
-"This is automatically completed by Odoo."
-msgstr "创建此补货单的原始单据号。\n此项由Odoo自动填写。"
+"This is automatically completed by ERP."
+msgstr "创建此补货单的原始单据号。\n此项由ERP自动填写。"
 
 #. module: procurement
 #: model:ir.model.fields,field_description:procurement.field_procurement_order_rule_id

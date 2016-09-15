@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * project
 # 
@@ -13,7 +13,7 @@
 # Wolfgang Taferner, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:17+0000\n"
 "PO-Revision-Date: 2016-07-13 06:03+0000\n"
@@ -64,8 +64,8 @@ msgstr "(De)archivieren eines Projektes (de)archiviert ebenfalls dessen Aufgaben
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "- The Odoo Team"
-msgstr "- Das Odoo Team"
+msgid "- The ERP Team"
+msgstr "- Das ERP Team"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -188,9 +188,9 @@ msgstr "<span class=\"panel-title\">\n                                          
 msgid ""
 "<span class=\"panel-title\">\n"
 "                                            <span class=\"fa fa-tasks\"/>\n"
-"                                            <strong> Directly in Odoo</strong>\n"
+"                                            <strong> Directly in ERP</strong>\n"
 "                                        </span>"
-msgstr "<span class=\"panel-title\">\n                                            <span class=\"fa fa-tasks\"/>\n                                            <strong> Direkt in Odoo</strong>\n                                        </span>"
+msgstr "<span class=\"panel-title\">\n                                            <span class=\"fa fa-tasks\"/>\n                                            <strong> Direkt in ERP</strong>\n                                        </span>"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -311,7 +311,7 @@ msgstr "<Strong> Zusammenfassung und Ausblick (5 min): </ strong>\nSchließen Si
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"<strong>A great feature in Odoo is the integration of a Collaborative Notepad called Etherpad.</strong><br/>\n"
+"<strong>A great feature in ERP is the integration of a Collaborative Notepad called Etherpad.</strong><br/>\n"
 "                            It replaces the standard Description area in Tasks and Issues and is extremely useful for several cases."
 msgstr "<strong>Ein herausragendes Feature ist die Integration des kollaborativen Notizeneditors Etherpad.</strong><br/>\nEs ersetzt die Standard Beschreibung für Aufgaben und Projektfälle und ist somit mutifunktional einsetzbar."
 
@@ -362,8 +362,8 @@ msgstr "<strong>Animieren Sie Teilnehmer sich vorzubereiten </strong><br/>\nFür
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "<strong>Be careful about the messages you send</strong><br/>\n"
-"                                    Sending a message through Odoo will automatically send an email containing your message to all the followers including internal employees, external users or customers."
-msgstr "<strong>Vorsicht beim Versand von Nachrichten</strong><br/>\nEin Versand von Nachrichten aus Odoo sendet diese automatisch an alle Beobachter, inklusive internen und externen Mitarbeitern, sowie auch Kunden."
+"                                    Sending a message through ERP will automatically send an email containing your message to all the followers including internal employees, external users or customers."
+msgstr "<strong>Vorsicht beim Versand von Nachrichten</strong><br/>\nEin Versand von Nachrichten aus ERP sendet diese automatisch an alle Beobachter, inklusive internen und externen Mitarbeitern, sowie auch Kunden."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -393,8 +393,8 @@ msgstr "<strong>Kontaktieren Sie uns jetzt:</strong><br/>"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "<strong>Create tasks and issues by email</strong><br/>\n"
-"                                In Odoo, every project has an email alias. If you send an email to this alias, it will automatically create a task or issue in the first stage of the project, with all the email recipients as its default followers."
-msgstr "<strong>Erstelle Aufgaben und Fälle durch Emails</strong><br/>\nJedes Projekt hat in Odoo einen Email Alias. Bei Email Versand an einen Alias, erstellt Odoo automatisch eine Aufgabe oder einen Fall in der ersten Projektstufe, mit allen zugehörigen, im Standard definierten Followern."
+"                                In ERP, every project has an email alias. If you send an email to this alias, it will automatically create a task or issue in the first stage of the project, with all the email recipients as its default followers."
+msgstr "<strong>Erstelle Aufgaben und Fälle durch Emails</strong><br/>\nJedes Projekt hat in ERP einen Email Alias. Bei Email Versand an einen Alias, erstellt ERP automatisch eine Aufgabe oder einen Fall in der ersten Projektstufe, mit allen zugehörigen, im Standard definierten Followern."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -539,8 +539,8 @@ msgstr "<strong>Empfohlenes Vorgehen:</strong>"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "<strong>Rely on the chatter</strong><br/>\n"
-"                                    Below every Task and Issue (or more generally, below every Document in Odoo) is an area called Chatter."
-msgstr "<strong>Nutzen Sie Kurzmitteilungen</strong><br/>\nNutzen Sie bei allen Aufgaben und Fällen (oder allgemein unterhalb aller Geschäftsvorfälle in Odoo) die sogenannten Chatter Nachrichten."
+"                                    Below every Task and Issue (or more generally, below every Document in ERP) is an area called Chatter."
+msgstr "<strong>Nutzen Sie Kurzmitteilungen</strong><br/>\nNutzen Sie bei allen Aufgaben und Fällen (oder allgemein unterhalb aller Geschäftsvorfälle in ERP) die sogenannten Chatter Nachrichten."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -601,8 +601,8 @@ msgstr "<strong>Welche Aktivitäten</strong> möchten Sie verwalten?"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "<strong>What do you expect</strong> from using Odoo Project?"
-msgstr "<strong>Was erwarten Sie</strong> vom Odoo Projektmanagement?"
+msgid "<strong>What do you expect</strong> from using ERP Project?"
+msgstr "<strong>Was erwarten Sie</strong> vom ERP Projektmanagement?"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -644,8 +644,8 @@ msgstr "Ein Kunde sendet eine Beschwerde an die Email Adresse support@yourcompan
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "A project usually involves many stakeholders, be it the project's sponsor, resources, customers or external contractors. But the most important person in a project is usually the Project Manager.<br/>\n"
-"                    In Odoo, the Project Managers have the responsibility of managing the Kanban view: they ensure smooth progression of the projects, minimal downtime between stages and optimal work distribution between resources."
-msgstr "Üblicherweise gibt es zahlreiche Akteure in Projekten, z.B. die Projektförderer , eigene Personalressourcen, Kunden oder auch externe Subunternehmer. Die allerwichtigste Person ist allerdings der Projektmanager.<br/>\nIn Odoo hat ein Projektleiter die Verantwortlichkeit für die Kanban Arbeitsfortschritt Anzeige: Sie sichern einen reibungslosen Fortschritt, reduzieren die Übergangszeiten zwischen aufeinander folgenden Projektstufen und sorgen für eine optimale Verteilung der Arbeit."
+"                    In ERP, the Project Managers have the responsibility of managing the Kanban view: they ensure smooth progression of the projects, minimal downtime between stages and optimal work distribution between resources."
+msgstr "Üblicherweise gibt es zahlreiche Akteure in Projekten, z.B. die Projektförderer , eigene Personalressourcen, Kunden oder auch externe Subunternehmer. Die allerwichtigste Person ist allerdings der Projektmanager.<br/>\nIn ERP hat ein Projektleiter die Verantwortlichkeit für die Kanban Arbeitsfortschritt Anzeige: Sie sichern einen reibungslosen Fortschritt, reduzieren die Übergangszeiten zwischen aufeinander folgenden Projektstufen und sorgen für eine optimale Verteilung der Arbeit."
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_task_kanban_state
@@ -936,9 +936,9 @@ msgstr "Budgetpositionen"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "But because change is never easy, we've created this Planner to guide you.<br/>\n"
-"                        For example, you'll understand why you shouldn’t use Odoo to plan but instead to\n"
+"                        For example, you'll understand why you shouldn’t use ERP to plan but instead to\n"
 "                        collaborate, or why organizing your projects by role is wrong."
-msgstr "Da eine Umstellung nicht immer einfach ist, haben wir diesen Planer vorbereitet, der Sie hierbei kompetent begleiten soll. Sie werden hierdurch besser verstehen, wieso Sie in Odoo z.B. anstatt zur Planerstellung besser die kollaborative Zusammenarbeit verwenden können oder wieso vor einer Organisation Ihrer Projekte nach Rollen gewarnt wird."
+msgstr "Da eine Umstellung nicht immer einfach ist, haben wir diesen Planer vorbereitet, der Sie hierbei kompetent begleiten soll. Sie werden hierdurch besser verstehen, wieso Sie in ERP z.B. anstatt zur Planerstellung besser die kollaborative Zusammenarbeit verwenden können oder wieso vor einer Organisation Ihrer Projekte nach Rollen gewarnt wird."
 
 #. module: project
 #: model:project.task.type,legend_done:project.project_stage_1
@@ -1070,9 +1070,9 @@ msgstr "Projekt konfigurieren"
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"Congratulations on choosing Odoo Project to help running your company more "
+"Congratulations on choosing ERP Project to help running your company more "
 "efficiently!"
-msgstr "Wir gratulieren zu Odoo für Ihr Projektmanagement, zur Steigerung Ihrer Effizienz!"
+msgstr "Wir gratulieren zu ERP für Ihr Projektmanagement, zur Steigerung Ihrer Effizienz!"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -1167,8 +1167,8 @@ msgstr "Angelegt am"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "Creating Tasks and/or Issues is the next step in managing your Projects.<br/>\n"
-"                        In Odoo, it is pretty straightforward, but here are some explanations you may find useful."
-msgstr "Erstellen Sie Aufgaben und Fälle als nächsten Schritt bei der Projektverwaltung.<br/>\nIn Odoo ist dies sehr direkt und einfach vorzunehmen, allerdings finden Sie hier weitere nützliche Hinweise."
+"                        In ERP, it is pretty straightforward, but here are some explanations you may find useful."
+msgstr "Erstellen Sie Aufgaben und Fälle als nächsten Schritt bei der Projektverwaltung.<br/>\nIn ERP ist dies sehr direkt und einfach vorzunehmen, allerdings finden Sie hier weitere nützliche Hinweise."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.view_task_history_search
@@ -1329,9 +1329,9 @@ msgstr "Löschen"
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "Depending on what you need and how you want to operate, there are several "
-"ways to work with Odoo. First, decide if you want to think in terms of tasks"
+"ways to work with ERP. First, decide if you want to think in terms of tasks"
 " or issues. Then, activate the Timesheets app if you need it."
-msgstr "In Abhängigkeit Ihres zukünftigen Bedarfs und Ihres existierenden Arbeitsablaufs, ergeben sich viele Möglichkeiten Odoo zu nutzen. Zuerst sollten Sie überlegen, ob Sie mit Begriffen wie Aufgaben oder Fall arbeiten können. Im Anschluss aktivieren Sie die Zeiterfassung, wenn Sie diese benötigen. "
+msgstr "In Abhängigkeit Ihres zukünftigen Bedarfs und Ihres existierenden Arbeitsablaufs, ergeben sich viele Möglichkeiten ERP zu nutzen. Zuerst sollten Sie überlegen, ob Sie mit Begriffen wie Aufgaben oder Fall arbeiten können. Im Anschluss aktivieren Sie die Zeiterfassung, wenn Sie diese benötigen. "
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -1540,16 +1540,16 @@ msgstr "Erwartete Zeit für die Aufgabe. Wird meist durch den Projektmanager im 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"Even if there is no specific field in Odoo, it's important to define a person responsible for each stage of your Project.<br/>\n"
+"Even if there is no specific field in ERP, it's important to define a person responsible for each stage of your Project.<br/>\n"
 "                        This person will have the responsibility for validating each stage and ensuring that the requirements to move to the next stage are met."
-msgstr "Obwohl es kein spezifisches Feld in Odoo gibt, ist es sehr wichtig eine verantwortliche Person für jede Stufe Ihres Projekts zu definieren.<br/>\nDiese Person ist verantwortlich für diese Projektstufe und stellt sicher, dass die Voraussetzungen für einen Übergang in die nächste Stufe erfüllt sind."
+msgstr "Obwohl es kein spezifisches Feld in ERP gibt, ist es sehr wichtig eine verantwortliche Person für jede Stufe Ihres Projekts zu definieren.<br/>\nDiese Person ist verantwortlich für diese Projektstufe und stellt sicher, dass die Voraussetzungen für einen Übergang in die nächste Stufe erfüllt sind."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "Every business is different.<br/>\n"
-"                    Odoo allows you to customize every application and it's usually a good idea to customize screens to fit your project needs."
-msgstr "Jede Branche ist verscheiden.<br/>\nOdoo erlaubt Anpassungen Ihrer Anwendungen und im Normalfall ist es auch eine gute Idee, um Formulare an Ihr Unternehmen anzupassen. "
+"                    ERP allows you to customize every application and it's usually a good idea to customize screens to fit your project needs."
+msgstr "Jede Branche ist verscheiden.<br/>\nERP erlaubt Anpassungen Ihrer Anwendungen und im Normalfall ist es auch eine gute Idee, um Formulare an Ihr Unternehmen anzupassen. "
 
 #. module: project
 #: model:web.tip,description:project.project_tip_3
@@ -1666,9 +1666,9 @@ msgstr "Zum Beispiel sollten sich Risiko und Aufgaben Verantwortliche im Vorfeld
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the ERP Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
-msgstr "Für das Odoo Team,<br/>\nFabien Pinckaers, Gründer"
+msgstr "Für das ERP Team,<br/>\nFabien Pinckaers, Gründer"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -1704,8 +1704,8 @@ msgstr "Aufgaben aus Auftrag erstellen"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "Get full synchronization with Odoo"
-msgstr "Synchronisation mit Odoo einrichten"
+msgid "Get full synchronization with ERP"
+msgstr "Synchronisation mit ERP einrichten"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -1952,7 +1952,7 @@ msgstr "Interne E-Mail Adresse des Projekts. Eingehende E-Mails werden automatis
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
 "Internal notes are messages that will appear in the Chatter but will not be "
-"notified in Odoo's Inbox."
+"notified in ERP's Inbox."
 msgstr "Interne Notizen tauchen in der Vorgangshistorie so wie Nachrichten auf, werden aber nicht im Posteingang angezeigt."
 
 #. module: project
@@ -2008,16 +2008,16 @@ msgstr "Sie sollten immer besser mit einer \"Projektantwort\" beginnen, wie z.B.
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"It is time to think about how you will transform your activities into real projects in Odoo.<br/>\n"
+"It is time to think about how you will transform your activities into real projects in ERP.<br/>\n"
 "                        For that, the most important part is defining the stages of your projects. Stages are the different steps a task or an issue can go through, from its creation to its ending. They will appear in what we call the 'Kanban' view of your projects."
 msgstr "Es ist Zeit, darüber nachzudenken, wie Sie Ihre tägliche Aktivitäten in eine Projektstruktur überführen. Hierzu ist die Definition von Projektstufen der wichtigste Part. Stufen repräsentieren die verschiedenen Stufen, die eine Aufgabe oder ein Fall durchlaufen kann, beginnend von der Erstellung bis hin zum Abschluß. Sie erscheinen in der sogenannten Kanban Ansicht Ihrer Projekte."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"It's essential to be clear about why you want to use Odoo Project and what your goals are.\n"
+"It's essential to be clear about why you want to use ERP Project and what your goals are.\n"
 "                        Indeed, there are many ways to manage a project, to find the best one for you, you need to know exactly what you want to achieve. And later on, we will hopefully transform your objectives into real improvements for your company."
-msgstr "Elementar sind die Gründe, weshalb Sie Odoo für Ihr Projektmanagement nutzen wollen und welches Ziel Sie verfolgen. Es gibt in der Tat viele Möglichkeiten ein Projekt zu managen, um die Bestmögliche zu finden, sollten Sie sehr genau wissen, was Sie eigentlich erreichen möchten. Später können wir dann hoffentlich Ihre Anliegen in reale Verbesserungen transformieren."
+msgstr "Elementar sind die Gründe, weshalb Sie ERP für Ihr Projektmanagement nutzen wollen und welches Ziel Sie verfolgen. Es gibt in der Tat viele Möglichkeiten ein Projekt zu managen, um die Bestmögliche zu finden, sollten Sie sehr genau wissen, was Sie eigentlich erreichen möchten. Später können wir dann hoffentlich Ihre Anliegen in reale Verbesserungen transformieren."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -2191,9 +2191,9 @@ msgid ""
 "Managing notifications is essential: too few and you risk missing critical "
 "information, too many and you will be  overloaded with unnecessary "
 "information. The trick is to find the right balance between the projects, "
-"stages and tasks you want to be informed about. Fortunately, Odoo Project "
+"stages and tasks you want to be informed about. Fortunately, ERP Project "
 "has many levels of notifications and messages you can choose from."
-msgstr "Das Management von Benachrichtigungen ist elementar wichtig: Zu wenige bedeuten u.U. wichtige oder kritische Infos nicht zu erhalten, zu viele bedeuten einen Informationsüberfluss. Der Trick ist das Finden der richtigen Balance für Ihre Projekte, Stufen und Aufgaben über die Sie informiert werden wollen. Zum Glück, bietet Odoo einige Stufen für den passenden Benachrichtigungs- und Informationsumfang.  "
+msgstr "Das Management von Benachrichtigungen ist elementar wichtig: Zu wenige bedeuten u.U. wichtige oder kritische Infos nicht zu erhalten, zu viele bedeuten einen Informationsüberfluss. Der Trick ist das Finden der richtigen Balance für Ihre Projekte, Stufen und Aufgaben über die Sie informiert werden wollen. Zum Glück, bietet ERP einige Stufen für den passenden Benachrichtigungs- und Informationsumfang.  "
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -2342,24 +2342,24 @@ msgstr "Anzahl ungelesene Nachrichten"
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"Odoo Project is a super fast and easy way to make your activities and tasks visible to\n"
+"ERP Project is a super fast and easy way to make your activities and tasks visible to\n"
 "                        everyone in your company. Follow how things progress, see when things are stuck, know\n"
 "                        who's in charge, all in one place."
-msgstr "Odoo Projekte sind eine super schnelle und einfache Möglichkeit, um alle Aktivitäten\nund Aufgaben für alle Mitarbeiter Ihres Unternehmen sichtbar zu machen. \nVerfolgen Sie Arbeitsfortschritte, entdecken Sie Hindernisse und Unterbrechungen, \nkennen Sie die verantwortlichen Personen, Sie finden alles zusammen an einem Platz."
+msgstr "ERP Projekte sind eine super schnelle und einfache Möglichkeit, um alle Aktivitäten\nund Aufgaben für alle Mitarbeiter Ihres Unternehmen sichtbar zu machen. \nVerfolgen Sie Arbeitsfortschritte, entdecken Sie Hindernisse und Unterbrechungen, \nkennen Sie die verantwortlichen Personen, Sie finden alles zusammen an einem Platz."
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_config_settings_generate_project_alias
 msgid ""
-"Odoo will generate an email alias at the project creation from project name."
-msgstr "Odoo erstellt bei der Projekterstellung automatisch einen Email Alias mit dem Projektnamen."
+"ERP will generate an email alias at the project creation from project name."
+msgstr "ERP erstellt bei der Projekterstellung automatisch einen Email Alias mit dem Projektnamen."
 
 #. module: project
 #: model:ir.actions.act_window,help:project.action_view_task
 msgid ""
-"Odoo's project management allows you to manage the pipeline of your tasks "
+"ERP's project management allows you to manage the pipeline of your tasks "
 "efficiently. You can track progress, discuss on tasks, attach documents, "
 "etc."
-msgstr "Das Odoo Projektmanagement ermöglicht Ihnen das effiziente Management Ihrer Projektpipeline. Sie können Fortschritte verfolgen, zu Aufgaben kommunizieren, Dokumente anhängen u.s.w."
+msgstr "Das ERP Projektmanagement ermöglicht Ihnen das effiziente Management Ihrer Projektpipeline. Sie können Fortschritte verfolgen, zu Aufgaben kommunizieren, Dokumente anhängen u.s.w."
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
@@ -2807,8 +2807,8 @@ msgstr "Verantwortlicher"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "Runs outside Odoo, always available"
-msgstr "Läuft außerhalb Odoo, immer verfügbar"
+msgid "Runs outside ERP, always available"
+msgstr "Läuft außerhalb ERP, immer verfügbar"
 
 #. module: project
 #: model:ir.model.fields,field_description:project.field_project_config_settings_module_sale_service
@@ -3176,8 +3176,8 @@ msgstr "Aufgabenanalyse"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
-msgid "Tasks are the main mechanism in Odoo and are activated by default."
-msgstr "Aufgaben gehören zum Kernmechanismus von Odoo und sind somit generell aktiv."
+msgid "Tasks are the main mechanism in ERP and are activated by default."
+msgstr "Aufgaben gehören zum Kernmechanismus von ERP und sind somit generell aktiv."
 
 #. module: project
 #: model:ir.model,name:project.model_report_project_task_user
@@ -3213,13 +3213,13 @@ msgstr "Softwaretest"
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid ""
-"The Odoo Project app can be used to manage many activities, from the "
+"The ERP Project app can be used to manage many activities, from the "
 "development of a new product to the daily operations of a customer support. "
 "With some creativity, it can even be used to manage your marketing "
 "communications or personal projects. But just because it can be done doesn't"
 " mean it's always a good idea: let's start by helping you understand what "
 "can be a good project."
-msgstr "Die Odoo Projekt App kann für viele Aktivitäten genutzt werden, von der Entwicklung eines neuen Produkts bis zu täglichen Operationen im Kundensupport. Mit ein wenig Kreativität, kann es auch für Ihre Marketingkommunikation oder für die persönlichen Projekte eingesetzt werden. Allerdings bedeutet es nicht, dass nur weil vieles möglich ist, dies auch per-se eine gute Idee ist: Lassen Sie uns zunächst schauen, wie ein gutes Projektmanagement für Sie aussehen könnte."
+msgstr "Die ERP Projekt App kann für viele Aktivitäten genutzt werden, von der Entwicklung eines neuen Produkts bis zu täglichen Operationen im Kundensupport. Mit ein wenig Kreativität, kann es auch für Ihre Marketingkommunikation oder für die persönlichen Projekte eingesetzt werden. Allerdings bedeutet es nicht, dass nur weil vieles möglich ist, dies auch per-se eine gute Idee ist: Lassen Sie uns zunächst schauen, wie ein gutes Projektmanagement für Sie aussehen könnte."
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project_alias_model
@@ -3231,17 +3231,17 @@ msgstr "Diese Dokumentenart wird erzeugt, wenn eine E-Mail über das Alias der P
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
-msgstr "Das Odoo Datenmodell auf das sich der Alias bezieht. Jeglicher E-Mail Posteingang ohne Bezug zu einer bereits vorhandenen E-Mail  führt üblicherweise zur Erstellung eines neuen Datensatz (z.B. Projektaufgabe)."
+msgstr "Das ERP Datenmodell auf das sich der Alias bezieht. Jeglicher E-Mail Posteingang ohne Bezug zu einer bereits vorhandenen E-Mail  führt üblicherweise zur Erstellung eines neuen Datensatz (z.B. Projektaufgabe)."
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
-msgstr "Die Bezeichnung des E-Mail-Alias, z.B. 'jobs', falls Sie E-Mails an z.B. <jobs@example.odoo.com> erhalten möchten"
+"<jobs@example.erp.com>"
+msgstr "Die Bezeichnung des E-Mail-Alias, z.B. 'jobs', falls Sie E-Mails an z.B. <jobs@example.erp.com> erhalten möchten"
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project_alias_user_id
@@ -3372,8 +3372,8 @@ msgstr "Stundenzettelabrechnung"
 msgid ""
 "Timesheets are often essential for running a company.<br/>\n"
 "                    They are also prone to human error, repetitive, annoying, and sometimes stressful to employees.<br/>\n"
-"                    Fortunately, Odoo has several solutions to make them as efficient and painless as possible!<br/>"
-msgstr "Eine Zeiterfassung ist häufig elementar für Betriebe.<br/>\nSie ist genauso oft anfällig für menschliche Erfassungsfehler, fällt laufend an, ist langweilig und auch stressig für Ihre Mitarbeiter.<br/>\nZum Glück bietet Odoo einiges, um dies effizient und zugleich möglichst stressbefreit zu bewältigen!<br/>"
+"                    Fortunately, ERP has several solutions to make them as efficient and painless as possible!<br/>"
+msgstr "Eine Zeiterfassung ist häufig elementar für Betriebe.<br/>\nSie ist genauso oft anfällig für menschliche Erfassungsfehler, fällt laufend an, ist langweilig und auch stressig für Ihre Mitarbeiter.<br/>\nZum Glück bietet ERP einiges, um dies effizient und zugleich möglichst stressbefreit zu bewältigen!<br/>"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner

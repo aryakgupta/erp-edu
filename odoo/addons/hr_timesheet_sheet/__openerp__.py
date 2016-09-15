@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -25,7 +25,7 @@ The validation can be configured in the company:
 * Period size (Day, Week, Month)
 * Maximal difference between timesheet and attendances
     """,
-    'website': 'https://www.odoo.com/page/employees',
+    'website': 'https://www.erp.com/page/employees',
     'depends': ['hr_timesheet'],
     'data': [
         'security/ir.model.access.csv',

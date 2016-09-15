@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 import logging
 import psycopg2
@@ -116,7 +116,7 @@ class pos_config(osv.osv):
         'state' : fields.selection(POS_CONFIG_STATE, 'Status', required=True, readonly=True, copy=False),
         'uuid'  : fields.char('uuid', readonly=True, help='A globally unique identifier for this pos configuration, used to prevent conflicts in client-generated data'),
         'sequence_id' : fields.many2one('ir.sequence', 'Order IDs Sequence', readonly=True,
-            help="This sequence is automatically created by Odoo but you can change it "\
+            help="This sequence is automatically created by ERP but you can change it "\
                 "to customize the reference numbers of your orders.", copy=False),
         'session_ids': fields.one2many('pos.session', 'config_id', 'Sessions'),
         'current_session_id': fields.function(_get_current_session, multi="session", type="many2one", relation="pos.session", string="Current Session"),

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_recruitment
 # 
@@ -9,7 +9,7 @@
 # Rodrigo Macedo <rodrigomacedo@rmsolucoeseminformatica.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:11+0000\n"
 "PO-Revision-Date: 2016-03-14 03:01+0000\n"
@@ -1286,16 +1286,16 @@ msgstr "Quantidade de mensagens não lidas."
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_applications
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"ERP helps you track applicants in the recruitment\n"
 "                process and follow up all operations: meetings, interviews, etc."
-msgstr "Odoo ajuda você a controlar o processo de recrutamento\ndos candidatos e acompanhar todas as operações: reuniões, entrevistas, etc."
+msgstr "ERP ajuda você a controlar o processo de recrutamento\ndos candidatos e acompanhar todas as operações: reuniões, entrevistas, etc."
 
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.crm_case_categ0_act_job
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"ERP helps you track applicants in the recruitment\n"
 "            process and follow up all operations: meetings, interviews, etc."
-msgstr "Odoo ajuda você a controlar o processo de recrutamento\ndos candidatos e acompanhar todas as operações: reuniões, entrevistas, etc."
+msgstr "ERP ajuda você a controlar o processo de recrutamento\ndos candidatos e acompanhar todas as operações: reuniões, entrevistas, etc."
 
 #. module: hr_recruitment
 #: model:survey.label,value:hr_recruitment.rrow_2_1_3
@@ -1702,10 +1702,10 @@ msgstr "A data em que o candidato vai estar disponível para começar a trabalha
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
-msgstr "O modelo (Odoo Documento Tipo), ao qual este alias corresponde. Qualquer e-mails recebidos que não responde a um registro existente fará com que a criação de um novo registro desse modelo (e.g. a Project Task)"
+msgstr "O modelo (ERP Documento Tipo), ao qual este alias corresponde. Qualquer e-mails recebidos que não responde a um registro existente fará com que a criação de um novo registro desse modelo (e.g. a Project Task)"
 
 #. module: hr_recruitment
 #: sql_constraint:hr.recruitment.degree:0
@@ -1716,8 +1716,8 @@ msgstr "O nome do grau de recrutamento deve ser único!"
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
-msgstr "O nome do alias de e-mail, por exemplo, \"empregos\" se você quer pegar e-mails para <jobs@example.odoo.com>"
+"<jobs@example.erp.com>"
+msgstr "O nome do alias de e-mail, por exemplo, \"empregos\" se você quer pegar e-mails para <jobs@example.erp.com>"
 
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_user_id
@@ -1875,10 +1875,10 @@ msgstr "Qual é o seu sexo?"
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_no_employee
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the ERP employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
-msgstr "Com apenas uma rápida olhada na tela de funcionários do Odoo, você\npode facilmente encontrar todas as informações que você precisa para cada pessoa;\ndados de contato, cargo, disponibilidade, etc."
+msgstr "Com apenas uma rápida olhada na tela de funcionários do ERP, você\npode facilmente encontrar todas as informações que você precisa para cada pessoa;\ndados de contato, cargo, disponibilidade, etc."
 
 #. module: hr_recruitment
 #: code:addons/hr_recruitment/models/hr_recruitment.py:432

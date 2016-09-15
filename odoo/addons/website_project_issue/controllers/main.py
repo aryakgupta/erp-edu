@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 from openerp import http
 from openerp.addons.website_portal.controllers.main import website_account
 from openerp.http import request

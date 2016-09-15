@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * event
 # 
@@ -8,7 +8,7 @@
 # Piotr Szlązak <szlazakpiotr@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-01 06:27+0000\n"
 "PO-Revision-Date: 2016-07-13 09:17+0000\n"
@@ -350,8 +350,8 @@ msgstr "Identyfikator środkowa lewa strona"
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Banner Odoo Image"
-msgstr "Baner z obrazkiem Odoo"
+msgid "Banner ERP Image"
+msgstr "Baner z obrazkiem ERP"
 
 #. module: event
 #: selection:event.mail,interval_type:0
@@ -1341,20 +1341,20 @@ msgstr "Liczba nieprzeczytanych wiadomości"
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Official Website"
+msgid "ERP Official Website"
 msgstr ""
 
 #. module: event
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Web Client"
+msgid "ERP Web Client"
 msgstr ""
 
 #. module: event
 #: model:ir.actions.act_window,help:event.action_event_view
 msgid ""
-"Odoo helps you schedule and efficiently organize your events:\n"
+"ERP helps you schedule and efficiently organize your events:\n"
 "    track subscriptions and participations, automate the confirmation emails,\n"
 "    sell tickets, etc."
 msgstr ""
@@ -1932,7 +1932,7 @@ msgstr ""
 
 #. module: event
 #: model:event.event,description:event.event_0
-msgid "to learn Odoo Programming"
+msgid "to learn ERP Programming"
 msgstr ""
 
 #. module: event

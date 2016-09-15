@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_quote
 # 
@@ -6,7 +6,7 @@
 # Jaroslav Bosansky <jaro.bosansky@ekoenergo.sk>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-18 12:33+0000\n"
 "PO-Revision-Date: 2016-05-08 14:15+0000\n"
@@ -400,8 +400,8 @@ msgstr "Späť na objednávku predaja"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Become an Odoo Consultant."
-msgstr "Staňte sa Odoo konzultantom."
+msgid "Become an ERP Consultant."
+msgstr "Staňte sa ERP konzultantom."
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
@@ -412,8 +412,8 @@ msgstr "Majte osoh zo značky OpenERP"
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Benefit from the growing customer demand\n"
-"                                    and our Odoo brand."
-msgstr "Majte osoh z rastúceho dopytu zákazníkov\na našej značky Odoo."
+"                                    and our ERP brand."
+msgstr "Majte osoh z rastúceho dopytu zákazníkov\na našej značky ERP."
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_1
@@ -475,8 +475,8 @@ msgstr "Nastavenie spoločnosti a Spravovanie multi-spoločností"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Configure Odoo using the standard modules."
-msgstr "Nastavte Odoo za použitia štandardných modulov."
+msgid "Configure ERP using the standard modules."
+msgstr "Nastavte ERP za použitia štandardných modulov."
 
 #. module: website_quote
 #: model:ir.ui.view,arch_db:website_quote.so_quotation
@@ -634,22 +634,22 @@ msgstr "Užite si trakciu <strong>najrýchlejšie rastúceho\nmanažmentového s
 msgid ""
 "Every year, we redirect more than 100,000 customer\n"
 "                                requests to our official partners. These are prospects\n"
-"                                that filled a form on the Odoo website and wanted to\n"
-"                                use Odoo. The right partner to fulfill the customer\n"
+"                                that filled a form on the ERP website and wanted to\n"
+"                                use ERP. The right partner to fulfill the customer\n"
 "                                request is selected based on the customer localization\n"
 "                                (nearest partner) and the grade of the partner."
-msgstr "Každý rok sme presmerovali viac ako 100.000 žiadostí\nzákazníkov o našim oficiálnym partnerom. To sú záujemcovia\nktorý vyplnili formulár na internetových stránkach Odoo a chceli\npoužiť Odoo. Správny partner ktorý splní požiadavky\nzákazníka je vybraný na základe lokalizácie zákazníka\n(najbližšie partner) a známky partnera."
+msgstr "Každý rok sme presmerovali viac ako 100.000 žiadostí\nzákazníkov o našim oficiálnym partnerom. To sú záujemcovia\nktorý vyplnili formulár na internetových stránkach ERP a chceli\npoužiť ERP. Správny partner ktorý splní požiadavky\nzákazníka je vybraný na základe lokalizácie zákazníka\n(najbližšie partner) a známky partnera."
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Every year, we redirect more than 100,000 customer\n"
 "                        requests to our official partners. These are prospects\n"
-"                        that filled a form on the Odoo website and wanted to\n"
-"                        use Odoo. The right partner to fulfill the customer\n"
+"                        that filled a form on the ERP website and wanted to\n"
+"                        use ERP. The right partner to fulfill the customer\n"
 "                        request is selected based on the customer localization\n"
 "                        (nearest partner) and the grade of the partner."
-msgstr "Každý rok sme presmerovali viac ako 100.000 žiadostí\nzákazníkov o našim oficiálnym partnerom. To sú záujemcovia\nktorý vyplnili formulár na internetových stránkach Odoo a chceli\npoužiť Odoo. Správny partner ktorý splní požiadavky\nzákazníka je vybraný na základe lokalizácie zákazníka\n(najbližšie partner) a známky partnera."
+msgstr "Každý rok sme presmerovali viac ako 100.000 žiadostí\nzákazníkov o našim oficiálnym partnerom. To sú záujemcovia\nktorý vyplnili formulár na internetových stránkach ERP a chceli\npoužiť ERP. Správny partner ktorý splní požiadavky\nzákazníka je vybraný na základe lokalizácie zákazníka\n(najbližšie partner) a známky partnera."
 
 #. module: website_quote
 #: model:ir.ui.view,arch_db:website_quote.so_quotation_content
@@ -664,12 +664,12 @@ msgstr "Fetchmail konfigurácia"
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
-"For an extra fee, partners can get access to Odoo's\n"
+"For an extra fee, partners can get access to ERP's\n"
 "                                core developers and functional experts. This can help\n"
 "                                you succeed in delivering more complex or bigger\n"
 "                                projects by getting the support of highly experienced\n"
 "                                consultants on demand."
-msgstr "Za príplatok môžu partneri získať prístup k Odoo \njadrových vývojárov a funkčných odborníkov. To vám môže \npomôcť uspieť pri poskytovaní zložitejších či väčších\nprojektov získania podpory veľmi skúsených\nkonzultantov na vyžiadanie."
+msgstr "Za príplatok môžu partneri získať prístup k ERP \njadrových vývojárov a funkčných odborníkov. To vám môže \npomôcť uspieť pri poskytovaní zložitejších či väčších\nprojektov získania podpory veľmi skúsených\nkonzultantov na vyžiadanie."
 
 #. module: website_quote
 #: model:product.product,name:website_quote.product_product_quote_1
@@ -703,9 +703,9 @@ msgstr "Dáva sekvenčné poradie pri zobrazovaní zoznamu riadkov cenovej ponuk
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Grow by developing a <strong>recurring\n"
-"                                     revenue flow</strong> from Odoo\n"
+"                                     revenue flow</strong> from ERP\n"
 "                                     Enterprise's commission system."
-msgstr "Narastajte vývinom <strong>opakovaných\ntokov príjmov</strong> z Odoo\nEnterprise komisného systému."
+msgstr "Narastajte vývinom <strong>opakovaných\ntokov príjmov</strong> z ERP\nEnterprise komisného systému."
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_1
@@ -761,8 +761,8 @@ msgstr "Vrát. dane)"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Install and administer Odoo."
-msgstr "Nainštalovať a spravovať Odoo."
+msgid "Install and administer ERP."
+msgstr "Nainštalovať a spravovať ERP."
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
@@ -803,7 +803,7 @@ msgstr "Úvod do QWeb"
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
-"It includes <strong>discounts on Odoo\n"
+"It includes <strong>discounts on ERP\n"
 "                                Enterprise</strong>, technical and/or functional\n"
 "                                <strong>trainings</strong>,\n"
 "                                <strong>support</strong> services,\n"
@@ -811,7 +811,7 @@ msgid ""
 "                                the <strong>partner portal</strong>, rights to\n"
 "                                <strong>use the trademark</strong>, sales support\n"
 "                                from a <strong>dedicated account manager</strong>."
-msgstr "To zahŕňa <strong>zľavy na Odoo\nEnterprise</strong>, technické a/alebo funkčné\n<strong>tréningy</strong>,\n<strong>služby</strong> podpory,\n<strong>marketingové dokumenty</strong>, prístup k\n<strong>partnerskému portálu</strong>, práva na\n<strong>použitie ochrannej známky</strong>, podpora predaja\nod <strong>prideleného manažéra účtu</strong>."
+msgstr "To zahŕňa <strong>zľavy na ERP\nEnterprise</strong>, technické a/alebo funkčné\n<strong>tréningy</strong>,\n<strong>služby</strong> podpory,\n<strong>marketingové dokumenty</strong>, prístup k\n<strong>partnerskému portálu</strong>, práva na\n<strong>použitie ochrannej známky</strong>, podpora predaja\nod <strong>prideleného manažéra účtu</strong>."
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_order_option___last_update
@@ -845,18 +845,18 @@ msgstr "Naposledy upravované"
 #: model:product.template,description_sale:website_quote.product_template_quote_1
 #: model:product.template,description_sale:website_quote.product_template_quote_3
 msgid ""
-"Learn directly from our team and network of Odoo experts. Choose from the "
-"available training sessions for a better functional understanding of Odoo"
-msgstr "Učte sa priamo od nášho tímu a siete expertov Odoo. Vyberte si z dostupných školení pre lepšie funkčné pochopenie Odoo"
+"Learn directly from our team and network of ERP experts. Choose from the "
+"available training sessions for a better functional understanding of ERP"
+msgstr "Učte sa priamo od nášho tímu a siete expertov ERP. Vyberte si z dostupných školení pre lepšie funkčné pochopenie ERP"
 
 #. module: website_quote
 #: model:product.product,description_sale:website_quote.product_product_quote_2
 #: model:product.template,description_sale:website_quote.product_product_quote_2_product_template
 #: model:product.template,description_sale:website_quote.product_template_quote_2
 msgid ""
-"Learn directly from our team and network of Odoo experts. Choose from the "
-"available training sessions for a better technical understanding of Odoo"
-msgstr "Učte sa priamo od nášho tímu a siete expertov Odoo. Vyberte si z dostupných školení pre lepšie technické pochopenie Odoo"
+"Learn directly from our team and network of ERP experts. Choose from the "
+"available training sessions for a better technical understanding of ERP"
+msgstr "Učte sa priamo od nášho tímu a siete expertov ERP. Vyberte si z dostupných školení pre lepšie technické pochopenie ERP"
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_order_line_website_description
@@ -939,24 +939,24 @@ msgstr "Cieľe"
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Odoo Official Website"
-msgstr "Odoo oficiálna webstránka"
+msgid "ERP Official Website"
+msgstr "ERP oficiálna webstránka"
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
-msgid "Odoo Web Client"
-msgstr "Odoo web klient"
+msgid "ERP Web Client"
+msgstr "ERP web klient"
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
-"Odoo promotes its partners through various ways:\n"
+"ERP promotes its partners through various ways:\n"
 "                                publication on our website, official communication,\n"
 "                                publication of your success stories, etc. As soon as\n"
-"                                you become an Odoo partner and have followed the\n"
+"                                you become an ERP partner and have followed the\n"
 "                                official trainings, you will be visible on the partner\n"
 "                                directory listing."
-msgstr "Odoo propaguje svojich partnerov prostredníctvom rôznch spôsobov:\nzverejnenie na našich webových stránkach, oficiálne oznámenia,\nzverejnenie vašich úspechov, atď. Akonáhle\nsa stanete partnerom Odoo a následovali ste\noficiálne tréningy, budete viditeľný v adresári\npartnerov."
+msgstr "ERP propaguje svojich partnerov prostredníctvom rôznch spôsobov:\nzverejnenie na našich webových stránkach, oficiálne oznámenia,\nzverejnenie vašich úspechov, atď. Akonáhle\nsa stanete partnerom ERP a následovali ste\noficiálne tréningy, budete viditeľný v adresári\npartnerov."
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
@@ -980,8 +980,8 @@ msgstr "Počiatočný sklad a Fyzické zásoby"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Operate/Work with Odoo Smoothly on regular basis."
-msgstr "Prevádzkujte / Pracujte s Odoo hladko na pravidelnej báze."
+msgid "Operate/Work with ERP Smoothly on regular basis."
+msgstr "Prevádzkujte / Pracujte s ERP hladko na pravidelnej báze."
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_quote_option_website_description
@@ -1021,10 +1021,10 @@ msgstr "Naša ponuka partnerstva"
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Our automated testing server software is called Runbot,\n"
-"                                and you can try it out here: http://runbot.odoo.com.\n"
+"                                and you can try it out here: http://runbot.erp.com.\n"
 "                                A dedicated runbot server is available for every\n"
 "                                partner."
-msgstr "Naše automatizovaný server testovania softvéru sa nazýva Runbot,\na môžete ho vyskúšať tu: http://runbot.odoo.com.\nPridelený špeciálny runbot server je k dispozícii pre každého\npartnera."
+msgstr "Naše automatizovaný server testovania softvéru sa nazýva Runbot,\na môžete ho vyskúšať tu: http://runbot.erp.com.\nPridelený špeciálny runbot server je k dispozícii pre každého\npartnera."
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_default
@@ -1043,8 +1043,8 @@ msgstr "Naša ponuka je založená na 3 záväzkoch, ktoré riadia naše podnika
 msgid ""
 "Our partnership offer includes all you need to\n"
 "                                grow your business and deliver quality services\n"
-"                                with the Odoo Partner Program."
-msgstr "Naša ponuka partnerstva zahŕňa všetko, čo potrebujete pre\nrast vášho podnikania a poskytovanie kvalitných služieb\ns Odoo Partner programom."
+"                                with the ERP Partner Program."
+msgstr "Naša ponuka partnerstva zahŕňa všetko, čo potrebujete pre\nrast vášho podnikania a poskytovanie kvalitných služieb\ns ERP Partner programom."
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_default
@@ -1316,11 +1316,11 @@ msgstr "Riadky šablóny Cenovej ponuky predaja"
 msgid ""
 "Save time in your implementation project by having your\n"
 "                                developments tested automatically by our automated test\n"
-"                                servers. At every code commit, you get a full Odoo\n"
+"                                servers. At every code commit, you get a full ERP\n"
 "                                instance that you can try out online. When this\n"
 "                                instance is deployed, your code is automatically put\n"
 "                                through our 2000+ automated unit tests."
-msgstr "Ušetrite čas na vašom implementačnom projekte automatickým \ntestovaním vášho vývoja testovacími\nservermi. Na každý kód záväzku, dostanete plnú Odoo\ninštanciu, ktorú si môžete vyskúšať online. Pri nasadení tejto\ninštancie je váš kód automaticky testovaný\nprostredníctvom našich 2000 + automatizovaných jednotkových testov."
+msgstr "Ušetrite čas na vašom implementačnom projekte automatickým \ntestovaním vášho vývoja testovacími\nservermi. Na každý kód záväzku, dostanete plnú ERP\ninštanciu, ktorú si môžete vyskúšať online. Pri nasadení tejto\ninštancie je váš kód automaticky testovaný\nprostredníctvom našich 2000 + automatizovaných jednotkových testov."
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
@@ -1430,9 +1430,9 @@ msgid ""
 "traditional classroom trainings, supplemented with modular sessions and "
 "cloud-based labs. Many of our online learning courses also include dozens of"
 " recorded webinars and live sessions by our senior instructors. At the end "
-"of the training, you can pass the Odoo Certification exam in one of the "
+"of the training, you can pass the ERP Certification exam in one of the "
 "5000+ Pearson VUE test centers worldwide."
-msgstr "Tieto kurzy obsahujú rovnako kvalitný obsah kurzu ako ten nájdený v tradičných tréningoch, doplnený s modulárnymi udalosťami a laboratóriách lokalizovaných na cloud-och. Mnohí z našich on-line vzdelávacích kurzov tiež obsahujú desiatky zaznamenaných webinárov a živých relácií od našich vedúcich inštruktorov. Na konci tréningu, môžete absolvovať Odoo certifikačnú skúšku v jednom z 5000+ Pearson VUE testovacích stredísk  po celom svete."
+msgstr "Tieto kurzy obsahujú rovnako kvalitný obsah kurzu ako ten nájdený v tradičných tréningoch, doplnený s modulárnymi udalosťami a laboratóriách lokalizovaných na cloud-och. Mnohí z našich on-line vzdelávacích kurzov tiež obsahujú desiatky zaznamenaných webinárov a živých relácií od našich vedúcich inštruktorov. Na konci tréningu, môžete absolvovať ERP certifikačnú skúšku v jednom z 5000+ Pearson VUE testovacích stredísk  po celom svete."
 
 #. module: website_quote
 #: model:ir.ui.view,arch_db:website_quote.so_quotation
@@ -1482,8 +1482,8 @@ msgstr "Pochopiť koncepty vývoja a architektúry;"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Understand the functional concepts, business processes by Odoo."
-msgstr "Rozumieť funkčným koncepctom, Odoo obchodným procesom."
+msgid "Understand the functional concepts, business processes by ERP."
+msgstr "Rozumieť funkčným koncepctom, ERP obchodným procesom."
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_order_option_price_unit
@@ -1546,11 +1546,11 @@ msgstr "Sme vždy dosiahnuteľný aby sme vám pomohli, neváhajte nás kedykoľ
 msgid ""
 "We will assign you a dedicated account manager, an\n"
 "                        experienced sales person, to help you develop your\n"
-"                        Odoo business. The account manager helps you get\n"
+"                        ERP business. The account manager helps you get\n"
 "                        leads, close deals, gives you feedback and best\n"
 "                        practices, delivers sales training and is your direct\n"
 "                        point of contact for any request you may have."
-msgstr "Priradíme vám výhradného manažéra účtu, \nskúseného predajcu, ktorý vám pomôže rozvíjať svvaše\nOdoo podnikanie. Manažér účtu vám pomôže získať\niniciatívy, uzatvárať obchodyv, dáva vám spätnú väzbu a najlepšie\npostupy, dodáva predajné školenia a je váš priamy\nkontak pre akékoľvek žiadosti ktoré budete mať."
+msgstr "Priradíme vám výhradného manažéra účtu, \nskúseného predajcu, ktorý vám pomôže rozvíjať svvaše\nERP podnikanie. Manažér účtu vám pomôže získať\niniciatívy, uzatvárať obchodyv, dáva vám spätnú väzbu a najlepšie\npostupy, dodáva predajné školenia a je váš priamy\nkontak pre akékoľvek žiadosti ktoré budete mať."
 
 #. module: website_quote
 #: model:ir.actions.report.xml,name:website_quote.report_web_quote

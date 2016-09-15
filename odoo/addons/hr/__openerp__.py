@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Employee Directory',
@@ -20,7 +20,7 @@ You can manage:
 * HR Departments
 * HR Jobs
     """,
-    'website': 'https://www.odoo.com/page/employees',
+    'website': 'https://www.erp.com/page/employees',
     'images': [
         'images/hr_department.jpeg',
         'images/hr_employee.jpeg',

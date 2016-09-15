@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -17,7 +17,7 @@ Add all information on the employee form to manage contracts.
 
 You can assign several contracts per employee.
     """,
-    'website': 'https://www.odoo.com/page/employees',
+    'website': 'https://www.erp.com/page/employees',
     'depends': ['base_action_rule', 'hr'],
     'data': [
         'security/ir.model.access.csv',

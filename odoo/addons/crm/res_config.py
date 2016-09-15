@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 from openerp import SUPERUSER_ID
 from openerp.osv import fields, osv
@@ -12,7 +12,7 @@ class crm_configuration(osv.TransientModel):
     _columns = {
         'generate_sales_team_alias': fields.boolean(
             "Automatically generate an email alias at the sales team creation",
-            help="Odoo will generate an email alias based on the sales team name"),
+            help="ERP will generate an email alias based on the sales team name"),
         'alias_prefix': fields.char('Default Alias Name for Leads'),
         'alias_domain' : fields.char('Alias Domain'),
         'group_use_lead': fields.selection([
@@ -22,7 +22,7 @@ class crm_configuration(osv.TransientModel):
             implied_group='crm.group_use_lead'),
         'module_crm_voip': fields.boolean("VoIP integration",
             help="Integration with Asterisk"),
-        'module_website_sign': fields.boolean("Odoo Sign"),
+        'module_website_sign': fields.boolean("ERP Sign"),
     }
 
     _defaults = {

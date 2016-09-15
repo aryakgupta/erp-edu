@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * account
 # 
@@ -34,7 +34,7 @@
 # 钟小华 <mackz@sina.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-17 14:09+0000\n"
 "PO-Revision-Date: 2016-07-12 01:00+0000\n"
@@ -338,8 +338,8 @@ msgstr "<span class=\"panel-title\">\n                                        <s
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_journal_dashboard_kanban_view
-msgid "<span title=\"Balance in Odoo\">Balance in Odoo</span>"
-msgstr "<span title=\"Balance in Odoo\">Odoo中余额</span>"
+msgid "<span title=\"Balance in ERP\">Balance in ERP</span>"
+msgstr "<span title=\"Balance in ERP\">ERP中余额</span>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_journal_dashboard_kanban_view
@@ -403,8 +403,8 @@ msgstr "<span>视图</span>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "<strong>-The Odoo Team</strong>"
-msgstr "<strong>-Odoo 团队</strong>"
+msgid "<strong>-The ERP Team</strong>"
+msgstr "<strong>-ERP 团队</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -491,9 +491,9 @@ msgstr "<strong>创建存款单</strong><br/>允许你记录多笔不同的\n   
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"<strong>Create the bill in Odoo</strong><br/> with a proper due date, and "
+"<strong>Create the bill in ERP</strong><br/> with a proper due date, and "
 "create the vendor if it doesnt' exist yet."
-msgstr "<strong>在Odoo创建发票</strong><br/> 有到期日, 如果没有供应商，也需要创建."
+msgstr "<strong>在ERP创建发票</strong><br/> 有到期日, 如果没有供应商，也需要创建."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.report_invoice_document
@@ -616,8 +616,8 @@ msgstr "<strong>调节银行对账单</strong>"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "<strong>Reconcile with existing transaction</strong><br/>\n"
-"                                        In this case, Odoo should automatically match the bank statement with the previously recorded check transaction."
-msgstr "<strong>与已有交易调节</strong><br/>\n                                        这种情况下, Odoo应自动匹配银行对账单和之前的交易记录."
+"                                        In this case, ERP should automatically match the bank statement with the previously recorded check transaction."
+msgstr "<strong>与已有交易调节</strong><br/>\n                                        这种情况下, ERP应自动匹配银行对账单和之前的交易记录."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -702,14 +702,14 @@ msgstr "<strong>目标运动:</strong>"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "<strong>Test the following three scenarios in order to assist you in "
-"familiarizing yourself with Odoo:</strong>"
-msgstr "<strong>为了能让你尽快的熟悉Odoo，请测试是以下三种场景　</strong>"
+"familiarizing yourself with ERP:</strong>"
+msgstr "<strong>为了能让你尽快的熟悉ERP，请测试是以下三种场景　</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"<strong>There are three different levels of access rights in Odoo:</strong>"
-msgstr "<strong>Odoo中有三种不同的登陆权限:</strong>"
+"<strong>There are three different levels of access rights in ERP:</strong>"
+msgstr "<strong>ERP中有三种不同的登陆权限:</strong>"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.report_overdue_document
@@ -796,10 +796,10 @@ msgstr "一张客户和供应商的付款条款列表"
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"A product in Odoo is something you sell or buy \n"
+"A product in ERP is something you sell or buy \n"
 "                        whether or not it is goods, consumables, or services.\n"
 "                        Choose how you want to create your products:"
-msgstr "Odoo中的产品是用来买卖的货物，耗材或者服务你可以根绝需要选择创建产品："
+msgstr "ERP中的产品是用来买卖的货物，耗材或者服务你可以根绝需要选择创建产品："
 
 #. module: account
 #: code:addons/account/models/account_move.py:685
@@ -1307,12 +1307,12 @@ msgstr "到期的业务伙伴余额"
 #: model:ir.ui.view,arch_db:account.account_aged_balance_view
 msgid ""
 "Aged Partner Balance is a more detailed report of your receivables by "
-"intervals. When opening that report, Odoo asks for the name of the company, "
-"the Start Date and the size of the interval to be analyzed (in days). Odoo "
+"intervals. When opening that report, ERP asks for the name of the company, "
+"the Start Date and the size of the interval to be analyzed (in days). ERP "
 "then calculates a table of credit balance by start Date. So if you request "
-"an interval of 30 days Odoo generates an analysis of creditors for the past "
+"an interval of 30 days ERP generates an analysis of creditors for the past "
 "month, past two months, and so on."
-msgstr "账龄表是应收款账的明细表. 打开报表，选择公司名称 , 显示开始日，一个间隔一列(按天). Odoo可以计算出开始日后的贷项余额. 如果你设定没30天一个间隔，odoo将生成过去一个月，过去2个月等等的数据分析."
+msgstr "账龄表是应收款账的明细表. 打开报表，选择公司名称 , 显示开始日，一个间隔一列(按天). ERP可以计算出开始日后的贷项余额. 如果你设定没30天一个间隔，odoo将生成过去一个月，过去2个月等等的数据分析."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.report_agedpartnerbalance
@@ -3601,8 +3601,8 @@ msgstr "关闭钱箱"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "Enjoy your Odoo experience,"
-msgstr "好好体验Odoo吧"
+msgid "Enjoy your ERP experience,"
+msgstr "好好体验ERP吧"
 
 #. module: account
 #: model:ir.actions.act_window,name:account.action_move_line_form
@@ -3937,9 +3937,9 @@ msgstr "输入一个从0-100的百分率"
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the ERP Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
-msgstr "关于Odoo团队,<br/>\n                            Fabien Pinckaers, 创始人"
+msgstr "关于ERP团队,<br/>\n                            Fabien Pinckaers, 创始人"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_account_currency_id
@@ -4040,14 +4040,14 @@ msgstr "需要安装模块account_plaid从银行得到银行对账单然后从pl
 #. module: account
 #: model:ir.model.fields,help:account.field_account_config_settings_module_account_bank_statement_import_ofx
 msgid ""
-"Get your bank statements from your bank and import them in Odoo in the .OFX format.\n"
+"Get your bank statements from your bank and import them in ERP in the .OFX format.\n"
 "This installs the module account_bank_statement_import_ofx."
 msgstr "需要安装模块account_bank_statement_import_ofx从银行得到银行对账单然后用.OFX格式导入"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_config_settings_module_account_bank_statement_import_qif
 msgid ""
-"Get your bank statements from your bank and import them in Odoo in the .QIF format.\n"
+"Get your bank statements from your bank and import them in ERP in the .QIF format.\n"
 "This installs the module account_bank_statement_import_qif."
 msgstr "需要安装模块account_bank_statement_import_qif从银行得到银行对账单然后用.QIF格式导入"
 
@@ -4370,17 +4370,17 @@ msgstr "如果您使用付款条款，到期日会在分类账分录产生时自
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"If you want to be able to send customer statements from Odoo, you must:"
-msgstr "如果你需要从Odoo中发送客户状态，你必须"
+"If you want to be able to send customer statements from ERP, you must:"
+msgstr "如果你需要从ERP中发送客户状态，你必须"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "If you want to be able to send your customers their statements \n"
-"                        from Odoo, you first need to record all outstanding transactions \n"
+"                        from ERP, you first need to record all outstanding transactions \n"
 "                        in the payable and receivable accounts. These would be invoices \n"
 "                        that have not been paid or payments that have not been reconciled."
-msgstr "如果你想从Odoo中给客户发送对账单，你应该首先记录所有在应收和应付科目中为完结的交易。这些交易可能是那些还没付款的发票，或者是已经付款但是还没有被调节的发票"
+msgstr "如果你想从ERP中给客户发送对账单，你应该首先记录所有在应收和应付科目中为完结的交易。这些交易可能是那些还没付款的发票，或者是已经付款但是还没有被调节的发票"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -4416,8 +4416,8 @@ msgstr "用支持的文件格式导入报表（QIF, OFX, CODA 或者 CSV 格式�
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "In Odoo,"
-msgstr "在Odoo中"
+msgid "In ERP,"
+msgstr "在ERP中"
 
 #. module: account
 #: code:addons/account/models/account_bank_statement.py:400
@@ -4798,9 +4798,9 @@ msgid ""
 "It's common practice to change your accounting software \n"
 "                            at the end of a fiscal year. This allows you to have less \n"
 "                            data to import and balances to set. If you plan to do so, \n"
-"                            we recommend you start using Odoo for invoicing and payments \n"
+"                            we recommend you start using ERP for invoicing and payments \n"
 "                            now, and then move all other accounting transactions at a later time."
-msgstr "在一个财政季度中，更改数值是一种很常见的做法。这让您有更少的数据导入和平衡设置。如果你打算这么做，我们建议你开始使用Odoo开开票和付款，然后将在稍后的时间做所有其他会计事务。"
+msgstr "在一个财政季度中，更改数值是一种很常见的做法。这让您有更少的数据导入和平衡设置。如果你打算这么做，我们建议你开始使用ERP开开票和付款，然后将在稍后的时间做所有其他会计事务。"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -5436,18 +5436,18 @@ msgstr "五月"
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal_inbound_payment_method_ids
 msgid ""
-"Means of payment for collecting money. Odoo modules offer various payments "
+"Means of payment for collecting money. ERP modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
-msgstr "意味着用来收钱的付款。Odoo模块提供各种各样的付款处理工具，但是你也可以一直在系统外用手工的付款方法管理付款"
+msgstr "意味着用来收钱的付款。ERP模块提供各种各样的付款处理工具，但是你也可以一直在系统外用手工的付款方法管理付款"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_journal_outbound_payment_method_ids
 msgid ""
-"Means of payment for sending money. Odoo modules offer various payments "
+"Means of payment for sending money. ERP modules offer various payments "
 "handling facilities, but you can always use the 'Manual' payment method in "
 "order to manage payments outside of the software."
-msgstr "意味着用来付钱的付款。Odoo模块提供各种各样的付款处理工具，但是你也可以一直在系统外用手工的付款方法管理付款"
+msgstr "意味着用来付钱的付款。ERP模块提供各种各样的付款处理工具，但是你也可以一直在系统外用手工的付款方法管理付款"
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_abstract_payment_communication
@@ -5797,62 +5797,62 @@ msgstr "10月"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
-msgid "Odoo Accounting has many free extra-features:"
-msgstr "Odoo财务有很多免费的额外特性"
+msgid "ERP Accounting has many free extra-features:"
+msgstr "ERP财务有很多免费的额外特性"
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_bank_statement_line
 msgid ""
-"Odoo allows you to reconcile a statement line directly with\n"
+"ERP allows you to reconcile a statement line directly with\n"
 "                the related sale or puchase invoice(s)."
-msgstr "Odoo能让你直接对相应的销售或者采购发票调节结算行"
+msgstr "ERP能让你直接对相应的销售或者采购发票调节结算行"
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_bank_statement_tree
 msgid ""
-"Odoo allows you to reconcile a statement line directly with\n"
+"ERP allows you to reconcile a statement line directly with\n"
 "                the related sale or puchase invoices."
-msgstr "Odoo允许调节和销售或者采购发票相关的报表行"
+msgstr "ERP允许调节和销售或者采购发票相关的报表行"
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_move_journal_line
 msgid ""
-"Odoo automatically creates one journal entry per accounting\n"
+"ERP automatically creates one journal entry per accounting\n"
 "                document: invoice, refund, vendor payment, bank statements,\n"
 "                etc. So, you should record journal entries manually only/mainly\n"
 "                for miscellaneous operations."
-msgstr "Odoo会自动的根据日记账分录：发票，退款，供应商付款，银行对账单等等创建日记账分录。所以，你应该只对杂项操作手工的记录日记账分录"
+msgstr "ERP会自动的根据日记账分录：发票，退款，供应商付款，银行对账单等等创建日记账分录。所以，你应该只对杂项操作手工的记录日记账分录"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"Odoo can manage multiple companies, but we suggest to setup everything for "
+"ERP can manage multiple companies, but we suggest to setup everything for "
 "your first company before configuring the other ones."
-msgstr "Odoo可以管理多公司，但是我们建议在配置别的公司之前先配置第一个公司"
+msgstr "ERP可以管理多公司，但是我们建议在配置别的公司之前先配置第一个公司"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"Odoo has already preconfigured a few taxes according to your "
+"ERP has already preconfigured a few taxes according to your "
 "country.<br/>Simply review them and check if you need more."
-msgstr "Odoo已经预先设置了一些你所在国家的税，<br/>简单的查看一下是否还需要用到他们"
+msgstr "ERP已经预先设置了一些你所在国家的税，<br/>简单的查看一下是否还需要用到他们"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"Odoo should do most of the reconciliation work automatically, so you'll only"
+"ERP should do most of the reconciliation work automatically, so you'll only"
 " need to review a few of them when a <strong>'Reconcile Items'</strong> "
 "button appears on your Vendor Bills dash."
-msgstr "Odoo能自动的操作大部分的调节，所以’调节项目‘按钮显示在你你的客户账单表上时，你只需查看他们中的一小部分。"
+msgstr "ERP能自动的操作大部分的调节，所以’调节项目‘按钮显示在你你的客户账单表上时，你只需查看他们中的一小部分。"
 
 #. module: account
 #: model:ir.actions.act_window,help:account.action_invoice_tree1
 msgid ""
-"Odoo's electronic invoicing allows to ease and fasten the\n"
+"ERP's electronic invoicing allows to ease and fasten the\n"
 "                collection of customer payments. Your customer receives the\n"
 "                invoice by email and he can pay online and/or import it\n"
 "                in his own system."
-msgstr "Odoo的电子发票能让你快捷方便的收集客户的付款\n你的客户通过邮件收到发票然后他就可以在线支付或者导入自己的系统"
+msgstr "ERP的电子发票能让你快捷方便的收集客户的付款\n你的客户通过邮件收到发票然后他就可以在线支付或者导入自己的系统"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_invoice_confirm_view
@@ -6393,8 +6393,8 @@ msgstr "paypal账户"
 msgid ""
 "Paypal account (email) for receiving online payments (credit card, etc.)\n"
 "             If you set a paypal account, the customer  will be able to pay your invoices or quotations\n"
-"             with a button \"Pay with  Paypal\" in automated emails or through the Odoo portal."
-msgstr "用来接收在线付款（信用卡等）的Palpal账户（电子邮件）如果你有设定Paypal账户，客户就可以通过在自动的电子邮件中或者Odoo门户中点击按钮\"paypal付款\"\n来给你的发票或者报价单付款"
+"             with a button \"Pay with  Paypal\" in automated emails or through the ERP portal."
+msgstr "用来接收在线付款（信用卡等）的Palpal账户（电子邮件）如果你有设定Paypal账户，客户就可以通过在自动的电子邮件中或者ERP门户中点击按钮\"paypal付款\"\n来给你的发票或者报价单付款"
 
 #. module: account
 #: model:ir.model.fields,help:account.field_res_company_paypal_account
@@ -7016,8 +7016,8 @@ msgstr "登记多张发票的付款"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "Registering outstanding invoices and payments can be a huge undertaking, \n"
-"                        but you can start using Odoo without it by:"
-msgstr "登记未清的发票和付款是个很大的工作量, 但你可以这样使用Odoo:"
+"                        but you can start using ERP without it by:"
+msgstr "登记未清的发票和付款是个很大的工作量, 但你可以这样使用ERP:"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -8346,9 +8346,9 @@ msgstr "当第三方在你的数据库中不存在的时候（或者找不到）
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"This guide will help you get started with Odoo Accounting.\n"
+"This guide will help you get started with ERP Accounting.\n"
 "                        Once you're done, you'll benefit from:"
-msgstr "这条向导将会帮你开启Odoo的会计，一旦你完成，你将会获益于："
+msgstr "这条向导将会帮你开启ERP的会计，一旦你完成，你将会获益于："
 
 #. module: account
 #: model:ir.actions.act_window,help:account.open_account_journal_dashboard_kanban
@@ -8496,10 +8496,10 @@ msgstr "待支付"
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
-"To manage the tax applied when invoicing a Company, Odoo uses the concept of"
+"To manage the tax applied when invoicing a Company, ERP uses the concept of"
 " Fiscal Position: they serve to automatically set the right tax and/or "
 "account according to the customer country and state."
-msgstr "当给公司开发票用到税的时候，Odoo用到了“财政状态”这个概念：能够根据客户所在国家和所在地区自动的设置正确的税和科目"
+msgstr "当给公司开发票用到税的时候，ERP用到了“财政状态”这个概念：能够根据客户所在国家和所在地区自动的设置正确的税和科目"
 
 #. module: account
 #: code:addons/account/models/account_move.py:776
@@ -9002,19 +9002,19 @@ msgstr "警告!"
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
-msgstr "我们能为你处理整个导入流程：\n 给你的Odoo的项目经理一份包含你所有数据的CSV文档."
+msgstr "我们能为你处理整个导入流程：\n 给你的ERP的项目经理一份包含你所有数据的CSV文档."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
 msgid ""
 "We can handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
-msgstr "我们能为你处理整个导入流程：给你的Odoo的项目经理一份包含你所有产品的CSV文档."
+msgstr "我们能为你处理整个导入流程：给你的ERP的项目经理一份包含你所有产品的CSV文档."
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner
@@ -9525,8 +9525,8 @@ msgstr "例如. 银行费用"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.view_account_config_settings
-msgid "e.g. sales@odoo.com"
-msgstr "例如. sales@odoo.com"
+msgid "e.g. sales@erp.com"
+msgstr "例如. sales@erp.com"
 
 #. module: account
 #: model:ir.ui.view,arch_db:account.account_planner

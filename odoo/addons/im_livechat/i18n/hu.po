@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * im_livechat
 # 
@@ -7,7 +7,7 @@
 # krnkris, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-26 12:06+0000\n"
 "PO-Revision-Date: 2016-06-06 19:55+0000\n"
@@ -293,10 +293,10 @@ msgstr "Magyarázza meg a megjegyzését"
 #. module: im_livechat
 #: model:ir.ui.view,arch_db:im_livechat.im_livechat_channel_view_form
 msgid ""
-"For website built with Odoo CMS, please install the website_livechat module."
+"For website built with ERP CMS, please install the website_livechat module."
 " Then go to Settings &gt; Website Settings and select the Website Live Chat "
 "Channel you want to add on your website."
-msgstr "Az Odoo CMS-el elkészített weboldalon, kérem telepítse a website_livechat modult. Ezután menjen a Beállítások &gt;  Weboldal beállításokhoz és válassza ki a Weboldal Élő társalgási csatornát, melyet hozzá szeretne adni a weboldalához."
+msgstr "Az ERP CMS-el elkészített weboldalon, kérem telepítse a website_livechat modult. Ezután menjen a Beállítások &gt;  Weboldal beállításokhoz és válassza ki a Weboldal Élő társalgási csatornát, melyet hozzá szeretne adni a weboldalához."
 
 #. module: im_livechat
 #: model:ir.model.fields,help:im_livechat.field_im_livechat_channel_rule_sequence
@@ -788,8 +788,8 @@ msgstr "Élő társalgás a honlapon"
 
 #. module: im_livechat
 #: model:ir.ui.view,arch_db:im_livechat.support_page
-msgid "Website Live Chat Powered by <strong>Odoo</strong>."
-msgstr "Élő társalgás a honlapon, támogatja az <strong>Odoo</strong>."
+msgid "Website Live Chat Powered by <strong>ERP</strong>."
+msgstr "Élő társalgás a honlapon, támogatja az <strong>ERP</strong>."
 
 #. module: im_livechat
 #: model:ir.model.fields,field_description:im_livechat.field_im_livechat_channel_default_message

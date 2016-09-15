@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * report
 # 
@@ -7,7 +7,7 @@
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-29 10:26+0000\n"
 "PO-Revision-Date: 2016-08-06 13:21+0000\n"
@@ -481,7 +481,7 @@ msgstr "Fout in Wkhtmltopdf (fout code: %s). Bericht: %s"
 msgid ""
 "You need to start OpenERP with at least two \n"
 "workers to print a pdf version of the reports."
-msgstr "U moet Odoo starten met ten minste twee \nwerkers om een PDF versie af te drukken van het rapport."
+msgstr "U moet ERP starten met ten minste twee \nwerkers om een PDF versie af te drukken van het rapport."
 
 #. module: report
 #. openerp-web

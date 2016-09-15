@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * marketing_campaign
 # 
@@ -6,7 +6,7 @@
 # Harry <harrierr@mail.ru>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2015-10-20 07:04+0000\n"
@@ -730,10 +730,10 @@ msgstr "Октябрь"
 #. module: marketing_campaign
 #: model:ir.actions.act_window,help:marketing_campaign.action_marketing_campaign_form
 msgid ""
-"Odoo's marketing campaign allows you to automate communication\n"
+"ERP's marketing campaign allows you to automate communication\n"
 "            to your prospects. You can define a segment (set of conditions) on\n"
 "            your leads and partners to fullfil the campaign."
-msgstr "Маркетинговые мероприятия Odoo позволяют  вам автоматизировать связи\nс вашими перспективами. Вы можете определить сегмент (набор условий) для\nвашего руководства и партнеров, чтобы в полной мере получить результат от мероприятия."
+msgstr "Маркетинговые мероприятия ERP позволяют  вам автоматизировать связи\nс вашими перспективами. Вы можете определить сегмент (набор условий) для\nвашего руководства и партнеров, чтобы в полной мере получить результат от мероприятия."
 
 #. module: marketing_campaign
 #: selection:marketing.campaign.segment,sync_mode:0
@@ -1092,8 +1092,8 @@ msgstr "Переменные затраты"
 
 #. module: marketing_campaign
 #: model:mail.template,subject:marketing_campaign.email_template_1
-msgid "Welcome to the Odoo Partner Channel!"
-msgstr "Добро пожаловать на партнерский канал Odoo!"
+msgid "Welcome to the ERP Partner Channel!"
+msgstr "Добро пожаловать на партнерский канал ERP!"
 
 #. module: marketing_campaign
 #: selection:marketing.campaign,mode:0

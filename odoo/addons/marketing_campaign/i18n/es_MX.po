@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * marketing_campaign
 # 
@@ -7,7 +7,7 @@
 # Ernesto Canales Medina <erne_canales@utexas.edu>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2016-06-01 02:26+0000\n"
@@ -731,10 +731,10 @@ msgstr "Octubre"
 #. module: marketing_campaign
 #: model:ir.actions.act_window,help:marketing_campaign.action_marketing_campaign_form
 msgid ""
-"Odoo's marketing campaign allows you to automate communication\n"
+"ERP's marketing campaign allows you to automate communication\n"
 "            to your prospects. You can define a segment (set of conditions) on\n"
 "            your leads and partners to fullfil the campaign."
-msgstr "La campaña de marketing de Odoo te permite automatizar comunicación\na tus prospectos. Puedes definir un segmento (un conjunto de condiciones) sobre\ntus "
+msgstr "La campaña de marketing de ERP te permite automatizar comunicación\na tus prospectos. Puedes definir un segmento (un conjunto de condiciones) sobre\ntus "
 
 #. module: marketing_campaign
 #: selection:marketing.campaign.segment,sync_mode:0
@@ -1093,8 +1093,8 @@ msgstr "Coste variable"
 
 #. module: marketing_campaign
 #: model:mail.template,subject:marketing_campaign.email_template_1
-msgid "Welcome to the Odoo Partner Channel!"
-msgstr "Bienvenido al Canal Hermano de Odoo!"
+msgid "Welcome to the ERP Partner Channel!"
+msgstr "Bienvenido al Canal Hermano de ERP!"
 
 #. module: marketing_campaign
 #: selection:marketing.campaign,mode:0

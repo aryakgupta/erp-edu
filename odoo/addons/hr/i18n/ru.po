@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr
 # 
@@ -7,7 +7,7 @@
 # Viktor Pogrebniak <vp@aifil.ru>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-15 10:41+0000\n"
 "PO-Revision-Date: 2016-04-06 20:36+0000\n"
@@ -339,7 +339,7 @@ msgstr "Определить график ресурса"
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_consultant
-msgid "Deliver generic Odoo functional training sessions"
+msgid "Deliver generic ERP functional training sessions"
 msgstr ""
 
 #. module: hr
@@ -946,7 +946,7 @@ msgstr "Количество непрочтённых сообщений"
 #. module: hr
 #: model:ir.actions.act_window,help:hr.open_module_tree_department
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"ERP's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                leaves and holidays, recruitments, etc."
 msgstr ""
@@ -1351,10 +1351,10 @@ msgstr ""
 #: model:ir.actions.act_window,help:hr.act_employee_from_department
 #: model:ir.actions.act_window,help:hr.open_view_employee_list_my
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the ERP employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
-msgstr "Бросив лишь беглый взгляд на экран сотрудников Odoo, Вы \n                можете легко найти все необходимую информацию по каждому человеку;\n                контактные данные, должность, наличие и т.д."
+msgstr "Бросив лишь беглый взгляд на экран сотрудников ERP, Вы \n                можете легко найти все необходимую информацию по каждому человеку;\n                контактные данные, должность, наличие и т.д."
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_ceo

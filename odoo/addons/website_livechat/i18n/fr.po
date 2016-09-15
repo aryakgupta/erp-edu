@@ -1,14 +1,14 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_livechat
 # 
 # Translators:
 # Daniel & Delphine <dd2013@leschoupinous.net>, 2015
-# Lucas Deliege <lud@odoo.com>, 2015
+# Lucas Deliege <lud@erp.com>, 2015
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-14 10:28+0000\n"
 "PO-Revision-Date: 2015-11-11 21:08+0000\n"

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_event_track
 # 
@@ -8,7 +8,7 @@
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:12+0000\n"
 "PO-Revision-Date: 2016-02-20 11:07+0000\n"
@@ -71,9 +71,9 @@ msgstr "<strong>Reguliere gesprekken</strong>. Dit zijn standaard gesprekken met
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track7
 msgid ""
-"A technical explanation of Odoo as a CMS and a eCommerce platform for "
+"A technical explanation of ERP as a CMS and a eCommerce platform for "
 "version 8."
-msgstr "Een technische uitleg van Odoo als een CMS en een eCommerce platform voor versie 8."
+msgstr "Een technische uitleg van ERP als een CMS en een eCommerce platform voor versie 8."
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.track_view
@@ -87,8 +87,8 @@ msgstr "Vereist actie"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track19
-msgid "Advanced lead management with Odoo: tips and tricks from the fields"
-msgstr "Geavanceerd lead management met Odoo: Tips en Tricks vanuit het veld"
+msgid "Advanced lead management with ERP: tips and tricks from the fields"
+msgstr "Geavanceerd lead management met ERP: Tips en Tricks vanuit het veld"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track13
@@ -201,13 +201,13 @@ msgstr "Gedetailleerde roadmap van de nieuwe boekhoud module en verdere verbeter
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track8
 msgid ""
-"Discover Odoo CRM: How to optimize your sales, from leads to sales orders."
-msgstr "Ontdek Odoo CRM: Hoe uw verkoop te optimaliseren, van prospects naar verkooporders."
+"Discover ERP CRM: How to optimize your sales, from leads to sales orders."
+msgstr "Ontdek ERP CRM: Hoe uw verkoop te optimaliseren, van prospects naar verkooporders."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track11
-msgid "Discover Odoo Point-of-Sale: Your shop ready to use in 30 minutes."
-msgstr "Ontdek Odoo Point-of-Sale: Uw winkel klaar om te gebruiken in 30 minuten."
+msgid "Discover ERP Point-of-Sale: Your shop ready to use in 30 minutes."
+msgstr "Ontdek ERP Point-of-Sale: Uw winkel klaar om te gebruiken in 30 minuten."
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_sponsor_display_name
@@ -351,8 +351,8 @@ msgstr "Hoogste"
 #: model:event.track,name:website_event_track.event_track18
 msgid ""
 "How to build your marketing strategy for the purpose of generating leads "
-"with Odoo."
-msgstr "Hoe kunt u uw marketing strategie opbouwen met het oog op het genereren van leads met Odoo."
+"with ERP."
+msgstr "Hoe kunt u uw marketing strategie opbouwen met het oog op het genereren van leads met ERP."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track1
@@ -361,8 +361,8 @@ msgstr "Hoe een website module ontwikkelen."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track4
-msgid "How to develop automated tests in the Odoo web client."
-msgstr "Hoe automatische testen ontwikkelen in de Odoo web client."
+msgid "How to develop automated tests in the ERP web client."
+msgstr "Hoe automatische testen ontwikkelen in de ERP web client."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track3
@@ -371,15 +371,15 @@ msgstr "Hoe real-time apps te ontwikkelen, de website live chat module uitleg"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track2
-msgid "How to integrate hardware materials with the Odoo point of sale."
-msgstr "Hoe hardware materialen te integreren met het Odoo verkooppunt."
+msgid "How to integrate hardware materials with the ERP point of sale."
+msgstr "Hoe hardware materialen te integreren met het ERP verkooppunt."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track9
 msgid ""
-"How to use Odoo for your HR process: recruitment, leaves management, "
+"How to use ERP for your HR process: recruitment, leaves management, "
 "appraisals, expenses, etc."
-msgstr "Hoe Odoo te gebruiken voor uw HR proces: werving, verlof management, beoordelingen, declaraties, etc."
+msgstr "Hoe ERP te gebruiken voor uw HR proces: werving, verlof management, beoordelingen, declaraties, etc."
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_sponsor_id
@@ -417,8 +417,8 @@ msgstr "Is een volger"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track23
-msgid "Key Success factors selling Odoo."
-msgstr "Belangrijkste factoren bij de verkoop van Odoo"
+msgid "Key Success factors selling ERP."
+msgstr "Belangrijkste factoren bij de verkoop van ERP"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track_message_last_post
@@ -481,12 +481,12 @@ msgstr "E-mail"
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track22
 msgid "Manage your KPIs (recomended to openERP partners)."
-msgstr "Beheer uw KPI's (aanbevolen aan Odoo partners)"
+msgstr "Beheer uw KPI's (aanbevolen aan ERP partners)"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track12
-msgid "Manage your events with Odoo, the new training modules."
-msgstr "Beheer uw evenementen met Odoo, de nieuwe training modules"
+msgid "Manage your events with ERP, the new training modules."
+msgstr "Beheer uw evenementen met ERP, de nieuwe training modules"
 
 #. module: website_event_track
 #: selection:event.track,priority:0
@@ -586,23 +586,23 @@ msgstr "Aantal ongelezen berichten"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track15
-msgid "Odoo Mobile for Notes, Meetings and Messages."
-msgstr "Odoo  mobiel voor notities, Afspraken en berichten"
+msgid "ERP Mobile for Notes, Meetings and Messages."
+msgstr "ERP  mobiel voor notities, Afspraken en berichten"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track28
-msgid "Odoo Status & Strategy 2014"
-msgstr "Odoo status & strategie 2014"
+msgid "ERP Status & Strategy 2014"
+msgstr "ERP status & strategie 2014"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track16
-msgid "Odoo as your Enterprise Social Network."
-msgstr "Odoo als het sociaal netwerk van uw bedrijf."
+msgid "ERP as your Enterprise Social Network."
+msgstr "ERP als het sociaal netwerk van uw bedrijf."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track27
-msgid "Odoo in 2014"
-msgstr "Odoo in 2014"
+msgid "ERP in 2014"
+msgstr "ERP in 2014"
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.event_sponsor
@@ -687,8 +687,8 @@ msgstr "Het verhogen van kwalitatieve inzichten met de enquête app"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track21
-msgid "Recruiting high skilled talents with Odoo HR apps"
-msgstr "Werf hoog opgeleide talenten met de Odoo personeelsbeheer module"
+msgid "Recruiting high skilled talents with ERP HR apps"
+msgstr "Werf hoog opgeleide talenten met de ERP personeelsbeheer module"
 
 #. module: website_event_track
 #: selection:event.track,state:0
@@ -851,8 +851,8 @@ msgstr "Bedankt voor uw voorstel."
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track17
-msgid "The Art of Making an Odoo Demo."
-msgstr "De kunst van een Odoo demo maken."
+msgid "The Art of Making an ERP Demo."
+msgstr "De kunst van een ERP demo maken."
 
 #. module: website_event_track
 #: model:ir.model.fields,help:website_event_track.field_event_track_website_url
@@ -867,8 +867,8 @@ msgstr "De nieuwe verkoopstrategie."
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track5
 msgid ""
-"The new way to promote your modules in the Apps platform and Odoo website."
-msgstr "De nieuwe manier om uw modules te promoten in het Apps platform en de Odoo website"
+"The new way to promote your modules in the Apps platform and ERP website."
+msgstr "De nieuwe manier om uw modules te promoten in het Apps platform en de ERP website"
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.event_track_proposal

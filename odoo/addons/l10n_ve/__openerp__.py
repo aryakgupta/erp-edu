@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 #    Module programed and financed by:
 #    Vauxoo, C.A. (<http://vauxoo.com>).
@@ -9,7 +9,7 @@
 {
     'name' : 'Venezuela - Accounting',
     'version': '1.0',
-    'author': ['Odoo SA', 'Vauxoo'],
+    'author': ['ERP SA', 'Vauxoo'],
     'category': 'Localization',
     'description':
 """

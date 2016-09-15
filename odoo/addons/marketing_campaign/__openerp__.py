@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -35,7 +35,7 @@ input segments, workflow.
       module, but this will also install the CRM application as it depends on
       CRM Leads.
     """,
-    'website': 'https://www.odoo.com/page/lead-automation',
+    'website': 'https://www.erp.com/page/lead-automation',
     'data': [
         'marketing_campaign_view.xml',
         'marketing_campaign_data.xml',

@@ -1,17 +1,17 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
     'name': 'MRP',
     'version': '1.1',
-    'website': 'https://www.odoo.com/page/manufacturing',
+    'website': 'https://www.erp.com/page/manufacturing',
     'category': 'Manufacturing',
     'sequence': 14,
     'summary': 'Manufacturing Orders, Bill of Materials, Routings',
     'depends': ['product', 'procurement', 'stock_account', 'resource', 'report'],
     'description': """
-Manage the Manufacturing process in Odoo
+Manage the Manufacturing process in ERP
 ===========================================
 
 The manufacturing module allows you to cover planning, ordering, stocks and the manufacturing or assembly of products from raw materials and components. It handles the consumption and production of products according to a bill of materials and the necessary operations on machinery, tools or human resources according to routings.

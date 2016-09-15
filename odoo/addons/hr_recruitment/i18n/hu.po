@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_recruitment
 # 
@@ -7,7 +7,7 @@
 # krnkris, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:11+0000\n"
 "PO-Revision-Date: 2016-06-06 19:55+0000\n"
@@ -1284,16 +1284,16 @@ msgstr "Olvasatlan üzenetek száma"
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_applications
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"ERP helps you track applicants in the recruitment\n"
 "                process and follow up all operations: meetings, interviews, etc."
-msgstr "Odoo rendszer segít a toborzási folyamatnál a felvételizők\n                 követésében és az összes művelet követésében: rendezvények, találkozók, interjúk, stb."
+msgstr "ERP rendszer segít a toborzási folyamatnál a felvételizők\n                 követésében és az összes művelet követésében: rendezvények, találkozók, interjúk, stb."
 
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.crm_case_categ0_act_job
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"ERP helps you track applicants in the recruitment\n"
 "            process and follow up all operations: meetings, interviews, etc."
-msgstr "Odoo rendszer segít a toborzási folyamatnál a felvételizők\n                 követésében és az összes művelet követésében: rendezvények, találkozók, interjúk, stb."
+msgstr "ERP rendszer segít a toborzási folyamatnál a felvételizők\n                 követésében és az összes művelet követésében: rendezvények, találkozók, interjúk, stb."
 
 #. module: hr_recruitment
 #: model:survey.label,value:hr_recruitment.rrow_2_1_3
@@ -1700,10 +1700,10 @@ msgstr "Az a dátum amikor a jelentkező ténylegesen munkába tud állni."
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
-msgstr "a modell (Odoo rendszer Dokumentum féle), amelyhez ez az álnév tartozik. Bármely bejövő email, mely nem válaszol egy meglévő rekordra egy új rekordot fog létrehozni ehhez a modellhez (pl. egy projekt ügyet)"
+msgstr "a modell (ERP rendszer Dokumentum féle), amelyhez ez az álnév tartozik. Bármely bejövő email, mely nem válaszol egy meglévő rekordra egy új rekordot fog létrehozni ehhez a modellhez (pl. egy projekt ügyet)"
 
 #. module: hr_recruitment
 #: sql_constraint:hr.recruitment.degree:0
@@ -1714,8 +1714,8 @@ msgstr "A toborzási fok nevének egyedinek kell lennie!"
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
-msgstr "Az email álnév neve, pl. 'állások' ha erre az emailcímre szeretné kapni <allasok@pelda.odoo.com>"
+"<jobs@example.erp.com>"
+msgstr "Az email álnév neve, pl. 'állások' ha erre az emailcímre szeretné kapni <allasok@pelda.erp.com>"
 
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_user_id
@@ -1873,10 +1873,10 @@ msgstr "Milyen nemű?"
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_no_employee
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the ERP employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
-msgstr "Az Odoo rendszer munkavállalói képernyőn szempillantás alatt\nkönnyen megtalálja az összes személyhez a kívánt információkat; \nkapcsolati adatok, munka pozíció, elérhetőség, stb."
+msgstr "Az ERP rendszer munkavállalói képernyőn szempillantás alatt\nkönnyen megtalálja az összes személyhez a kívánt információkat; \nkapcsolati adatok, munka pozíció, elérhetőség, stb."
 
 #. module: hr_recruitment
 #: code:addons/hr_recruitment/models/hr_recruitment.py:432

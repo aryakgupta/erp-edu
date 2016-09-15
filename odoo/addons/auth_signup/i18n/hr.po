@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * auth_signup
 # 
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-06 07:13+0000\n"
 "PO-Revision-Date: 2016-01-06 08:54+0000\n"
@@ -26,7 +26,7 @@ msgid ""
 "                        ${object.name},\n"
 "                    </p>\n"
 "                    <p>\n"
-"                        You have been invited to connect to \"${object.company_id.name}\" in order to get access to your documents in Odoo.\n"
+"                        You have been invited to connect to \"${object.company_id.name}\" in order to get access to your documents in ERP.\n"
 "                    </p>\n"
 "                    <p>\n"
 "                        To accept the invitation, click on the following link:\n"
@@ -51,7 +51,7 @@ msgstr ""
 #: model:mail.template,body_html:auth_signup.reset_password_email
 msgid ""
 "\n"
-"<p>A password reset was requested for the Odoo account linked to this email.</p>\n"
+"<p>A password reset was requested for the ERP account linked to this email.</p>\n"
 "\n"
 "<p>You may change your password by following <a href=\"${object.signup_url}\">this link</a>, which will remain valid during 24 hours.</p>\n"
 "\n"
@@ -60,7 +60,7 @@ msgstr ""
 
 #. module: auth_signup
 #: model:mail.template,subject:auth_signup.set_password_email
-msgid "${object.company_id.name} invitation to connect on Odoo"
+msgid "${object.company_id.name} invitation to connect on ERP"
 msgstr ""
 
 #. module: auth_signup

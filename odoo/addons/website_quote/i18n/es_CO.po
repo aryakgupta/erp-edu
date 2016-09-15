@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_quote
 # 
@@ -9,7 +9,7 @@
 # Mateo Tibaquirá Palacios <nestormateo@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-18 12:33+0000\n"
 "PO-Revision-Date: 2016-04-19 15:11+0000\n"
@@ -403,20 +403,20 @@ msgstr "Volver a la Orden de Venta"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Become an Odoo Consultant."
-msgstr "Convertirse en un Consultor Odoo."
+msgid "Become an ERP Consultant."
+msgstr "Convertirse en un Consultor ERP."
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid "Benefit from the OpenERP branding"
-msgstr "Beneficiarse de la marca Odoo"
+msgstr "Beneficiarse de la marca ERP"
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Benefit from the growing customer demand\n"
-"                                    and our Odoo brand."
-msgstr "Beneficiarse de la creciente demanda \nde los consumidores y nuestra marca Odoo."
+"                                    and our ERP brand."
+msgstr "Beneficiarse de la creciente demanda \nde los consumidores y nuestra marca ERP."
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_1
@@ -478,8 +478,8 @@ msgstr "Configuración de la compañía y Administración de Multicompañías"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Configure Odoo using the standard modules."
-msgstr "Configure Odoo usando los módulos estándar."
+msgid "Configure ERP using the standard modules."
+msgstr "Configure ERP usando los módulos estándar."
 
 #. module: website_quote
 #: model:ir.ui.view,arch_db:website_quote.so_quotation
@@ -637,22 +637,22 @@ msgstr "Disfrutar de la tracción del <strong> software de gestión \nde más r�
 msgid ""
 "Every year, we redirect more than 100,000 customer\n"
 "                                requests to our official partners. These are prospects\n"
-"                                that filled a form on the Odoo website and wanted to\n"
-"                                use Odoo. The right partner to fulfill the customer\n"
+"                                that filled a form on the ERP website and wanted to\n"
+"                                use ERP. The right partner to fulfill the customer\n"
 "                                request is selected based on the customer localization\n"
 "                                (nearest partner) and the grade of the partner."
-msgstr "Cada año, redirigimos a más de 100.000 solicitudes de los clientes a nuestros socios oficiales. Estas son las iniciativas que llenaron un formulario en el sitio web Odoo y querían utilizar Odoo. El socio adecuado para cumplir con la solicitud del cliente se selecciona en función de la localización del cliente (socio más cercano) y la calificación de la empresa."
+msgstr "Cada año, redirigimos a más de 100.000 solicitudes de los clientes a nuestros socios oficiales. Estas son las iniciativas que llenaron un formulario en el sitio web ERP y querían utilizar ERP. El socio adecuado para cumplir con la solicitud del cliente se selecciona en función de la localización del cliente (socio más cercano) y la calificación de la empresa."
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Every year, we redirect more than 100,000 customer\n"
 "                        requests to our official partners. These are prospects\n"
-"                        that filled a form on the Odoo website and wanted to\n"
-"                        use Odoo. The right partner to fulfill the customer\n"
+"                        that filled a form on the ERP website and wanted to\n"
+"                        use ERP. The right partner to fulfill the customer\n"
 "                        request is selected based on the customer localization\n"
 "                        (nearest partner) and the grade of the partner."
-msgstr "Cada año, redirigimos a más de 100.000 solicitudes de los clientes a nuestros socios oficiales. Estas son las iniciativas que llenaron un formulario en el sitio web Odoo y querían utilizar Odoo. El socio adecuado para cumplir con la solicitud del cliente se selecciona en función de la localización del cliente (socio más cercano) y la calificación de la empresa."
+msgstr "Cada año, redirigimos a más de 100.000 solicitudes de los clientes a nuestros socios oficiales. Estas son las iniciativas que llenaron un formulario en el sitio web ERP y querían utilizar ERP. El socio adecuado para cumplir con la solicitud del cliente se selecciona en función de la localización del cliente (socio más cercano) y la calificación de la empresa."
 
 #. module: website_quote
 #: model:ir.ui.view,arch_db:website_quote.so_quotation_content
@@ -667,12 +667,12 @@ msgstr "Configuración de Envío de Correos"
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
-"For an extra fee, partners can get access to Odoo's\n"
+"For an extra fee, partners can get access to ERP's\n"
 "                                core developers and functional experts. This can help\n"
 "                                you succeed in delivering more complex or bigger\n"
 "                                projects by getting the support of highly experienced\n"
 "                                consultants on demand."
-msgstr "Por un valor adicional, los socios pueden obtener acceso a los desarrolladores principales de Odoo y expertos funcionales. Esto puede ayudarle a tener éxito en la entrega de proyectos más complejos o más grandes al conseguir el apoyo de consultores altamente experimentados bajo demanda."
+msgstr "Por un valor adicional, los socios pueden obtener acceso a los desarrolladores principales de ERP y expertos funcionales. Esto puede ayudarle a tener éxito en la entrega de proyectos más complejos o más grandes al conseguir el apoyo de consultores altamente experimentados bajo demanda."
 
 #. module: website_quote
 #: model:product.product,name:website_quote.product_product_quote_1
@@ -706,9 +706,9 @@ msgstr "Da el orden cuando se listan las líneas de cotizaciones de venta."
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Grow by developing a <strong>recurring\n"
-"                                     revenue flow</strong> from Odoo\n"
+"                                     revenue flow</strong> from ERP\n"
 "                                     Enterprise's commission system."
-msgstr "Crecer mediante el desarrollo de un <strong> \nrecurrente flujo de ingreso </strong> \ndesde el sistema de comisiones e Odoo Enterprise."
+msgstr "Crecer mediante el desarrollo de un <strong> \nrecurrente flujo de ingreso </strong> \ndesde el sistema de comisiones e ERP Enterprise."
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_1
@@ -764,8 +764,8 @@ msgstr "inc. impuestos)"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Install and administer Odoo."
-msgstr "Instalar y administrar Odoo"
+msgid "Install and administer ERP."
+msgstr "Instalar y administrar ERP"
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
@@ -806,7 +806,7 @@ msgstr "Introducción a QWeb"
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
-"It includes <strong>discounts on Odoo\n"
+"It includes <strong>discounts on ERP\n"
 "                                Enterprise</strong>, technical and/or functional\n"
 "                                <strong>trainings</strong>,\n"
 "                                <strong>support</strong> services,\n"
@@ -814,7 +814,7 @@ msgid ""
 "                                the <strong>partner portal</strong>, rights to\n"
 "                                <strong>use the trademark</strong>, sales support\n"
 "                                from a <strong>dedicated account manager</strong>."
-msgstr "Este incluye <strong>descuentos en Odoo Enterprise </strong>,  técnicos y/o funcionales, \n<strong>entrenamientos</strong>,\n<strong>soporte,</strong>servicios, \n<strong>documentos de mercadeo</strong>, acceso al portal <strong>de socios</strong>, los derechos a <strong>utilizar la marca</strong>, soporte de ventas de una <strong>un gerente de cuenta dedicado </strong> ."
+msgstr "Este incluye <strong>descuentos en ERP Enterprise </strong>,  técnicos y/o funcionales, \n<strong>entrenamientos</strong>,\n<strong>soporte,</strong>servicios, \n<strong>documentos de mercadeo</strong>, acceso al portal <strong>de socios</strong>, los derechos a <strong>utilizar la marca</strong>, soporte de ventas de una <strong>un gerente de cuenta dedicado </strong> ."
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_order_option___last_update
@@ -848,18 +848,18 @@ msgstr "Actualizado"
 #: model:product.template,description_sale:website_quote.product_template_quote_1
 #: model:product.template,description_sale:website_quote.product_template_quote_3
 msgid ""
-"Learn directly from our team and network of Odoo experts. Choose from the "
-"available training sessions for a better functional understanding of Odoo"
-msgstr "Aprenda directamente de nuestro equipo y red de expertos de Odoo. Escoja entre las sesiones de formación disponible para una mejor comprensión funcional de Odoo"
+"Learn directly from our team and network of ERP experts. Choose from the "
+"available training sessions for a better functional understanding of ERP"
+msgstr "Aprenda directamente de nuestro equipo y red de expertos de ERP. Escoja entre las sesiones de formación disponible para una mejor comprensión funcional de ERP"
 
 #. module: website_quote
 #: model:product.product,description_sale:website_quote.product_product_quote_2
 #: model:product.template,description_sale:website_quote.product_product_quote_2_product_template
 #: model:product.template,description_sale:website_quote.product_template_quote_2
 msgid ""
-"Learn directly from our team and network of Odoo experts. Choose from the "
-"available training sessions for a better technical understanding of Odoo"
-msgstr "Aprenda directamente de nuestro equipo y red de expertos de Odoo. Escoja entre las sesiones de formación disponible para una mejor comprensión técnica de Odoo"
+"Learn directly from our team and network of ERP experts. Choose from the "
+"available training sessions for a better technical understanding of ERP"
+msgstr "Aprenda directamente de nuestro equipo y red de expertos de ERP. Escoja entre las sesiones de formación disponible para una mejor comprensión técnica de ERP"
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_order_line_website_description
@@ -942,24 +942,24 @@ msgstr "Objetivos"
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Odoo Official Website"
-msgstr "Sitio Web Oficial de Odoo"
+msgid "ERP Official Website"
+msgstr "Sitio Web Oficial de ERP"
 
 #. module: website_quote
 #: model:sale.quote.line,website_description:website_quote.website_sale_order_line_2
-msgid "Odoo Web Client"
-msgstr "Cliente Web de Odoo"
+msgid "ERP Web Client"
+msgstr "Cliente Web de ERP"
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
-"Odoo promotes its partners through various ways:\n"
+"ERP promotes its partners through various ways:\n"
 "                                publication on our website, official communication,\n"
 "                                publication of your success stories, etc. As soon as\n"
-"                                you become an Odoo partner and have followed the\n"
+"                                you become an ERP partner and have followed the\n"
 "                                official trainings, you will be visible on the partner\n"
 "                                directory listing."
-msgstr "Odoo promueve a sus socios a través de diversas formas: la publicación en nuestro sitio web, la comunicación oficial, la publicación de sus casos de éxito, etc. Tan pronto como usted se convierte en un socio de Odoo y ha seguido los entrenamientos oficiales, usted será visible en el directorio de socios."
+msgstr "ERP promueve a sus socios a través de diversas formas: la publicación en nuestro sitio web, la comunicación oficial, la publicación de sus casos de éxito, etc. Tan pronto como usted se convierte en un socio de ERP y ha seguido los entrenamientos oficiales, usted será visible en el directorio de socios."
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
@@ -983,8 +983,8 @@ msgstr "Inventario real y físico"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Operate/Work with Odoo Smoothly on regular basis."
-msgstr "Operar / Trabajar con Odoo suavemente de manera regular."
+msgid "Operate/Work with ERP Smoothly on regular basis."
+msgstr "Operar / Trabajar con ERP suavemente de manera regular."
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_quote_option_website_description
@@ -1024,10 +1024,10 @@ msgstr "Nuestra Oferta de Asociación"
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_1
 msgid ""
 "Our automated testing server software is called Runbot,\n"
-"                                and you can try it out here: http://runbot.odoo.com.\n"
+"                                and you can try it out here: http://runbot.erp.com.\n"
 "                                A dedicated runbot server is available for every\n"
 "                                partner."
-msgstr "Nuestro software de servidor de pruebas automatizadas se llama RunBot, y se puede probar aquí: http://runbot.odoo.com. Un servidor dedicado RunBot está disponible para cada socio."
+msgstr "Nuestro software de servidor de pruebas automatizadas se llama RunBot, y se puede probar aquí: http://runbot.erp.com. Un servidor dedicado RunBot está disponible para cada socio."
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_default
@@ -1046,8 +1046,8 @@ msgstr "Nuestra oferta se basa en 3 compromisos, que impulsan su negocio y a nue
 msgid ""
 "Our partnership offer includes all you need to\n"
 "                                grow your business and deliver quality services\n"
-"                                with the Odoo Partner Program."
-msgstr "Nuestra oferta de asociación incluye todo lo que necesita para hacer crecer su negocio y ofrecer servicios de calidad con el Programa de Afiliación Odoo."
+"                                with the ERP Partner Program."
+msgstr "Nuestra oferta de asociación incluye todo lo que necesita para hacer crecer su negocio y ofrecer servicios de calidad con el Programa de Afiliación ERP."
 
 #. module: website_quote
 #: model:sale.quote.template,website_description:website_quote.website_quote_template_default
@@ -1319,11 +1319,11 @@ msgstr "Línas de Plantilla de Cotización de Ventas"
 msgid ""
 "Save time in your implementation project by having your\n"
 "                                developments tested automatically by our automated test\n"
-"                                servers. At every code commit, you get a full Odoo\n"
+"                                servers. At every code commit, you get a full ERP\n"
 "                                instance that you can try out online. When this\n"
 "                                instance is deployed, your code is automatically put\n"
 "                                through our 2000+ automated unit tests."
-msgstr "Ahorrar tiempo en su proyecto de implementación \npor tener sus desarrollos probados automáticamente en \nnuestros servidores de prueba automatizados. \nEn cada código enviado, se obtiene una instancia Odoo \ncompleta que se puede probar en línea. Cuando se implementa\n este caso, el código se verifican automáticamente a través\nde nuestras 2000+ pruebas unitarias automatizadas."
+msgstr "Ahorrar tiempo en su proyecto de implementación \npor tener sus desarrollos probados automáticamente en \nnuestros servidores de prueba automatizados. \nEn cada código enviado, se obtiene una instancia ERP \ncompleta que se puede probar en línea. Cuando se implementa\n este caso, el código se verifican automáticamente a través\nde nuestras 2000+ pruebas unitarias automatizadas."
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
@@ -1433,9 +1433,9 @@ msgid ""
 "traditional classroom trainings, supplemented with modular sessions and "
 "cloud-based labs. Many of our online learning courses also include dozens of"
 " recorded webinars and live sessions by our senior instructors. At the end "
-"of the training, you can pass the Odoo Certification exam in one of the "
+"of the training, you can pass the ERP Certification exam in one of the "
 "5000+ Pearson VUE test centers worldwide."
-msgstr "Estos cursos cuentan con el mismo contenido de los cursos de alta calidad que se encuentra en nuestros entrenamientos en el aula tradicional, complementado con sesiones modulares y laboratorios basados ​​en la nube. Muchos de nuestros cursos de aprendizaje en línea también incluye docenas de seminarios web grabados y sesiones en vivo por nuestros instructores de alto nivel. Al final del entrenamiento, usted puede pasar el examen de certificación Odoo en uno de los 5000 Centros de prueba de Pearson VUE en todo el mundo."
+msgstr "Estos cursos cuentan con el mismo contenido de los cursos de alta calidad que se encuentra en nuestros entrenamientos en el aula tradicional, complementado con sesiones modulares y laboratorios basados ​​en la nube. Muchos de nuestros cursos de aprendizaje en línea también incluye docenas de seminarios web grabados y sesiones en vivo por nuestros instructores de alto nivel. Al final del entrenamiento, usted puede pasar el examen de certificación ERP en uno de los 5000 Centros de prueba de Pearson VUE en todo el mundo."
 
 #. module: website_quote
 #: model:ir.ui.view,arch_db:website_quote.so_quotation
@@ -1485,8 +1485,8 @@ msgstr "Entienda los conceptos de desarrollo y arquitectura;"
 
 #. module: website_quote
 #: model:sale.quote.option,website_description:website_quote.website_sale_option_line_1
-msgid "Understand the functional concepts, business processes by Odoo."
-msgstr "Entender los conceptos funcionales, procesos de negocio por Odoo."
+msgid "Understand the functional concepts, business processes by ERP."
+msgstr "Entender los conceptos funcionales, procesos de negocio por ERP."
 
 #. module: website_quote
 #: model:ir.model.fields,field_description:website_quote.field_sale_order_option_price_unit
@@ -1549,11 +1549,11 @@ msgstr "Estamos siempre a su alcance para ayudarle, no dude en ponerse en contac
 msgid ""
 "We will assign you a dedicated account manager, an\n"
 "                        experienced sales person, to help you develop your\n"
-"                        Odoo business. The account manager helps you get\n"
+"                        ERP business. The account manager helps you get\n"
 "                        leads, close deals, gives you feedback and best\n"
 "                        practices, delivers sales training and is your direct\n"
 "                        point of contact for any request you may have."
-msgstr "Nosotros le asignaremos un gerente de cuentas dedicado,\nuna persona experimentada en ventas, para ayudarlo a\ndesarrollar su negocio Odoo. El gerente de cuentas le\nayudará a obtener iniciativas, cerrar tratos, le dará\nretroalimentación y mejores prácticas, entrenamiento en\nentrega de ventas y es su punto directo de contacto para\ncualquier petición que usted pueda tener. "
+msgstr "Nosotros le asignaremos un gerente de cuentas dedicado,\nuna persona experimentada en ventas, para ayudarlo a\ndesarrollar su negocio ERP. El gerente de cuentas le\nayudará a obtener iniciativas, cerrar tratos, le dará\nretroalimentación y mejores prácticas, entrenamiento en\nentrega de ventas y es su punto directo de contacto para\ncualquier petición que usted pueda tener. "
 
 #. module: website_quote
 #: model:ir.actions.report.xml,name:website_quote.report_web_quote

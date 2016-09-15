@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_holidays
 # 
@@ -6,7 +6,7 @@
 # Jaroslav Bosansky <jaro.bosansky@ekoenergo.sk>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:10+0000\n"
 "PO-Revision-Date: 2016-02-21 12:42+0000\n"
@@ -942,9 +942,9 @@ msgstr "Počet neprečítaných správ"
 #. module: hr_holidays
 #: model:ir.model.fields,help:hr_holidays.field_hr_holidays_status_categ_id
 msgid ""
-"Once a leave is validated, Odoo will create a corresponding meeting of this "
+"Once a leave is validated, ERP will create a corresponding meeting of this "
 "type in the calendar."
-msgstr "Akonáhle je voľno sa potvrdené, Odoo vytvorí zodpovedajúce stretnutie tohto druhu v kalendári."
+msgstr "Akonáhle je voľno sa potvrdené, ERP vytvorí zodpovedajúce stretnutie tohto druhu v kalendári."
 
 #. module: hr_holidays
 #: model:ir.actions.act_window,help:hr_holidays.open_ask_holidays
@@ -1323,9 +1323,9 @@ msgstr "Rok"
 #. module: hr_holidays
 #: model:ir.actions.act_window,help:hr_holidays.hr_holidays_leaves_assign_legal
 msgid ""
-"You can assign remaining Legal Leaves for each employee, Odoo\n"
+"You can assign remaining Legal Leaves for each employee, ERP\n"
 "               will automatically create and validate allocation requests."
-msgstr "Môžete prideliť ostávajúce  legálne voľno pre každého zamestnanca, Odoo\nautomaticky vytvorí a potvrdí žiadosti o pridelenie."
+msgstr "Môžete prideliť ostávajúce  legálne voľno pre každého zamestnanca, ERP\nautomaticky vytvorí a potvrdí žiadosti o pridelenie."
 
 #. module: hr_holidays
 #: constraint:hr.holidays:0

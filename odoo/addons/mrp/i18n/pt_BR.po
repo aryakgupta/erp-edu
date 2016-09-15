@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * mrp
 # 
@@ -9,7 +9,7 @@
 # Mateus Lopes <mateus1@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-07-06 07:28+0000\n"
 "PO-Revision-Date: 2016-07-09 17:36+0000\n"
@@ -646,10 +646,10 @@ msgstr "Unid. de Medida Padrão"
 #: model:ir.actions.act_window,help:mrp.mrp_property_group_action
 msgid ""
 "Define specific property groups that can be assigned to your\n"
-"                bill of materials and sales orders. Properties allows Odoo\n"
+"                bill of materials and sales orders. Properties allows ERP\n"
 "                to automatically select the right bill of materials according\n"
 "                to properties selected in the sales order by salesperson."
-msgstr "Define grupos de propriedades específicas que podem ser atribuídas à sua\nlista de materiais e ordens de vendas. Propriedades permitem ao Odoo\nselecionar automaticamente a lista de materiais  correta de acordo\ncom as propriedades selecionadas na ordem de vendas por vendedor."
+msgstr "Define grupos de propriedades específicas que podem ser atribuídas à sua\nlista de materiais e ordens de vendas. Propriedades permitem ao ERP\nselecionar automaticamente a lista de materiais  correta de acordo\ncom as propriedades selecionadas na ordem de vendas por vendedor."
 
 #. module: mrp
 #: model:ir.model.fields,help:mrp.field_mrp_workcenter_calendar_id
@@ -779,9 +779,9 @@ msgstr "Seguidores (Parceiros)"
 msgid ""
 "For instance, in the property group \"Warranty\", you an have\n"
 "                two properties: 1 year warranty, 3 years warranty. Depending\n"
-"                on the propoerties selected in the sales order, Odoo will\n"
+"                on the propoerties selected in the sales order, ERP will\n"
 "                schedule a production using the matching bill of materials."
-msgstr "Por exemplo, no grupo de propriedades \"Garantia\", você tem\nduas propriedades: 1 de garantia, 3 anos de garantia. Dependendo\ndas propriedades selecionadas na ordem do venda, Odoo irá\nagendar uma produção usando a lista de materiais correspondente."
+msgstr "Por exemplo, no grupo de propriedades \"Garantia\", você tem\nduas propriedades: 1 de garantia, 3 anos de garantia. Dependendo\ndas propriedades selecionadas na ordem do venda, ERP irá\nagendar uma produção usando a lista de materiais correspondente."
 
 #. module: mrp
 #: model:ir.ui.view,arch_db:mrp.mrp_production_form_view
@@ -1309,9 +1309,9 @@ msgstr "Quantidade de mensagens não lidas."
 #. module: mrp
 #: model:ir.actions.act_window,help:mrp.mrp_bom_form_action
 msgid ""
-"Odoo uses these BoMs to automatically propose manufacturing\n"
+"ERP uses these BoMs to automatically propose manufacturing\n"
 "                orders according to procurement needs."
-msgstr "Odoo usa essas LdM para propor automaticamente ordens\nde fabricação de acordo com as necessidades de contratação."
+msgstr "ERP usa essas LdM para propor automaticamente ordens\nde fabricação de acordo com as necessidades de contratação."
 
 #. module: mrp
 #: model:ir.ui.view,arch_db:mrp.view_stock_move_consume_wizard
@@ -1903,14 +1903,14 @@ msgstr "A Unidade de Medida do Produto que você escolheu tem uma categoria dife
 #. module: mrp
 #: model:ir.actions.act_window,help:mrp.mrp_property_action
 msgid ""
-"The Properties in Odoo are used to select the right bill of\n"
+"The Properties in ERP are used to select the right bill of\n"
 "                materials for manufacturing a product when you have different\n"
 "                ways of building the same product.  You can assign several\n"
 "                properties to each bill of materials.  When a salesperson\n"
 "                creates a sales order, they can relate it to several properties\n"
-"                and Odoo will automatically select the BoM to use according\n"
+"                and ERP will automatically select the BoM to use according\n"
 "                the needs."
-msgstr "As propriedades em Odoo são usadas para selecionar lista de\nmateriais correta para a fabricação de um produto quando você tem diferentes\nformas de construção do mesmo produto. Você pode atribuir várias\npropriedades para cada lista de materiais. Quando vendedores\ncriam um pedido de vendas, eles podem relacioná-lo com várias propriedades\ne Odoo selecionará automaticamente a LdM para usar de acordo\ncom as necessidades."
+msgstr "As propriedades em ERP são usadas para selecionar lista de\nmateriais correta para a fabricação de um produto quando você tem diferentes\nformas de construção do mesmo produto. Você pode atribuir várias\npropriedades para cada lista de materiais. Quando vendedores\ncriam um pedido de vendas, eles podem relacioná-lo com várias propriedades\ne ERP selecionará automaticamente a LdM para usar de acordo\ncom as necessidades."
 
 #. module: mrp
 #: constraint:mrp.workcenter:0

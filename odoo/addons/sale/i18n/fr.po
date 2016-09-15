@@ -1,9 +1,9 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * sale
 # 
 # Translators:
-# Clo <clo@odoo.com>, 2015
+# Clo <clo@erp.com>, 2015
 # Fabien Pinckaers <fp@openerp.com>, 2015
 # Fabrice Henrion, 2016
 # Florian Hatat, 2015
@@ -11,14 +11,14 @@
 # Hubert TETARD <htetard@apik-conseils.com>, 2015
 # Hubert TETARD <htetard@apik-conseils.com>, 2015
 # Jérôme Tanché <jerome.tanche@ouest-dsi.fr>, 2016
-# Lucas Deliege <lud@odoo.com>, 2015-2016
+# Lucas Deliege <lud@erp.com>, 2015-2016
 # Martin Trigaux, 2015-2016
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015-2016
-# Melanie Bernard <mbe@odoo.com>, 2015
+# Melanie Bernard <mbe@erp.com>, 2015
 # Nancy Bolognesi <nb@microcom.ca>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:17+0000\n"
 "PO-Revision-Date: 2016-07-26 10:33+0000\n"

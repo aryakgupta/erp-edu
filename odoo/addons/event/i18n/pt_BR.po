@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * event
 # 
@@ -9,7 +9,7 @@
 # Mateus Cerqueira Lopes <mateus1@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-01 06:27+0000\n"
 "PO-Revision-Date: 2016-03-15 18:45+0000\n"
@@ -351,8 +351,8 @@ msgstr "Medalha centro-esquerda"
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Banner Odoo Image"
-msgstr "Imagem de Banner do Odoo"
+msgid "Banner ERP Image"
+msgstr "Imagem de Banner do ERP"
 
 #. module: event
 #: selection:event.mail,interval_type:0
@@ -1342,23 +1342,23 @@ msgstr "Quantidade de mensagens não lidas."
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Official Website"
-msgstr "Site Oficial do Odoo"
+msgid "ERP Official Website"
+msgstr "Site Oficial do ERP"
 
 #. module: event
 #: model:event.event,description:event.event_0
 #: model:event.event,description:event.event_1
 #: model:event.event,description:event.event_3
-msgid "Odoo Web Client"
-msgstr "Cliente Web Odoo"
+msgid "ERP Web Client"
+msgstr "Cliente Web ERP"
 
 #. module: event
 #: model:ir.actions.act_window,help:event.action_event_view
 msgid ""
-"Odoo helps you schedule and efficiently organize your events:\n"
+"ERP helps you schedule and efficiently organize your events:\n"
 "    track subscriptions and participations, automate the confirmation emails,\n"
 "    sell tickets, etc."
-msgstr "Odoo ajuda você a agendar e organizar de modo eficiente seus eventos: rastreie inscrições e participações,  automatize e-mails de confirmação, venda bilhetes, etc."
+msgstr "ERP ajuda você a agendar e organizar de modo eficiente seus eventos: rastreie inscrições e participações,  automatize e-mails de confirmação, venda bilhetes, etc."
 
 #. module: event
 #: model:event.event,name:event.event_0
@@ -1933,8 +1933,8 @@ msgstr ""
 
 #. module: event
 #: model:event.event,description:event.event_0
-msgid "to learn Odoo Programming"
-msgstr "para aprender Programação Odoo"
+msgid "to learn ERP Programming"
+msgstr "para aprender Programação ERP"
 
 #. module: event
 #: model:event.event,description:event.event_1

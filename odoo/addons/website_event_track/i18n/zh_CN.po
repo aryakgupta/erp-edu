@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_event_track
 # 
@@ -10,7 +10,7 @@
 # liAnGjiA <liangjia@qq.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:12+0000\n"
 "PO-Revision-Date: 2016-07-12 00:48+0000\n"
@@ -73,9 +73,9 @@ msgstr "<strong>正式讨论</strong>. 使用幻灯的，在60分钟内的标准
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track7
 msgid ""
-"A technical explanation of Odoo as a CMS and a eCommerce platform for "
+"A technical explanation of ERP as a CMS and a eCommerce platform for "
 "version 8."
-msgstr "一份以Odoo8.0版本为蓝本且从技术角度阐述Odoo是开源电子商务开源CMS的说明文档。"
+msgstr "一份以ERP8.0版本为蓝本且从技术角度阐述ERP是开源电子商务开源CMS的说明文档。"
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.track_view
@@ -89,7 +89,7 @@ msgstr "所需动作"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track19
-msgid "Advanced lead management with Odoo: tips and tricks from the fields"
+msgid "Advanced lead management with ERP: tips and tricks from the fields"
 msgstr "先进领先的管理:字段的提示和技巧"
 
 #. module: website_event_track
@@ -203,13 +203,13 @@ msgstr "8版本的新的会计模块和改进的详细路线图。"
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track8
 msgid ""
-"Discover Odoo CRM: How to optimize your sales, from leads to sales orders."
-msgstr "发现的Odoo CRM：如何优化你的销售，从线索到销售订单。"
+"Discover ERP CRM: How to optimize your sales, from leads to sales orders."
+msgstr "发现的ERP CRM：如何优化你的销售，从线索到销售订单。"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track11
-msgid "Discover Odoo Point-of-Sale: Your shop ready to use in 30 minutes."
-msgstr "探索Odoo POS：你的店在30分钟内就能准备好使用。"
+msgid "Discover ERP Point-of-Sale: Your shop ready to use in 30 minutes."
+msgstr "探索ERP POS：你的店在30分钟内就能准备好使用。"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_sponsor_display_name
@@ -353,8 +353,8 @@ msgstr "最高"
 #: model:event.track,name:website_event_track.event_track18
 msgid ""
 "How to build your marketing strategy for the purpose of generating leads "
-"with Odoo."
-msgstr "如何生成线索与Odoo的目的建立自己的营销策略。"
+"with ERP."
+msgstr "如何生成线索与ERP的目的建立自己的营销策略。"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track1
@@ -363,8 +363,8 @@ msgstr "如何开发一个网站模块。"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track4
-msgid "How to develop automated tests in the Odoo web client."
-msgstr "在Odoo Web客户端,如何开发自动化测试。"
+msgid "How to develop automated tests in the ERP web client."
+msgstr "在ERP Web客户端,如何开发自动化测试。"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track3
@@ -373,15 +373,15 @@ msgstr "如何开发实时应用程序，网站在线聊天模块就是这样的
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track2
-msgid "How to integrate hardware materials with the Odoo point of sale."
-msgstr "如何与Odoo POS集成硬件设备。"
+msgid "How to integrate hardware materials with the ERP point of sale."
+msgstr "如何与ERP POS集成硬件设备。"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track9
 msgid ""
-"How to use Odoo for your HR process: recruitment, leaves management, "
+"How to use ERP for your HR process: recruitment, leaves management, "
 "appraisals, expenses, etc."
-msgstr "如何利用你的人力资源流程：Odoo招聘，层级管理，评估，费用，等"
+msgstr "如何利用你的人力资源流程：ERP招聘，层级管理，评估，费用，等"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_sponsor_id
@@ -419,8 +419,8 @@ msgstr "是关注者"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track23
-msgid "Key Success factors selling Odoo."
-msgstr "销售Odoo关键成功因素。"
+msgid "Key Success factors selling ERP."
+msgstr "销售ERP关键成功因素。"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track_message_last_post
@@ -483,12 +483,12 @@ msgstr "邮件"
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track22
 msgid "Manage your KPIs (recomended to openERP partners)."
-msgstr "管理您的关键绩效指标（建议Odoo的合作伙伴）。"
+msgstr "管理您的关键绩效指标（建议ERP的合作伙伴）。"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track12
-msgid "Manage your events with Odoo, the new training modules."
-msgstr "在Odoo上管理活动,新的培训模块。"
+msgid "Manage your events with ERP, the new training modules."
+msgstr "在ERP上管理活动,新的培训模块。"
 
 #. module: website_event_track
 #: selection:event.track,priority:0
@@ -588,23 +588,23 @@ msgstr "未读的消息数量"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track15
-msgid "Odoo Mobile for Notes, Meetings and Messages."
+msgid "ERP Mobile for Notes, Meetings and Messages."
 msgstr "ODOO的移动笔记，会议和消息。"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track28
-msgid "Odoo Status & Strategy 2014"
-msgstr "Odoo的现状与策略2014"
+msgid "ERP Status & Strategy 2014"
+msgstr "ERP的现状与策略2014"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track16
-msgid "Odoo as your Enterprise Social Network."
-msgstr "Odoo就可作为您的企业社交网络。"
+msgid "ERP as your Enterprise Social Network."
+msgstr "ERP就可作为您的企业社交网络。"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track27
-msgid "Odoo in 2014"
-msgstr "Odoo2014"
+msgid "ERP in 2014"
+msgstr "ERP2014"
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.event_sponsor
@@ -689,8 +689,8 @@ msgstr "以提高调查程序的定性见解"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track21
-msgid "Recruiting high skilled talents with Odoo HR apps"
-msgstr "招聘高技能人才的Odoo人力资源应用程序"
+msgid "Recruiting high skilled talents with ERP HR apps"
+msgstr "招聘高技能人才的ERP人力资源应用程序"
 
 #. module: website_event_track
 #: selection:event.track,state:0
@@ -853,8 +853,8 @@ msgstr "谢谢您的建议。"
 
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track17
-msgid "The Art of Making an Odoo Demo."
-msgstr "制作Odoo演示的艺术。"
+msgid "The Art of Making an ERP Demo."
+msgstr "制作ERP演示的艺术。"
 
 #. module: website_event_track
 #: model:ir.model.fields,help:website_event_track.field_event_track_website_url
@@ -869,8 +869,8 @@ msgstr "新的营销战略。"
 #. module: website_event_track
 #: model:event.track,name:website_event_track.event_track5
 msgid ""
-"The new way to promote your modules in the Apps platform and Odoo website."
-msgstr "在应用程序平台和Odoo网站,新的方式来推广您的模块"
+"The new way to promote your modules in the Apps platform and ERP website."
+msgstr "在应用程序平台和ERP网站,新的方式来推广您的模块"
 
 #. module: website_event_track
 #: model:ir.ui.view,arch_db:website_event_track.event_track_proposal

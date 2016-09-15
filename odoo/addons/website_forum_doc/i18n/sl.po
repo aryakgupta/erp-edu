@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_forum_doc
 # 
@@ -6,7 +6,7 @@
 # Matjaž Mozetič <m.mozetic@matmoz.si>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:41+0000\n"
 "PO-Revision-Date: 2015-10-19 04:18+0000\n"
@@ -166,13 +166,13 @@ msgstr "Napaka! Ne morete ustvariti rekurzivne kategorije."
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to configure in Odoo"
-msgstr "Razložite, kako nastaviti v Odoo"
+msgid "Explain how to configure in ERP"
+msgstr "Razložite, kako nastaviti v ERP"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "Explain how to implement it in Odoo"
-msgstr "Razložite, kako implementirati v Odoo"
+msgid "Explain how to implement it in ERP"
+msgstr "Razložite, kako implementirati v ERP"
 
 #. module: website_forum_doc
 #: model:ir.model.fields,field_description:website_forum_doc.field_forum_documentation_toc_forum_id
@@ -383,8 +383,8 @@ msgstr "Naziv stopnje"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question
-msgid "The answer is understandable for someone who does not know Odoo"
-msgstr "Odgovor je razumljiv za nekoga, ki ne pozna Odoo"
+msgid "The answer is understandable for someone who does not know ERP"
+msgstr "Odgovor je razumljiv za nekoga, ki ne pozna ERP"
 
 #. module: website_forum_doc
 #: model:ir.ui.view,arch_db:website_forum_doc.promote_question

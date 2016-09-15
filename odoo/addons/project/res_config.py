@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 from openerp import SUPERUSER_ID
 from openerp.osv import fields, osv
@@ -54,7 +54,7 @@ class project_configuration(osv.osv_memory):
             (0, "Do not create an email alias automatically"),
             (1, "Automatically generate an email alias at the project creation")
             ], "Project Alias",
-            help="Odoo will generate an email alias at the project creation from project name."),
+            help="ERP will generate an email alias at the project creation from project name."),
         'module_project_timesheet_synchro': fields.boolean("Timesheet app for Chrome/Android/iOS"),
         'module_project_forecast': fields.boolean("Forecasts, planning and Gantt charts"),
     }

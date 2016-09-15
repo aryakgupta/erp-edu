@@ -1,10 +1,10 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 #	* website_twitter
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 9.0\n"
+"Project-Id-Version: ERP Server 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:41+0000\n"
 "PO-Revision-Date: 2015-09-07 14:41+0000\n"
@@ -27,12 +27,12 @@ msgstr ""
 
 #. module: website_twitter
 #: model:ir.ui.view,arch_db:website_twitter.view_website_config_settings
-msgid "<strong>Description: </strong> Odoo Tweet Scroller"
+msgid "<strong>Description: </strong> ERP Tweet Scroller"
 msgstr ""
 
 #. module: website_twitter
 #: model:ir.ui.view,arch_db:website_twitter.view_website_config_settings
-msgid "<strong>Name: </strong> Odoo Tweet Scroller"
+msgid "<strong>Name: </strong> ERP Tweet Scroller"
 msgstr ""
 
 #. module: website_twitter
@@ -315,7 +315,7 @@ msgstr ""
 
 #. module: website_twitter
 #: model:ir.ui.view,arch_db:website_twitter.view_website_config_settings
-msgid "https://www.odoo.com"
+msgid "https://www.erp.com"
 msgstr ""
 
 #. module: website_twitter

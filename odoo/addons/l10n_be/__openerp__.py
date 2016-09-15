@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Belgium - Accounting',
@@ -60,6 +60,6 @@ Wizards provided by this module:
     'test': [
     ],
     'installable': True,
-    'website': 'https://www.odoo.com/page/accounting',
+    'website': 'https://www.erp.com/page/accounting',
     'post_init_hook': 'load_translations',
 }

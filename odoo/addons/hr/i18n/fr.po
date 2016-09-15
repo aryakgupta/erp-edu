@@ -1,10 +1,10 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr
 # 
 # Translators:
 # Fabien Pinckaers <fp@openerp.com>, 2015
-# Lucas Deliege <lud@odoo.com>, 2015
+# Lucas Deliege <lud@erp.com>, 2015
 # Martin Malorni <mmalorni@gmail.com>, 2015
 # Maxime Chambreuil <maxime.chambreuil@gmail.com>, 2015
 # Olivier Lenoir <olivier.lenoir@free.fr>, 2015
@@ -12,7 +12,7 @@
 # Xavier Symons <xsy@openerp.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-15 10:41+0000\n"
 "PO-Revision-Date: 2016-05-27 16:11+0000\n"
@@ -344,8 +344,8 @@ msgstr "Définir le programme de la ressource"
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_consultant
-msgid "Deliver generic Odoo functional training sessions"
-msgstr "Donner des formations génériques et fonctionnelles sur Odoo"
+msgid "Deliver generic ERP functional training sessions"
+msgstr "Donner des formations génériques et fonctionnelles sur ERP"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee_department_id
@@ -951,10 +951,10 @@ msgstr "Nombre de messages non lus"
 #. module: hr
 #: model:ir.actions.act_window,help:hr.open_module_tree_department
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"ERP's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                leaves and holidays, recruitments, etc."
-msgstr "La structure des départements dans Odoo est utilisée pour suivre tous les documents\nliés aux employés par département : dépenses, feuilles de temps,\ncongés et vacances, recrutements, etc."
+msgstr "La structure des départements dans ERP est utilisée pour suivre tous les documents\nliés aux employés par département : dépenses, feuilles de temps,\ncongés et vacances, recrutements, etc."
 
 #. module: hr
 #: model:ir.actions.client,name:hr.action_client_hr_menu
@@ -1356,10 +1356,10 @@ msgstr "Vous rapporterez au Directeur du Département Services Professionnels"
 #: model:ir.actions.act_window,help:hr.act_employee_from_department
 #: model:ir.actions.act_window,help:hr.open_view_employee_list_my
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the ERP employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
-msgstr "Avec un coup d’œil rapide sur l'écran Odoo des employés, vous pouvez aisément trouver toute l'information dont vous avez besoin sur chaque personne; informations de contact, position de travail, disponibilité, etc."
+msgstr "Avec un coup d’œil rapide sur l'écran ERP des employés, vous pouvez aisément trouver toute l'information dont vous avez besoin sur chaque personne; informations de contact, position de travail, disponibilité, etc."
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_ceo

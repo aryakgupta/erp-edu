@@ -13,11 +13,11 @@ Upgrade API
 Introduction
 ~~~~~~~~~~~~
 
-This document describes the API used to upgrade an Odoo database to a
+This document describes the API used to upgrade an ERP database to a
 higher version.
 
 It allows a database to be upgraded without ressorting to the html form at
-https://upgrade.odoo.com
+https://upgrade.erp.com
 Although the database will follow the same process described on that form.
 
 
@@ -41,24 +41,24 @@ This action creates a database request with the following information:
 
 * your contract reference
 * your email address
-* the target version (the Odoo version you want to upgrade to)
+* the target version (the ERP version you want to upgrade to)
 * the purpose of your request (test or production)
 * the database dump name (required but purely informative)
-* optionally the server timezone (for Odoo source version < 6.1)
+* optionally the server timezone (for ERP source version < 6.1)
 
 The ``create`` method
 ---------------------
 
-.. py:function:: https://upgrade.odoo.com/database/v1/create
+.. py:function:: https://upgrade.erp.com/database/v1/create
 
     Creates a database upgrade request
 
     :param str contract: (required) your enterprise contract reference
     :param str email: (required) your email address
-    :param str target: (required) the Odoo version you want to upgrade to. Valid choices: 6.0, 6.1, 7.0, 8.0
+    :param str target: (required) the ERP version you want to upgrade to. Valid choices: 6.0, 6.1, 7.0, 8.0
     :param str aim: (required) the purpose of your upgrade database request. Valid choices: test, production.
     :param str filename: (required) a purely informative name for you database dump file
-    :param str timezone: (optional) the timezone used by your server. Only for Odoo source version < 6.1
+    :param str timezone: (optional) the timezone used by your server. Only for ERP source version < 6.1
     :return: request result
     :rtype: json dictionary
 
@@ -148,7 +148,7 @@ Here are 2 examples of database upgrade request creation using:
         import pycurl
         import json
 
-        CREATE_URL = "https://upgrade.odoo.com/database/v1/create"
+        CREATE_URL = "https://upgrade.erp.com/database/v1/create"
         CONTRACT = "M123456-abcdef"
         AIM = "test"
         TARGET = "8.0"
@@ -185,7 +185,7 @@ Here are 2 examples of database upgrade request creation using:
         TARGET=8.0
         EMAIL=john.doe@example.com
         FILENAME=db_name.dump
-        CREATE_URL="https://upgrade.odoo.com/database/v1/create"
+        CREATE_URL="https://upgrade.erp.com/database/v1/create"
         URL_PARAMS="contract=${CONTRACT}&aim=${AIM}&target=${TARGET}&email=${EMAIL}&filename=${FILENAME}"
         curl -sS "${CREATE_URL}?${URL_PARAMS}" > create_result.json
 
@@ -206,7 +206,7 @@ This action upload your database dump.
 The ``upload`` method
 ---------------------
 
-.. py:function:: https://upgrade.odoo.com/database/v1/upload
+.. py:function:: https://upgrade.erp.com/database/v1/upload
 
     Uploads a database dump
 
@@ -233,7 +233,7 @@ should be empty if everything went fine.
         from io import BytesIO
         import json
 
-        UPLOAD_URL = "https://upgrade.odoo.com/database/v1/upload"
+        UPLOAD_URL = "https://upgrade.erp.com/database/v1/upload"
         DUMPFILE = "openchs.70.cdump"
 
         fields = dict([
@@ -259,7 +259,7 @@ should be empty if everything went fine.
 
     .. code-block:: bash
 
-        UPLOAD_URL="https://upgrade.odoo.com/database/v1/upload"
+        UPLOAD_URL="https://upgrade.erp.com/database/v1/upload"
         DUMPFILE="openchs.70.cdump"
         KEY="Aw7pItGVKFuZ_FOR3U8VFQ=="
         REQUEST_ID="10534"
@@ -277,7 +277,7 @@ This action ask the Upgrade Platform to process your database dump.
 The ``process`` method
 ----------------------
 
-.. py:function:: https://upgrade.odoo.com/database/v1/process
+.. py:function:: https://upgrade.erp.com/database/v1/process
 
     Process a database dump
 
@@ -303,7 +303,7 @@ should be empty if everything went fine.
         import pycurl
         import json
 
-        PROCESS_URL = "https://upgrade.odoo.com/database/v1/process"
+        PROCESS_URL = "https://upgrade.erp.com/database/v1/process"
 
         fields = dict([
             ('request', '10534'),
@@ -327,7 +327,7 @@ should be empty if everything went fine.
 
     .. code-block:: bash
 
-        PROCESS_URL="https://upgrade.odoo.com/database/v1/process"
+        PROCESS_URL="https://upgrade.erp.com/database/v1/process"
         KEY="Aw7pItGVKFuZ_FOR3U8VFQ=="
         REQUEST_ID="10534"
         URL_PARAMS="key=${KEY}&request=${REQUEST_ID}"
@@ -343,7 +343,7 @@ This action ask the status of your database upgrade request.
 The ``status`` method
 ---------------------
 
-.. py:function:: https://upgrade.odoo.com/database/v1/status
+.. py:function:: https://upgrade.erp.com/database/v1/status
 
     Ask the status of a database upgrade request
 
@@ -369,7 +369,7 @@ database upgrade request.
         import pycurl
         import json
 
-        STATUS_URL = "https://upgrade.odoo.com/database/v1/status"
+        STATUS_URL = "https://upgrade.erp.com/database/v1/status"
 
         fields = dict([
             ('request', '10534'),
@@ -391,7 +391,7 @@ database upgrade request.
 
     .. code-block:: bash
 
-        STATUS_URL="https://upgrade.odoo.com/database/v1/status"
+        STATUS_URL="https://upgrade.erp.com/database/v1/status"
         KEY="Aw7pItGVKFuZ_FOR3U8VFQ=="
         REQUEST_ID="10534"
         URL_PARAMS="key=${KEY}&request=${REQUEST_ID}"
@@ -409,7 +409,7 @@ The ``request`` key contains various useful information about your request:
 ``email``
     the email address you supplied when creating the request
 ``target``
-    the target Odoo version you supplied when creating the request
+    the target ERP version you supplied when creating the request
 ``aim``
     the purpose (test, production) of your database upgrade request you supplied when creating the request
 ``filename``
@@ -419,9 +419,9 @@ The ``request`` key contains various useful information about your request:
 ``state``
     the state of your request
 ``issue_stage``
-    the stage of the issue we have create on Odoo main server
+    the stage of the issue we have create on ERP main server
 ``issue``
-    the id of the issue we have create on Odoo main server
+    the id of the issue we have create on ERP main server
 ``status_url``
     the URL to access your database upgrade request html page
 ``notes_url``
@@ -453,7 +453,7 @@ The ``request`` key contains various useful information about your request:
 ``customer_message``
     an important message related to your request
 ``database_version``
-    the guessed Odoo version of your uploaded (not upgraded) database
+    the guessed ERP version of your uploaded (not upgraded) database
 ``postgresql``
     the guessed Postgresql version of your uploaded (not upgraded) database
 ``compressions``
@@ -478,13 +478,13 @@ The ``request`` key contains various useful information about your request:
             "state": "draft",
             "issue_stage": "new",
             "issue": 648398,
-            "status_url": "https://upgrade.odoo.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/status",
-            "notes_url": "https://upgrade.odoo.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/upgraded/notes",
-            "original_sql_url": "https://upgrade.odoo.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/original/sql",
-            "original_dump_url": "https://upgrade.odoo.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/original/archive",
-            "upgraded_sql_url": "https://upgrade.odoo.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/upgraded/sql",
-            "upgraded_dump_url": "https://upgrade.odoo.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/upgraded/archive",
-            "modules_url": "https://upgrade.odoo.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/modules/archive",
+            "status_url": "https://upgrade.erp.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/status",
+            "notes_url": "https://upgrade.erp.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/upgraded/notes",
+            "original_sql_url": "https://upgrade.erp.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/original/sql",
+            "original_dump_url": "https://upgrade.erp.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/original/archive",
+            "upgraded_sql_url": "https://upgrade.erp.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/upgraded/sql",
+            "upgraded_dump_url": "https://upgrade.erp.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/upgraded/archive",
+            "modules_url": "https://upgrade.erp.com/database/eu1/10534/Aw7pItGVKFuZ_FOR3U8VFQ==/modules/archive",
             "filesize": "912.99 Kb",
             "database_uuid": null,
             "created_at": "2015-09-09 07:13:49",

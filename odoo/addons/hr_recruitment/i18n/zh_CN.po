@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_recruitment
 # 
@@ -12,7 +12,7 @@
 # liAnGjiA <liangjia@qq.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-18 08:11+0000\n"
 "PO-Revision-Date: 2016-07-12 00:57+0000\n"
@@ -1289,16 +1289,16 @@ msgstr "未读的消息数量"
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_applications
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"ERP helps you track applicants in the recruitment\n"
 "                process and follow up all operations: meetings, interviews, etc."
-msgstr "Odoo帮助您在招聘过程跟踪申请人及跟进所有操作：会议，采访等。"
+msgstr "ERP帮助您在招聘过程跟踪申请人及跟进所有操作：会议，采访等。"
 
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.crm_case_categ0_act_job
 msgid ""
-"Odoo helps you track applicants in the recruitment\n"
+"ERP helps you track applicants in the recruitment\n"
 "            process and follow up all operations: meetings, interviews, etc."
-msgstr "Odoo帮助您在招聘过程跟踪申请人及跟进所有操作：会议，采访等。"
+msgstr "ERP帮助您在招聘过程跟踪申请人及跟进所有操作：会议，采访等。"
 
 #. module: hr_recruitment
 #: model:survey.label,value:hr_recruitment.rrow_2_1_3
@@ -1705,10 +1705,10 @@ msgstr "申请者可以开始上班的日期"
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_model_id
 msgid ""
-"The model (Odoo Document Kind) to which this alias corresponds. Any incoming"
+"The model (ERP Document Kind) to which this alias corresponds. Any incoming"
 " email that does not reply to an existing record will cause the creation of "
 "a new record of this model (e.g. a Project Task)"
-msgstr "相应于这个别名对应的模型(Odoo的文件种类)。任何一封不属于对某个已存在的记录的到来邮件，将导致此模块中新记录的创建(例如，一个新的项目任务)。"
+msgstr "相应于这个别名对应的模型(ERP的文件种类)。任何一封不属于对某个已存在的记录的到来邮件，将导致此模块中新记录的创建(例如，一个新的项目任务)。"
 
 #. module: hr_recruitment
 #: sql_constraint:hr.recruitment.degree:0
@@ -1719,8 +1719,8 @@ msgstr "应聘者学历的名称必须唯一"
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_name
 msgid ""
 "The name of the email alias, e.g. 'jobs' if you want to catch emails for "
-"<jobs@example.odoo.com>"
-msgstr "邮件别名的名称，例如，如果你要收取 <jobs@example.odoo.com> 的电子邮件,别名就要被设为：\"jobs\""
+"<jobs@example.erp.com>"
+msgstr "邮件别名的名称，例如，如果你要收取 <jobs@example.erp.com> 的电子邮件,别名就要被设为：\"jobs\""
 
 #. module: hr_recruitment
 #: model:ir.model.fields,help:hr_recruitment.field_hr_job_alias_user_id
@@ -1878,10 +1878,10 @@ msgstr "您的性别是？"
 #. module: hr_recruitment
 #: model:ir.actions.act_window,help:hr_recruitment.action_hr_job_no_employee
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the ERP employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
-msgstr "随着Odoo员工的屏幕上只是一个快速浏览，你可以很容易地找到你所需要的每个人的信息;联系人数据，工作岗位，可用性等。"
+msgstr "随着ERP员工的屏幕上只是一个快速浏览，你可以很容易地找到你所需要的每个人的信息;联系人数据，工作岗位，可用性等。"
 
 #. module: hr_recruitment
 #: code:addons/hr_recruitment/models/hr_recruitment.py:432

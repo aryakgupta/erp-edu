@@ -1,8 +1,8 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Contact: Odoo <info@odoo.com>
+Upstream-Contact: ERP <info@erp.com>
 
 Files: *
-Copyright: (C) 2004-2015 Odoo SA. (www.odoo.com)
+Copyright: (C) 2004-2015 ERP SA. (www.erp.com)
 License: LGPL-3+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU Lesser General Public License as published by

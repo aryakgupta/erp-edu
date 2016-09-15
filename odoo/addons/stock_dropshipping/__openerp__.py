@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Drop Shipping',
@@ -20,7 +20,7 @@ going through the retailer's warehouse. In this case no
 internal transfer document is needed.
 
 """,
-    'website': 'https://www.odoo.com/page/warehouse',
+    'website': 'https://www.erp.com/page/warehouse',
     'depends': ['purchase', 'sale_stock'],
     'data': ['stock_dropshipping.xml'],
     'test': [

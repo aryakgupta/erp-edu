@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * web_settings_dashboard
 # 
@@ -7,7 +7,7 @@
 # krnkris, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-06-17 08:01+0000\n"
 "PO-Revision-Date: 2016-06-17 10:17+0000\n"
@@ -80,22 +80,22 @@ msgstr "E-mail címek begépelése (soronként egyet)"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:92
 #, python-format
-msgid "Follow these implementation guides to get the most out of Odoo."
-msgstr "Ezeket a végrehajtási utasításokat kövesse ahhoz, hogy a legtöbbet kihozhassa az Odoo rendszerből."
+msgid "Follow these implementation guides to get the most out of ERP."
+msgstr "Ezeket a végrehajtási utasításokat kövesse ahhoz, hogy a legtöbbet kihozhassa az ERP rendszerből."
 
 #. module: web_settings_dashboard
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:149
 #, python-format
 msgid "Get more features with the Enterprise Edition!"
-msgstr "Kapjon még több jellemzőt az Odoo Nagyvállalati rendszerrel!"
+msgstr "Kapjon még több jellemzőt az ERP Nagyvállalati rendszerrel!"
 
 #. module: web_settings_dashboard
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:131
 #, python-format
-msgid "Help us spread the word: Share Odoo's awesomeness with your friends!"
-msgstr "Segíts terjeszteni a világban: Terjeszd a óriási Odoo rendszert a barátaid körében!"
+msgid "Help us spread the word: Share ERP's awesomeness with your friends!"
+msgstr "Segíts terjeszteni a világban: Terjeszd a óriási ERP rendszert a barátaid körében!"
 
 #. module: web_settings_dashboard
 #. openerp-web
@@ -150,8 +150,8 @@ msgstr "Nincs telepített alkalmazás"
 #. openerp-web
 #: code:addons/web_settings_dashboard/static/src/xml/dashboard.xml:148
 #, python-format
-msgid "Odoo Enterprise"
-msgstr "Odoo Nagyvállalati"
+msgid "ERP Enterprise"
+msgstr "ERP Nagyvállalati"
 
 #. module: web_settings_dashboard
 #. openerp-web

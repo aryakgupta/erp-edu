@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr
 # 
@@ -8,7 +8,7 @@
 # Yenthe Van Ginneken <yenthespam@gmail.com>, 2015
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-15 10:41+0000\n"
 "PO-Revision-Date: 2016-08-06 10:39+0000\n"
@@ -340,8 +340,8 @@ msgstr "Definieert de planning van de resource"
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_consultant
-msgid "Deliver generic Odoo functional training sessions"
-msgstr "Lever generieke functionele trainingssessies over Odoo"
+msgid "Deliver generic ERP functional training sessions"
+msgstr "Lever generieke functionele trainingssessies over ERP"
 
 #. module: hr
 #: model:ir.model.fields,field_description:hr.field_hr_employee_department_id
@@ -947,10 +947,10 @@ msgstr "Aantal ongelezen berichten"
 #. module: hr
 #: model:ir.actions.act_window,help:hr.open_module_tree_department
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"ERP's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                leaves and holidays, recruitments, etc."
-msgstr "Odoo's departement structuur is gebruikt om alle documenten te beheren\ndie gerelateerd zijn aan werknemers per departement: uitgaven, urenstaten,\nafwezigheden en vakanties, aanwervingen, enz."
+msgstr "ERP's departement structuur is gebruikt om alle documenten te beheren\ndie gerelateerd zijn aan werknemers per departement: uitgaven, urenstaten,\nafwezigheden en vakanties, aanwervingen, enz."
 
 #. module: hr
 #: model:ir.actions.client,name:hr.action_client_hr_menu
@@ -1352,10 +1352,10 @@ msgstr "Rapporteert aan het hoofd van professionele diensten"
 #: model:ir.actions.act_window,help:hr.act_employee_from_department
 #: model:ir.actions.act_window,help:hr.open_view_employee_list_my
 msgid ""
-"With just a quick glance on the Odoo employee screen, you\n"
+"With just a quick glance on the ERP employee screen, you\n"
 "                can easily find all the information you need for each person;\n"
 "                contact data, job position, availability, etc."
-msgstr "Met slechts een snelle blik op het Odoo werknemer scherm kan u\ngemakkelijk alle informatie vinden die u nodig heeft voor elke persoon;\ncontact data, job positie, beschikbaarheid, enz."
+msgstr "Met slechts een snelle blik op het ERP werknemer scherm kan u\ngemakkelijk alle informatie vinden die u nodig heeft voor elke persoon;\ncontact data, job positie, beschikbaarheid, enz."
 
 #. module: hr
 #: model:hr.job,website_description:hr.job_ceo
@@ -1583,7 +1583,7 @@ msgid ""
 "Your departments structure is used to manage all documents\n"
 "                related to employees by departments: expenses and timesheets,\n"
 "                leaves and holidays, recruitments, etc."
-msgstr "Odoo's departement structuur is gebruikt om alle documenten te beheren\ndie gerelateerd zijn aan werknemers per departement: uitgaven, urenstaten,\nafwezigheden en vakanties, aanwervingen, enz."
+msgstr "ERP's departement structuur is gebruikt om alle documenten te beheren\ndie gerelateerd zijn aan werknemers per departement: uitgaven, urenstaten,\nafwezigheden en vakanties, aanwervingen, enz."
 
 #. module: hr
 #: model:ir.ui.view,arch_db:hr.view_department_form

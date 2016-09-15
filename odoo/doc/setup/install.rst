@@ -3,35 +3,35 @@
 .. _setup/install:
 
 ===============
-Installing Odoo
+Installing ERP
 ===============
 
-There are mutliple ways to install Odoo, or not install it at all, depending
+There are mutliple ways to install ERP, or not install it at all, depending
 on the intended use case.
 
 This documents attempts to describe most of the installation options.
 
 :ref:`setup/install/demo`
     The simplest "installation", only suitable for getting a quick feel for
-    Odoo or trying something out
+    ERP or trying something out
 :ref:`setup/install/saas`
-    Trivial to start with and fully managed and migrated by Odoo S.A., can be
-    used to both test Odoo and use it for your business, prevents complex
-    customization (i.e. incompatible with custom modules or the Odoo Apps Store).
+    Trivial to start with and fully managed and migrated by ERP S.A., can be
+    used to both test ERP and use it for your business, prevents complex
+    customization (i.e. incompatible with custom modules or the ERP Apps Store).
 
-    Can be used for both testing Odoo and long-term production use.
+    Can be used for both testing ERP and long-term production use.
 :ref:`setup/install/packaged`
     Simple to get started, allows more flexibility in hosting and deploying
     the system and greater control over where data is stored. The maintenance
     burden is shifted to the user.
 
-    Suitable for testing Odoo, developing modules and can be used for
+    Suitable for testing ERP, developing modules and can be used for
     long-term production use with additional deployment and maintenance work.
 :ref:`setup/install/source`
     Harder to get started than :ref:`setup/install/packaged`, provides
     even greater flexibility: packaged installers don't generally allow
-    multiple running Odoo versions on the same system, and don't provide easy
-    source access to Odoo itself.
+    multiple running ERP versions on the same system, and don't provide easy
+    source access to ERP itself.
 
     Good for developing modules, can be used as base for production
     deployment.
@@ -50,7 +50,7 @@ This documents attempts to describe most of the installation options.
 Editions
 ========
 
-There are two different Editions_ of Odoo: the Community and Enterprise versions.
+There are two different Editions_ of ERP: the Community and Enterprise versions.
 Using the Enterprise version is possible on our SaaS_ and accessing the code is
 restricted to Enterprise customers and partners. The Community version is freely
 available to anyone.
@@ -76,7 +76,7 @@ If you wish to access the Enterprise installers/source code, you can:
 Demo
 ====
 
-To simply get a quick idea of Odoo, demo_ instances are available. They are
+To simply get a quick idea of ERP, demo_ instances are available. They are
 shared instances which only live for a few hours, and can be used to browse
 around and try things out with no commitment.
 
@@ -87,8 +87,8 @@ Demo_ instances require no local installation, just a web browser.
 SaaS
 ====
 
-Odoo's SaaS_ provides private instances and starts out free. It can be used to
-discover and test Odoo and do non-code customizations without having to
+ERP's SaaS_ provides private instances and starts out free. It can be used to
+discover and test ERP and do non-code customizations without having to
 install it locally.
 
 Like demo_ instances, SaaS_ instances require no local installation, a web
@@ -99,7 +99,7 @@ browser is sufficient.
 Packaged installers
 ===================
 
-Odoo provides packaged installers for Windows, deb-based distributions
+ERP provides packaged installers for Windows, deb-based distributions
 (Debian, Ubuntu, …) and RPM-based distributions (Fedora, CentOS, RHEL, …) for
 both the Community and Enterprise versions.
 
@@ -125,18 +125,18 @@ Windows
 * Accept the UAC_ prompt
 * Go through the various installation steps
 
-Odoo will automatically be started at the end of the installation.
+ERP will automatically be started at the end of the installation.
 
 Configuration
 '''''''''''''
 
 The :ref:`configuration file <reference/cmdline/config>` can be found at
-:file:`{%PROGRAMFILES%}\\Odoo 9.0-{id}\\server\\openerp-server.conf`.
+:file:`{%PROGRAMFILES%}\\ERP 9.0-{id}\\server\\openerp-server.conf`.
 
 The configuration file can be edited to connect to a remote Postgresql, edit
 file locations or set a dbfilter.
 
-To reload the configuration file, restart the Odoo service via
+To reload the configuration file, restart the ERP service via
 :menuselection:`Services --> odoo server`.
 
 Deb
@@ -145,13 +145,13 @@ Deb
 Community
 '''''''''
 
-To install Odoo 9.0 Community on Debian-based distribution, execute the following
+To install ERP 9.0 Community on Debian-based distribution, execute the following
 commands as root:
 
 .. code-block:: console
 
-    # wget -O - https://nightly.odoo.com/odoo.key | apt-key add -
-    # echo "deb http://nightly.odoo.com/9.0/nightly/deb/ ./" >> /etc/apt/sources.list
+    # wget -O - https://nightly.erp.com/odoo.key | apt-key add -
+    # echo "deb http://nightly.erp.com/9.0/nightly/deb/ ./" >> /etc/apt/sources.list
     # apt-get update && apt-get install odoo
 
 You can then use the usual ``apt-get upgrade`` command to keep your installation up-to-date.
@@ -159,7 +159,7 @@ You can then use the usual ``apt-get upgrade`` command to keep your installation
 Enterprise
 ''''''''''
 
-For Odoo 9.0 Enterprise, get the package from the Download_ page. You can then
+For ERP 9.0 Enterprise, get the package from the Download_ page. You can then
 use ``gdebi``:
 
 .. code-block:: console
@@ -177,7 +177,7 @@ Or ``dpkg`` (handles less dependencies automatically):
     # dpkg -i <path_to_installation_package>
 
 
-This will install Odoo as a service, create the necessary PostgreSQL_ user
+This will install ERP as a service, create the necessary PostgreSQL_ user
 and automatically start the server.
 
 .. danger:: to print PDF reports, you must install wkhtmltopdf_ yourself:
@@ -194,7 +194,7 @@ Configuration
 The :ref:`configuration file <reference/cmdline/config>` can be found at
 :file:`/etc/odoo/openerp-server.conf`
 
-When the configuration file is edited, Odoo must be restarted using
+When the configuration file is edited, ERP must be restarted using
 ``service``:
 
 .. code-block:: console
@@ -208,7 +208,7 @@ RPM
 .. warning::
 
     with RHEL-based distributions (RHEL, CenOS, Scientific Linux), EPEL_ must
-    be added to the distribution's repositories for all of Odoo's
+    be added to the distribution's repositories for all of ERP's
     dependencies to be available. For CenOS:
 
     .. code-block:: console
@@ -220,7 +220,7 @@ RPM
 Community
 '''''''''
 
-Execute the following commands to install Odoo 9.0 Community on your server:
+Execute the following commands to install ERP 9.0 Community on your server:
 
 .. code-block:: console
 
@@ -228,7 +228,7 @@ Execute the following commands to install Odoo 9.0 Community on your server:
     $ sudo postgresql-setup initdb
     $ sudo systemctl enable postgresql
     $ sudo systemctl start postgresql
-    $ sudo yum-config-manager --add-repo=https://nightly.odoo.com/9.0/nightly/rpm/odoo.repo
+    $ sudo yum-config-manager --add-repo=https://nightly.erp.com/9.0/nightly/rpm/odoo.repo
     $ sudo yum install -y odoo
     $ sudo systemctl enable odoo
     $ sudo systemctl start odoo
@@ -236,7 +236,7 @@ Execute the following commands to install Odoo 9.0 Community on your server:
 Enterprise
 ''''''''''
 
-For Odoo 9.0 Enterprise, get the package from the Download_ page. Then run:
+For ERP 9.0 Enterprise, get the package from the Download_ page. Then run:
 
 .. code-block:: console
 
@@ -261,7 +261,7 @@ Configuration
 The :ref:`configuration file <reference/cmdline/config>` can be found at
 :file:`/etc/odoo/openerp-server.conf`
 
-When the configuration file is edited, Odoo must be restarted via SystemD:
+When the configuration file is edited, ERP must be restarted via SystemD:
 
 .. code-block:: console
 
@@ -273,33 +273,33 @@ When the configuration file is edited, Odoo must be restarted via SystemD:
 Source Install
 ==============
 
-The source "installation" really is about not installing Odoo, and running
+The source "installation" really is about not installing ERP, and running
 it directly from source instead.
 
-This can be more convenient for module developers as the Odoo source is
+This can be more convenient for module developers as the ERP source is
 more easily accessible than using packaged installation (for information or
 to build this documentation and have it available offline).
 
-It also makes starting and stopping Odoo more flexible and explicit than the
+It also makes starting and stopping ERP more flexible and explicit than the
 services set up by the packaged installations, and allows overriding settings
 using :ref:`command-line parameters <reference/cmdline>` without needing to
 edit a configuration file.
 
 Finally it provides greater control over the system's set up, and allows more
-easily keeping (and running) multiple versions of Odoo side-by-side.
+easily keeping (and running) multiple versions of ERP side-by-side.
 
 Community
 ---------
 
 There are two way to get the odoo source source zip or git.
 
-* Odoo zip can be downloaded from  our nightly_ server or our Download_  page,
+* ERP zip can be downloaded from  our nightly_ server or our Download_  page,
   the zip file then needs to be uncompressed to use its content
 
 * git allows simpler update and easier switching between different versions
-  of Odoo. It also simplifies maintaining non-module patches and
+  of ERP. It also simplifies maintaining non-module patches and
   contributions.  The primary drawback of git is that it is significantly
-  larger than a tarball as it contains the entire history of the Odoo project.
+  larger than a tarball as it contains the entire history of the ERP project.
 
   The git repository is https://github.com/odoo/odoo.git for the Community
   version.
@@ -333,9 +333,9 @@ For example:
 
   $ odoo.py --addons-path=~/src/custom_modules,~/src/enterprise,~/src/odoo/addons
 
-.. warning:: The Enterprise git repository **does not contain the full Odoo
+.. warning:: The Enterprise git repository **does not contain the full ERP
     source code**. You need to clone both the Community and Enterprise repository to
-    have a working Odoo installation. The Download_ page contains the entire
+    have a working ERP installation. The Download_ page contains the entire
     source code but is not updateable as easily.
 
 
@@ -355,12 +355,12 @@ Source installation requires manually installing dependencies:
 
     .. note:: if Python is already installed, make sure it is 2.7.9, previous
               versions are less convenient and 3.x versions are not compatible
-              with Odoo
+              with ERP
 
 * PostgreSQL, to use a local database
 
   After installation you will need to create a postgres user: by default the
-  only user is ``postgres``, and Odoo forbids connecting as ``postgres``.
+  only user is ``postgres``, and ERP forbids connecting as ``postgres``.
 
   - on Linux, use your distribution's package, then create a postgres user
     named like your login:
@@ -386,7 +386,7 @@ Source installation requires manually installing dependencies:
       the :guilabel:`Definition` tab and enter the password (e.g. ``odoo``),
       then click :guilabel:`OK`.
 
-      The user and password must be passed to Odoo using either the
+      The user and password must be passed to ERP using either the
       :option:`-w <odoo.py -w>` and :option:`-r <odoo.py -r>` options or
       :ref:`the configuration file <reference/cmdline/config>`
 
@@ -429,13 +429,13 @@ Source installation requires manually installing dependencies:
     - add ``pypiwin32`` because it's needed under windows.
 
     Then use pip to install the dependencies using the following
-    command from a cmd.exe prompt (replace ``\YourOdooPath`` by the actual
-    path where you downloaded Odoo):
+    command from a cmd.exe prompt (replace ``\YourERPPath`` by the actual
+    path where you downloaded ERP):
 
     .. code-block:: ps1
 
-        C:\> cd \YourOdooPath
-        C:\YourOdooPath> C:\Python27\Scripts\pip.exe install -r requirements.txt
+        C:\> cd \YourERPPath
+        C:\YourERPPath> C:\Python27\Scripts\pip.exe install -r requirements.txt
 
 * *Less CSS* via nodejs
 
@@ -481,10 +481,10 @@ Source installation requires manually installing dependencies:
 
         C:\> npm install -g less
 
-Running Odoo
+Running ERP
 ------------
 
-Once all dependencies are set up, Odoo can be launched by running ``odoo.py``.
+Once all dependencies are set up, ERP can be launched by running ``odoo.py``.
 
 .. warning:: For the Enterprise edition, you must specify the :file:`enterprise`
     addons folder when starting your server. You can do so by providing the path
@@ -500,7 +500,7 @@ Common necessary configurations are:
 
 * PostgreSQL host, port, user and password.
 
-  Odoo has no defaults beyond
+  ERP has no defaults beyond
   `psycopg2's defaults <http://initd.org/psycopg/docs/module.html>`_: connects
   over a UNIX socket on port 5432 with the current user and no password. By
   default this should work on Linux and OS X, but it *will not work* on
@@ -512,7 +512,7 @@ Under Windows a typical way to execute odoo would be:
 
 .. code-block:: ps1
 
-    C:\YourOdooPath> python odoo.py -w odoo -r odoo --addons-path=addons,../mymodules --db-filter=mydb$
+    C:\YourERPPath> python odoo.py -w odoo -r odoo --addons-path=addons,../mymodules --db-filter=mydb$
 
 Where ``odoo``, ``odoo`` are the postgresql login and password,
 ``../mymodules`` a directory with additional addons and ``mydb`` the default
@@ -527,9 +527,9 @@ Under Unix a typical way to execute odoo would be:
 Where ``../mymodules`` is a directory with additional addons and ``mydb`` the
 default db to serve on localhost:8069
 
-.. _demo: https://demo.odoo.com
+.. _demo: https://demo.erp.com
 .. _docker: https://www.docker.com
-.. _Download: https://www.odoo.com/page/download
+.. _Download: https://www.erp.com/page/download
 .. _EPEL: https://fedoraproject.org/wiki/EPEL
 .. _PostgreSQL: http://www.postgresql.org
 .. _the official installer:
@@ -538,7 +538,7 @@ default db to serve on localhost:8069
 .. _PostgreSQL for windows:
     http://www.enterprisedb.com/products-services-training/pgdownload
 .. _Quilt: http://en.wikipedia.org/wiki/Quilt_(software)
-.. _saas: https://www.odoo.com/page/start
+.. _saas: https://www.erp.com/page/start
 .. _the wkhtmltopdf download page: http://wkhtmltopdf.org/downloads.html
 .. _UAC: http://en.wikipedia.org/wiki/User_Account_Control
 .. _wkhtmltopdf: http://wkhtmltopdf.org
@@ -552,6 +552,6 @@ default db to serve on localhost:8069
 .. _pywin32: http://sourceforge.net/projects/pywin32/files/pywin32/
 .. _the repository: https://github.com/odoo/odoo
 .. _git: http://git-scm.com
-.. _Editions: https://www.odoo.com/pricing#pricing_table_features
-.. _nightly: https://nightly.odoo.com/9.0/nightly/
-.. _extra: https://nightly.odoo.com/extra/
+.. _Editions: https://www.erp.com/pricing#pricing_table_features
+.. _nightly: https://nightly.erp.com/9.0/nightly/
+.. _extra: https://nightly.erp.com/extra/

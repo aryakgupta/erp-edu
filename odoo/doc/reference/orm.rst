@@ -11,7 +11,7 @@ Recordsets
 
 .. versionadded:: 8.0
 
-    This page documents the New API added in Odoo 8.0 which should be the
+    This page documents the New API added in ERP 8.0 which should be the
     primary development API going forward. It also provides information about
     porting from or bridging with the "old API" of versions 7 and earlier, but
     does not explicitly document that API. See the old documentation for that.
@@ -244,7 +244,7 @@ Common ORM methods
 
 :meth:`~openerp.models.Model.browse`
     Takes a database id or a list of ids and returns a recordset, useful when
-    record ids are obtained from outside Odoo (e.g. round-trip through
+    record ids are obtained from outside ERP (e.g. round-trip through
     external system) or :ref:`when calling methods in the old API
     <reference/orm/oldapi>`::
 
@@ -454,7 +454,7 @@ Clearing caches can be performed using the
 Compatibility between new API and old API
 =========================================
 
-Odoo is currently transitioning from an older (less regular) API, it can be
+ERP is currently transitioning from an older (less regular) API, it can be
 necessary to manually bridge from one to the other manually:
 
 * RPC layers (both XML-RPC and JSON-RPC) are expressed in terms of the old
@@ -839,7 +839,7 @@ Relational fields
 Inheritance and extension
 =========================
 
-Odoo provides three different mechanisms to extend models in a modular way:
+ERP provides three different mechanisms to extend models in a modular way:
 
 * creating a new model from an existing one, adding new information to the
   copy but leaving the original module as-is
@@ -854,7 +854,7 @@ Classical inheritance
 ---------------------
 
 When using the :attr:`~openerp.models.Model._inherit` and
-:attr:`~openerp.models.Model._name` attributes together, Odoo creates a new
+:attr:`~openerp.models.Model._name` attributes together, ERP creates a new
 model using the existing one (provided via
 :attr:`~openerp.models.Model._inherit`) as a base. The new model gets all the
 fields, methods and meta-information (defaults & al) from its base.
@@ -1069,7 +1069,7 @@ Porting from the old API to the new API
   string), this makes them overridable (removes the need for an intermediate
   "trampoline" function)
 * double check that all fields and methods have different names, there is no
-  warning in case of collision (because Python handles it before Odoo sees
+  warning in case of collision (because Python handles it before ERP sees
   anything)
 * the normal new-api import is ``from openerp import fields, models``. If
   compatibility decorators are necessary, use ``from openerp import api,

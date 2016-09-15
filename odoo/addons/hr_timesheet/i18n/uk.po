@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * hr_timesheet
 # 
@@ -7,7 +7,7 @@
 # Bohdan Lisnenko, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-14 10:26+0000\n"
 "PO-Revision-Date: 2016-05-06 12:24+0000\n"
@@ -233,9 +233,9 @@ msgstr "Ви можете записувати та відстежувати з�
 #: model:ir.actions.act_window,help:hr_timesheet.action_define_analytic_structure
 msgid ""
 "You should create an analytic account structure depending on your needs to "
-"analyse costs and revenues. In Odoo, analytic accounts are also used to "
+"analyse costs and revenues. In ERP, analytic accounts are also used to "
 "track customer contracts."
-msgstr "Ви повинні створити власний перелік аналітичних рахунків для\nдетального обліку ваших доходів та витрат. В Odoo аналітичні рахунки також використовуються для обліку контрактів з клієнтами."
+msgstr "Ви повинні створити власний перелік аналітичних рахунків для\nдетального обліку ваших доходів та витрат. В ERP аналітичні рахунки також використовуються для обліку контрактів з клієнтами."
 
 #. module: hr_timesheet
 #: model:ir.ui.view,arch_db:hr_timesheet.view_hr_timesheet_report_search

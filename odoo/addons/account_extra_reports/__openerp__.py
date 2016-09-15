@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Extra Accounting Reports',
@@ -13,7 +13,7 @@ This module adds two new reports:
 * Sale/Purchase Journal report 
 * Partner Ledger
     """,
-    'website': 'https://www.odoo.com/page/accounting',
+    'website': 'https://www.erp.com/page/accounting',
     'depends': ['account_accountant'],
     'data': [
         'wizard/account_report_print_journal_view.xml',

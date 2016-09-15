@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website_hr_recruitment
 # 
@@ -7,7 +7,7 @@
 # Wolfgang Taferner, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:41+0000\n"
 "PO-Revision-Date: 2016-01-17 09:46+0000\n"
@@ -197,10 +197,10 @@ msgstr "Webseite Meta Titel"
 msgid ""
 "With a small team of smart people, we released the most\n"
 "                                    disruptive enterprise management software in the world.\n"
-"                                    Odoo is fully open source, super easy, full featured\n"
+"                                    ERP is fully open source, super easy, full featured\n"
 "                                    (3000+ apps) and its online offer is 3 times cheaper than\n"
 "                                    traditional competitors like SAP and Ms Dynamics."
-msgstr "Mit einem kleinen smarten Team, haben wir die \n                                    innovativste Enterprise-Management Software der Welt entwickelt.\n                                    Odoo ist komplett Open Source, super einfach und umfangreich \n                                    ausgestattet (+3000 Module). Das Online Angebot ist bis zu dreimal \n                                    günstiger als das der traditionellen Wettbewerb wie SAP oder MS Dynamics."
+msgstr "Mit einem kleinen smarten Team, haben wir die \n                                    innovativste Enterprise-Management Software der Welt entwickelt.\n                                    ERP ist komplett Open Source, super einfach und umfangreich \n                                    ausgestattet (+3000 Module). Das Online Angebot ist bis zu dreimal \n                                    günstiger als das der traditionellen Wettbewerb wie SAP oder MS Dynamics."
 
 #. module: website_hr_recruitment
 #: model:ir.ui.view,arch_db:website_hr_recruitment.apply

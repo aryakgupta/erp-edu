@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * web
 # 
@@ -8,7 +8,7 @@
 # Osama Ahmaro <osamaahmaro@gmail.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-18 04:43+0000\n"
 "PO-Revision-Date: 2016-07-23 18:20+0000\n"
@@ -233,7 +233,7 @@ msgstr "<span class=\"oe_logo_edit\">اعداد بيانات الشركة</span>
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.menu_secondary
-msgid "<span>Odoo</span>"
+msgid "<span>ERP</span>"
 msgstr ""
 
 #. module: web
@@ -582,8 +582,8 @@ msgstr "السياق:"
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:116
 #, python-format
-msgid "Copyright © 2004-2015 Odoo S.A."
-msgstr "حقوق الطبع والنشر © 2004-2015 Odoo ش.م"
+msgid "Copyright © 2004-2015 ERP S.A."
+msgstr "حقوق الطبع والنشر © 2004-2015 ERP ش.م"
 
 #. module: web
 #. openerp-web
@@ -1064,7 +1064,7 @@ msgstr ""
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:1500
 #, python-format
-msgid "Get this feature and much more with Odoo Enterprise!"
+msgid "Get this feature and much more with ERP Enterprise!"
 msgstr ""
 
 #. module: web
@@ -1396,8 +1396,8 @@ msgstr "قم بتحريك الفأرة هنا لفتح خاصية إدراج ق�
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:83
 #, python-format
-msgid "My Odoo.com account"
-msgstr "حساب Odoo.com الخاص بي"
+msgid "My ERP.com account"
+msgstr "حساب ERP.com الخاص بي"
 
 #. module: web
 #. openerp-web
@@ -1555,55 +1555,55 @@ msgstr "الكائن:"
 #: code:addons/web/static/src/js/framework/dialog.js:36
 #: model:ir.ui.view,arch_db:web.layout
 #, python-format
-msgid "Odoo"
+msgid "ERP"
 msgstr "أودو"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:101
 #, python-format
-msgid "Odoo (Formerly OpenERP)"
+msgid "ERP (Formerly OpenERP)"
 msgstr ""
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/apps.js:189
 #, python-format
-msgid "Odoo Apps will be available soon"
+msgid "ERP Apps will be available soon"
 msgstr "تطبيقات odoo ستكون متاحة قريبا"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/js/views/form_widgets.js:1675
 #, python-format
-msgid "Odoo Enterprise"
+msgid "ERP Enterprise"
 msgstr "عروض أودو"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:117
 #, python-format
-msgid "Odoo S.A."
-msgstr "Odoo S.A."
+msgid "ERP S.A."
+msgstr "ERP S.A."
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.qunit_suite
-msgid "Odoo Web Tests"
+msgid "ERP Web Tests"
 msgstr "اختبارات شبكة أودو"
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:117
 #, python-format
-msgid "Odoo is a trademark of"
+msgid "ERP is a trademark of"
 msgstr ""
 
 #. module: web
 #. openerp-web
 #: code:addons/web/static/src/xml/base.xml:119
 #, python-format
-msgid "Odoo.com"
-msgstr "Odoo.com"
+msgid "ERP.com"
+msgstr "ERP.com"
 
 #. module: web
 #. openerp-web
@@ -1755,7 +1755,7 @@ msgstr "مدعوم بواسطة"
 
 #. module: web
 #: model:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
+msgid "Powered by <span>ERP</span>"
 msgstr ""
 
 #. module: web
@@ -2199,7 +2199,7 @@ msgstr "سيقوم هذا المعالج بتصدير كافة البيانات 
 #, python-format
 msgid ""
 "Timezone Mismatch : The timezone of your browser doesn't match the selected "
-"one. The time in Odoo is displayed according to your field timezone."
+"one. The time in ERP is displayed according to your field timezone."
 msgstr "التوقيت الزمني مختلف : التوقيت لمتصفحك الخاص لا يطابق الدي اخترته . التوقيت\nفي odoo يعرض حسب توقيت منطقتك ."
 
 #. module: web
@@ -2527,7 +2527,7 @@ msgstr "يجب أن تختار سجلاً واحداً على الأقل"
 #. openerp-web
 #: code:addons/web/static/src/js/framework/crash_manager.js:69
 #, python-format
-msgid "Your Odoo session expired. Please refresh the current web page."
+msgid "Your ERP session expired. Please refresh the current web page."
 msgstr "انتهت جلسة أودو الخاص بك. يرجى تحديث صفحة الويب الحالية."
 
 #. module: web

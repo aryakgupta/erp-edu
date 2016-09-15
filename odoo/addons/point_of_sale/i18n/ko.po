@@ -1,11 +1,11 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * point_of_sale
 # 
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-04-26 05:53+0000\n"
@@ -1839,7 +1839,7 @@ msgstr "ID"
 #. openerp-web
 #: code:addons/point_of_sale/static/src/js/popups.js:113
 #, python-format
-msgid "IMPORTANT: Bug Report From Odoo Point Of Sale"
+msgid "IMPORTANT: Bug Report From ERP Point Of Sale"
 msgstr ""
 
 #. module: point_of_sale
@@ -1855,9 +1855,9 @@ msgstr "체크하지 않을 경우, 초청한 사용자만 가입할 수 있습�
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_settings_alias_domain
 msgid ""
-"If you have setup a catch-all email domain redirected to the Odoo server, "
+"If you have setup a catch-all email domain redirected to the ERP server, "
 "enter the domain name here."
-msgstr "Odoo 서버로 리디렉션되는 도메인에 모든 이메일을 수집하도록 설정한 경우 여기에 도메인 이름을 입력합니다."
+msgstr "ERP 서버로 리디렉션되는 도메인에 모든 이메일을 수집하도록 설정한 경우 여기에 도메인 이름을 입력합니다."
 
 #. module: point_of_sale
 #: model:ir.actions.act_window,help:point_of_sale.product_pos_category_action
@@ -2330,8 +2330,8 @@ msgstr "거래 수"
 
 #. module: point_of_sale
 #: model:ir.ui.view,arch_db:point_of_sale.index
-msgid "Odoo POS"
-msgstr "Odoo 점포판매시스템"
+msgid "ERP POS"
+msgstr "ERP 점포판매시스템"
 
 #. module: point_of_sale
 #. openerp-web
@@ -3416,8 +3416,8 @@ msgstr "설정"
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_settings_module_share
-msgid "Share or embbed any screen of Odoo."
-msgstr "Odoo 화면 공유 또는 첨부."
+msgid "Share or embbed any screen of ERP."
+msgstr "ERP 화면 공유 또는 첨부."
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config_settings_company_share_partner
@@ -3994,9 +3994,9 @@ msgstr ""
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config_sequence_id
 msgid ""
-"This sequence is automatically created by Odoo but you can change it to "
+"This sequence is automatically created by ERP but you can change it to "
 "customize the reference numbers of your orders."
-msgstr "이 순서는 Odoo에 의해 자동으로 생성되나, 주문의 참조 번호를 사용자 정의로 변경할 수 있습니다."
+msgstr "이 순서는 ERP에 의해 자동으로 생성되나, 주문의 참조 번호를 사용자 정의로 변경할 수 있습니다."
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_product_template_pos_categ_id

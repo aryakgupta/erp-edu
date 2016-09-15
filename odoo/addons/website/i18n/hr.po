@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * website
 # 
@@ -11,7 +11,7 @@
 # Marko Carević <marko.carevic@live.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-09 09:18+0000\n"
 "PO-Revision-Date: 2016-05-16 13:46+0000\n"
@@ -73,8 +73,8 @@ msgstr ", ažurirano:"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
-msgid "- The Odoo Team"
-msgstr "- Odoo tim"
+msgid "- The ERP Team"
+msgstr "- ERP tim"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.sitemap_index_xml
@@ -469,9 +469,9 @@ msgstr "<strong>1. Glavne stavke izbornika</strong> i 2. Vaše sekundarne opcije
 msgid ""
 "<strong>2. Create the page variation</strong><br/>\n"
 "                                Once you're clear on the measurable objective, the page and the variable\n"
-"                                you want to test, duplicate the page in Odoo using the <strong>'Versions'</strong>\n"
+"                                you want to test, duplicate the page in ERP using the <strong>'Versions'</strong>\n"
 "                                menu and apply the modification you decided."
-msgstr "<strong>2. Napravite varijaciju stranice</strong><br/>\nKaka su vam jasni mjerljivi ciljevi, stranice i varijable\nkoje želite testirati, duplicirajte Odoo stranicu korištenjem <strong>'Verzija'</strong>\nizbornika i primijenite izmjenu za koju ste se odlučili."
+msgstr "<strong>2. Napravite varijaciju stranice</strong><br/>\nKaka su vam jasni mjerljivi ciljevi, stranice i varijable\nkoje želite testirati, duplicirajte ERP stranicu korištenjem <strong>'Verzija'</strong>\nizbornika i primijenite izmjenu za koju ste se odlučili."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -495,8 +495,8 @@ msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_button
-msgid "<strong>50,000+ companies run Odoo to grow their businesses.</strong>"
-msgstr "<strong>50,000+ tvrtki koriste Odoo u svojem poslovanju.</strong>"
+msgid "<strong>50,000+ companies run ERP to grow their businesses.</strong>"
+msgstr "<strong>50,000+ tvrtki koriste ERP u svojem poslovanju.</strong>"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
@@ -532,8 +532,8 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"<strong>Be announced on the Odoo Twitter account</strong><br/>\n"
-"                                We like to hear from people using Odoo to build their website. Tweet us"
+"<strong>Be announced on the ERP Twitter account</strong><br/>\n"
+"                                We like to hear from people using ERP to build their website. Tweet us"
 msgstr ""
 
 #. module: website
@@ -1074,8 +1074,8 @@ msgstr "Pozadinska slika"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_banner
-msgid "Banner Odoo Image"
-msgstr "Slika banner Odoo"
+msgid "Banner ERP Image"
+msgstr "Slika banner ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_comparisons
@@ -1604,8 +1604,8 @@ msgstr "Odbaci"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image_floating
-msgid "Discover more about Odoo"
-msgstr "Otkrij više o Odoo"
+msgid "Discover more about ERP"
+msgstr "Otkrij više o ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.template_partner_comment
@@ -1915,15 +1915,15 @@ msgid ""
 "For example, you'll want your company name, your country/city and a few\n"
 "                                    words describing your business in your homepage title so that potential\n"
 "                                    customers near your location will find your website easily.\n"
-"                                    WIth Odoo, this can be done easily by using the Promote menu."
+"                                    WIth ERP, this can be done easily by using the Promote menu."
 msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the ERP Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
-msgstr "Za Odoo tim,<br/>\nFabien Pinckaers, Osnivač"
+msgstr "Za ERP tim,<br/>\nFabien Pinckaers, Osnivač"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_config_settings_module_website_form_editor
@@ -2156,7 +2156,7 @@ msgstr ""
 msgid ""
 "If you have a lot of pages in your website, you can create a small top-menu to focus\n"
 "                            on the main six pages and make all secondary pages accessible from a footer. You can\n"
-"                            have a look at the Odoo.com website, it's a great example of this type of structure."
+"                            have a look at the ERP.com website, it's a great example of this type of structure."
 msgstr ""
 
 #. module: website
@@ -2185,7 +2185,7 @@ msgid ""
 "                        of the company anymore. With our newest apps, such\n"
 "                        as Website Builder, PoS or eCommerce, we have\n"
 "                        moved beyond the ERP territory. <br/>\n"
-"                        But <u>don't worry</u>, <b>Odoo</b> is and always will be\n"
+"                        But <u>don't worry</u>, <b>ERP</b> is and always will be\n"
 "                        fully open source. You can read more about the new name here.\n"
 "                        We have also prepared a short FAQ to explain all these changes\n"
 "                        to all of you. <br/>"
@@ -2633,91 +2633,91 @@ msgstr "Napomena: Za korištenje tih značajki, morate instalirati"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.layout_footer_copyright
-msgid "Odoo"
-msgstr "Odoo"
+msgid "ERP"
+msgstr "ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 1 for three columns"
-msgstr "Odoo - uzorak 1 za 3 stupca"
+msgid "ERP - Sample 1 for three columns"
+msgstr "ERP - uzorak 1 za 3 stupca"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 2 for three columns"
-msgstr "Odoo - uzorak 2 za 3 stupca"
+msgid "ERP - Sample 2 for three columns"
+msgstr "ERP - uzorak 2 za 3 stupca"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 3 for three columns"
-msgstr "Odoo - uzorak 3 za 3 stupca"
+msgid "ERP - Sample 3 for three columns"
+msgstr "ERP - uzorak 3 za 3 stupca"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_big_picture
-msgid "Odoo CMS - a big picture"
-msgstr "Odoo CMS - velika slika"
+msgid "ERP CMS - a big picture"
+msgstr "ERP CMS - velika slika"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_floating
-msgid "Odoo CMS- Sample image floating"
+msgid "ERP CMS- Sample image floating"
 msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image_floating
-msgid "Odoo Members"
-msgstr "Odoo članovi"
+msgid "ERP Members"
+msgstr "ERP članovi"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
-msgid "Odoo Version"
-msgstr "Odoo verzija"
+msgid "ERP Version"
+msgstr "ERP verzija"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_image_text
-msgid "Odoo image and text block"
+msgid "ERP image and text block"
 msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_parallax_slider
 msgid ""
-"Odoo provides essential platform for our project management.\n"
+"ERP provides essential platform for our project management.\n"
 "                                                Things are better organized and more visible with it."
-msgstr "Odoo pruža bitne platforme za naš projekt management.\nS njim su stvari bolje organizirane i vidljivije."
+msgstr "ERP pruža bitne platforme za naš projekt management.\nS njim su stvari bolje organizirane i vidljivije."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_quotes_slider
 msgid ""
-"Odoo provides essential platform for our project management.\n"
+"ERP provides essential platform for our project management.\n"
 "                                        Things are better organized and more visible with it."
-msgstr "Odoo pruža bitne platforme za naš projekt management.\nS njim su stvari bolje organizirane i vidljivije."
+msgstr "ERP pruža bitne platforme za naš projekt management.\nS njim su stvari bolje organizirane i vidljivije."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_references
 msgid ""
-"Odoo provides essential platform for our project management.\n"
+"ERP provides essential platform for our project management.\n"
 "                            Things are better organized and more visible with it."
-msgstr "Odoo pruža bitne platforme za naš projekt management.\nS njim su stvari bolje organizirane i vidljivije."
+msgstr "ERP pruža bitne platforme za naš projekt management.\nS njim su stvari bolje organizirane i vidljivije."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image
-msgid "Odoo text and image block"
+msgid "ERP text and image block"
 msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
-msgid "Odoo's Google Analytics settings"
+msgid "ERP's Google Analytics settings"
 msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
 msgid ""
-"Odoo's POS is a web application that can run on any device that\n"
+"ERP's POS is a web application that can run on any device that\n"
 "                                can display websites with little to no setup required."
 msgstr ""
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq
 msgid ""
-"Odoo's POS is a web application that can run on any device that\n"
+"ERP's POS is a web application that can run on any device that\n"
 "                can display websites with little to no setup required."
 msgstr ""
 
@@ -2899,9 +2899,9 @@ msgstr "Molimo instalirajte ili nadogradite node-less"
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"Please note that you'll need an Odoo Standard or Business subscriptions for "
+"Please note that you'll need an ERP Standard or Business subscriptions for "
 "that"
-msgstr "Imajte na umu da ćete trebati Odoo standard ili poslovnu pretplatu za to"
+msgstr "Imajte na umu da ćete trebati ERP standard ili poslovnu pretplatu za to"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq
@@ -3695,10 +3695,10 @@ msgstr "Prevedene verzije se u prosjeku ažuriraju nakon 32 sata."
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
 "Translating your website into other languages is the best way to broaden its audience.\n"
-"                        In Odoo, you can either manually translate your pages as they are displayed, use an\n"
+"                        In ERP, you can either manually translate your pages as they are displayed, use an\n"
 "                        automatic machine translation service for free or pay professional translators to do\n"
 "                        it for you."
-msgstr "Prevođenje vaše web stranice na druge jezike najbolji je način za širenje publike.\nU Odoo-u, možete ili ručno prevesti stranice kao što su one prikazane ili koristiti\nautomat za besplatno prevođenje ili možete platiti profesionalnim prevoditeljima da to\nodrade za vas."
+msgstr "Prevođenje vaše web stranice na druge jezike najbolji je način za širenje publike.\nU ERP-u, možete ili ručno prevesti stranice kao što su one prikazane ili koristiti\nautomat za besplatno prevođenje ili možete platiti profesionalnim prevoditeljima da to\nodrade za vas."
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_config_settings_social_twitter
@@ -4029,7 +4029,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_faq
 #: model:ir.ui.view,arch_db:website.s_faq_collapse
-msgid "Which hardware does Odoo POS support?"
+msgid "Which hardware does ERP POS support?"
 msgstr ""
 
 #. module: website
@@ -4049,7 +4049,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.s_text_image_floating
 msgid ""
-"With Odoo's fully integrated software, you can easily manage your\n"
+"With ERP's fully integrated software, you can easily manage your\n"
 "                        meetings, schedule business calls, create recurring meetings,\n"
 "                        synchronize your agenda and easily keep in touch with your colleagues,\n"
 "                        partners and other people involved in projects or business discussions.\n"
@@ -4059,7 +4059,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"With Odoo, you can automatically check which keywords are ranked best for a\n"
+"With ERP, you can automatically check which keywords are ranked best for a\n"
 "                                    specific query, then add them in the content of your page."
 msgstr ""
 
@@ -4178,7 +4178,7 @@ msgstr ""
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
 msgid ""
-"You can set Odoo on a custom domain name (e.g. yourcompany.com) for both the website\n"
+"You can set ERP on a custom domain name (e.g. yourcompany.com) for both the website\n"
 "                        and your emails. Because your website address is as important to your branding as the\n"
 "                        name of your business or organization, you’ll want to put some thought into changing it\n"
 "                        for a proper domain, or change it to one you already own."
@@ -4363,19 +4363,19 @@ msgstr "http://www.google.com/webmasters/tools/"
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_config_settings
 #: model:ir.ui.view,arch_db:website.view_website_form
-msgid "https://plus.google.com/+Odooapps"
-msgstr "https://plus.google.com/+Odooapps"
+msgid "https://plus.google.com/+ERPapps"
+msgstr "https://plus.google.com/+ERPapps"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_config_settings
 #: model:ir.ui.view,arch_db:website.view_website_form
-msgid "https://twitter.com/Odoo"
-msgstr "https://twitter.com/Odoo"
+msgid "https://twitter.com/ERP"
+msgstr "https://twitter.com/ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_config_settings
-msgid "https://www.facebook.com/Odoo"
-msgstr "https://www.facebook.com/Odoo"
+msgid "https://www.facebook.com/ERP"
+msgstr "https://www.facebook.com/ERP"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.view_website_form
@@ -4407,13 +4407,13 @@ msgstr "ako nemate još jedan."
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner
-msgid "in Odoo"
-msgstr "u Odoo-u"
+msgid "in ERP"
+msgstr "u ERP-u"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.show_website_info
-msgid "instance of Odoo, the"
-msgstr "primjer Odoo-a, na"
+msgid "instance of ERP, the"
+msgstr "primjer ERP-a, na"
 
 #. module: website
 #: model:ir.model,name:website.model_ir_actions_server
@@ -4489,8 +4489,8 @@ msgstr "sitemap.xml"
 #. openerp-web
 #: code:addons/website/static/src/xml/website.xml:35
 #, python-format
-msgid "the classic Odoo interface"
-msgstr "klasično Odoo sučelje"
+msgid "the classic ERP interface"
+msgstr "klasično ERP sučelje"
 
 #. module: website
 #: model:ir.ui.view,arch_db:website.website_planner

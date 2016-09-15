@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 {
     'name': 'Mass Mailing Campaigns',
@@ -11,7 +11,7 @@ professional emails and reuse templates in a few clicks.
     """,
     'version': '2.0',
     'sequence': 110,
-    'website': 'https://www.odoo.com/page/mailing',
+    'website': 'https://www.erp.com/page/mailing',
     'category': 'Marketing',
     'depends': [
         'mail',

@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 # Copyright (c) 2009 Veritos - Jan Verlaan - www.veritos.nl
 
@@ -8,7 +8,7 @@
     'version' : '2.0',
     'category': 'Localization',
     'description': """
-This is the module to manage the accounting chart for Netherlands in Odoo.
+This is the module to manage the accounting chart for Netherlands in ERP.
 =============================================================================
 This module installs the a standard chart of accounts and also the Dutch Tax codes and
 fiscal positions for deliveries inside and outside the UE.

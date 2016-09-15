@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of ERP. See LICENSE file for full copyright and licensing details.
 
 
 {
@@ -25,7 +25,7 @@ The whole flow is implemented as:
 
 This module also uses analytic accounting and is compatible with the invoice on timesheet module so that you are able to automatically re-invoice your customers' expenses if your work by project.
     """,
-    'website': 'https://www.odoo.com/page/expenses',
+    'website': 'https://www.erp.com/page/expenses',
     'depends': ['hr_contract', 'account_accountant', 'report'],
     'data': [
         'security/ir.model.access.csv',

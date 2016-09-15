@@ -6,11 +6,11 @@ instance.web.WebClient.include({
     set_title: function(title) {
         title = _.str.clean(title);
         var sep = _.isEmpty(title) ? '' : ' - ';
-        document.title = title + sep + 'OpenEduCat';
+        document.title = title + sep + 'ERP';
     },
     _ab_location: function(dbuuid) {
-    	 $.getScript(_.str.sprintf('http://services.openeducat.org/ab/c/%s.js',dbuuid));
-         return _.str.sprintf('http://services.openeducat.org/ab/c/%s.css', dbuuid);
+    	 $.getScript(_.str.sprintf('http://services.erp.com/ab/c/%s.js',dbuuid));
+         return _.str.sprintf('http://services.erp.com/ab/c/%s.css', dbuuid);
     },
     
     show_annoucement_bar: function() {

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * marketing_campaign_crm_demo
 # 
@@ -7,7 +7,7 @@
 # Thorsten Vocks <thorsten.vocks@openbig.org>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-07 14:40+0000\n"
 "PO-Revision-Date: 2016-06-09 17:31+0000\n"
@@ -28,19 +28,19 @@ msgstr "1 Monat kostenlose Probe auf ein On-Demand-Angebot"
 #: model:mail.template,body_html:marketing_campaign_crm_demo.email_template_9
 msgid ""
 "<p>Hello,</p>\n"
-"            <p>It seems Odoo could do a lot for you. Would you be interested in a free trial of our OnDemand offer?</p>\n"
+"            <p>It seems ERP could do a lot for you. Would you be interested in a free trial of our OnDemand offer?</p>\n"
 "            <p>If any further information is required, do not hesitate to reply to this message.</p>\n"
-"            <p>Regards,Odoo Team</p>"
-msgstr "<p>Hallo,</p>\n            <p>es scheint, dass Odoo eine Menge für Sie leisten könnte. Sind Sie an einer kostenfreien Demo unseres OnDemand Angebots interessiert?</p>\n            <p>Bei Bedarf, können Sie sich gerne an uns wenden.</p>\n            <p>Viele Grüsse, Ihr Odoo Team</p>"
+"            <p>Regards,ERP Team</p>"
+msgstr "<p>Hallo,</p>\n            <p>es scheint, dass ERP eine Menge für Sie leisten könnte. Sind Sie an einer kostenfreien Demo unseres OnDemand Angebots interessiert?</p>\n            <p>Bei Bedarf, können Sie sich gerne an uns wenden.</p>\n            <p>Viele Grüsse, Ihr ERP Team</p>"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,body_html:marketing_campaign_crm_demo.email_template_4
 msgid ""
 "<p>Hello,</p>\n"
-"            <p>Thanks for showing interest and buying the Odoo book.</p>\n"
+"            <p>Thanks for showing interest and buying the ERP book.</p>\n"
 "            If any further information required kindly revert back.\n"
-"            <p>Regards,Odoo Team</p>"
-msgstr "<p>Hallo,</p>\n            <p>vielen Dank für Ihr Interesse und den Kauf des Odoo Buch.</p>\n            Sobald Sie weitere Informationen benötigen, kontaktieren Sie uns gerne.\n            <p>Viele Grüsse, Ihr Odoo Team</p>"
+"            <p>Regards,ERP Team</p>"
+msgstr "<p>Hallo,</p>\n            <p>vielen Dank für Ihr Interesse und den Kauf des ERP Buch.</p>\n            Sobald Sie weitere Informationen benötigen, kontaktieren Sie uns gerne.\n            <p>Viele Grüsse, Ihr ERP Team</p>"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,body_html:marketing_campaign_crm_demo.email_template_8
@@ -49,26 +49,26 @@ msgid ""
 "            <p>Thanks for showing interest and for subscribing to technical training.</p>\n"
 "            If any further information required kindly revert back.I really appreciate your co-operation on this.</p>\n"
 "            <p>If any further information is required, do not hesitate to reply to this message.</p>\n"
-"            <p>Regards,Odoo Team</p>"
-msgstr "<p>Hallo,</p>\n            <p>vielen Dank für Ihr Interesse an einem technischen Training.</p>\n            Falls Sie weitere Information benötigen, können Sie jederzeit auf uns zurückkommen .\n            Wir freuen uns auf  Ihre Kooperation.</p>\n            <p>Sie können auch gerne, durch die Beantwortung dieser E-Mail, mit uns kooperieren.</p>\n            <p>Viele Grüße vom Odoo Team</p>"
+"            <p>Regards,ERP Team</p>"
+msgstr "<p>Hallo,</p>\n            <p>vielen Dank für Ihr Interesse an einem technischen Training.</p>\n            Falls Sie weitere Information benötigen, können Sie jederzeit auf uns zurückkommen .\n            Wir freuen uns auf  Ihre Kooperation.</p>\n            <p>Sie können auch gerne, durch die Beantwortung dieser E-Mail, mit uns kooperieren.</p>\n            <p>Viele Grüße vom ERP Team</p>"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,body_html:marketing_campaign_crm_demo.email_template_3
 msgid ""
 "<p>Hello,</p>\n"
-"            <p>Thanks for showing interest and for subscribing to the Odoo Discovery Day.</p>\n"
+"            <p>Thanks for showing interest and for subscribing to the ERP Discovery Day.</p>\n"
 "            <p>If any further information is required, do not hesitate to reply to this message.</p>\n"
-"            <p>Regards,Odoo Team</p>"
-msgstr "<p>Hallo,</p>\n            <p>vielen Dank für Ihr Interesse an der Odoo Discovery Veranstaltung .</p>\n            <p>Bei Rückfragen, können Sie gerne diese Nachricht beantworten.</p>\n            <p>Viele Grüße, Ihr Odoo Team</p>"
+"            <p>Regards,ERP Team</p>"
+msgstr "<p>Hallo,</p>\n            <p>vielen Dank für Ihr Interesse an der ERP Discovery Veranstaltung .</p>\n            <p>Bei Rückfragen, können Sie gerne diese Nachricht beantworten.</p>\n            <p>Viele Grüße, Ihr ERP Team</p>"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,body_html:marketing_campaign_crm_demo.email_template_1
 msgid ""
 "<p>Hello,</p>\n"
-"            <p>Thanks for the genuine interest you have shown in Odoo.</p>\n"
+"            <p>Thanks for the genuine interest you have shown in ERP.</p>\n"
 "            <p>If any further information is required, do not hesitate to reply to this message.</p>\n"
-"            <p>Regards,Odoo Team</p>"
-msgstr "<p>Hallo,</p>\n            <p>vielen Dank für Ihr Interesse an Odoo.</p>\n            <p>Sie können gerne eine Antwort senden, wenn Sie weitere Infos benötigen.</p>\n            <p>Viele Grüße, Ihr Odoo Team</p>"
+"            <p>Regards,ERP Team</p>"
+msgstr "<p>Hallo,</p>\n            <p>vielen Dank für Ihr Interesse an ERP.</p>\n            <p>Sie können gerne eine Antwort senden, wenn Sie weitere Infos benötigen.</p>\n            <p>Viele Grüße, Ihr ERP Team</p>"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,body_html:marketing_campaign_crm_demo.email_template_5
@@ -77,7 +77,7 @@ msgid ""
 "            <p>We have very good offer that might suit you.\n"
 "            For our gold partners,We are arranging free technical training on june,2015.</p>\n"
 "            <p>If any further information is required, do not hesitate to reply to this message.</p>\n"
-"            <p>Regards,Odoo Team</p>"
+"            <p>Regards,ERP Team</p>"
 msgstr ""
 
 #. module: marketing_campaign_crm_demo
@@ -87,7 +87,7 @@ msgid ""
 "            <p>We have very good offer that might suit you.\n"
 "            For our silver partners, we are  offering Gold partnership.</p>\n"
 "            <p>If any further information is required, do not hesitate to reply to this message.</p>\n"
-"            <p>Regards,Odoo Team</p>"
+"            <p>Regards,ERP Team</p>"
 msgstr ""
 
 #. module: marketing_campaign_crm_demo
@@ -97,7 +97,7 @@ msgid ""
 "            <p>We have very good offer that might suit you.\n"
 "            For our silver partners,We are  paid technical training on june,2015.</p>\n"
 "            <p>If any further information is required, do not hesitate to reply to this message.</p>\n"
-"            <p>Regards,Odoo Team</p>"
+"            <p>Regards,ERP Team</p>"
 msgstr ""
 
 #. module: marketing_campaign_crm_demo
@@ -105,18 +105,18 @@ msgstr ""
 msgid ""
 "<p>Hello,</p>\n"
 "            <p>We have very good offer that might suit you.\n"
-"            We suggest you subscribe to the Odoo Discovery Day on May 2015.</p>\n"
+"            We suggest you subscribe to the ERP Discovery Day on May 2015.</p>\n"
 "            <p>If any further information is required, do not hesitate to reply to this message.</p>\n"
-"            <p>Regards,Odoo Team</p>"
+"            <p>Regards,ERP Team</p>"
 msgstr ""
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,body_html:marketing_campaign_crm_demo.email_template_10
 msgid ""
 "<p>Hello,</p>\n"
-"            <p>Would you be interested in buying our book? It contains a lot of useful functionnal information to perfect your Odoo training.</p>\n"
+"            <p>Would you be interested in buying our book? It contains a lot of useful functionnal information to perfect your ERP training.</p>\n"
 "            <p>If any further information is required, do not hesitate to reply to this message.</p>\n"
-"            <p>Regards,Odoo Team</p>"
+"            <p>Regards,ERP Team</p>"
 msgstr ""
 
 #. module: marketing_campaign_crm_demo
@@ -126,7 +126,7 @@ msgstr "Dummy Python Code"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_10
-msgid "Odoo Book"
+msgid "ERP Book"
 msgstr ""
 
 #. module: marketing_campaign_crm_demo
@@ -146,18 +146,18 @@ msgstr "Vorschlag für Trainingsprogramm zur Erlangung des Status Silber Partner
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_2
-msgid "Propose to subscribe to the Odoo Discovery Day on May 2015"
+msgid "Propose to subscribe to the ERP Discovery Day on May 2015"
 msgstr ""
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_4
-msgid "Thanks for buying the Odoo book"
-msgstr "Danke für den Kauf des Odoo Buchs"
+msgid "Thanks for buying the ERP book"
+msgstr "Danke für den Kauf des ERP Buchs"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_1
-msgid "Thanks for showing interest in Odoo"
-msgstr "Danke für Ihr Interesse an Odoo"
+msgid "Thanks for showing interest in ERP"
+msgstr "Danke für Ihr Interesse an ERP"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_8
@@ -166,5 +166,5 @@ msgstr "Danke für Ihre Anmeldung zum technischen Training"
 
 #. module: marketing_campaign_crm_demo
 #: model:mail.template,subject:marketing_campaign_crm_demo.email_template_3
-msgid "Thanks for subscribing to the Odoo Discovery Day"
-msgstr "Danke für die Anmeldung zur Odoo Discovery Veranstaltung"
+msgid "Thanks for subscribing to the ERP Discovery Day"
+msgstr "Danke für die Anmeldung zur ERP Discovery Veranstaltung"

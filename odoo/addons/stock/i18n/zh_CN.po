@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * stock
 # 
@@ -19,7 +19,7 @@
 # liAnGjiA <liangjia@qq.com>, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-13 09:40+0000\n"
 "PO-Revision-Date: 2016-07-22 06:34+0000\n"
@@ -172,8 +172,8 @@ msgstr ", 会计或采购模块是否安装"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "- The Odoo Team"
-msgstr "- Odoo团队"
+msgid "- The ERP Team"
+msgstr "- ERP团队"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -439,8 +439,8 @@ msgstr "<strong>目的地</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "<strong>Enjoy your Inventory management with Odoo!</strong>"
-msgstr "<strong>Odoo更好的帮你管理库存!</strong>"
+msgid "<strong>Enjoy your Inventory management with ERP!</strong>"
+msgstr "<strong>ERP更好的帮你管理库存!</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -982,13 +982,13 @@ msgstr "唯一序列号"
 #, python-format
 msgid ""
 "By changing this quantity here, you accept the new quantity as complete: "
-"Odoo will not automatically generate a back order."
-msgstr "通过改变这里的数量，您确认新的完成数量: Odoo不会自动生成欠单。"
+"ERP will not automatically generate a back order."
+msgstr "通过改变这里的数量，您确认新的完成数量: ERP不会自动生成欠单。"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"By default, Odoo measures products by 'units', which are generic and "
+"By default, ERP measures products by 'units', which are generic and "
 "represent just about anything"
 msgstr "默认情况下，产品的通用单位是‘件’，所有的产品都可以用它来表示"
 
@@ -1679,12 +1679,12 @@ msgstr "在你的仓库中根据业务需求设定路径，例如数量控制，
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
 "Define your locations to reflect your warehouse structure and\n"
-"                organization. Odoo is able to manage physical locations\n"
+"                organization. ERP is able to manage physical locations\n"
 "                (warehouses, shelves, bin, etc), partner locations (customers,\n"
 "                vendors) and virtual locations which are the counterpart of\n"
 "                the stock operations like the manufacturing orders\n"
 "                consumptions, inventories, etc."
-msgstr "定义位置来反映仓库的结构和组织。Odoo能管理物理位置（仓库，货架，bin位等等），\n业务伙伴位置（客户，供应商）和虚拟位置（是生产订单的消耗，盘点，补货等等）"
+msgstr "定义位置来反映仓库的结构和组织。ERP能管理物理位置（仓库，货架，bin位等等），\n业务伙伴位置（客户，供应商）和虚拟位置（是生产订单的消耗，盘点，补货等等）"
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_location_putaway_strategy_id
@@ -1994,12 +1994,12 @@ msgstr "欧洲客户"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
-"Every stock operation in Odoo moves the products from one\n"
+"Every stock operation in ERP moves the products from one\n"
 "                location to another one.  For instance, if you receive products\n"
-"                from a vendor, Odoo will move products from the Vendor\n"
+"                from a vendor, ERP will move products from the Vendor\n"
 "                location to the Stock location. Each report can be performed on\n"
 "                physical, partner or virtual locations."
-msgstr "每一个Odoo中的库存操作都是产品从一个位置到另一个位置。例如，一旦你从供应商那边收货\n，Odoo将会把产品从供应商位置调拨到仓库位置。每个报表都会从物理位置，业务伙伴位置或者虚拟位置反映出来。"
+msgstr "每一个ERP中的库存操作都是产品从一个位置到另一个位置。例如，一旦你从供应商那边收货\n，ERP将会把产品从供应商位置调拨到仓库位置。每个报表都会从物理位置，业务伙伴位置或者虚拟位置反映出来。"
 
 #. module: stock
 #: code:addons/stock/stock.py:4186
@@ -2085,9 +2085,9 @@ msgstr "关注者（业务伙伴）"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the ERP Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
-msgstr "对于Odoo团队,<br/>\n                            Fabien Pinckaers, 创始人"
+msgstr "对于ERP团队,<br/>\n                            Fabien Pinckaers, 创始人"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.view_picking_form
@@ -2492,11 +2492,11 @@ msgstr "如果你是一个开发者，<strong>你可以用我们的API</strong>�
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"If you configured automatic procurement, Odoo automatically generates\n"
+"If you configured automatic procurement, ERP automatically generates\n"
 "                        Procurements Orders. You usually don't need to worry about them, but\n"
 "                        sometimes the system can remain blocked without generating a\n"
 "                        corresponding document, usually due to a configuration problem."
-msgstr "如果你配置了自动补货，Odoo可以自动产生补货单，通常你不需要担心，\n但是有时候会有异常出现，基本上是因为配置出现了问题"
+msgstr "如果你配置了自动补货，ERP可以自动产生补货单，通常你不需要担心，\n但是有时候会有异常出现，基本上是因为配置出现了问题"
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_inventory_filter
@@ -2544,10 +2544,10 @@ msgstr "使用顶部的左键导入"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"In Odoo, <strong>Reordering Rules</strong> are used to replenish your products.\n"
-"                        Odoo will automatically propose a procurement to buy new products if you are\n"
+"In ERP, <strong>Reordering Rules</strong> are used to replenish your products.\n"
+"                        ERP will automatically propose a procurement to buy new products if you are\n"
 "                        running out of stock."
-msgstr "在Odoo中，<strong>订货规则</strong>被用来补货，Odoo自动的创建补货单"
+msgstr "在ERP中，<strong>订货规则</strong>被用来补货，ERP自动的创建补货单"
 
 #. module: stock
 #: selection:stock.inventory,state:0
@@ -2889,7 +2889,7 @@ msgstr "是一个废品位置？"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "It is also possible to import your initial inventory from an Excel or CSV file.\n"
-"                        If you want to do that, contact your Odoo project manager."
+"                        If you want to do that, contact your ERP project manager."
 msgstr "你可以用excel或者CSV文件导入你的期初库存，如果想那么做的话，可以联系你的项目管理员"
 
 #. module: stock
@@ -2903,7 +2903,7 @@ msgstr "最好试着检查并解决这些补货异常\n你可以在Scheduler中�
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid "It is time to make your initial Inventory. In order to do so:"
-msgstr "是时候创建期初库存了,在Odoo中可以这样做："
+msgstr "是时候创建期初库存了,在ERP中可以这样做："
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_move_product_packaging
@@ -3081,9 +3081,9 @@ msgstr "如果这个位置是公司间共享的，则此字段留空"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Like with the sales flow, Odoo inventory management is\n"
+"Like with the sales flow, ERP inventory management is\n"
 "                        fully integrated with the purchase app."
-msgstr "就像和销售模块集成一样，Odoo的仓库也和采购模块集成"
+msgstr "就像和销售模块集成一样，ERP的仓库也和采购模块集成"
 
 #. module: stock
 #: model:ir.model,name:stock.model_stock_move_operation_link
@@ -3434,10 +3434,10 @@ msgstr "更多 <i class=\"fa fa-caret-down\"/>"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_picking_tree
 msgid ""
-"Most operations are prepared automatically by Odoo according\n"
+"Most operations are prepared automatically by ERP according\n"
 "                to your preconfigured logistics rules, but you can also record\n"
 "                manual stock movements."
-msgstr "大部分作业被Odoo根据你的预先配置的物流规则自动准备，但是你也可以人工记录库存运动。"
+msgstr "大部分作业被ERP根据你的预先配置的物流规则自动准备，但是你也可以人工记录库存运动。"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_move_operation_link_move_id
@@ -3708,37 +3708,37 @@ msgstr "Ok"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo handles <strong>advanced push/pull routes configuration</strong>, for "
+"ERP handles <strong>advanced push/pull routes configuration</strong>, for "
 "example:"
-msgstr "Odoo处理<strong>高级的推式/拉式路线配置</strong>，例如："
+msgstr "ERP处理<strong>高级的推式/拉式路线配置</strong>，例如："
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "Odoo has preconfigured <strong>one Warehouse</strong> for you."
-msgstr " Odoo已经为你预先配置好<strong>一个仓库</strong>"
+msgid "ERP has preconfigured <strong>one Warehouse</strong> for you."
+msgstr " ERP已经为你预先配置好<strong>一个仓库</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo inventory management is fully integrated with sales and\n"
+"ERP inventory management is fully integrated with sales and\n"
 "                        invoicing process. Everything is automated from the initial\n"
 "                        quotation to the delivery and the final invoice."
-msgstr "Odoo的库存管理完全的和销售和开票流程集成\n从原始的报价单到发货再到最后的开票所有的一切都被集成"
+msgstr "ERP的库存管理完全的和销售和开票流程集成\n从原始的报价单到发货再到最后的开票所有的一切都被集成"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo is able to run advanced traceability by using Product Lots and Serial\n"
+"ERP is able to run advanced traceability by using Product Lots and Serial\n"
 "                        Numbers, usually identified by bar codes stuck on the products."
 msgstr "用产品批次和序列号可以运行高级追踪\n通常根据贴在产品上的条码"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Of course, feel free to add your own. Please note that Odoo is able to "
+"Of course, feel free to add your own. Please note that ERP is able to "
 "convert units within the same category, for example, liters to gallons in "
 "the volume category"
-msgstr "当然，可以任意的添加。请注意Odoo可以在在同一种类之间的计量单位中间转换例如体积中的升和加仑"
+msgstr "当然，可以任意的添加。请注意ERP可以在在同一种类之间的计量单位中间转换例如体积中的升和加仑"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.product_form_view_procurement_button
@@ -5868,7 +5868,7 @@ msgstr "只有里面的所有包共享同一个产品时，这个区域才会完
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"This guide helps getting started with Odoo Inventory.\n"
+"This guide helps getting started with ERP Inventory.\n"
 "                        Once you are done, you will benefit from:"
 msgstr "向导帮助你开始Ｏdoo的盘点\n一旦你完成这些，你将获益于："
 
@@ -6525,7 +6525,7 @@ msgstr "警告：错误数量！"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
 msgstr "我们为你处理所有的导入过程\n只要把包含你所有数据信息的CSV文件发给你的项目经理就可以"
@@ -6534,15 +6534,15 @@ msgstr "我们为你处理所有的导入过程\n只要把包含你所有数据�
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
 msgstr "我们为你处理所有的导入过程\n只要把包含你所有产品信息的CSV文件发给你的项目经理就可以"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "We hope this guide helped you implement Odoo Inventory."
-msgstr "希望这个向导能够帮你完成Odoo的盘点"
+msgid "We hope this guide helped you implement ERP Inventory."
+msgstr "希望这个向导能够帮你完成ERP的盘点"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_picking_website_message_ids
@@ -6599,17 +6599,17 @@ msgstr "当方法被确定后，这个位置将被用于存储产品"
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_min_qty
 msgid ""
 "When the virtual stock goes below the Min Quantity specified for this field,"
-" Odoo generates a procurement to bring the forecasted quantity to the Max "
+" ERP generates a procurement to bring the forecasted quantity to the Max "
 "Quantity."
-msgstr "当虚拟库存小于指定的最小数量，Odoo生成补货单来预测达到最大数量前的数量。"
+msgstr "当虚拟库存小于指定的最小数量，ERP生成补货单来预测达到最大数量前的数量。"
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_max_qty
 msgid ""
-"When the virtual stock goes below the Min Quantity, Odoo generates a "
+"When the virtual stock goes below the Min Quantity, ERP generates a "
 "procurement to bring the forecasted quantity to the Quantity specified as "
 "Max Quantity."
-msgstr "当虚拟库存低于最小数量， Odoo生成一个采购订单提供的数量达到规定最大库存的数量。"
+msgstr "当虚拟库存低于最小数量， ERP生成一个采购订单提供的数量达到规定最大库存的数量。"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.view_change_product_quantity
@@ -6648,13 +6648,13 @@ msgstr "你可以在这定义主要的路线，贯穿\n你的仓库，定义了�
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_orderpoint_form
 msgid ""
-"You can define your minimum stock rules, so that Odoo will automatically "
+"You can define your minimum stock rules, so that ERP will automatically "
 "create draft manufacturing orders or request for quotations according to the"
 " stock level. Once the virtual stock of a product (= stock on hand minus all"
-" confirmed orders and reservations) is below the minimum quantity, Odoo will"
+" confirmed orders and reservations) is below the minimum quantity, ERP will"
 " generate a procurement request to increase the stock up to the maximum "
 "quantity."
-msgstr "你可以定义最小库存规则，这样Odoo将会根据库存水平创建草稿生产订单，或者询价单。一旦产品的虚拟库存少于最小数量(= 在手库存减去所有的确认的订单数量和预留数量)， Odoo 将会产生一个补货请求，以便增加库存到最大数量。"
+msgstr "你可以定义最小库存规则，这样ERP将会根据库存水平创建草稿生产订单，或者询价单。一旦产品的虚拟库存少于最小数量(= 在手库存减去所有的确认的订单数量和预留数量)， ERP 将会产生一个补货请求，以便增加库存到最大数量。"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.view_inventory_form
@@ -6801,8 +6801,8 @@ msgstr "你必须选择产品默认计量单位的类型一样的计量单位。
 #: model:ir.ui.view,arch_db:stock.view_immediate_transfer
 msgid ""
 "You haven't set processed quantities. If you click <i>apply</i>,\n"
-"                        Odoo will process all quantities to do."
-msgstr "你还没有设置操作的数量，如果你点击<i>应用</i>,\n                        Odoo 将会完成所有的数量的操作."
+"                        ERP will process all quantities to do."
+msgstr "你还没有设置操作的数量，如果你点击<i>应用</i>,\n                        ERP 将会完成所有的数量的操作."
 
 #. module: stock
 #: code:addons/stock/wizard/stock_return_picking.py:48
@@ -6920,21 +6920,21 @@ msgstr "例如：PO0032"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or let "
-"Odoo do it automatically while validating"
-msgstr "在产品行上手动更新完成数量，或当验证后让Odoo自动更新"
+"ERP do it automatically while validating"
+msgstr "在产品行上手动更新完成数量，或当验证后让ERP自动更新"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or scan "
-"them with the Odoo Barcode app, or let Odoo do it automatically while "
+"them with the ERP Barcode app, or let ERP do it automatically while "
 "validating"
-msgstr "或者手动在产品行更新完成数量，或者通过扫描枪扫描或者Odoo在确认的时候自动做掉"
+msgstr "或者手动在产品行更新完成数量，或者通过扫描枪扫描或者ERP在确认的时候自动做掉"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "feedback@mail.odoo.com"
-msgstr "feedback@mail.odoo.com"
+msgid "feedback@mail.erp.com"
+msgstr "feedback@mail.erp.com"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner

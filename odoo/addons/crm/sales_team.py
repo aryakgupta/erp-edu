@@ -137,7 +137,7 @@ class crm_team(osv.Model):
     as a member of one of the sales team.
 </p>"""
             if user_team_id:
-                action['help'] += "<p>As you don't belong to any sales team, Odoo opens the first one by default.</p>"
+                action['help'] += "<p>As you don't belong to any sales team, ERP opens the first one by default.</p>"
 
         action_context = eval(action['context'], {'uid': uid})
         if user_team_id:

@@ -1,4 +1,4 @@
-# Translation of Odoo Server.
+# Translation of ERP Server.
 # This file contains the translation of the following modules:
 # * stock
 # 
@@ -9,7 +9,7 @@
 # Pavol Krnáč <pavol.krnac@ekoenergo.sk>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo 9.0\n"
+"Project-Id-Version: ERP 9.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-13 09:40+0000\n"
 "PO-Revision-Date: 2016-05-22 08:02+0000\n"
@@ -162,8 +162,8 @@ msgstr ", ak je nainštalované účtovnictvo alebo nákup"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "- The Odoo Team"
-msgstr "- Odoo Tím"
+msgid "- The ERP Team"
+msgstr "- ERP Tím"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -429,8 +429,8 @@ msgstr "<strong>Cieľ</strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "<strong>Enjoy your Inventory management with Odoo!</strong>"
-msgstr "<strong> Užívajte si riadenie zásob s Odoo! </strong>"
+msgid "<strong>Enjoy your Inventory management with ERP!</strong>"
+msgstr "<strong> Užívajte si riadenie zásob s ERP! </strong>"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -972,15 +972,15 @@ msgstr "Podľa Unikátneho seriálového čísla"
 #, python-format
 msgid ""
 "By changing this quantity here, you accept the new quantity as complete: "
-"Odoo will not automatically generate a back order."
-msgstr "Zmenením množstva tu akceptujete nové množstvo ako úplne: Odoo nebude automaticky generovat spätnú objednávku"
+"ERP will not automatically generate a back order."
+msgstr "Zmenením množstva tu akceptujete nové množstvo ako úplne: ERP nebude automaticky generovat spätnú objednávku"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"By default, Odoo measures products by 'units', which are generic and "
+"By default, ERP measures products by 'units', which are generic and "
 "represent just about anything"
-msgstr "Štandardne, Odoo meria výrobky podľa \"jednotiek\", ktoré sú všeobecné a môžu predstavovať čokoľvek."
+msgstr "Štandardne, ERP meria výrobky podľa \"jednotiek\", ktoré sú všeobecné a môžu predstavovať čokoľvek."
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_move_procure_method
@@ -1669,12 +1669,12 @@ msgstr "Definovať trasy v sklade podľa obchodných potrieb, ako je kontrola kv
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
 "Define your locations to reflect your warehouse structure and\n"
-"                organization. Odoo is able to manage physical locations\n"
+"                organization. ERP is able to manage physical locations\n"
 "                (warehouses, shelves, bin, etc), partner locations (customers,\n"
 "                vendors) and virtual locations which are the counterpart of\n"
 "                the stock operations like the manufacturing orders\n"
 "                consumptions, inventories, etc."
-msgstr "Definujte vaše lokácie aby reflektovali štruktúru vašich skladísk a\n\norganizácie. Odoo je schopné riadiť fyzické lokácie\n\n(skladiská, police, zásobniky, atď) pridružené lokácie (zákaznçi,\n\npredajcovia) a virtuálne lokácie ktoré sú náprotivkom\n\nzásobovým operáciam ako sú výrobné objednávky\n\nspotreby, zásoby, atď."
+msgstr "Definujte vaše lokácie aby reflektovali štruktúru vašich skladísk a\n\norganizácie. ERP je schopné riadiť fyzické lokácie\n\n(skladiská, police, zásobniky, atď) pridružené lokácie (zákaznçi,\n\npredajcovia) a virtuálne lokácie ktoré sú náprotivkom\n\nzásobovým operáciam ako sú výrobné objednávky\n\nspotreby, zásoby, atď."
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_location_putaway_strategy_id
@@ -1984,12 +1984,12 @@ msgstr "Európsky zákazníci"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_location_form
 msgid ""
-"Every stock operation in Odoo moves the products from one\n"
+"Every stock operation in ERP moves the products from one\n"
 "                location to another one.  For instance, if you receive products\n"
-"                from a vendor, Odoo will move products from the Vendor\n"
+"                from a vendor, ERP will move products from the Vendor\n"
 "                location to the Stock location. Each report can be performed on\n"
 "                physical, partner or virtual locations."
-msgstr "Každá operácia zásob v Odoo presunie produkt z jednej\n\nlokácie do druhej. Napríklad, ak obdržíte produkty\n\nod predajcu, Odoo presunie produkty z lokácie\n\nPredajcovia do lokácie Zásoby. Každý report môže byť vykonaný na\n\nfyzickej, pridruženej alebo virtuálnej lokácií."
+msgstr "Každá operácia zásob v ERP presunie produkt z jednej\n\nlokácie do druhej. Napríklad, ak obdržíte produkty\n\nod predajcu, ERP presunie produkty z lokácie\n\nPredajcovia do lokácie Zásoby. Každý report môže byť vykonaný na\n\nfyzickej, pridruženej alebo virtuálnej lokácií."
 
 #. module: stock
 #: code:addons/stock/stock.py:4186
@@ -2075,9 +2075,9 @@ msgstr "Odberatelia (Partneri)"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"For the Odoo Team,<br/>\n"
+"For the ERP Team,<br/>\n"
 "                            Fabien Pinckaers, Founder"
-msgstr "Pre Odoo Team,<br/>\nFabien Pinckaers, Zakladateľ"
+msgstr "Pre ERP Team,<br/>\nFabien Pinckaers, Zakladateľ"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.view_picking_form
@@ -2482,11 +2482,11 @@ msgstr "Ak ste vývojár, <strong>môžete tiež využiť našu \nAPI</strong> p
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"If you configured automatic procurement, Odoo automatically generates\n"
+"If you configured automatic procurement, ERP automatically generates\n"
 "                        Procurements Orders. You usually don't need to worry about them, but\n"
 "                        sometimes the system can remain blocked without generating a\n"
 "                        corresponding document, usually due to a configuration problem."
-msgstr "Ak ste nakonfigurovali automatické obstarávanie, Odoo automaticky generuje\nObstarávacie objednávky. Väčšinou sa o ne nemusíte obávať, ale\nniekedy môže ostať systém zablokovaný bez vygenerovania\nzodpovedajúceho dokumentu, väčšinou kôli konfiguračnému problému."
+msgstr "Ak ste nakonfigurovali automatické obstarávanie, ERP automaticky generuje\nObstarávacie objednávky. Väčšinou sa o ne nemusíte obávať, ale\nniekedy môže ostať systém zablokovaný bez vygenerovania\nzodpovedajúceho dokumentu, väčšinou kôli konfiguračnému problému."
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_inventory_filter
@@ -2534,10 +2534,10 @@ msgstr "Importovať pomocou horného ľavého tlačidla v"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"In Odoo, <strong>Reordering Rules</strong> are used to replenish your products.\n"
-"                        Odoo will automatically propose a procurement to buy new products if you are\n"
+"In ERP, <strong>Reordering Rules</strong> are used to replenish your products.\n"
+"                        ERP will automatically propose a procurement to buy new products if you are\n"
 "                        running out of stock."
-msgstr "V Odoo, <strong>Pravidlá doobjednávania</strong> sa používajú na doplnenie vašich produktov.\nOdoo automaticky navrhne obstarávanie na kúpu nových produktov pokiaľ vám dochádzajú zásoby."
+msgstr "V ERP, <strong>Pravidlá doobjednávania</strong> sa používajú na doplnenie vašich produktov.\nERP automaticky navrhne obstarávanie na kúpu nových produktov pokiaľ vám dochádzajú zásoby."
 
 #. module: stock
 #: selection:stock.inventory,state:0
@@ -2879,8 +2879,8 @@ msgstr "Je vyraďovacie umiestnenie_"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "It is also possible to import your initial inventory from an Excel or CSV file.\n"
-"                        If you want to do that, contact your Odoo project manager."
-msgstr "Tiež je možné importovat váš počiatočný inventár z Excel alebo CSV súboru.\n\nAk to chcete urobiť, obráťte sa na svojho Odoo projektového manažéra."
+"                        If you want to do that, contact your ERP project manager."
+msgstr "Tiež je možné importovat váš počiatočný inventár z Excel alebo CSV súboru.\n\nAk to chcete urobiť, obráťte sa na svojho ERP projektového manažéra."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -3071,9 +3071,9 @@ msgstr "Nechajte toto pole prázdne pokiaľ je táto lokácia zdieľaná medzi s
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Like with the sales flow, Odoo inventory management is\n"
+"Like with the sales flow, ERP inventory management is\n"
 "                        fully integrated with the purchase app."
-msgstr "Ako aj s tokom predaja, Odoo spravovanie zásob je\nplne integrované s aplikáciou nákupu."
+msgstr "Ako aj s tokom predaja, ERP spravovanie zásob je\nplne integrované s aplikáciou nákupu."
 
 #. module: stock
 #: model:ir.model,name:stock.model_stock_move_operation_link
@@ -3424,10 +3424,10 @@ msgstr "Viac <i class=\"fa fa-caret-down\"/>"
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_picking_tree
 msgid ""
-"Most operations are prepared automatically by Odoo according\n"
+"Most operations are prepared automatically by ERP according\n"
 "                to your preconfigured logistics rules, but you can also record\n"
 "                manual stock movements."
-msgstr "Väčšinu operácií automaticky pripravuje Odoo na základe\n\nvašich prednastavených logistických pravidiel, ale môžte tiež zaznamenať\n\nmanuálne skladové pohyby.\n\n "
+msgstr "Väčšinu operácií automaticky pripravuje ERP na základe\n\nvašich prednastavených logistických pravidiel, ale môžte tiež zaznamenať\n\nmanuálne skladové pohyby.\n\n "
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_move_operation_link_move_id
@@ -3698,37 +3698,37 @@ msgstr "OK"
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo handles <strong>advanced push/pull routes configuration</strong>, for "
+"ERP handles <strong>advanced push/pull routes configuration</strong>, for "
 "example:"
-msgstr "Odoo zabezpečuje <strong>pokročilé trasy kofigurácie ťahania/tlačenia</strong>, napríklad:"
+msgstr "ERP zabezpečuje <strong>pokročilé trasy kofigurácie ťahania/tlačenia</strong>, napríklad:"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "Odoo has preconfigured <strong>one Warehouse</strong> for you."
-msgstr "Odoo predkonfigurovalo <strong>jedno skladisko</strong> pre vás."
+msgid "ERP has preconfigured <strong>one Warehouse</strong> for you."
+msgstr "ERP predkonfigurovalo <strong>jedno skladisko</strong> pre vás."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo inventory management is fully integrated with sales and\n"
+"ERP inventory management is fully integrated with sales and\n"
 "                        invoicing process. Everything is automated from the initial\n"
 "                        quotation to the delivery and the final invoice."
-msgstr "Odoo spravovanie zásob je plne integrované predajom a\nfakturačným procesom. Všetko je automatizované od počiatočnej\ncenovej ponuky po dodanie a finálnu faktúru."
+msgstr "ERP spravovanie zásob je plne integrované predajom a\nfakturačným procesom. Všetko je automatizované od počiatočnej\ncenovej ponuky po dodanie a finálnu faktúru."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Odoo is able to run advanced traceability by using Product Lots and Serial\n"
+"ERP is able to run advanced traceability by using Product Lots and Serial\n"
 "                        Numbers, usually identified by bar codes stuck on the products."
-msgstr "Odoo je schopné spustiť pokročilú sledovateľnosť pomocou Množstva výrobku a Sériových\nčísel, zvyčajne identifikovanú pomocou čiarových kódov prilepených na produktoch."
+msgstr "ERP je schopné spustiť pokročilú sledovateľnosť pomocou Množstva výrobku a Sériových\nčísel, zvyčajne identifikovanú pomocou čiarových kódov prilepených na produktoch."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"Of course, feel free to add your own. Please note that Odoo is able to "
+"Of course, feel free to add your own. Please note that ERP is able to "
 "convert units within the same category, for example, liters to gallons in "
 "the volume category"
-msgstr "Samozrejme, neváhajte pridať svoju vlastnú. Prosím nezabudnite že Odoo vie konvertovať jednotky v rámci kategórie, napríklad litre na galóny v kategórii objem."
+msgstr "Samozrejme, neváhajte pridať svoju vlastnú. Prosím nezabudnite že ERP vie konvertovať jednotky v rámci kategórie, napríklad litre na galóny v kategórii objem."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.product_form_view_procurement_button
@@ -5858,9 +5858,9 @@ msgstr "Toto pole by malo byť skompletizované iba ak všetko v balíku zdieľa
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
-"This guide helps getting started with Odoo Inventory.\n"
+"This guide helps getting started with ERP Inventory.\n"
 "                        Once you are done, you will benefit from:"
-msgstr "Táto príručka pomáha začať s Odoo zásobami.\nAž budete hotoví, budete mať prospech z:"
+msgstr "Táto príručka pomáha začať s ERP zásobami.\nAž budete hotoví, budete mať prospech z:"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
@@ -6515,24 +6515,24 @@ msgstr "Varovanie: nesprávné množstvo!"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        data."
-msgstr "Zabezpečujeme celý proces importu\nza vás: jednoducho pošlite vášmu Odoo projektovému\nmanažérovi CSV súbor ktorý obsahuje všetky vaše\ndáta."
+msgstr "Zabezpečujeme celý proces importu\nza vás: jednoducho pošlite vášmu ERP projektovému\nmanažérovi CSV súbor ktorý obsahuje všetky vaše\ndáta."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "We handle the whole import process\n"
-"                                        for you: simply send your Odoo project\n"
+"                                        for you: simply send your ERP project\n"
 "                                        manager a CSV file containing all your\n"
 "                                        products."
-msgstr "Zabezpečujeme celý proces importu\nza vás: jednoducho pošlite vášmu Odoo projektovému\nmanažérovi CSV súbor ktorý obsahuje všetky vaše\nprodukty."
+msgstr "Zabezpečujeme celý proces importu\nza vás: jednoducho pošlite vášmu ERP projektovému\nmanažérovi CSV súbor ktorý obsahuje všetky vaše\nprodukty."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "We hope this guide helped you implement Odoo Inventory."
-msgstr "Dúfame že vám tento návod pomohol implementovať Odoo Zásoby."
+msgid "We hope this guide helped you implement ERP Inventory."
+msgstr "Dúfame že vám tento návod pomohol implementovať ERP Zásoby."
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_picking_website_message_ids
@@ -6589,17 +6589,17 @@ msgstr "Keď je motóda fixná, táto lokácia bude používana na skladovanie p
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_min_qty
 msgid ""
 "When the virtual stock goes below the Min Quantity specified for this field,"
-" Odoo generates a procurement to bring the forecasted quantity to the Max "
+" ERP generates a procurement to bring the forecasted quantity to the Max "
 "Quantity."
-msgstr "Keď virtuálny sklad klesne pod Min množstvo špecifikované pre toto pole, Odoo vygeneruje obstarávanie pre prinesenie predpokladaného množstva na Max množstvo."
+msgstr "Keď virtuálny sklad klesne pod Min množstvo špecifikované pre toto pole, ERP vygeneruje obstarávanie pre prinesenie predpokladaného množstva na Max množstvo."
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_stock_warehouse_orderpoint_product_max_qty
 msgid ""
-"When the virtual stock goes below the Min Quantity, Odoo generates a "
+"When the virtual stock goes below the Min Quantity, ERP generates a "
 "procurement to bring the forecasted quantity to the Quantity specified as "
 "Max Quantity."
-msgstr "Keď virtuálny sklad klesne pod Min množstvo, Odoo vygeneruje obstarávanie pre prinesenie predpokladaného množstva na Špecifikované množstvo ako Max množstvo."
+msgstr "Keď virtuálny sklad klesne pod Min množstvo, ERP vygeneruje obstarávanie pre prinesenie predpokladaného množstva na Špecifikované množstvo ako Max množstvo."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.view_change_product_quantity
@@ -6638,13 +6638,13 @@ msgstr "Tu môžete definovať hlavné trasy ktoré idú cez\nvaše skladiská a
 #. module: stock
 #: model:ir.actions.act_window,help:stock.action_orderpoint_form
 msgid ""
-"You can define your minimum stock rules, so that Odoo will automatically "
+"You can define your minimum stock rules, so that ERP will automatically "
 "create draft manufacturing orders or request for quotations according to the"
 " stock level. Once the virtual stock of a product (= stock on hand minus all"
-" confirmed orders and reservations) is below the minimum quantity, Odoo will"
+" confirmed orders and reservations) is below the minimum quantity, ERP will"
 " generate a procurement request to increase the stock up to the maximum "
 "quantity."
-msgstr "Môžete definovať vaše pravidlá minima skladu, takže Odoo bude automaticky vytvárať koncept výrobnej objednávky alebo žiadať o cenové ponuky podľa úrovňe skladu. Akonáhle virtuálny sklad produktu (= materiál skladom mínus všetky potvrdené objednávky a rezervácie) je pod minimálnym množstvom, Odoo vygeneruje obstarávaciu žiadosť pre navýšenie skladu na maximálne množstvo."
+msgstr "Môžete definovať vaše pravidlá minima skladu, takže ERP bude automaticky vytvárať koncept výrobnej objednávky alebo žiadať o cenové ponuky podľa úrovňe skladu. Akonáhle virtuálny sklad produktu (= materiál skladom mínus všetky potvrdené objednávky a rezervácie) je pod minimálnym množstvom, ERP vygeneruje obstarávaciu žiadosť pre navýšenie skladu na maximálne množstvo."
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.view_inventory_form
@@ -6791,8 +6791,8 @@ msgstr "Musíte zvoliť mernú jendotku produktu v rovnakej kategórii ako predv
 #: model:ir.ui.view,arch_db:stock.view_immediate_transfer
 msgid ""
 "You haven't set processed quantities. If you click <i>apply</i>,\n"
-"                        Odoo will process all quantities to do."
-msgstr "Nenastavili ste spracované množstvá. Ak kliknete <i>použiť</i>,\nOdoo spracuje všetky množstvá na spracovanie."
+"                        ERP will process all quantities to do."
+msgstr "Nenastavili ste spracované množstvá. Ak kliknete <i>použiť</i>,\nERP spracuje všetky množstvá na spracovanie."
 
 #. module: stock
 #: code:addons/stock/wizard/stock_return_picking.py:48
@@ -6910,21 +6910,21 @@ msgstr "napr. PO0032"
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or let "
-"Odoo do it automatically while validating"
-msgstr "buď manuálnou aktualizáciou Hotového množstva na produktových riadkoch, alebo to nechajte robiť Odoo automaticky pri overovaní"
+"ERP do it automatically while validating"
+msgstr "buď manuálnou aktualizáciou Hotového množstva na produktových riadkoch, alebo to nechajte robiť ERP automaticky pri overovaní"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
 msgid ""
 "either by manually updating the Done quantity on the product lines, or scan "
-"them with the Odoo Barcode app, or let Odoo do it automatically while "
+"them with the ERP Barcode app, or let ERP do it automatically while "
 "validating"
-msgstr "buď manuálnou aktualizáciouHotového množstva na produktových riadkoch, alebo ich naskenujte s Odoo aplikáciou čiarových kódov, alebo to nchajte robiť Odoo auomaticky pri overovaní"
+msgstr "buď manuálnou aktualizáciouHotového množstva na produktových riadkoch, alebo ich naskenujte s ERP aplikáciou čiarových kódov, alebo to nchajte robiť ERP auomaticky pri overovaní"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
-msgid "feedback@mail.odoo.com"
-msgstr "feedback@mail.odoo.com"
+msgid "feedback@mail.erp.com"
+msgstr "feedback@mail.erp.com"
 
 #. module: stock
 #: model:ir.ui.view,arch_db:stock.inventory_planner
